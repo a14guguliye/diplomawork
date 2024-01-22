@@ -1,0 +1,694 @@
+KUNKLE SERIES 6000 SAFETY VALVES
+SAFETY AND RELIEF PRODUCTS
+FEATURES
+• O-ring seats available for exceptional
+leak-free performance, reduced maintenance
+cost, multiple cycles with tight shutoff and
+improved seating integrity.
+• Heavy duty casting.
+• Wide hex on valve nozzle provides clearance
+for easy installation.
+• Seats lapped to optical flatness.
+• Dual control rings offer easy adjustability for
+precise opening with minimum pre-open or
+simmer and exact blowdown control.
+• Pivot between disc and spring corrects
+misalignment and compensates for spring
+side thrust.
+• Grooved piston type disc reduces sliding area
+and friction.
+• Heavy duty lift lever assembly.
+• Each valve tested and inspected for pressure
+setting and leakage.
+GENERAL APPLICATION
+These valves are suitable for use on steam
+boilers and generators, reciprocating or rotary,
+portable or stationary air/gas compressors,
+intercoolers and aftercoolers. Also for pressure
+vessels containing steam, air or non-hazardous
+gas and on pressure reducing stations.
+Emerson.com © 2017 Emerson. All Rights Reserved. VCTDS-00394-EN 23/01
+TECHNICAL DATA
+Connections: Threaded NPT
+Temperature
+Range1
+: -60 to 425°F (-51 to 219°C)
+Pressure Range1
+: 3 to 300 psig (0.2 to 20.7 barg)
+Code: ASME I, IV, VIII, XIII (UV and
+HV) and PED
+Bronze safety valves to ASME section I, VIII and XIII, Steam, ‘V’ and ‘UV’; section VIII and XIII, Air/Gas, ‘UV’ National
+Board certified including models to ASME section IV and XIII, Steam ‘HV’. PED certified for non-hazardous gas.
+MODEL 6010
+NOTE
+1. See page 2 for more temperature and pressure
+range information.
+CALIFORNIA PROPOSITION 65 WARNING
+This product can expose you to chemicals
+including nickel, which is known to the State of
+California to cause cancer, birth defects or other
+reproductive harm. For more information, go to
+www.P65Warnings.ca.gov.
+2
+KUNKLE SERIES 6000 SAFETY VALVES
+SAFETY AND RELIEF PRODUCTS
+MODELS OVERVIEW
+Model 6010: Side outlet. Full nozzle design with bronze/brass trim. Available with O-ring seats.
+Model 6021: As model 6010 with Teflon® (PFA) disc insert (use on steam only).
+Model 6030: As model 6010 except stainless steel (SS) trim (nozzle and disc). Available with
+O-ring seats.
+Model 6182: Top outlet. Full nozzle design with bronze/brass trim. O-ring seat available.
+Model 6121: As model 6182 with Teflon® (PFA) disc insert (use on steam only).
+Model 6130: As model 6182 except SS trim (nozzle and disc). Available with O-ring seats.
+Model 6186: Top outlet. Full nozzle design with bronze/brass trim. 150 psig (10.3 barg) maximum
+set pressure. Replaces Model 86 (original equipment only). For air service only.
+Model 6283: Over-sized side outlet. Full nozzle design bronze/brass trim.
+Model 6221: As model 6283 with Teflon® (PFA) disc insert (use on steam only).
+Model 6230: As model 6283 except SS trim (nozzle and disc).
+Model 6933: As model 6010 except certified for ASME code Section IV and XIII. Low pressure
+steam heating boilers set at 15 psig (1.0 barg) only.
+Model 6934: As model 6021 except certified for ASME code Section IV and XIII. Low pressure
+steam heating boilers set at 15 psig (1.0 barg) only.
+Model 6935: As model 6030 except certified for ASME code Section IV and XIII. Low pressure
+steam heating boilers set at 15 psig (1.0 barg) only.
+PRESSURE AND TEMPERATURE LIMITS1
+Models 6010, 6021, 6182, 6121, 6283, 6221
+Steam Service: 3 to 250 psig (0.2 to 17.2 barg) -60 to 406°F (-51 to 208°C)
+Air/Gas Service: 3 to 300 psig (0.2 to 20.7 barg) -60 to 406°F (-51 to 208°C)
+Models 6030, 6130, 6230
+Steam and Air/Gas Service: 3 to 300 psig (0.2 to 20.7 barg) -60 to 425°F (-51 to 218°C)
+NOTE
+1. Resilient seats determine temperature range (see Specifications section).
+2. Viton® and Teflon® are marks owned by E.I. du Pont de Nemours and Co.
+SERVICE RECOMMENDATIONS FOR SERIES 6000 RESILIENT SEAT/SEAL MATERIALS
+Seat/Seal Materials Service Recommendation
+Viton® A (FKM) (-15 to 406°F [-26 to 208°C]) Air and Gas
+Ethylene propylene (-60 to 425°F [-51 to 218°C]) Steam
+Teflon® (PFA) (-60 to 406°F [-51 to 208°C]) Steam
+SPECIFICATIONS
+3
+26
+13
+12
+11
+10
+8
+9
+7
+6
+28
+4
+3
+2
+25
+1
+21
+20
+19
+18
+17
+18
+16
+15
+5
+14
+29
+22
+9
+23
+24
+22
+KUNKLE SERIES 6000 SAFETY VALVES
+SAFETY AND RELIEF PRODUCTS
+Parts and Materials
+MODELS 6182, 6121, 6130 AND 6186
+Top outlet configuration
+MODELS 6010, 6030, 6283, 6230, 6933 AND 6935
+MODELS 6021, 6121, 6221 AND 6934
+Teflon® (PFA) seat configuration
+(O-ring)
+MODELS 6010, 6030, 6182,
+6130, 6186, 6283 AND 6230
+Optional soft seat
+NOTES
+1. Models 6021, 6121, 6221 and 6934 Teflon® (PFA),
+optional O-ring seat available for all others
+(except Models 6933 and 6935 - metal seat only).
+2. Section IV only.
+3. Models 6030, 6130, 6230 and 6935 are
+SS SA351-CF8.
+4. Models 6030, 6130, 6230 and 6935 are
+SS SA479-304.
+5. Models 6030, 6130 and 6230 are SS SA479-304.
+6. Variation 02 (vibration dampening) only.
+7. Soft seat 'D', 'E' and 'F' orifice require special warn
+ring (notch on O.D. of fins).
+8. Applies only to soft seat options.
+9. Applies only to gag options. Remove when valve is
+in service. Failure to remove gag screw may cause
+serious damage to equipment, personal injury
+and death.
+10. Rotated 90° for clarity.
+11. Not shown on assembly.
+12. Soft seat 'D' orifice requires special stem end
+(no hex).
+PARTS AND MATERIALS
+No. Part name Materials
+1 Nozzle BRS B283-C48500 or BRZ SB623
+2 Body set screw STL A108 Black oxide
+3 Warn ring set screw SS 18-8
+4 Disc BRS B21 C485004
+5 Wire and seal SS wire and lead seal
+6 Guide set screw SS 18-8
+7 Retainer nut2 BRS B16
+8 Stem SS A582-303 for D orifice SS A582-416 for E thru J orifice
+9 Body BRZ B584-C84400
+10 Lever STL A109 or JIS SPCC equivalent/ZN plated yellow
+11 Compression screw locknut BRS B16
+12 Lift nut STL A108-1018/ZN plated
+13 Cap Aluminum, anodized
+14 Lever pin STL A108-12L14
+15 Cap set screw10 STL A108 Black oxide
+16 Compression screw BRS B16
+17 Spring ASTM A-313 TY 631
+18 Spring step BRS B16
+19 Stem end12 BRS B16
+20 Guide BRS B283-C37700
+21 Warn ring7 BRS B283-C37700
+22 Seat Note 1
+23 Seat retainer8 BRS B165
+24 Soft seat disc8 BRS B21 C485005
+25 Warn ring spring6 SS A313-302/316
+26 Gag screw9 STL A108-1018/ZN plated
+2711 Pop rivet Aluminum
+28 Nameplate Aluminum
+296 Vibration dampener spring PH BRZ B159-C51000
+4
+60**DC# D ½ 12.7 ¾ 19.0 2⅛ 54 1⅝ 41 6½ 165 1½ 0.7
+60**DD#2 D ¾ 19.0 ¾ 19.0 2⅛ 54 1⅝ 41 6½ 165 1¾ 0.8
+61**DC# D ½ 12.7 - - - - 2⅜ 60 6½ 165 1¼ 0.6
+60**ED# E ¾ 19.0 1 25.4 2⅜ 60 1¾ 44 7½ 191 2½ 1.1
+60**EE#2 E 1 25.4 1 25.4 2½4 64 1¾ 44 7⅝5 194 2¾ 1.2
+61**ED# E ¾ 19.0 - - - - 2⅞ 73 7½ 191 2¼ 1.0
+62**ED# E ¾ 19.0 1¼ 31.75 2⅞ 73 1¾ 44 7½ 191 2¾ 1.2
+60**FE# F 1 25.4 1¼ 31.8 2⅝ 67 2 51 8½ 216 3½ 1.6
+60**FF#2 F 1¼ 31.8 1¼ 31.8 2⅞ 73 2 51 8¾ 222 3¾ 1.7
+61**FE# F 1 25.4 - - - - 3⅛ 79 8½ 222 3¼ 1.5
+62**FE# F 1 25.4 1½ 38.0 2⅞ 73 2 51 8½ 222 3¾ 1.7
+60**GF# G 1¼ 31.8 1½ 38.0 3⅛ 79 2⅜ 60 9⅝ 244 5½ 2.5
+60**GG#2 G 1½ 38.0 1½ 38.0 3⅜ 86 2⅜ 60 9⅞ 251 5¾ 2.6
+61**GF# G 1¼ 31.8 - - - - 3¾ 95 9⅝ 244 5 2.3
+62**GF# G 1¼ 31.8 2 51.0 3⅜ 86 2¼ 57 9⅝ 244 5¾ 2.6
+60**HG# H 1½ 38.0 2 51.0 3⅝ 92 2¾ 70 10⅝ 270 7¾ 3.5
+60**HH#2 H 2 51.0 2 51.0 4⅛ 105 2¾ 70 11⅛ 283 8 3.6
+61**HG# H 1½ 38.0 - - - - 4⅜ 111 10⅝ 270 7¼ 3.3
+62**HG# H 1½ 38.0 2½ 64.0 3⅞ 98 3 76 10⅝ 270 8 3.6
+60**JH# J 2 51.0 2½ 64.0 4¼ 108 3⅜ 86 14⅛ 359 15½ 7.0
+60**JJ#2 J 2½ 64.0 2½ 64.0 4½ 114 3⅜ 86 14¼ 362 15¾ 7.2
+61**JH# J 2 51.0 - - - - 5 127 14⅛ 359 15 6.8
+62**JH# J 2 51.0 3 76.0 4⅝ 117 3⅜ 86 14⅛ 359 15½ 7.0
+KUNKLE SERIES 6000 SAFETY VALVES
+SAFETY AND RELIEF PRODUCTS
+NOTES
+1. Replace asterisks with desired model number.
+Replace # with desired seat material.
+2. Model 6030 and 6935 available only ½ in. x ¾ in.
+(12.7 x 19 mm), ¾ in. x 1 in. (19 x 25.4 mm),
+1 in. x 1¼ in. (25.4 x 31.8 mm), 1¼ in. x 1½ in.
+(31.8 x 38 mm), 1½ in. x 2 in. (38 x 51 mm) and
+2 in.x 2½ in. (51 x 64 mm).
+3. Models 6933, 6934 and 6935 have same
+dimensions as model 6010.
+4. 2¼ in. for BSPT (57).
+5. 7⅜ in. for BSPT (192.5).
+SPECIFICATIONS
+Model Number1 Orifice
+Connections ANSI Standard Valve Dimensions Approximate Weight
+Inlet Outlet A B C
+inch mm inch mm inch mm inch mm inch mm lb kg
+Dimensions are for reference only.
+5
+3 28 50 77 127 198 325
+4 32 57 89 146 228 374
+6 39 70 108 178 278 456
+8 45 80 124 205 319 523
+10 50 89 138 228 355 582
+15 64 114 177 292 454 744
+20 73 131 204 336 524 858
+25 83 148 231 381 593 972
+30 93 166 258 425 663 1086
+35 104 185 288 474 739 1211
+40 114 204 317 523 815 1336
+45 125 223 347 572 892 1461
+50 136 242 377 621 968 1586
+55 146 261 407 671 1045 1711
+60 157 281 436 720 1121 1837
+65 168 300 466 769 1197 1962
+70 179 319 496 818 1274 2087
+75 189 338 526 867 1350 2212
+80 200 357 555 916 1426 2337
+85 211 376 585 965 1503 2462
+90 221 395 615 1014 1579 2588
+95 232 414 645 1063 1656 2713
+100 243 434 674 1112 1732 2838
+105 254 453 704 1161 1808 2963
+110 264 472 734 1210 1885 3088
+115 275 491 764 1259 1961 3213
+120 286 510 793 1308 2038 3339
+125 296 529 823 1357 2114 3464
+130 307 548 853 1406 2190 3589
+135 318 567 883 1455 2267 3714
+140 329 586 912 1504 2343 3839
+145 339 606 942 1553 2420 3964
+150 350 625 972 1602 2496 4090
+160 371 663 1031 1700 2649 4340
+170 393 701 1091 1798 2802 4590
+180 414 739 1150 1897 2954 4841
+190 436 778 1210 1995 3107 5091
+200 457 816 1269 2093 3260 5341
+210 478 854 1329 2191 3413 5592
+220 500 892 1388 2289 3566 5842
+230 521 931 1448 2387 3718 6092
+240 543 969 1507 2485 3871 6343
+250 564 1007 1567 2583 4024 6593
+260 586 1045 1626 2681 4177 6843
+270 607 1084 1686 2779 4329 7094
+280 628 1122 1745 2877 4482 7344
+290 650 1160 1805 2975 4635 7594
+300 671 1198 1864 3074 4788 7845
+KUNKLE SERIES 6000 SAFETY VALVES
+SAFETY AND RELIEF PRODUCTS
+NOTE
+1. No code stamp or 'NB' on nameplate below 15 psig set.
+Capacities
+NON-CODE1
+ AND ASME SECTION VIII AND SECTION XIII AIR (SCFM) Flow Coefficient = 0.878
+Set Pressure
+(psig)
+Orifice Area, in2
+D
+(0.121)
+E
+(0.216)
+F
+(0.336)
+G
+(0.554)
+H
+(0.863)
+J
+(1.414)
+6
+0.2 44 78 121 199 311 509
+0.3 53 95 148 243 379 621
+0.4 61 109 170 280 436 715
+0.6 74 133 206 340 530 869
+1.0 95 169 263 433 675 1106
+1.5 123 219 340 561 874 1433
+2.0 145 259 403 664 1035 1696
+2.5 170 303 471 777 1210 1982
+3.0 195 347 540 890 1386 2272
+3.5 219 391 609 1004 1563 2562
+4.0 244 436 678 1117 1740 2851
+4.5 269 480 746 1231 1917 3141
+5.0 294 524 815 1344 2094 3431
+5.5 319 569 884 1458 2270 3721
+6.0 343 613 953 1571 2447 4010
+6.5 368 657 1022 1685 2624 4300
+7.0 393 701 1091 1798 2801 4590
+7.5 418 746 1160 1912 2978 4880
+8.0 443 790 1228 2025 3154 5169
+8.5 467 834 1297 2139 3331 5459
+9.0 492 878 1366 2252 3508 5749
+9.5 517 923 1435 2366 3685 6039
+10.0 542 967 1504 2479 3862 6328
+10.5 567 1011 1573 2593 4038 6618
+11.0 591 1056 1642 2706 4215 6908
+11.5 616 1100 1710 2820 4392 7197
+12.0 641 1144 1779 2933 4569 7487
+12.5 666 1188 1848 3047 4746 7777
+13.0 691 1233 1917 3160 4922 8067
+13.5 715 1277 1986 3274 5099 8356
+14.0 740 1321 2055 3387 5276 8646
+14.5 765 1365 2124 3501 5453 8936
+15.0 790 1410 2192 3614 5630 9226
+16.0 839 1498 2330 3841 5983 9805
+17.0 889 1587 2468 4068 6337 10385
+18.0 939 1675 2605 4295 6690 10964
+19.0 988 1764 2743 4522 7044 11543
+20.0 1038 1852 2881 4749 7398 12123
+KUNKLE SERIES 6000 SAFETY VALVES
+SAFETY AND RELIEF PRODUCTS
+Capacities - Metric Units
+NOTE
+1. No code stamp or 'NB' on nameplate below 1.0 barg set.
+NON-CODE1
+ AND ASME SECTION VIII AND SECTION XIII AIR (Nm3
+/h) Flow Coefficient = 0.878
+Set Pressure
+(barg)
+ Orifice Area, cm2
+D
+(0.781)
+E
+(1.394)
+F
+(2.168)
+G
+(3.574)
+H
+(5.567)
+J
+(9.123)
+7
+3 87 155 242 398 621 1017
+4 100 178 277 457 711 1166
+6 121 215 335 552 860 1409
+8 137 245 382 629 980 1606
+10 152 271 422 695 1083 1775
+15 179 319 497 819 1276 2091
+20 206 368 573 944 1471 2410
+25 234 417 649 1070 1666 2730
+30 261 466 725 1195 1861 3050
+35 291 520 808 1333 2076 3401
+40 321 573 892 1470 2291 3753
+45 351 627 975 1608 2505 4105
+50 381 681 1059 1746 2720 4456
+55 411 734 1143 1884 2934 4808
+60 442 788 1226 2022 3149 5160
+65 472 842 1310 2159 3364 5511
+70 502 896 1393 2297 3578 5863
+75 532 949 1477 2435 3793 6215
+80 562 1003 1560 2573 4008 6566
+85 592 1057 1644 2710 4222 6918
+90 622 1110 1727 2848 4437 7270
+95 652 1164 1811 2986 4651 7621
+100 682 1218 1895 3124 4866 7973
+105 712 1272 1978 3262 5081 8325
+110 742 1325 2062 3399 5295 8676
+115 773 1379 2145 3537 5510 9028
+120 803 1433 2229 3675 5725 9380
+125 833 1487 2312 3813 5939 9731
+130 863 1540 2396 3950 6154 10083
+135 893 1594 2479 4088 6368 10434
+140 923 1648 2563 4226 6583 10786
+145 953 1701 2647 4364 6798 11138
+150 983 1755 2730 4502 7012 11489
+160 1043 1863 2897 4777 7442 12193
+170 1104 1970 3064 5053 7871 12896
+180 1164 2077 3232 5328 8300 13599
+190 1224 2185 3399 5604 8729 14303
+200 1284 2292 3566 5879 9159 15006
+210 1344 2400 3733 6155 9588 15709
+220 1404 2507 3900 6430 10017 16413
+230 1465 2615 4067 6706 10446 17116
+240 1525 2722 4234 6981 10876 17819
+250 1585 2829 4401 7257 11305 18523
+260 1645 2937 4569 7533 11734 19226
+270 1705 3044 4736 7808 12163 19929
+280 1766 3152 4903 8084 12592 20632
+290 1826 3259 5070 8359 13022 21336
+300 1886 3367 5237 8635 13451 22039
+KUNKLE SERIES 6000 SAFETY VALVES
+SAFETY AND RELIEF PRODUCTS
+Capacities
+NON-CODE1
+ AND ASME SECTION VIII AND SECTION XIII STEAM (lb/h) Flow Coefficient = 0.878
+Set Pressure
+(psig)
+Orifice Area, in2
+D
+(0.121)
+E
+(0.216)
+F
+(0.336)
+G
+(0.554)
+H
+(0.863)
+J
+(1.414)
+NOTE
+1. No code stamp or 'NB' on nameplate below 15 psig set.
+8
+0.2 39 69 108 177 276 453
+0.3 47 84 131 215 335 549
+0.4 54 96 149 246 383 628
+0.6 65 115 180 296 461 756
+1.0 81 144 224 370 576 944
+1.5 98 175 272 448 698 1144
+2.0 116 207 322 530 826 1354
+2.5 135 242 376 620 966 1582
+3.0 155 277 431 711 1107 1814
+3.5 175 312 486 801 1248 2045
+4.0 195 348 541 892 1389 2276
+4.5 215 383 596 982 1530 2508
+5.0 234 419 651 1073 1671 2739
+5.5 254 454 706 1164 1812 2970
+6.0 274 489 761 1254 1954 3201
+6.5 294 525 816 1345 2095 3433
+7.0 314 560 871 1435 2236 3664
+7.5 333 595 926 1526 2377 3895
+8.0 353 631 981 1617 2518 4127
+8.5 373 666 1036 1707 2659 4358
+9.0 393 701 1091 1798 2800 4589
+9.5 413 737 1146 1888 2942 4820
+10.0 432 772 1201 1979 3083 5052
+10.5 452 807 1255 2070 3224 5283
+11.0 472 843 1310 2160 3365 5514
+11.5 492 878 1365 2251 3506 5746
+12.0 512 913 1420 2341 3647 5977
+12.5 531 949 1475 2432 3788 6208
+13.0 551 984 1530 2523 3929 6439
+13.5 571 1019 1585 2613 4071 6671
+14.0 591 1055 1640 2704 4212 6902
+14.5 611 1090 1695 2795 4353 7133
+15.0 630 1125 1750 2885 4494 7365
+16.0 670 1196 1860 3066 4776 7827
+17.0 710 1267 1970 3248 5059 8290
+18.0 749 1337 2080 3429 5341 8752
+19.0 789 1408 2190 3610 5623 9215
+20.0 828 1479 2300 3791 5905 9678
+KUNKLE SERIES 6000 SAFETY VALVES
+SAFETY AND RELIEF PRODUCTS
+Capacities - Metric Units
+NON-CODE1
+ AND ASME SECTION VIII AND SECTION XIII STEAM (kg/h) Flow Coefficient = 0.878
+Set Pressure
+(barg)
+Orifice Area, cm2
+D
+(0.781)
+E
+(1.394)
+F
+(2.168)
+G
+(3.574)
+H
+(5.567)
+J
+(9.123)
+NOTE
+1. No code stamp or 'NB' on nameplate below 1.1 barg set.
+9
+15 173 310 482 794 1237 2027
+20 201 358 558 919 1432 2346
+25 228 407 634 1045 1627 2666
+30 256 456 710 1170 1822 2986
+35 283 505 785 1295 2017 3306
+40 310 554 861 1420 2213 3625
+45 338 603 937 1546 2408 3945
+50 365 651 1013 1671 2603 4265
+55 392 700 1089 1796 2798 4584
+60 420 749 1165 1921 2993 4904
+65 447 798 1241 2047 3188 5224
+70 475 848 1319 2174 3387 5550
+75 503 898 1397 2303 3588 5879
+80 531 948 1475 2432 3789 6208
+85 559 999 1553 2561 3990 6538
+90 588 1049 1632 2690 4191 6867
+95 616 1099 1710 2819 4392 7196
+100 644 1150 1788 2948 4593 7525
+105 672 1200 1866 3077 4794 7855
+110 700 1250 1945 3206 4995 8184
+115 728 1300 2023 3335 5196 8513
+120 757 1351 2101 3464 5397 8842
+125 785 1401 2179 3593 5598 9172
+130 813 1451 2258 3722 5799 9501
+135 841 1502 2336 3851 6000 9830
+140 869 1552 2414 3980 6201 10160
+145 898 1602 2492 4109 6402 10489
+150 926 1653 2571 4238 6603 10818
+160 982 1753 2727 4497 7004 11477
+170 1038 1854 2884 4755 7406 12135
+180 1095 1954 3040 5013 7808 12794
+190 1151 2055 3197 5271 8210 13452
+200 1208 2156 3353 5529 8612 14111
+210 1264 2256 3510 5787 9014 14769
+220 1320 2357 3666 6045 9416 15428
+230 1377 2457 3823 6303 9818 16087
+240 1433 2558 3979 6561 10220 16745
+250 1489 2659 4136 6819 10622 17404
+260 1546 2759 4292 7077 11024 18062
+270 1602 2860 4448 7335 11426 18721
+280 1658 2960 4605 7593 11828 19379
+290 1715 3061 4761 7851 12230 20038
+300 1771 3162 4918 8109 12632 20696
+KUNKLE SERIES 6000 SAFETY VALVES
+SAFETY AND RELIEF PRODUCTS
+Capacities
+ASME SECTION I STEAM (lb/h) Flow Coefficient = 0.878
+Set Pressure
+(psig)
+Orifice Area, in2
+D
+(0.121)
+E
+(0.216)
+F
+(0.336)
+G
+(0.554)
+H
+(0.863)
+J
+(1.414)
+10
+1.5 95 170 265 437 680 1115
+2.0 113 202 315 519 809 1325
+2.5 131 235 365 601 937 1535
+3.0 149 267 415 684 1065 1746
+3.5 167 299 465 766 1193 1956
+4.0 185 331 515 849 1322 2166
+4.5 203 363 565 931 1450 2376
+5.0 222 396 616 1015 1581 2592
+5.5 240 429 667 1100 1714 2808
+6.0 259 462 719 1185 1846 3025
+6.5 277 495 770 1270 1978 3241
+7.0 296 528 822 1355 2110 3458
+7.5 315 561 873 1440 2242 3675
+8.0 333 595 925 1524 2374 3891
+8.5 352 628 976 1609 2507 4108
+9.0 370 661 1028 1694 2639 4324
+9.5 389 694 1079 1779 2771 4541
+10.0 407 727 1131 1864 2903 4757
+10.5 426 760 1182 1949 3035 4974
+11.0 444 793 1233 2033 3167 5191
+11.5 463 826 1285 2118 3300 5407
+12.0 481 859 1336 2203 3432 5624
+12.5 500 892 1388 2288 3564 5840
+13.0 519 925 1439 2373 3696 6057
+13.5 537 959 1491 2458 3828 6273
+14.0 556 992 1542 2542 3960 6490
+14.5 574 1025 1594 2627 4092 6707
+15.0 593 1058 1645 2712 4225 6923
+15.5 611 1091 1697 2797 4357 7140
+16.0 630 1124 1748 2882 4489 7356
+16.5 648 1157 1800 2967 4621 7573
+17.0 667 1190 1851 3052 4753 7789
+18.0 704 1256 1954 3221 5018 8223
+19.0 741 1323 2057 3391 5282 8656
+20.0 778 1389 2160 3561 5546 9089
+15 (1.0) 190 (86) 339 (153) 527 (239) 869 (394) 1353 (613) 2217 (1004)
+KUNKLE SERIES 6000 SAFETY VALVES
+SAFETY AND RELIEF PRODUCTS
+Capacities - Metric Units
+ASME SECTION I STEAM (kg/h) Flow Coefficient = 0.878
+Set Pressure
+(barg)
+Orifice Area, cm2
+D
+(0.781)
+E
+(1.394)
+F
+(2.168)
+G
+(3.574)
+H
+(5.567)
+J
+(9.123)
+ASME SECTION IV AND XIII STEAM, LB/H (kg/h) - Models 6933, 6934 and 6935
+Set Pressure
+psig (barg)
+Orifice Area, in2
+ (cm2
+)
+D
+0.121 (0.781)
+E
+0.216 (1.394)
+F
+0.336 (2.168)
+G
+0.554 (3.574)
+H
+0.863 (5.567)
+J
+1.414 (9.123)
+Capacities
+11
+KUNKLE SERIES 6000 SAFETY VALVES
+SAFETY AND RELIEF PRODUCTS
+SELECTION GUIDE
+Example: 6010 H G M 01 A A M 0015
+Model
+6010 6130 6230
+6021 6186 6933
+6030 6283 6934
+6182 6221 6935
+6121
+Orifice
+D 0.121 in2
+ (0.781) cm2 G 0.554 in2 (3.574) cm2
+E 0.216 in2
+ (1.394) cm2 H 0.863 in2 (5.567) cm2
+F 0.336 in2
+ (2.168) cm2 J 1.414 in2 (9.123) cm2
+Inlet size
+C ½ in. (12.7 mm) G 1½ in. (38.1 mm)
+D ¾ in. (19.0 mm) H 2 in. (50.8 mm)
+E 1 in. (25.4 mm) J 2½ in. (63.5 mm)
+F 1¼ in. (31.8 mm)
+Seat material
+M Metal
+E EPR
+V Viton® (FKM)
+T Teflon® (PFA) (models 6021, 6121, 6221, 6934 only)
+Variation (01 to 99)
+01 Plain lever
+02 Plain lever with vibration dampener
+03 Plain lever with gag
+61 Plain lever with BSPT threads
+62 Plain lever with vibration dampener and BSPT threads
+63 Plain lever with gag and BSPT threads
+Design revision
+Indicates non-interchangeable revision
+Current design is at revision 'A'
+Valve service
+A Steam ASME section I
+K Air/Gas ASME section VIII and XIII
+L Steam ASME section VIII and XIII
+G Steam ASME section IV and XIII (models 6933, 6934, 6935 only)
+P Steam, non-code
+N Air, non-code
+Spring material
+M SS
+Set pressure
+0015 15 psig (1.0 barg) only for models 6933, 6934, 6935
+ASME section I, VIII and XIII, Steam, ASME section VIII and section XIII, Air/Gas National Board
+Certified. Models 6933, 6934 and 6935 ASME section IV and XIII, National Board Certified
+12
+VCTDS-00394-EN © 2016, 2023 Emerson Electric Co. All rights reserved 01/23. Kunkle Valve is a mark owned by one of the companies in the Emerson Automation
+Solutions business unit of Emerson Electric Co. The Emerson logo is a trademark and service mark of Emerson Electric Co. All other marks are the property of their
+prospective owners.
+The contents of this publication are presented for informational purposes only, and while every effort has been made to ensure their accuracy, they are not to be
+construed as warranties or guarantees, express or implied, regarding the products or services described herein or their use or applicability. All sales are governed
+by our terms and conditions, which are available upon request. We reserve the right to modify or improve the designs or specifications of such products at any time
+without notice.
+Emerson Electric Co. does not assume responsibility for the selection, use or maintenance of any product. Responsibility for proper selection, use and maintenance of
+any Emerson Electric Co. product remains solely with the purchaser.
+Emerson.com

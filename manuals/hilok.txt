@@ -1,0 +1,597 @@
+KEYSTONE HILOK HIGH PERFORMANCE BUTTERFLY VALVES
+WAFER AND LUGGED
+© 2017 Emerson. All Rights Reserved.
+The HiLok high performance butterfly valves offer efficient, bidirectional sealing
+FEATURES
+• Cast on ISO top plate.
+• Long neck for insulation service.
+• External travel stop, outside of the
+medium area.
+• Accessible packing adjustment without
+operator removal.
+• Positive sealing which is mechanically
+achieved and does not rely on line pressure
+assistance.
+• Bidirectional shut-off performance.
+• Available in soft, fire-safe and metal seated.
+• Long life durability due to double offset
+operating principle minimizing seat wear.
+• Two piece shaft for maximum flow and
+minimum headloss.
+• Quadruple shaft bearings to ensure stability
+during high pressure, high cycle applications.
+• Fast and simple seat replacement.
+• Uninterrupted gasket surface.
+• Minimum 4 locating lugs per diameter.
+• TA-Luft approved (optional).
+• Optional groove in accordance with
+DIN 2512-N (up to DN 400).
+• Radial, low stress disc pins.
+• Available in both DIN and ASME versions.
+• All valves are in compliance with PED,
+Category III, Module H.
+GENERAL APPLICATION
+A unique valve for chemical and general
+industrial applications.
+Grease or silicone free valves available
+for special applications such as paint or
+oxygen systems.
+TECHNICAL DATA
+Sizes: DN 50-900 (NPS 2-36)
+Temperature: -50 °C up to +400 °C
+Design criteria: EN 12516 (DIN 3840)
+Flange compatibility: DIN PN 10-40, BS 4504,
+NFE 29203, ASME B16.5,
+ASME B16.47 series A
+Class 150
+Face to face: EN 558-1 series 20/25,
+API 609 cat-A,
+MSS SP 68, NFE29305
+Top plate: ISO 5211
+Maximum working
+pressure: DN 50 to 400: 40 bar
+DN 450 to 600: 25 bar
+DN 700 to 900: 16 bar
+Material certification: EN 10204 3.1
+(DIN 50049 3.1.b)
+Pressure testing: EN 12266-1
+Emerson.com/FinalControl VCTDS-00721-EN 22/03
+2
+11
+14
+4
+5
+3
+6
+9
+7
+8
+12
+1
+9
+13
+10
+2
+KEYSTONE HILOK HIGH PERFORMANCE BUTTERFLY VALVES
+DESIGN FEATURES
+NO LEAKAGE
+1 Seat
+Tightness is unaffected by pressure
+changes, or changes in flow direction as
+the seat can move radially in its recess.
+2 Bottom end cover
+Ensures lower stem tightness by its
+static seal.
+3 Packing system
+The perfect internal tightness is obtained by
+a conventional packing system in expanded
+graphite. The excellent temperature stability
+ensures 100% static and dynamic tightness.
+Optional available in PTFE which is TA-Luft
+VDI 2440 approved.
+EASY ACCESSIBLE
+4 Standardized top plate
+The integrally cast top plate in accordance
+with ISO 5211. The actuator can be flush
+mounted, eliminating the need of brackets
+and couplings.
+5 Twin column construction
+Easy access to the packing system without
+removing the actuator.
+6 Extended neck
+Especially designed for insulated pipework
+allowing easy access to the gland
+adjustment area, which would be located
+outside of the insulation area due to the
+elongated neck.
+7 Integrated locating plates
+Precise centering of the valve on the pipe.
+8 Retaining ring
+With screws outside of flange sealing
+zone, facilitating easy maintenance.
+The uninterrupted sealing surface allows
+the installation of spiral wound gaskets.
+Optional end of line bidirectional feature
+As standard, the lugged HiLok body design can be used as end of line unidirectional (mounted
+with the retaining ring upstream).
+As an option, the HiLok can be provided with a reinforced retaining ring which is bolted to the
+valve body making the valve suitable for bidirectional end of line service.
+The unique feature of this design is that the retaining ring bolts are located outside the gasket
+contact area. This results in an uninterrupted gasket area in both flow directions, achieving an
+optimum tightness at the flange connection.
+Consult the sales organization for pressure/temperature rating for end of line installation.
+PERFECT SHAFT GUIDING
+9 Bearings
+Two corrosion resistant bearings on
+upper and lower stem provide low
+friction coefficient and high load capacity.
+The bearings avoid any deflection of shaft
+at the packing level, ensuring perfect
+bidirectional tightness.
+10 Axial disc stem positioning
+Shrunk on the shaft during assembly.
+It retains its position for the lifecycle of the
+valve and prevents displacement of disc in
+relation to the seat while being in service.
+11 Travel stop
+Located at the mounting plate level. The travel
+stop is set during assembly at 90° disc angle
+in order to avoid any over traveling of the
+disc.
+- The travel stop contact against the
+mounting plate, thus avoiding potential
+over-torque of the discstem.
+- When actuator has been removed and
+valve is in service, the position of the disc
+is clearly shown.
+12 Disc to stem connection
+The use of radial located disc pins removes
+engagement clearance and eliminates valve
+hysteresis.
+OPTIMIZED DESIGN
+13 Disc
+The double eccentric disc design is
+optimized via the finite element method to
+ensure a non-contact between the seat and
+disc already at small angles.
+SAFETY
+14 Blow-out proof stem prevention
+3
+-50 -29 -10 0 50 100 150 200 250 °C
+(-58) (-20) (-14) (32) (122) (212) (302) (392) (482) °F
+40
+(580)
+30
+(435)
+25
+(362)
+20
+(290)
+16
+(232)
+10
+(145)
+0
+PTFE
+RTFE
+HILOK FIRE SAFE SEAT
+Size range DN 50-500. Tightness class EN 12266-1 rate A.
+Maximum pressure end of line: DN 50-500: 16 bar.
+KEYSTONE HILOK HIGH PERFORMANCE BUTTERFLY VALVES
+SEAT OPTIONS
+HILOK RTFE SEAT
+The seat is made of filled RTFE in order to minimize cold flow effects at high temperatures.
+The combined action of seat geometry and the elastic metal insert guarantees a long lasting
+bidirectional tight shutoff.
+Size range DN 50-900. Tightness class EN 12266-1 rate A.
+Maximum pressure end of line: DN 50-600: 16 bar; DN 700-900: 10 bar.
+P/T DIAGRAM (HILOK RTFE AND FS)
+bar
+(psi)
+Pressure
+Valve mounting with shaft
+on downstream
+Non dangerous liquids only
+Saturated steam
+Bidirectional valve
+All medias
+DN 50-600: 25 bar max.
+DN 700-900: 16 bar max.
+DN 50-300 lugged
+DN 50-400 wafer
+The valve has been designed according fire test standards. The standard RTFE seat is mounted
+with a stainless steel ring. In the event of fire, it supersedes over the RTFE seat and provides a
+bidirectional back-up seal, according to API 607 / BS 6755 part 2.
+PN 40 not suited for dangerous media such as explosive, flammable, toxic or oxidizing media.
+NOTE: HiLok can be used for end of line service mounted with the shaft downstream Stainless steel only
+Retaining
+ring
+Retaining
+ring
+4
+-50 -29 0 100 200 300 °C
+(-58) (-20) (32) (212) (392) (572) °F
+10
+(145)
+0
+-50 -29 0 100 150 300 400 °C
+(-58) (-20) (32) (212) (392) (572) (752) °F
+25
+(362)
+20
+(290)
+16
+(232)
+10
+(145)
+0
+DN 50-400
+KEYSTONE HILOK HIGH PERFORMANCE BUTTERFLY VALVES
+SEAT OPTIONS
+HILOK METAL PP SEAT (PULP AND PAPER)
+The valve has been specifically designed for pulp and paper applications. This seat design
+promotes longer life span and lower maintenance.
+Size range DN 50-400. Tightness class EN 12266-1 rate D.
+HILOK METAL HT SEAT (HIGH TEMPERATURE)
+The valve integrates a metal seat in order to be used on all applications with high pressure and
+high temperature.
+Size range DN 50-400. Tightness class EN 12266-1 rate C.
+Recommended
+flow direction
+Recommended
+flow direction
+Saturated steam
+P/T DIAGRAM (HILOK HT SEAT)
+P/T DIAGRAM (HILOK PP SEAT) Pressure
+bar
+(psi)
+Pressure
+DN 50-200: 25 bar max.
+DN 250-400: 16 bar max.
+Stainless steel only
+Retaining
+ring
+Retaining
+ring
+bar
+(psi)
+Stainless steel only
+5
+0
+500
+1000
+1500
+2000
+2500
+20º 30º 40º 50º 60º 70º 80º 90º
+DN
+50 65 80 100 125 150 200 250 300 350 400 450 500 600 700 800 900
+Kv 115 210 320 500 820 1200 2300 3600 5200 7300 9500 12000 14800 21600 30200 40200 51200
+Cv 133 244 371 580 951 1392 2668 4176 6032 8468 11020 13900 17200 25000 35000 46500 59200
+X20Cr13 122 122 122 297 297 743 743 1332 1957 1957 3108 6389 10793 10793 25948 25948 52851
+X5CrNiCuNb 16-4 163 163 163 396 396 989 989 1772 2603 2603 4135 8497 14356 14356 34511 - -
+KEYSTONE HILOK HIGH PERFORMANCE BUTTERFLY VALVES
+HYDRAULIC CHARACTERISTICS
+1. PTFE torque values equal to RTFE
+2. RTFE DN 50-600 max pressure 25 bar, DN 700-900 max pressure 16 bar
+3. Metal HT DN 50-200 max. pressure 25 bar, DN 250-400 max. pressure 16 bar
+The double off set equalinear HiLok disc combines high strength, high flow capacity and excellent
+control characteristics with a minimum of seat wear.
+The equalinear HiLok characteristic is approximately mid way between that of linear and equal
+percentage, making the valve suitable as a flow control valve in many industrial flow applications.
+Kv value
+Valve opening
+Linear
+characteristic
+Equalinear
+characteristic
+Equal percentage
+characteristic
+Kv TABLE
+Kv/Cv VALUES
+BREAKAWAY TORQUE VALUES (Nm)
+Valve size (DN)
+Seat Condition 50 65 80 100 125 150 200 250 300 350 400 450 500 600 700 800 900
+RTFE 40 bar Δp[1]
+(shaft downstream)
+36 44 60 96 150 221 416 620 920 1200 1688
+RTFE 25 bar Δp[2]
+(bidirectional)
+27 33 45 73 115 170 320 480 720 950 1350 1700 2300 3200 4500 6000 8000
+RTFE 10 bar Δp
+(shaft downstream)
+27 33 38 62 97 143 265 390 595 760 1070 1350 1820 2750
+RTFE 7 bar Δp
+(shaft downstream)
+27 33 34 55 85 125 230 345 520 690 970 1225 1655 2330
+Fire safe 25 bar Δp
+(bidirectional)
+27 33 45 73 115 170 320 480 720 950 1350 1700 2300 3200
+Metal PP 10 bar Δp
+(shaft downstream)
+27 33 45 73 115 170 320 480 720 950 1350
+Metal HT 25 bar Δp[3]
+(shaft upstream)
+54 66 90 146 230 340 640 910 1290 1655 2350
+RTFE Powder applications
+max. 25 Δp
+36 44 60 96 150 221 416 620 920 1200 1688 2110 2830 3900
+MAXIMUM ALLOWABLE SHAFT TORQUE (Nm)
+Valve size (DN)
+Shaft material 50 60 80 100 125 150 200 250 300 350 400 450 500 600 700 800 900
+6
+H
+ØD2
+ØD1
+ØD2
+E2
+C
+J
+PCD
+P
+A B
+ØG
+ØG
+E1
+50 175 102 43 43 97 153 25.5 11 - 14 70 80 70 9 40 4 - - - 3.1 4.8
+65 191 116 46 46 117 173 25.5 11 - 14 70 80 70 9 51 4 - - - 4.5 6.9
+80 197 122 46 49 130 190 25.5 11 - 14 70 80 70 9 66 4 - - - 4.9 7.7
+100 233 149 52 56 158 225 25.5 14 - 18 100 100 102 11 90 4 - - - 8.2 13.7
+125 245 160 56 64 188 261 25.5 14 - 18 100 100 102 11 113 4 - - - 9.8 17.0
+150 283 193 56 70 212 294 25.5 19 - 25 100 110 102 11 141 4 - - - 12.5 22.5
+200 307 217 60 71 267 365 25.5 19 - 25 100 110 102 11 189 4 - - - 21.9 33.7
+250 371 251 68 76 321 420 - - 70.0 35 132 140 125 14 236 4 10 8 60 40.4 52.5
+300 399 302 78 83 372 476 - - 70.0 35 132 140 125 14 282 4 10 8 60 54.6 77.5
+350 421 324 78 92 431 542 - - 70.0 35 132 140 125 14 326 4 10 8 60 74.4 96.5
+400 453 358 102 102 484 606 - - 80.0 40 140 149 140 18 374 4 12 8 73 97.6 133.0
+450 522 392 114 114 534 662 - - 80.0 50 - ø 175 140 18 418 4 14 9 60 145.0 206.0
+500 550 427 127 127 590 722 - - 85.0 60 - ø 210 165 22 467 4 18 11 80 188.0 244.0
+600 634 485 154 154 689 837 - - 85.0 60 - ø 210 165 22 559 4 18 11 80 224.0 306.0
+700 720 547 165 165 799 947 - - 108.0 80 - ø 300 254 18 659 8 22 14 100 269.0 450.0
+800 771 598 190 - 900 1070 - - 108.0 80 - ø 300 254 18 - 8 22 14 100 515.0 825.0
+900 878 687 241 - 1000 - - - 108.0 100 - ø 350 254 18 - 8 28 16 100 850.0 1063.0
+Key a x b
+≤ DN 200
+≤ DN 200
+≥ DN 250
+N holes ø M
+Wafer
+Lugged
+NOTES
+• Dimensions in mm, weights in kg.
+• Dimensions and weights are given as guide.
+• The maximum working capability of any valve is
+either the body rating or the seat shut-off capability,
+whichever is the lower.
+VALVE DIMENSIONS (mm)
+Weight (kg)
+DN A B C* C** ø D1 ø D2 E1 P E2 ø G H J PCD ø M Q N a b l Wafer Lugged
+≥ DN 250
+KEYSTONE HILOK HIGH PERFORMANCE BUTTERFLY VALVES
+GENERAL DIMENSIONS BARE SHAFT VALVE
+Optional square top shaft connection available on request enabling direct mounting with Emerson PremiAir pneumatic actuators.
+• K dimension in function of the required flange
+drilling pattern.
+• C*: Face-to-face according EN 558-1, series 20
+(factory standard)
+• C**: Face-to-face according EN 558-1, series 25
+(optional)
+7
+KEYSTONE HILOK HIGH PERFORMANCE BUTTERFLY VALVES
+ORDERING INFORMATION
+ MATERIAL TRIM TABLE
+Body Disc Shaft Seat Bearing Shaft packing Bottom cover packing Trim code
+General purpose trims
+Carbon steel Stainless steel Stainless steel RTFE Carbon steel / PTFE Graphite Expanded graphite 908
+Carbon steel Stainless steel Stainless steel Virgin PTFE Carbon steel / PTFE PTFE PTFE 907
+Stainless steel Stainless steel Stainless steel RTFE Stainless steel / PTFE Graphite Expanded graphite 915
+Stainless steel Stainless steel Stainless steel Virgin PTFE Stainless steel / PTFE PTFE PTFE 914*
+Stainless steel Stainless steel Stainless steel RTFE Stainless steel / PTFE LATTYflon® PTFE 935
+Stainless steel Stainless steel Stainless steel Virgin PTFE Stainless steel / PTFE LATTYflon® PTFE 960
+Metal seated HT (high temperature) trims
+Carbon steel Stainless steel chrome pl. Stainless steel Metal HT Stainless steel Graphite Expanded graphite 909
+Stainless steel Stainless steel chrome pl. Stainless steel Metal HT Stainless steel Graphite Expanded graphite 916
+Metal seated PP (pulp and paper) trims
+Carbon steel Stainless steel chrome pl. Stainless steel Metal PP Carbon steel / PTFE Graphite Expanded graphite 910
+Stainless steel Stainless steel chrome pl. Stainless steel Metal PP Stainless steel / PTFE Graphite Expanded graphite 917
+Fire safe seated trims
+Carbon steel Stainless steel Stainless steel Metal PP/RTFE Carbon steel / PTFE Graphite Expanded graphite 911
+Stainless steel Stainless steel Stainless steel Metal PP/RTFE Stainless steel / PTFE Graphite Expanded graphite 918
+®LATTY is a registered trademark of Latty International S.A.
+*Trim 914 can be supplied with FDA approval. Indicate during order placement.
+SELECTION GUIDE
+Example: HL1 150 915 W MA B 00
+Type
+HL1 HiLok standard face to face - series 20
+HL2 HiLok f.t.f EN 558 T1 - series 25
+HL3 HiLok f.t.f EN 558 T1 - series 16
+Size (DN)
+50-900
+Trim
+See material trim table
+Body style
+W Wafer
+L Lugged
+Flange connection
+10 PN 10 M3 Multi drill. PN 10/16
+16 PN 16 M4 Multi drill. PN 10/16/A150
+25 PN 25 M9 Multi drill. PN 10/16/25/A150
+40 PN 40 MA Multi drill. PN 10/16/25/40/A150
+A1 ASME 150 MB Multi drill. PN 10/16/25/40/A150/A300
+Operation
+B Bare shaft
+Variant
+00 Standard (Any option other than standard is indicated by the option code. Consult your local Emerson contact for product identification)
+8
+16 20 10 11
+9 8 7 1 4 3 2 6 5 12 13
+11 15 15 11 11 14
+KEYSTONE HILOK HIGH PERFORMANCE BUTTERFLY VALVES
+MATERIAL SPECIFICATIONS
+MATERIAL SPECIFICATIONS
+Part Name Material Material reference Remark
+1 Body Carbon steel EN GP 240 GH / A 216 Gr. WCB DIN 1.0619
+Stainless steel EN GX5CrNiMo 19-11-2 / A351 Gr. CF8M DIN 1.4408
+2 Disc Stainless steel EN GX5CrNiMo 19-11-2 / A351 Gr. CF8M DIN 1.4408
+SS chrome plated EN GX5CrNiMo 19-11-2 / A351 Gr. CF8M DIN 1.4408
+3 Retaining ring Carbon steel EN GP 240 GH / A 216 Gr. WCB DIN 1.0619
+Stainless steel EN X5CrNiMo 19-11-2 / AISI 316 DIN 1.4401 Small size range
+Stainless steel EN GX5CrNiMo 19-11-2 / A351 Gr. CF8M DIN 1.4408 Large size range
+4-5 Stem Stainless steel EN X20Cr13 / AISI 420 DIN 1.4021 In combination with a CS disc
+Stainless steel EN X5CrNiCuNb 16-4 / A564 Gr.630 DIN 1.4542 In combination with a SS disc
+6 Seat Reinforced PTFE 15% graphite filled TFE
+FS PP/RTFE 15% graphite filled TFE
+PTFE White virgin PTFE
+RTFE lip seat 25% stainless steel filled TFE
+Metal PP ENX2CrNiMo 17-2-2 / AISI 316L DIN 1.4404
+Metal HT ENX2CrNiMo 17-2-2 / AISI 316L DIN 1.4404
+7 Packing gland Stainless steel EN X12Cr13 / AISI 410 DIN 1.4406 In combination with a CS body
+Stainless steel EN X2CrNi 19-11 / AISI 304L DIN 1.4306 In combination with a SS body
+8 Gland bridge Carbon steel EN C22E / AISI 105 DIN 1.1149 In combination with a CS body
+Stainless steel EN X5CrNiMo 19-11-2 / AISI 316 DIN 1.4401 In combination with a SS body
+9 Position indicator Carbon steel EN C22E / AISI 105 DIN 1.1149 In combination with a CS body
+Stainless steel EN X5CrNiMo 19-11-2 / AISI 316 DIN 1.4401 In combination with a SS body
+10 Shaft packing Expanded graphite
+Braided PTFE
+LATTYflon® 3260LM
+11 Bearing Carbon steel + PTFE In combination with a CS body
+Stainless steel + PTFE In combination with a SS body
+Stainless steel nitrided In combination with a SS & CS body
+with metal HT seat
+12 Disc locating shoulder Stainless steel EN X2CrNi 19-11 / AISI 304L DIN 1.4306
+13 Bottom end cover Carbon steel EN C22E / AISI 105 DIN 1.1149 In combination with a CS body
+Stainless steel EN X5CrNiMo 19-11-2 / AISI 316 DIN 1.4401 With SS body DN 50-200
+Stainless steel EN GX5CrNiMo 19-11-2 / A351 Gr. CF8M DIN 1.4408 With SS body DN 250-900
+14 Bottom cover packing PTFE
+Expanded graphite
+15 Disc pin Stainless steel ENX2CrNiMo 17-12-2 / AISI 316L DIN 1.4404
+16 Circlips Carbon steel In combination with a CS body
+Stainless steel In combination with a SS body
+17 Indication plate Stainless steel
+18 Key Carbon steel EN C35E / AISI 1038 DIN 1.1180
+19 Bolts Galvanized steel In combination with a CS body
+Stainless steel A2/70, A4/70, A4/80 DIN 1.4301 In combination with a SS body
+20 Anti blow out ring Stainless steel
+9
+50 2 LC 4 175 102 43 97 153 230 69 45 3.6 5.3
+65 2½ LC 4 191 116 46 117 173 230 69 45 5.0 7.4
+80 3 LC 4 197 122 46 130 190 230 69 45 5.4 8.2
+100 4 LC 12 233 149 52 158 225 320 75 52 8.9 14.4
+125 5 LC 12 245 160 56 188 261 320 75 52 10.5 17.7
+150 6 LC 20 283 193 56 212 294 420 75 52 13.5 23.5
+50 2 LF 4 175 102 43 97 153 230 69 45 4.1 5.8
+65 2½ LF 4 191 116 46 117 173 230 69 45 5.5 7.9
+80 3 LF 4 197 122 46 130 190 230 69 45 5.9 8.7
+100 4 LF 12 233 149 52 158 225 320 75 66 9.8 15.3
+125 5 LF 12 245 160 56 188 261 320 75 66 11.5 18.6
+150 6 LF 20 283 193 56 212 294 420 75 69 14.5 24.5
+200 8 LF 20 307 217 60 267 365 420 75 69 24.0 35.7
+DN 50-80 9
+DN 100-125 9
+DN 150 7
+KEYSTONE HILOK HIGH PERFORMANCE BUTTERFLY VALVES
+GENERAL DIMENSIONS WITH HAND LEVER
+NOTES
+• Dimensions in mm, weights in kg.
+• Dimensions and weights are given as guide.
+• C: Face-to-face according EN 558-1, series 20 indicated.
+Size Number of locking positions
+NOTCHED LEVER ‘LC’
+MATERIAL: ALUMINIUM
+DIMENSIONS (mm)
+DN NPS Weights (kg)
+(mm) (inch) Lever A B C øD1 øD2 E F G Wafer Lugged
+Lugged
+Wafer
+LOCKABLE LEVER ‘LF’
+MATERIAL: DUCTILE IRON
+DIMENSIONS (mm)
+DN NPS Weights (kg)
+(mm) (inch) Lever A B C øD1 øD2 E F G Wafer Lugged
+Lugged
+Wafer
+10
+450 4x2 140 140 160 150
+500 4x2 140 160 160 160
+600 4x2 160 175 185 185
+700 4x2 140 175 185 185
+PN 10 4 4 8 8 8 8 8 12 12 16 16 *16 *16 *16 *20
+PN 16 4 4 8 8 8 8 12 12 12 16 16 *16 *16 *16 *20
+PN 20 4 4 4 8 8 8 8 12 12 12 16 *12 *16 *16 *24
+PN 25 4 8 8 8 8 8 12 12 16 16 16 *16 *16 *16 *20
+PN 40 4 8 8 8 8 8 12 12 16 16 16 *16 *16 *16 *20
+PN 50 8 8 8 8 8 12 12 16 16 20 20 *20 *20 *20 *24
+ASME 150 4 4 4 8 8 8 8 12 12 12 16 *12 *16 *16 *24
+PN 10 M16 M16 M16 M16 M16 M20 M20 M20 M20 M20 M24 M24 M24 M27 M27
+PN 16 M16 M16 M16 M16 M16 M20 M20 M24 M24 M24 M27 M27 M30 M33 M33
+PN 20 M16 M16 M16 M16 M20 M20 M20 M24 M24 M27 M27 M30 M30 M33 M33
+PN 25 M16 M16 M16 M20 M24 M24 M24 M27 M27 M30 M33 M33 M33 M36 M39
+PN 40 M16 M16 M16 M20 M24 M24 M27 M30 M30 M33 M36 M36 M39 M45 M45
+PN 50 M16 M20 M20 M20 M20 M20 M24 M27 M30 M30 M33 M33 M33 M39 M42
+ASME 150 (UNC) ⅝” ⅝” ⅝” ⅝” ¾” ¾” ¾” ⅞” ⅞” 1” 1” **1⅛” **1⅛” **1¼” -
+PN 10 120 120 120 130 130 150 150 170 170 190 230 265 265 310 310
+PN 16 120 120 120 130 130 150 150 170 190 235 250 270 290 340 340
+PN 20 120 120 130 130 150 150 170 180 180 200 235 290 320 360 390
+PN 25 120 120 130 150 150 170 170 200 200 240 250 280 310 360 360
+PN 40 120 120 130 150 150 170 180 240 240 250 300 310 360 400 400
+PN 50 120 130 150 150 170 170 190 220 240 240 280 310 340 390 435
+ASME 150 120 120 130 130 150 150 170 180 180 200 235 290 320 360 390
+DN Nb.
+Length
+PN 10 PN 16 PN 20 PN 25
+KEYSTONE HILOK HIGH PERFORMANCE BUTTERFLY VALVES
+BOLTING DIMENSIONS
+WAFER TYPE
+* in the 4 lugs / in addition to these thru bolts
+** bolt size threading: up to and including 1" UNC
+≥ 1⅛" 8 UN. UNC on request only
+Drilled flanges according to:
+NF E.29 - DIN 2501 - BS 4504
+ISO 2084, ASME B16.5
+DN 50 to 400 DN 450 to 900
+DN
+50 65 80 100 125 150 200 250 300 350 400 450 500 600 700
+Nr of thru bolts
+Ø of thru bolts
+Length of thru bolts
+11
+PN 10 4 4 8 8 8 8 8 12 12 16 16 20x2 20x2 20x2 24x2
+PN 16 4 4 8 8 8 8 12 12 12 16 16 20x2 20x2 20x2 24x2
+PN 20 4 4 4 8 8 8 8 12 12 12 16 16x2 20x2 20x2 28x2
+PN 25 4 8 8 8 8 8 12 12 16 16 16 20x2 20x2 20x2 24x2
+PN 40 4 8 8 8 8 8 - - - - - - - - -
+ASME 150 4 4 4 8 8 8 8 12 12 12 16 16x2 20x2 20x2 28x2
+PN 10 M16 M16 M16 M16 M16 M20 M20 M20 M20 M20 M24 M24 M24 M27 M27
+PN 16 M16 M16 M16 M16 M16 M20 M20 M24 M24 M24 M27 M27 M30 M33 M33
+PN 20 M16 M16 M16 M16 M20 M20 M20 M24 M24 M27 M27 M30 M30 M33 M33
+PN 25 M16 M16 M16 M20 M24 M24 M24 M27 M27 M30 M33 M33 M33 M36 M39
+PN 40 M16 M16 M16 M20 M24 M24 - - - - - - - - -
+ASME 150 (UNC) ⅝” ⅝” ⅝” ⅝” ¾” ¾” ¾” ⅞” ⅞” 1” 1” **1⅛” **1⅛” **1¼” -
+PN 10 120 120 120 130 130 150 150 170 170 190 230 140 140 160 170
+PN 16 120 120 120 130 130 150 150 170 190 235 250 140 160 175 175
+PN 20 120 120 130 130 150 150 170 180 180 200 235 160 160 185 210
+PN 25 120 120 130 150 150 170 170 200 200 240 250 150 160 185 185
+PN 40 120 120 130 150 150 170 - - - - - - - - -
+ASME 150 120 120 130 130 150 150 170 180 180 200 235 160 160 185 210
+KEYSTONE HILOK HIGH PERFORMANCE BUTTERFLY VALVES
+BOLTING DIMENSIONS
+LUGGED TYPE
+Drilled flanges according to:
+NF E.29 - DIN 2501 - BS 4504
+ISO 2084, ASME B16.5
+DN 50 to 400 DN 450 to 900
+** bolt size threading: up to and including 1" UNC
+≥ 1⅛" 8 UN. UNC on request only
+DN
+50 65 80 100 125 150 200 250 300 350 400 450 500 600 700
+Nr of thru bolts
+Ø of thru bolts
+Length of thru bolts
+VCTDS-00721-EN © 2012, 2022 Emerson Electric Co. All rights reserved 03/22. Keystone is a mark owned by one of the companies in the Emerson Automation Solutions
+business unit of Emerson Electric Co. The Emerson logo is a trademark and service mark of Emerson Electric Co. All other marks are the property of their prospective owners.
+The contents of this publication are presented for informational purposes only, and while every effort has been made to ensure their accuracy, they are not to be construed
+as warranties or guarantees, express or implied, regarding the products or services described herein or their use or applicability. All sales are governed by our terms and
+conditions, which are available upon request. We reserve the right to modify or improve the designs or specifications of such products at any time without notice.
+Emerson Electric Co. does not assume responsibility for the selection, use or maintenance of any product. Responsibility for proper selection, use and maintenance of
+any Emerson Electric Co. product remains solely with the purchaser.
+Emerson.com/FinalControl

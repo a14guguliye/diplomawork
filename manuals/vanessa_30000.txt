@@ -1,0 +1,821 @@
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL
+© 2020 Emerson. All Rights Reserved.
+Basic configuration - Body style double flanged, wafer, lug and buttweld
+1.2 Handling requirements
+A - Packaged valves
+Crates: The lifting and the handling of valves
+packed in crates shall be carried out by
+a forklift truck, by means of appropriate
+fork hitches.
+Cases: The lifting of valves packed in cases
+shall be carried out from the lifting
+points and the center of gravity
+position which have been marked.
+The transportation of all packed
+material must be carried out safely and
+following local safety regulations.
+B - Non-packaged valves
+The lifting and the handling of these valves shall
+be carried out by using appropriate means and
+by respecting the carrying limits. The handling
+must be carried out on pallets, protecting the
+machined surfaces to avoid any damage.
+Emerson.com/FinalControl
+APPLICABLE PRODUCT RANGE
+• Series 30,000 basic configuration, double
+flanged body style, which can be installed by
+connecting each valve flange to each pipe
+flange with the applicable bolting.
+• Series 30,000 basic configuration, lug body
+style with threaded holes, which shall be
+bolted to both pipe flanges.
+• Series 30,000 basic configuration, wafer body
+style, which can be installed between two pipe
+flanges with the applicable studs or bolts.
+• Series 30,000 basic configuration, buttweld
+ends, which must be welded to the line.
+SECTION 1 - VALVE STORAGE
+1.1 Preparation for shipment and preservation
+The valve is properly packed in order to protect
+the parts that could be subject to deterioration
+during transportation and storage on site.
+Whenever applicable the valve shall be stored
+within the original packaging.
+In case either the unpacking or the replacing
+of the original packaging become necessary
+(should for example an inspection be prescribed
+upon the arrival on site), the original protection
+conditions of the valve shall be preserved.
+Moreover the following precautions shall
+be taken:
+1. The valve must be packed with the disc
+in the closed position. The flange sealing
+surfaces (raised faces) or the buttweld
+ends are protected with suitable protective
+grease (where applicable according to the
+valve material selection). The end faces of
+the valve must be protected with plastic or
+wooden discs fixed with straps.
+2. In case of bare shaft valves the ends
+of the shaft must be protected with
+dedicated packaging.
+3. An appropriate packaging shall be
+considered in case of a valve with “fail open”
+pneumatic or hydraulic actuator, where
+the valve disc is in the open position and
+protrudes beyond the face to face.
+An actuated valve must be securely and
+safely palleted or crated with special
+attention to ensure that parts of actuator
+(especially tubing and fittings or accessories)
+do not extend beyond the skid/crate.
+4. The type of packaging must be defined
+in the customer’s order and will be
+appropriate to ensure safe transportation
+to final destination and conservation before
+installation.
+The operators shall be specifically trained to
+avoid contamination.
+VCIOM-00006-EN 21/07
+SAFETY INFORMATION
+• This document provides all the necessary
+safety information related to Handling and
+Storage, Installation, Use and Maintenance of
+Vanessa Series 30.000 Triple Offset Valves.
+• Safety statements have been purposely placed
+throughout this manual whenever operating
+or maintenance procedures, practices or
+conditions are considered critical to the
+protection of personnel (WARNING) or to
+prevent valve damage (NOTICE and CAUTION).
+2
+A B
+C D
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL
+CAUTION
+For valve handling and/or lifting, the lifting
+equipment (fasteners, hooks, etc.) must be sized
+and selected by taking into account the valve weight
+indicated on the packing list and/or delivery note.
+Lifting and handling must be carried out only by
+qualified personnel.
+Fasteners must be protected by plastic covers in
+sharp corner areas.
+Caution must be given during handling to avoid
+that equipment passes over workers or any other
+place where a possible fall could cause damage.
+In any case, the local safety regulations must
+be followed.
+FIGURE 1
+LIFTING AND HANDLING OF VALVES INSTALLED IN HORIZONTAL PIPELINES
+LIFTING AND HANDLING OF VALVES INSTALLED IN VERTICAL PIPELINES
+NOTICE
+In the upper side always fasten the valve from
+the bracket.
+Solutions A and C in figure 1 are applicable when the
+protrusion of the bottom hub from the flange or body
+is sufficient to position securely the lifting strap.
+Solutions B and D in figure 1 are applicable when the
+protrusion of the bottom hub from the flange or body
+is NOT sufficient to position securely the lifting strap.
+In such cases use the flange holes close to the bottom
+hub and fasten the valve securely. For actuated valves
+refer to the product technical documentation provided
+with the relevant supply.
+1.3 Storage and preservation before installation
+In case valves have to be stored before
+installation, the storage must be carried out in
+a controlled way and performed in accordance
+to the following criteria:
+1. The valves must be stocked in a closed,
+clean and dry storage room.
+2. The disc must be in the closed position,
+and the end faces must be protected with
+plastic or wooden discs fixed with straps.
+If possible, keep the original protection.
+3. Periodical checks must be carried out in
+the storage area to verify that the abovementioned conditions are maintained
+throughout.
+NOTICE
+Storage in an open area for a limited period of time
+can be considered only in case the valves have
+appropriate packaging, are packed in cases lined with
+tarred paper, and contents are well protected with
+barrier sacks.
+3
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL
+SECTION 2 - INSTALLATION
+2.1 Valve inspection
+1. Carefully remove the valve from the
+shipping package (box or pallet) avoiding any
+damage to the valve or, in case of automated
+valves, to the electric or pneumatic/
+hydraulic actuator or instrumentation.
+2. The valves are shipped with the ends protected
+with caps and a thin layer of protective grease
+(where applicable according to the valve
+material selection). Before installing the valve,
+remove the caps and clean carefully, then
+de-grease both surfaces with a solvent. Clean
+the inside of the valve using an air line. Ensure
+that there are no solid objects such as pieces
+of wood, plastic or packing materials inside the
+valve or on the valve seat.
+3. Inspect the seal ring to ensure that
+it was not damaged during handling.
+This is especially important in case of
+valves shipped with the disc set in the open
+position and with “fail-open” actuators.
+4. Ensure that the packing gland-adjusting
+nuts against the packing gland flange
+cannot be loosened by hand.
+WARNING
+Ensure that the materials of construction listed on
+the valve nameplate (refer to figure 12 on page 12)
+are appropriate for the service intended and conform
+to the contractual specifications/requirements. Also
+ensure that the valve pressure/temperature limits
+shown on the valve nameplate (refer to figure 12 on
+page 12) are suitable for the process conditions. If in
+doubt contact your nearest Emerson sales office.
+2.2 Valve installation
+Vanessa double flanged, lug, wafer valves
+are suitable to be installed in accordance
+with ASME B16.5, ASME B16.47 or EN 1092.1
+requirements, without limiting the applicability
+criteria.
+Flange finish and face dimensions are fully
+in accordance with the applicable standard,
+without gasket seating surface interruptions
+(which are allowed by API 609 par. 5.7).
+In case of non-standard flanges the installation
+conditions are agreed during the flange
+dimensioning.
+The optimal installation is setting the valve with
+the shaft in the horizontal plane. The second
+best option is to have the shaft at an angle
+to minimize problems associated with solid
+particles present in the fluid that otherwise
+could deposit in the lower bearing area.
+Unless otherwise recommended, the valve
+should be installed with the disc in the closed
+position to ensure that the seal ring in the disc
+is not damaged during installation. Particular
+care should be given to those valves equipped
+with 'fail-open' actuators.
+CAUTION
+Whenever the pipe is internally lined, the disc
+must not come into contact with the lining during
+its stroke.
+Such verification is critical especially in case of
+lug and wafer body style in order to avoid any
+damage to the valve.
+FIGURE 2
+Isolation applications
+The installation direction affects valve operating
+torques and sealing performances. An indication
+plate "ΔP" (figure 2) is applied on the high
+pressure shutoff side when valve is closed as a
+Sealing side when closed
+For operating temperatures above 200 °C
+(392 °F) thermal insulation of the valve body is
+recommended.
+WARNING
+If the valve has threaded tapped holes in the hub
+areas, it is recommended to use stud bolts with
+nut to connect the valve in this zone. The depth
+of the tapped holes in the bodies of all Series
+30,000 valves is specified in the product technical
+documentation provided with the relevant supply.
+Failure to use the correct studs dimensions may
+result in serious injuries, flange leakage, damage to
+the valve thread.
+NOTICE
+It is recommended to perform piping flushing before
+installation of valve.
+When this is not possible, valves must be set with
+the disc in full open position before starting the
+flushing operation.
+NOTICE
+The valve trim is designed to withstand and to seal
+against the design differential pressure marked on
+the valve nameplate (refer to the nameplate template
+provided on page 12).
+When positive isolation is required including isolation for
+safe access to downstream line, as a minimum the valve
+shall be installed with high pressure facing the preferred
+isolation side of the valve, the so-called "positive
+isolation side" or "shaft side".
+The valve trim shall not be used as a sole protective
+mean against the hazard caused by the closed valve
+upstream pressure.
+Additional precautions against pressure hazard risks
+shall be taken into consideration by end users based on
+their own piping risk assessment.
+If the valve has welded ends, perfectly clean and
+degrease the ends to be welded (of both valve and
+pipe), using a cloth with acetone or a similar product.
+Insert correctly the valve between the edges of the
+pipe to be welded by taking into consideration the
+plate that indicates the preferential side for sealing.
+Carry out an initial accurate spot welding verifying the
+perfect alignment of the edge and axis of the valve.
+Carry out the welding of the edge by proceeding in
+alternate way on both sides to reduce the tensions
+introduced by the welding. It is important to follow
+the relevant preheating and interpass temperature
+prescriptions.
+Handling and lifting of the valves during installation
+MUST be performed by following the same criteria and
+instructions described in previous points "1.2 Handling
+requirements" and "1.3 Storage and preservation
+before Installation".
+reference for the direction of the installation.
+The best sealing performance, also for bidirectional services, is ensured when pressure acts on
+the shaft side of the valve, and is recommended
+when the service tightness requirements are
+more stringent in one specific direction.
+Control applications
+Perfect sealing is not required. The "ΔP" plate
+may be fixed on either flange indicating the
+preferred direction. Adhere to the direction of
+installation indicated on the relevant flange as
+the selection of the actuator has been made for
+that specific direction of installation.
+4
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL
+2.3 Valve verification
+1. Tighten the packing box enough to prevent
+shaft leakage. Over-tightening will decrease
+packing component life and increase
+operating torque.
+2. Check the operability of the valve by stroking
+it to “full open” and “full close”. To verify the
+valve orientation, the disc position indicator
+mark on the shaft (during the normal open
+to close cycle) should rotate clockwise from
+a position in line with the pipe (see figure 3A)
+to a position parallel to the pipe flanges
+(see figure 3B).
+2.4 Commissioning
+1. Whenever the piping system is pressurized
+with water for testing or in case it has been
+shut down after testing for a long time,
+the following recommendations should
+be adopted:
+a. Use corrosion inhibitor with water to
+pressurize the piping system.
+b. After testing, the piping system should
+be depressurized and the test water
+completely drained.
+c. After testing, the valve must be operated
+through a complete opening/closing cycle
+and the disc should be left in half-open
+position. Apply a film of protective oil in
+the packing area by means of a paintbrush.
+The protective oil must fill the area between
+shaft and packing bushing.
+FIGURE 3A
+FIGURE 3B
+Clockwise to close
+Clockwise to close
+Shaft key
+Disc in open position
+Disc in closed position
+Disc position
+indicator mark
+Disc - shaft key and position indicator mark plane
+Disc - shaft key and position indicator mark plane
+Disc position indicator mark Shaft key
+2. The valve is fully metallic and typically
+withstands the cleaning agents used for
+metallic pipelines.
+5
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL
+3.3 TROUBLESHOOTING GUIDE
+Symptom Possible cause Resolution
+Valve does not rotate 1. Packing is too tight 1. Loosen gland nuts
+2. Actuator has failed 2. Replace or repair
+3. Valve packed with debris 3. Flush or clean valve to remove debris
+4. Shaft key has sheared 4. Determine cause of shearing and correctly replace shaft key
+5. Fluid solidification between bearings and shaft 5. Flush bearings by flushing holes (if present)
+Shaft packing leaking 1. Packing gland flange nuts too loose 1. Tighten packing gland flange nuts
+2. Packing box damaged 2. Replace packing box - see Paragraph 4.1
+Bottom flange gasket leaking 1. Bottom flange bolting loose 1. Tighten bottom flange bolting
+2. Spiral wound gasket damage 2. Replace gasket - see Paragraph 4.3
+Valve leaking 1. Valve not fully closed 1. Close valve
+2. Debris trapped in valve 2. Cycle and flush (with valve open) to remove debris
+3. Actuator mechanical stops improperly set 3. Remove the stop for closure and reset properly
+4. Seal ring damaged 4. Replace seal ring - see Paragraph 4.2
+Jerky operation 1. Packing box is too tight 1. Loosen packing gland nuts, cycle valve, retighten
+2. Air supply inadequate 2. Increase air supply pressure and/or volume
+3. Actuator/shaft adapter misaligned 3. Remove actuator mounting and realign
+SECTION 3 - USE
+3.1 Valve use
+Vanessa Series 30,000 valves do not feature
+cavities where the process fluid may be trapped
+and isolated from the main line. Therefore,
+any overpressure is not possible as long as
+the system to which the valve is connected to
+remains protected against overpressure by a
+suitable device.
+Vanessa Series 30,000 does not generate hot /
+cold surfaces through their own operating
+function. Hot or cold surfaces of the valve are
+generated by the process temperature of the
+system, where the valve is installed. Hence
+their protection shall follow the requirements
+of the system itself. The valve bracket does not
+need to be protected.
+The valve body is more resistant than the
+pipe to which it is connected, being of simple
+cylindrical-shape with outward cylindrical
+branches and thickness much higher than the
+pipe itself. Therefore, the valve body cannot
+be taken as a limiting factor for the maximum
+allowable loads transmitted by the pipe.
+3.2 Operating Procedures
+A Vanessa Series 30,000 needs either an
+actuator or manual gear operator to be operated.
+Follow the applicable instructions provided by
+the actuator or gear manufacturer.
+The valve closes by turning the shaft clockwise
+when observed from the bracket top end.
+6
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL
+SECTION 4 - MAINTENANCE
+WARNING
+Depressurize the line before starting any
+maintenance. Failure to do so may result in serious
+personnel injury and/or equipment damage.
+4.1 Packing box maintenance
+If shaft leakage is observed through the packing
+box, tighten the gland nuts slowly and evenly
+until the leakage stops.
+CAUTION
+Do not over-tighten packing gland nuts. Overtightening will increase the torque required to
+operate the valve.
+When tightening the gland nut, use half-turn
+increments until leakage stops.
+FIGURE 4
+Refer to figure 4.
+To replace the packing rings proceed as follows:
+1. Remove the gear/actuator and relevant
+connecting keys (4f). Keep record of the
+gear/actuator position in relation to the valve
+position for a later correct re-assembly of the
+gear/actuator.
+2. Remove gland nuts (5d). If present, remove
+bellevilIe springs (5n), and keep record of
+their quantity and assembly configuration to
+reassemble them correctly (point 7).
+3. Remove packing gland flange (5f), anti blowout ring if present (5g), and gland bushing (5c).
+4. Remove packing rings (5a). If the valve
+features packing flush option, remove
+lantern ring also (5h).
+5. Carefully clean the packing cavity and
+shaft (4a).
+6. Apply a thin film of lubricant on each new
+packing ring (5a) surfaces (lubricant should
+be in accordance with Table 3). Insert new
+packing rings, being mindful of inserting
+the two braided rings at the bottom and top
+of the entire packing. If the valve features a
+packing flush option, insert the lantern ring
+(5h) in the same original sequence (or as
+indicated in figure 4). If the packing rings are
+of the split type, install with splits staggered
+at 180° from each other.
+7. Reassemble packing bushing (5c), anti blowout ring if present (5g), and gland flange
+(5f). If present, assemble the belleville
+springs (5n), following the assembly
+configuration noted in the previous point 2,
+then assemble by hand the gland nuts (5d)
+without tightening (after applying a thin film
+of lubricant on the threads of the stud bolts,
+in accordance with Table 3).
+8. Reassemble keys (4f) on the upper shaft end.
+9. Reassemble gear/actuator and close
+the valve.
+CAUTION
+Do not force actuator on the shaft! This should be
+a loose fit.
+10. Tighten gland nuts (5d) in accordance to
+Table 1 (Torque values for gland nuts).
+11.Cycle the valve.
+12.Pressurize again the line.
+13. If a leakage is detected, tighten the gland nuts
+slowly and evenly until the leakage stops.
+7
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL
+4.2 Sealing elements maintenance
+To replace the sealing elements proceed as
+follows (refer to figure 5):
+WARNING
+Depressurize the line before starting any
+maintenance. Failure to do so may cause serious
+personnel injury and/or damage to the valve.
+1. Remove the valve with the disc in the closed
+position from line. Clean the valve according
+to proper cleaning procedure as outlined
+by the plant or according to a recommended
+procedure.
+2. Open the valve a few degrees.
+3. Loosen the seal retainer flange screws (2c).
+If screws are secured, unbend the bevel.
+4. Open valve to full open position.
+NOTICE
+In small size valves it may be easier to remove
+the actuator and rotate the disc beyond the
+full-open position to provide more space to work
+with components.
+5. Carefully remove the seal retainer flange
+screws (2c) with security washers (2d) if
+present, then remove the seal retainer
+flange (2b).
+6. Remove seal ring (3a) and spiral wound
+gasket (3b).
+7. Inspect the body seat. Clean it, if necessary,
+with fine abrasive cloth (No. 600 or finer),
+after having cleaned it perfectly with solvent.
+8. Inspect and clean the disc seal ring area
+and spiral wound gasket groove. No foreign
+particles must be present before spiral
+wound gasket and seal ring assembly.
+FIGURE 5
+CAUTION
+Apply only a thin film of lubricant where indicated.
+Failure to do so will hinder the assembly and may
+cause damage to the valve.
+10.Assemble the new spiral wound gasket
+(3b) in the disc groove, without forcing and
+taking care not to damage it.
+11.Replace seal ring (3a) on the disc through
+the shaft side of the body. To properly
+locate the seal ring refer to figure 6: align
+the internal slot of the seal ring (3a) to the
+reference pin (F).
+12.Assemble the seal retainer flange (2b).
+Refer to figure 6: make sure that the slot on
+the edge of the seal retainer flange (B) is in
+correspondence with reference pin (F).
+13.Hand tighten all the fastening screws (2c),
+with relevant lock washers (2d) if present,
+after applying Loctite® 270 or equivalent on
+the bottom side of the threads (ensure they
+are perfectly clean with a solvent before
+applying Loctite®). Then, verify that the seal
+ring can be moved freely by hand without
+rotating it.
+14.Apply a thin film of lubricant to the body seat
+and to the external edge (sealing conical
+surface) of the seal ring (3a). Lubricant
+should be in accordance with Table 3.
+9. Apply a thin film of lubricant on the surface
+area of the disc (2a) where seal ring (3a)
+and spiral wound gasket (3b) will be located
+(lubricant should be in accordance with
+Table 3).
+15.Seat and unseat the valve twice.
+16.Keep the valve in the closed position without
+applying torque. Tighten at least two
+retaining screws (2c) to avoid the seal ring
+moving from the position found.
+17.Open the disc a few degrees and tighten, using
+a torque wrench, all screws (2c). Use a torque
+value from Table 2 (refer to figure 6).
+It is recommended to use a cross-pattern
+tightening sequence to tighten all retaining
+screws.
+8
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL
+IMPORTANT
+Refer to figure 6:
+The seal ring is supplied with an index marking (A).
+After the complete assembling, verify that the
+index marking (A) can be seen in the slot (B) of the
+seal retainer flange.
+Slot (B) and marking (A) have to be perfectly aligned.
+If not visible or not aligned, loosen the retaining
+screws, re-align the index marking and start
+again the procedure from point 12.
+18. If the seal retainer flange screws were secured
+by bevels (on the retainer flange near each
+screw holes), use peening tool to re-bend the
+bevels over each screw and ensure correct
+and safe screw locking (refer to figure 7).
+FIGURE 6
+FIGURE 7
+4.3 Bottom flange gasket maintenance
+If it is necessary to replace the bottom spiral
+wound gasket, proceed as follows (see figure 8):
+1. Remove the bottom flange (6a).
+2. Remove the spiral wound gasket (6c).
+3. Inspect and clean the groove of the spiral
+wound gasket in the body and in the bottom
+flange.
+4. Apply a thin film of lubricant on the bottom
+spiral wound gasket (6c), then insert it
+on the bottom flange (6a), centering and
+positioning all on the body bore (lubricant
+should be in accordance with Table 3).
+Rotate the bottom flange to accommodate
+the correct position and center the holes
+with the threaded holes on the body.
+5. Apply a thin film of lubricant on the threads
+of the screws (6b), then introduce and
+tighten them using a torque value from
+Table 2 (lubricant should be in accordance
+with Table 3).
+FIGURE 8
+9
+5.1 Bearing and packing flushing
+Bearing flushing
+The bearing flushing option is obtained
+by adding two tapped holes, one in the
+bottom flange and one in the neck of the
+valve (see figure 9). This option includes the
+introduction of a lantern ring at the bottom
+of the valve packing. Bearing flushing is
+recommended when the valve is installed in
+a service where the particles present in the
+fluid or the line fluid itself can migrate into
+the shaft/bearing area causing problems.
+A typical example is sulphur recovery services,
+where the sulphur in a liquid or gaseous
+state may enter this area and crystallize as a
+consequence of the plant shutdown.
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL
+SECTION 5 - STANDARD OPTIONS
+This section is referred only to Vanessa
+products configured with the following options:
+- bearing and packing flushing,
+- live loaded packing.
+FIGURE 9
+FIGURE 10
+The bearing protector
+minimizes the consumption
+of the clean fluid
+FIGURE 9A
+Bearing flushing inlet
+Bearing flushing inlet
+Bearing flushing connection
+Bearing flushing connection Packing flushing
+connection
+Disc
+side
+Shaft
+side
+Flush pressure = P + 5%
+This crystallisation may result in an increase
+in the torque requirement of the valve. Another
+example may be a fluid that contains particles
+(e.g. catalyst) that may cause similar problems
+to those highlighted above.
+In these types of situations the bearing
+flushing may be used to introduce an inert fluid
+compatible with the process via the bearing
+flush taps (see figure 10) to create a pressure
+barrier which prevents the introduction of the
+unwanted product from the line into the shaft/
+bearing area. The pressure of the flushing fluid
+must be slightly higher than the line pressure
+(i.e. P1 + approx 5%). This acts as a safety
+measure and a positive contribution to increase
+the life expectancy of the valve, as well as
+maintaining the constant torque requirement
+and hence operability of the valve.
+The bearings may be continuously flushed, this
+is recommended for critical services such as
+described above. Periodic flushing may be used
+for less critical services in order to clean the
+bearing/shaft interface or in order to prepare
+the valve for a shutdown of the process.
+The bearing flush taps may also be used to
+introduce a lubricant compatible with the
+process to the bearing areas for high cycle or
+dry gas service. The presence of the bearing
+protector drastically reduces the consumption
+of the flushing or lubricant by reducing the
+amount of fluid required to give efficient service
+(see figure 9A).
+Contact your nearest Emerson sales office for
+further information.
+10
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL
+FIGURE 11
+Packing flushing
+The packing flushing option is obtained
+by the introduction of a tapped hole that
+communicates directly to the packing box in the
+neck of the valve via a lantern ring. This option
+can be used to monitor the rate of emission of
+the line fluid toward the atmosphere. This flush
+tap may also be used to capture and evacuate
+line fluid to prevent any atmospheric loss, with
+the lantern ring and split packing configuration
+acting as a double block and bleed unit.
+A suitable fluid may also be introduced via the
+packing flush tap into the packing area so as
+to eliminate any possible fugitive emissions
+(see figure 10). By keeping the fluid pressurized
+at a pressure that is higher with respect to
+the line pressure, the passage of any line fluid
+towards the atmosphere can be effectively
+blocked giving the valve excellent fugitive
+emissions control. However, the fluid used
+must be compatible with the line fluid as it may
+have the possibility of finding its way into the
+line as well as toward the atmosphere.
+As with the bearing flushing option this
+may also be used to introduce a lubricant
+compatible with the process.
+The selection of the most appropriate type
+of lubricant for flushing is under the user's
+responsibility. Contact your nearest Emerson
+sales office for further details or process
+specific information.
+5.2 Live loaded packing
+The live loaded packing option is designed to
+supplement the standard characteristics of the
+Vanessa valve packing. This option guarantees
+a constant compression of the packing set.
+The fact that the packing is subject to a near
+constant force supplied by the Belleville springs
+reduces the maintenance frequency required by
+the packing (see figure 11).
+Care should be given in replacing the Belleville
+springs as their order (parallel or in series)
+should be understood and kept.
+The packing flange nuts should be tightened in
+accordance with Table 1.
+The drawing in figure 11 shows typical set ups
+for the live loaded packing option.
+11
+M10 10 7 20 15
+M12 15 11 25 18
+M14 20 15 45 33
+M16 25 18 60 44
+M18 30 22 65 48
+M20 80 59 200 148
+M24 180 133 340 251
+M27 210 155 375 277
+M30 290 214 495 366
+M33 310 229 700 517
+M42 - - 1250 923
+M6 10 7
+M8 20 15
+M10 45 33
+M12 70 52
+M14 110 81
+M16 175 129
+M18 235 173
+M20 335 247
+M22 370 273
+M24 460 339
+M27 595 439
+M30 760 561
+M33 785 579
+M36 1010 745
+M39 1315 970
+M42 1625 1199
+M45 2035 1501
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL
+TABLE 1 - TORQUE VALUES FOR PACKING FLANGE NUTS
+Bolt dimensions
+mm
+Nominal pressure
+ASME CLASS 150 - 300
+EN PN 10 - 16 - 25 - 40
+ASME CLASS 600 - 900 - 1500
+EN PN 63 - 100 - 110 - 150 - 260
+Torque Torque
+Nm ft·lb Nm ft·lb
+TABLE 2 - General torque values for retainer
+flange and bottom flange bolting
+Bolt
+dimensions
+(mm)
+Torque values
+Torque
+(Nm)
+Torque
+(ft·lb)
+TABLE 3 - Lubrication
+Type Component to lubricate
+Light mineral oil 1. Packing rings (5a)
+2. Disc surface areas (2a) for seal ring and spiral wound
+gasket location
+3. Spiral wound gasket (6c)
+Molykote® - P74 (grease) or equivalent 1. Stud bolts/nuts (5d)
+2. Screw (6b)
+Molykote® spray - 321 R (dry lubricant)
+or equivalent
+1. Seal ring (3a)
+2. Body seat
+NOTE
+Tighten the packing flange nuts slowly and evenly
+until the leakage stops. The torque values are max
+suggested value.
+SECTION 6 - DECOMMISSIONING
+Instruction for decommissioning
+Comply with the national regulations for disposal and recycling.
+The comprehensive list of materials is available in the relevant technical literature.
+12
+1936
+S/N:
+MODEL:
+SERIES 30,000
+TAG:
+RATING
+BODY
+NPS/DN
+DISC
+SHAFT
+SEAT
+DESIGN DATA:
+YEAR
+P.
+T
+P.
+.
+VANLT-0006-EN © 2008, 2021 Emerson Electric Co. All rights reserved 07/21. Vanessa is a mark owned by one of the companies in the Emerson Automation Solutions
+business unit of Emerson Electric Co. The Emerson logo is a trademark and service mark of Emerson Electric Co. All other marks are the property of their prospective
+owners.
+The contents of this publication are presented for informational purposes only, and while every effort has been made to ensure their accuracy, they are not to be construed
+as warranties or guarantees, express or implied, regarding the products or services described herein or their use or applicability. All sales are governed by our terms and
+conditions, which are available upon request. We reserve the right to modify or improve the designs or specifications of such products at any time without notice.
+Emerson Electric Co. does not assume responsibility for the selection, use or maintenance of any product. Responsibility for proper selection, use and maintenance of
+any Emerson Electric Co. product remains solely with the purchaser.
+Emerson.com/FinalControl
+Disc material
+Design differential
+pressure
+Max. allowable pressure
+at max. temperature Max. allowable pressure at
+ambient temperature
+Year of construction
+Valve tag Shaft material
+Pressure rating
+Seat face material
+Min/max design temperature
+Manufacturing plant site
+Model
+FIGURE 12
+Valve model ID code
+Serial number
+Body material
+Nominal diameter
+VANESSA SERIES 30,000 TRIPLE OFFSET VALVE (TOV)
+INSTALLATION, OPERATION AND MAINTENANCE MANUAL

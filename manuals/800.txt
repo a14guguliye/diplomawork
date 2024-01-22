@@ -1,0 +1,1150 @@
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+1.1 General
+The Anderson Greenwood Series 800 valve is
+designed for modulating action. The main valve
+will open at nameplate set, but only an amount
+proportional to the relieving capacity required.
+As process pressure increases, the valve will
+open more and be in full lift at 110% of set.
+The main valve uses the principle of
+pressurizing the larger area of a differential
+area piston with line pressure to hold the piston
+closed up to set pressure. At set pressure, the
+pilot relieves, depressurizing the volume on the
+larger area side of the piston. Line pressure
+acting on the smaller area side causes it to
+lift, permitting discharge from the main valve.
+As capacity relief of the system is satisfied,
+system pressure will begin to decrease. When
+it does, the pilot will actuate and direct system
+pressure to the larger area side of the main
+valve piston to close it.
+The pilot is the non-flowing type. With the main
+valve open and relieving at steady pressure,
+no process gas or fluid flows through the pilot.
+1.2 Installation
+Both inlet and outlet may be standard ANSI
+flanges or ANSI pipe threaded connections and
+are to be installed in accordance with accepted
+piping practices.When remote pressure pick-up
+is used the pilot supply tube is connected to a
+remote location rather than to the inlet neck
+of the valve. A block valve in the remote pilot
+supply line is not recommended. If one is used
+it must be opened before pressurizing the
+main valve.
+Note: remote pressure pick-up piping must
+have the equivalent flow area of ⅜” tubing for
+lengths up to 100 feet. For lengths greater
+than this, consult factory.
+For valves supplied with eyebolts, follow
+the instructions in Anderson Greenwood
+Pilot operated safety relief valves
+05-9040-352 (VCOSI-06034 Operating and
+Safety Instructions) pertaining to the safe use
+and storage of eyebolts.
+Refer to Anderson Greenwood Pilot operated
+safety relief valves 05-9040-372 (VCIOM-03099
+Winterization Guidelines) and 05-9040-352
+for more information regarding Winterization
+requirements.
+1.3 Start-up
+There must be pressure at the valve inlet or at
+the pilot inlet/sense port for valves with remote
+sense to establish a differential force across
+the piston and “load” it in the closed position.
+Pressure must pass through the pilot and exert
+force on the top of the piston. On normal plant
+start-up the valve will close itself as pressure
+increases.
+Before installation, these instructions must be carefully read and understood.
+TABLE OF CONTENTS
+1. General valve description and start-up ....... 1
+2. Main valve maintenance ............................... 2
+3. Pilot maintenance ......................................... 6
+4. Pilot set pressure adjustment .................... 12
+5. Valve assembly testing................................ 15
+6. Pilot set pressure field test procedure ...... 18
+7. Soft goods repair kits .................................. 19
+Emerson.com © 2017 Emerson. All Rights Reserved. VCIOM-06021-EN 22/01
+When process pressure changes, the pilot
+actuates to change the lift of the main valve
+seat disk. During these actuations a small
+amount of gas or fluid flows through the
+pilot and is discharged at the pilot outlet.
+The set pressure range is 1481 psig to
+7500 psig.
+Doc. #05.9040.271 Rev. KA
+1.4 Maintenance
+Anderson Greenwood recommended main valve
+and pilot maintenance procedures including
+pilot set pressure adjustment and valve
+assembly testing are described in the following
+paragraphs. Following these procedures in
+a regular pressure relief valve maintenance
+program appropriate for the specific operating
+conditions will ensure satisfactory valve
+performance and provide optimum service life.
+Should the pressure/media requirements of a
+pilot operated pressure relief valve be outside
+the capabilities of the repair facility, contact
+Anderson Greenwood for specific instructions
+before starting any maintenance activity.
+This manual is provided as a general guide for
+the maintenance of the safety valves described
+herein. It does not include procedures
+covering all valve configurations and variations
+manufactured by Anderson Greenwood. The
+user is advised to contact Anderson Greenwood
+or one of our authorized representatives for
+assistance with valve configurations and
+variations not covered in this manual.
+Block valves are often used under safety valves
+to isolate them when maintenance is required.
+When putting the safety valve in service be sure
+the block valve is fully opened. If the block valve
+is opened after system start-up, the safety
+valve may briefly vent before the volume on the
+larger area side of the piston gets pressurized
+to close the main valve seat disk.
+2
+32
+32
+.010
+R.020
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+2 MAIN VALVE MAINTENANCE
+2.1 Disassembly
+Before beginning disassembly, bleed off any
+pressure trapped in the main valve or pilot.
+Refer to Figure 1 for parts description and
+location.
+Remove the cap (Item 17) from the body
+(Item 1). Remove the liner seal (Item 6), liner
+(Item 5) and piston (Item 10). Remove the soft
+goods from the piston. If the piston is equipped
+with a wedge ring (Item 23), clean and retain
+it for use during assembly. The dipper tube
+(Item 4) is swaged in place and no attempt
+should be made to remove it. The nozzle
+(Item 3) should not be removed unless it is
+damaged or the nozzle seal (Item 2) is leaking.
+Refer to Figure 1 for parts description and
+location.
+Note: do not remove lock pin and lift stop
+adjusting bolt (Items 12 and 11) on valves so
+equipped unless nozzle is removed. This bolt
+controls the piston lift and the valve’s relieving
+capacity. If either or both the nozzle and lift bolt
+were removed, then lift must be reset following
+the procedure of paragraph 2.3.3.
+2.1.1 Nozzle and nozzle seal disassembly
+Refer to Figure 2 for parts description and
+location.
+1. Remove lock pin and lift adjusting bolt from
+piston, if applicable.
+2. Place liner in body and piston, without seat
+or seat retainer, into liner and on top of
+nozzle.
+3. Place appropriate spacer (see Table 1)
+on top of piston and then the cap over
+the spacer.
+Valve size and type Min. nozzle projection height (in)
+1/1.5 x 2 Type 843/853 (D, E and F orifice) .045
+1.5 x 2/3 Type 843/853 (G and H orifice) .040
+2” Type 843/853 .035
+3” Type 843/853 .035
+4” Type 843/853 .035
+6” Type 843/853 .035
+8” Type 843/853 .035
+1.5” Type 863 .035
+2” Type 863 .035
+3” Type 863 .035
+4” Type 863 .030
+6” Type 863 .030
+8 x 88 Type 863 .030
+8 x 10 Type 863 .030
+2.2 Main valve nozzle rework
+Should the main valve nozzle seating face
+become nicked or scratched such that the main
+valve seat does not seal, the imperfections
+can be removed by polishing the seating face
+with 400 grit sandpaper. If necessary, the
+nozzle may be removed from the body and
+the nozzle seating face (only the seating face)
+may be remachined and/or polished using
+400 grit sandpaper on a flat surface plate. The
+resurfaced nozzle must be within the limiting
+dimensions shown in the Table and Figure
+below. If the resurfaced seating face standoff is
+less than the minimum projection height listed,
+the nozzle must be replaced.
+Minimum
+projection
+4. Thread the appropriate number of cap bolts
+(see Table I) into threaded holes on top of
+body. If two bolts are used, they should be
+180° apart. When using four bolts, they
+should be 90° apart. Always use the shortest
+cap bolts supplied with the valve unless all
+cap bolts are required. For example, the
+1” Type 40/50 is equipped with two 1.50”
+long bolts and two 1.88” long bolts but only
+the two 1.50” long bolts should be used.
+However, the 2” Type 40/50 is equipped with
+two 1.25” long bolts and two 1.62” long bolts
+and all four bolts are required for nozzle
+installation.
+5. Tighten cap bolts evenly to the torque listed
+in Table I to compress nozzle seal.
+6. Use a punch or bar with a light hammer
+and tap on the nozzle retainer teeth to
+loosen the nozzle retainer. Unthread nozzle
+retainer approximately ½ turn.
+7. Loosen cap bolts to remove load from
+nozzle. Remove components from
+main valve.
+3
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+2.3 Assembly
+2.3.1 Nozzle and nozzle seal installation
+Refer to Figure 2 for parts description
+and location.
+1. Place nozzle seal and nozzle in body.
+2. Place nozzle retainer over nozzle and thread
+into body until it stops on nozzle shoulder.
+Do not lubricate nozzle retainer threads or
+mating body threads.
+3. Repeat steps 2 through 5 of disassembly
+procedure to compress nozzle seal.
+Thread nozzle retainer into body as seal is
+compressed to keep nozzle retainer from
+binding against piston.
+4. Use a punch or bar with a light hammer
+and tap on the nozzle retainer teeth to
+snug the nozzle retainer threads.
+5. Loosen cap bolts to remove load
+from spacer.
+6. Remove spacer from valve.
+TABLE 1
+Valve size and type Spacer P/N
+Cap bolt
+thread
+# Cap bolts
+to use
+Cap bolt
+torque
+(ft·lb)
+1/1.5 x 2 Type 843/853 (D, E and F orifice) 06.5612.001 .500-20 UNF 2 31
+1.5 x 2/3 Type 843/853 (G and H orifice) 06.5612.002 .500-20 UNF 2 41
+1.5 x 2/3 Type 843/853 (G and H orifice) 06.5612.002 .625-18 UNF 2 51
+2” Type 843/853 06.5612.004 .500-20 UNF 4 27
+2” Type 843/853 06.5612.004 .625-18 UNF 4 34
+3” Type 843/853 06.5612.006 .500-20 UNF 4 35
+3” Type 843/853 06.5612.006 .625-18 UNF 4 44
+4” Type 843/853 06.5612.008 .750-16 UNF 4 130
+4” Type 843/853 06.5612.008 .875-14 UNF 4 151
+6” Type 843/853 06.5612.009 .750-16 UNF 2 82
+6” Type 843/853 06.5612.009 .875-14 UNF 2 95
+8” Type 843/853 06.5612.010 .875-14 UNF 4 123
+8” Type 843/853 06.5612.010 1.000-14 UNS 4 140
+1.5” Type 863 06.5612.004 .500-20 UNF 2 19
+2” Type 863 06.5612.006 .500-20 UNF 2 31
+2” Type 863 06.5612.006 .625-18 UNF 2 39
+3” Type 863 06.5612.008 .750-16 UNF 2 113
+4” Type 863 06.5612.011 .625-18 UNF 2 63
+6” Type 863 06.5612.012 .750-16 UNF 2 88
+8 x 88 Type 863 06.5612.013 .875-14 UNF 4 119
+8 x 10 Type 863 06.5612.014 1.125-12 UNF 10 89
+2.3.2 Soft goods and main valve reassembly
+Refer to Figure 1 for parts description and
+location.
+2.3.3 Type XX3 piston and seat
+Clean and apply a light coating of Dow Corning
+No. 33 or equivalent silicone lubricant on all
+threads. Install new seat and reassemble seat
+retainer and seat retainer screw or screws.
+Note: over tightening of seat retainer screw
+or screws can distort or damage the seat and
+cause leakage. Retainer screw or screws
+should be installed until assembly is snug.
+Then tighten an additional ¼ to ½ turn
+to secure assembly.
+On 1” thru 4” Type 43/53 and 1.5” thru 3” Type
+63 valves, if either or both the nozzle and lift
+bolt were removed, then lift needs to be set. If
+lift setting gages are available, use lift setting
+procedure 06.3349 (gas service) or 06.3350
+(liquid service); otherwise use procedure
+05.2284.
+On 1" to 4" Type 40-RL (Special Restricted Lift.
+This is different than Type 50 Restricted Lift)
+valves, use lift setting procedure #1101-28214.
+For gas service valves, install new piston seal
+with new back-up ring in upper groove. The
+back-up ring is assembled below the O-ring,
+see Detail A. For liquid service valves, install
+new piston seal along with original wedge ring
+in lower groove. The wedge ring is assembled
+below the O-ring, see Detail A. For gas service,
+lubricate upper portion of liner I.D., piston seal,
+and back-up ring with Dow Corning No. 33 or
+equivalent. For liquid service, lubricate the
+same area with Desco 600 or equivalent. Use
+lubricant sparingly. Insert liner and piston into
+body and install new liner seal.
+Install the cap making sure it is seated squarely
+into body. Install cap bolts hand tight then
+tighten an additional ¼ to ½ turn uniformly so
+as not to “cock” the cap. Such a condition may
+result in leakage at the liner seal or cause the
+piston and liner to bind.
+4
+1
+6 18 17 11 12
+13
+10
+5
+7
+15 21
+22
+3
+2 4
+9
+8
+13
+13
+23
+16
+14
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Item Description
+1 Body
+2 Nozzle seal[1]
+3 Nozzle[1]
+4 Dipper tube
+5 Liner
+6 Liner seal[2]
+7 Seat[2]
+8 Seat retainer
+9 Seat retainer screw
+10 Piston
+11 Lift adjusting bolt[4]
+12 Lock pin[4]
+13 Piston seal[2]
+14 Back-up ring[2]
+15 Nozzle retainer
+16 Dome spring
+17 Cap
+18 Cap bolt
+21 Supply tube
+22 Tube connector
+23 Wedge ring[3]
+DETAIL A
+Liquid service
+DETAIL A
+Gas service
+NOTES
+1. Field replaceable only if required.
+2. Recommended spare parts for repair.
+3. Used only for liquid service.
+4. Not used on 4" Type 863.
+Refer to Section 7.1 for soft goods repair kit
+part numbers.
+FIGURE 1
+Main valve
+See detail A
+5
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Body
+Nozzle seal
+Nozzle
+Nozzle retainer
+Piston
+Liner
+Spacer
+Cap
+Cap bolt FIGURE 2
+6
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+3 PILOT MAINTENANCE, 1481 TO 7500 PSIG
+PRESSURE RANGE
+Refer to Figures 3, 4, and 5.
+Arrange all parts in an orderly sequence
+on a flat work surface during disassembly.
+This will facilitate assembly and help ensure
+that the correct parts are assembled in the
+proper sequence.
+3.1 Disassembly
+Before beginning disassembly, bleed off any
+pressure trapped in the main valve or pilot.
+3.1.1 Standard pilot - gas or liquid
+Note: if the pilot is equipped with a lift lever,
+the lift lever handle assembly (Item 310) must
+be unscrewed and removed from the cap
+(Item 460) before continuing with disassembly.
+To do this, hold the lift lever handle in the
+position shown in Figure 3, unscrew the lift
+assembly bushing from the cap, and remove
+the handle assembly.
+Clamp pilot assembly in vise with spring bonnet
+(Item 50) up. Remove the cap (Item 460), for
+pilot with lift lever remove jam nut (Item 350)
+and lift lever nut (Item 340), loosen the
+locknut (Item 290), and turn the pressure
+adjustment screw (Item 270) counterclockwise
+to remove the spring tension. Remove the
+bonnet lock bolt (Item 60) and unscrew the
+spring bonnet from the body (Item 10). The
+spring (Item 160) and spring washers (Item 170)
+will be loose in the bonnet. Use a ¼” wrench on
+the flats to hold the upper end of the feedback
+piston (Item 100) and remove the hex nut
+(Item 260) and lockwasher (Item 180). Turn body
+upside down while holding a hand under the top
+to catch the sense piston (Item 110). Remove
+the inlet bushing (Item 20). Remove any dirt
+or debris in the screen assembly in the inlet
+bushing. Turn body right side up over the bench
+to catch parts. Push the feedback piston down
+until all the internals come out the bottom.
+The piston seal backup ring (Item 120), sense
+seal (Item 190), feedback spacer (Item 130),
+and feedback seal (Item 200) will remain in
+the top of the body and must be removed.
+3.1.2 Pilot accessories
+For pilot with a field test assembly, Figure 5,
+remove the field test backflow preventer from
+the pilot body. Unscrew the bushing from the
+backflow preventer body and remove the spring
+and shuttle. Remove the field test indicator,
+Figure 5, from the main valve dome port.
+Unscrew the bushing from the indicator body
+and remove the plunger and spring.
+For pilot equipped with a main valve backflow
+check valve, Figure 5, remove the backflow
+preventer from main valve dome port or from
+the field test indicator. Unscrew the bushing
+from the backflow preventer body and remove
+the spring and shuttle. Remove the pilot
+exhaust backflow check valve from the pilot
+exhaust port. Unscrew the fitting from the
+backflow check valve body and remove the
+flow washer and ball.
+3.1.3
+Remove and discard all old seats, seals
+and O-rings before beginning assembly.
+If a tool is used, take care not to damage the
+body seal bore. The outlet nozzle seal (Item
+230) may stay in the lower bore of the body and
+must be removed. Pull the outlet nozzle (Item
+30) off the bottom of the internal assembly and
+remove the spool seal (Item 210). Examine the
+seating surface of the outlet nozzle for nicks or
+scratches. Small irregularities may be removed
+by lightly lapping the outlet nozzle’s top face.
+Clamp the internal assembly in the vise upside
+down and remove the inlet nozzle (Item 40) by
+inserting an approximately 3/16” diameter pin
+punch in the hole and using it as a wrench. The
+spool assembly will come out with the inlet
+nozzle, leaving the spool spring (Item 150) free.
+Clamp the spool nut (Item 90) in the vise upside
+down and unscrew the inner spool (Item 70).
+Disassemble the inlet nozzle, outer spool
+(Item 80), and inner spool and remove all seals.
+Examine the inlet nozzle the same as the
+outlet nozzle.
+7
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+• Place inner spool seal in groove of inner
+spool per Figure 3.
+• Place outlet seat O-ring on the inner spool
+shoulder. Do not lubricate.
+• Slide outer spool in place and push it down
+firmly to contact the outlet seat.
+• Place inlet nozzle over spool assembly.
+• Place inlet seat onto end of outer spool
+(do not lubricate O-ring).
+• Thread spool nut onto inner spool with
+the large recess end of the nut facing the
+inlet seat.
+• Clamp spool nut in a vise and tighten the
+inner spool using a flat screwdriver.
+• Remove assembly from vise and place inlet
+nozzle seal on inlet nozzle. Ensure seal fits
+over the nozzle shoulder.
+• Place spool spring in feedback piston.
+• Thread spool assembly into feedback piston,
+ensuring the spool spring is seated in the
+recess of the spool nut. Thread hand-tight.
+• Insert this assembly into the pilot body with
+the top of the feedback piston sticking out at
+the top. Holding the bottom of the assembly
+from below, insert the feedback seal onto the
+feedback piston. Push it down all the way into
+the gap between the feedback piston and the
+pilot body until it bottoms out in the body. Use
+appropriate end of the tool provided in the
+kit. For AED pilot, when inserting the spring
+energized PTFE seal, the spring end of the
+feedback seal should face upward, toward
+where the spacer will be installed.
+• Insert spacer into pilot body after the
+feedback seal. Using the installation tool,
+push sense seal into the body. For AED
+pilot, the spring end of the seal should face
+the spacer.
+• Push in the piston seal backup ring and then
+the sense piston with the lip-end facing down.
+• Place lock washer on sense piston and
+then thread the hex nut hand-tight onto the
+feedback piston.
+• Turn the assembly over and place the outlet
+nozzle seal in the shoulder in the pilot
+body. Ensure it bottoms out and fits snug
+in the body.
+• Assemble the outlet nozzle inside the pilot
+body with the raised center section end
+going in first.
+• Insert spool seal in the cavity between
+the inner spool and outlet nozzle.
+Push in the seal using the appropriate end of
+the tool included in the kit, ensuring that the
+seal bottoms out in the cavity. For the AED
+pilot, install with the spring end of the seal
+facing the bottom of the pilot body.
+3.2 Assembly
+3.2.1 Standard pilot - gas or liquid service
+Pilot assembly steps are listed below and are
+generally in the reverse order of disassembly.
+Lightly lubricate elastomer O-rings with Dow
+Corning Molykote No. 33 Silicone grease or
+equivalent. Do not lubricate seats. Also do
+not lubricate PTFE or PEEK parts (if used in
+this valve). Lightly lubricate sliding surfaces,
+straight threads and spring washer pivot
+points with Dow Corning No. 33 Silicone
+grease or equivalent, except as specified
+below. If available, use Fluorolube LG-160
+on straight threads.
+Some steps below are specific to the AED
+(Anti-Explosive Decompression resistant)
+800 pilot, which uses some spring energized
+Teflon seals as opposed to all elastomer seals.
+• Clamp assembly facing down at hexagonal
+section/flats at base (larger end) of feedback
+piston in a vise. Using suitable spanner
+wrench (C-spanner), or punch that was
+used during disassembly, tighten assembly.
+Be careful to not damage the radius at
+the bottom of the inlet nozzle if using a
+spanner wrench.
+8
+3.2.2 Pilot accessories
+Assembly is done in reverse order of
+disassembly.
+For pilot with a field test assembly, lightly
+lubricate the indicator bushing threads and all
+seals with Dow Corning No. 33 Silicone grease
+or equivalent. Lightly lubricate the field test
+backflow preventer bushing threads and all
+seals with Dow Corning No. 33 Silicone grease
+or equivalent. When reinstalling the field test
+backflow preventer on the pilot, orient it so that
+the bushing end is connected to the supply tube
+(process) side.
+For pilot with a main valve backflow preventer
+and pilot exhaust backflow check valve, lightly
+lubricate the backflow preventer bushing
+threads, the check valve fitting threads, and all
+seals with Dow Corning No. 33 Silicone grease
+or equivalent. When reinstalling the backflow
+preventer in the main valve dome port or on the
+field test indicator, orient it so that the bushing
+end is connected to the pilot (process) side.
+CAUTION
+To avoid damaging any of the lift lever
+components, do not rotate the lift lever handle
+past that position where the cam surface of the
+handle assembly first contacts the lower face of
+the lift lever nut.
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Lift lever handle installation
+For pilot equipped with a lift lever, install the
+lift lever handle assembly (Item 310) after
+completing the final pilot adjustment.
+Screw the lift lever nut (Item 340) on the
+threaded portion of the lift lever rod (Item 330)
+until the lower face of the lift lever nut is
+approximately 2.32” above the top of the lock
+nut (Item 290). Use the jam nut (Item 350) to
+lightly lock the lift lever nut in place. Screw
+the cap on the set pressure adjustment screw
+(Item 270) until it is hand tight against the lock
+nut. The lower face of the lift lever nut should
+be even with the center of the threaded hole
+in the cap. If the lift lever nut is not positioned
+correctly, remove the cap and adjust the nuts
+as required, and reinstall the cap.
+With the lift lever handle held in the position
+shown in Figure 3, install the handle assembly
+by screwing the handle assembly bushing
+into the cap. The cam surface of the lift lever
+handle assembly must contact the lower
+face of the lift lever nut between 15° and 45°
+of clockwise or counterclockwise rotation of
+the handle past its null or centered position.
+• Next, place the inlet bushing seal on
+outlet nozzle.
+• Thread inlet bushing onto pilot body and
+hand-tighten. Place body in vise and fully
+tighten bushing onto body.
+• Flip the assembly in the vise right-side up.
+Grip the wrench flat at the top of the feedback
+piston and tighten the hex nut. Lubricate top
+of the feedback piston.
+• Place spring/ spring washers assembly
+on feedback piston. For pilot with lift lever,
+thread in the lift rod into the lower washer
+prior to this step.
+• Prior to assembling bonnet on pilot body,
+lubricate threads on the body. If available,
+especially for offshore applications,
+apply Never-Seez NG-165 lubricant (part
+number 05.1500.001).
+Note: Never-Seez is not included in the kit.
+• Tighten bonnet until hole in bonnet for the
+lock bolt lines up with corresponding hole in
+body. Thread the bonnet lock bolt and tighten.
+As before, use Never-Seez if available.
+• Lubricate the round end of the pressure
+set screw. Lubricate the set screw thread
+(use Never-Seez if available). Thread it into
+the bonnet. Thread the lock nut onto the
+set screw.
+• Set and test the pilot per section 4.
+• Thread the cap over the set screw. For pilots
+with lift levers, follow the procedure below.
+Resistance of the handle indicates contact has
+occurred. If resistance occurs at less than 15°,
+the lift lever nut must be positioned higher.
+If resistance first occurs at more than 45°,
+the nut must be positioned lower on the lift
+lever rod.
+If necessary, remove the handle assembly
+from the cap following the procedure of
+paragraph 3.1 and repeat this assembly
+procedure in order to correctly position the lift
+lever nut and jam nut on the threaded portion
+of the lift lever rod. When correctly positioned
+lock the lift lever nut with the jam nut, install
+and securely tighten the cap, install the handle
+assembly, and securely tighten the handle
+assembly bushing.
+9
+450
+330
+310
+290
+460
+350
+340
+270
+280
+50
+170
+440
+420
+170
+430
+180
+110
+120
+130
+60
+90
+390
+80
+140
+230
+30
+70
+20
+290
+270
+160
+260
+190*
+200*
+150
+140
+100
+240
+40
+210*
+220
+10
+300
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Standard assembly
+LIFT LEVER ASSEMBLY
+FIGURE 3 Item Description
+10 Body
+20 Bushing, inlet
+30 Nozzle, outlet
+40 Nozzle, inlet
+50 Bonnet
+60 Bolt, bonnet lock
+70 Spool, inner
+80 Spool, outer
+90 Nut, spool
+100 Piston, feedback
+110 Piston, sense
+120 Ring, piston seal backup
+130 Spacer, feedback
+140 Seat
+150 Spring, spool
+160 Set spring
+170 Washer, spring
+180 Washer, lock
+190 Seal, sense*
+200 Seal, feedback*
+210 Seal, spool*
+220 Seal, inlet bushing
+230 Seal, outlet nozzle
+240 Seal, inlet nozzle
+260 Nut, hex
+270 Screw, pressure set
+280 Cap, standard
+290 Nut, lock
+300 Screen assembly
+310 Lift lever handle assembly
+330 Rod, lift lever
+340 Nut, jam lower
+350 Nut, jam upper
+390 Seal, inner spool
+420 Nameplate, pilot
+430 Nameplate, POSRV (Patent)
+440 Screw, drive
+450 Bushing, handle assembly
+460 Cap, lift lever
+* These seals are spring energized PTFE seals
+for the AED 800 pilot.
+10
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Pilot exhaust backflow
+check valve (See Figure 5)
+Pilot
+Dome connection
+Main valve backflow
+preventer (See Figure 5)
+Main valve outlet
+Main valve inlet
+Field test indicator
+Field test backflow
+preventer
+(See Figure 5)
+FIGURE 4
+11
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+FIGURE 5
+Body
+Shuttle
+Shuttle seat
+Spring
+Bushing
+Bushing seal
+Bushing seat
+Bushing seal
+Bushing
+Shuttle
+Shuttle seat
+Body
+Backflow preventer
+(Standard prior to September 2002)
+Backflow preventer with bias spring
+(Standard beginning in September 2002)
+Ball
+Flow washer
+Check valve seal
+Pilot exhaust backflow check valve
+Field test indicator assembly (style B)
+Plunger
+Plunger seal
+Spring
+Indicator seal
+Bushing
+Indicator bushing seal
+Field test port
+Body
+12
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+4 PILOT SET PRESSURE ADJUSTMENT
+4.1 Definitions
+Set pressure is defined as the supply pressure
+at which the dome pressure is 70% of the
+supply pressure. This corresponds to the initial
+audible discharge of gas or first steady stream
+of liquid from the main valves.
+Crack pressure is defined as the supply
+pressure at which gas flow begins at the pilot
+exhaust.
+Reseat pressure is defined as the supply
+pressure at which the dome pressure increases
+to 75% of supply pressure. The dome pressure
+will continue to increase until the supply
+pressure decreases to 95% of set.
+4.2 Set pressure
+4.2.1 Gas service pilot
+To adjust the set pressure, a test set-up similar
+to that shown in Figure 6 should be used. The
+test media should be air. The adjustment screw
+should be turned IN most of the way. Increase
+the supply pressure to nameplate setting and
+slowly back out the adjustment screw until
+flow through the pilot exhaust begins. Continue
+to slowly back out the adjustment screw until
+dome pressure is 70% of the supply pressure
+and the supply pressure meets the required
+set pressure tolerance of paragraph 4.4. After
+adjustment is completed, securely tighten the
+jam nut.
+To determine reseat pressure, shut off the air
+supply and use the accumulator vent valve to
+slowly reduce the supply pressure until the
+dome pressure is 75% of supply pressure.
+Close the shut-off valve and slowly open the
+bleed valve. When the dome pressure gauge
+reading is zero, the pilot may be removed
+from the test set-up.
+4.2.2 Liquid service pilot
+Note: for liquid service pilots, set pressure
+must be verified on liquid. An initial set
+pressure adjustment may be made with air
+as the supply pressure media using a test
+set-up similar to that shown in Figure 6 and
+following the procedure described in paragraph
+4.2.1 above. This initial set pressure will be
+approximately 1½% lower than the set pressure
+observed when the pilot is tested on liquid.
+To adjust the set pressure, a test set-up similar
+to that shown in Figure 7 should be used. The
+test media should be water. Some air volume
+must be maintained above the water surface
+in the accumulator.
+Increase the air supply pressure to nameplate
+setting and slowly back out the adjustment
+screw until water flow through the pilot
+exhaust begins. Continue to slowly back out the
+adjustment screw until dome pressure is 70%
+of the supply pressure and the supply pressure
+meets the required set pressure tolerance of
+paragraph 4.4.
+To determine reseat pressure, shut off the air
+supply and use the accumulator vent valve to
+slowly reduce supply pressure until the dome
+pressure is 75% of supply pressure.
+Close the shut-off valve in the water line to
+the pilot inlet port and slowly open the bleed
+valve. When the dome pressure gauge reading
+is zero, the pilot may be removed from the test
+set-up.
+The optional indicator assembly shown in
+Figure 7 may be used for set pressure above
+70 psig. If an indicator assembly is used,
+slowly increase the supply pressure until the
+indicator pin pulls into the indicator assembly
+and is approximately flush with the end of the
+indicator body. The pressure when the pin pulls
+in is the set pressure. Loosen the jam nut,
+adjust the adjustment screw, and retighten the
+jam nut as required to meet the set pressure
+tolerance of paragraph 4.4.
+Shut off the air supply and use the accumulator
+vent valve to slowly bleed down supply pressure
+until the indicator pin “pops” out of the
+indicator assembly (full extension of the pin is
+approximately 7/16”). The pressure when the pin
+“pops” out is the reseat pressure.
+Close the shut-off valve in the water line to
+the pilot inlet port and slowly open the bleed
+valve. When the dome pressure gauge reading
+is zero, the pilot may be removed from the
+test set-up.
+13
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+FIGURE 6
+Pilot adjustment test set-up Set pressure adjustment
+(turn in to increase set pressure)
+(turn out to decrease set pressure)
+Bleed valve
+Dome pressure gauge
+Supply pressure gauge
+Block valve
+Mounting stub
+Pilot exhaust port
+Flexible hose
+(to inlet port)
+Shut-off valve
+Accumulator
+(approx. ¼ cu ft)
+Air supply
+Vent valve
+4.3 Range of adjustment
+Do not change set pressure from the factory setting. If the set pressure needs to change, contact
+the nearest authorized service center or factory in order to determine if the new set pressure is
+within the design range of the parts in the valve.
+4.4 Performance requirements
+Set pressure Tolerance Crack pressure
+(psig) as % of set as % of set Reseat pressure
+1481 to 6170 inclusive ±3% Min 96% 96 to 100
+14
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Pilot exhaust
+port
+Flexible hose
+(to inlet port)
+Optional indicator
+assembly installation
+Shut-off valve
+Shut-off valve
+(optional isolation valve)
+Shut-off valve
+Shut-off valve (optional)
+Indicator assembly (optional)
+Indicator
+Solid bar w/threaded ends
+Supply pressure gauge
+Air supply
+Water supply
+Block valve
+Drain
+Block valve
+Dome pressure gauge Bleed valve
+Set pressure adjustment
+(turn in to increase set pressure)
+(turn out to decrease set pressure)
+Vent
+valve
+Accumulator
+(approx. ¼ cu ft)
+FIGURE 7
+15
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+5 VALVE ASSEMBLY TESTING
+5.1 General
+The complete valve assembly should be tested
+for internal and external leakage and to verify
+set pressure using a test set-up similar to
+that shown in Figure 8, 9 or 10. The test media
+should be air.
+CAUTION
+Do not test liquid service valves using water or
+other liquid test media. Liquid service valves
+should be tested using air as the test media in
+accordance with the procedures described below.
+Testing fully assembled liquid service valves
+using air ensures that no water or other liquid
+will remain in the main valve dome after final
+valve testing.
+5.2 Low pressure leakage check
+5.2.1 Valve for gas service
+Slowly increase the supply pressure to 30%
+of set pressure. Check for main valve nozzle,
+seat, and piston seal leakage at the main valve
+outlet. To help in seating the valve seat and
+piston seal, the valve may be actuated several
+times. No leakage shall occur in 15 seconds.
+5.2.2 Valve for liquid service
+Slowly increase supply pressure to 30% of set
+pressure. Check for main valve nozzle, seat,
+and piston seal leakage at the main valve
+outlet. To help in seating the valve seat and
+piston seal, the valve may be actuated several
+times. No leakage shall occur in 15 seconds.
+If leakage is detected at the valve outlet, note
+the leakage in bubbles observed in 15 seconds
+and remove the leakage test device from the
+outlet flange. With the same supply pressure
+applied to the valve inlet, use a bubble test leak
+detector to measure leakage through the pilot
+exhaust. Low pressure leakage performance
+is acceptable if the leakage at the main valve
+outlet is equal to the pilot exhaust leakage and
+this leakage value does not exceed 15 bubbles
+in 15 seconds.
+5.3 High pressure leakage check
+5.3.1 Valve for gas service
+Apply supply pressure to the inlet equal to 90%
+of the set pressure. Check for leakage at the
+main valve outlet. Using a suitable gas and air
+leak detector solution, check for leakage at the
+cap seal and other pressure connections. No
+leakage shall occur at the valve outlet and no
+visible leakage shall be detected at the cap seal
+or other pressure connections in one minute.
+5.3.2 Valve for liquid service
+Apply supply pressure to the inlet equal to 90%
+of the set pressure. Check for leakage at the
+main valve outlet. Using a suitable gas and air
+leak detector solution, check for leakage at the
+cap seal and other pressure connections. No
+leakage shall occur at the valve outlet and no
+visible leakage shall be detected at the cap seal
+or other pressure connections in one minute.
+If leakage is detected at the valve outlet, note
+the leakage in bubbles observed in one minute
+and remove the leakage test device from the
+outlet flange. With the same supply pressure
+applied to the valve inlet use a bubble test leak
+detector to measure leakage through the pilot
+exhaust. High pressure leakage performance
+is acceptable if the leakage at the main valve
+outlet is equal to the pilot exhaust leakage and
+this leakage value does not exceed 60 bubbles
+in one minute.
+Where superimposed back pressure is
+specified, the downstream or exhaust
+connections which are exposed to the back
+pressure shall be tested at 1.5 times the
+specified back pressure and all mechanical
+connections so pressurized will be checked
+for leaks. No visible leakage shall occur in
+one minute using a suitable gas and air leak
+detector solution.
+16
+.10
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+5.4 Main valve function check
+CAUTION
+This test must be performed at a slow rate of
+pressure increase to ensure that the main valve
+does not go into full lift. The pressure applied
+to the inlet is not to exceed 105% of nameplate
+set pressure.
+After completing the high pressure leakage
+check of paragraph 5.3, verify main valve
+opening as follows. Remove the leakage test
+device from the outlet flange. Slowly increase
+the inlet pressure above 90% of set pressure.
+Continue increasing inlet pressure until an
+audible discharge at the valve outlet verifies
+main valve opening.
+Ported blind flange
+Inlet pressure gauge
+Supply
+¼” O.D. X .028 wall tube
+FIGURE 8
+Test set-up for valve with standard pilot
+17
+.10
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+¼” O.D. X .028 wall tube
+Ported blind flange
+Supply pressure gauge
+Supply
+FIGURE 9
+Test set-up for valve with standard pilot
+18
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+6 PILOT SET PRESSURE FIELD TEST
+PROCEDURE
+6.1 General
+The set pressure of valves equipped with field
+test accessory can be checked with the valve
+installed, in service, using a test set up similar
+to that shown in Figure 10. This procedure
+accurately checks the set pressure. For slow
+rates of test gas pressure increase, this
+procedure will also check the reseat pressure.
+The main valve will not open if the process
+pressure is less than set pressure. If the main
+must be opened, slowly increase the test gas
+pressure until the main valve opens. To close
+the main valve, close block valve “A” on the test
+gas bottle and open vent valve “C”.
+6.2 Procedure
+A. Remove plug from field test fitting and
+connect flex hose from test gas bottle.
+B. Close vent valve “C” on gas bottle, open
+block valve “A” to slowly pressurize pilot and
+observe test pressure gage. Set pressure is
+reached when the pressure gage shows a
+rapid reduction in pressure. Close valve “A”
+then open slowly to recycle the pilot enough
+to be certain of the set pressure.
+C. To remove set up, close block valve “A”,
+open vent valve “C”, remove flexible hose
+from field test fitting and install plug on field
+test fitting.
+Field test port
+Vent valve “C”
+Flexible hose
+Test gauge
+Block valve “A”
+Gas bottle
+FIGURE 10
+Field test indicator
+19
+ANDERSON GREENWOOD SERIES 800 POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+7 SOFT GOODS REPAIR KITS
+The kits listed below are available from stock. Each kit contain all the seals and seats to repair a
+main valve or pilot, including lubricants. Pilot kits also contain all the seals and seats for field test
+and backflow accessories. To ensure the correct soft goods kit is ordered, specify the valve model
+and serial number.
+TYPE 843/853
+Seat material Seal material
+1x2
+1½ x2 1½ x3* 2x3 3x4 4x6
+PEEK NBR 06.3365.077 06.3365.078 06.3365.079 06.3365.080 06.3365.081
+PEEK FKM 06.3365.083 06.3365.084 06.3365.085 06.3365.086 06.3365.087
+PEEK EPR 06.3365.089 06.3365.090 06.3365.091 06.3365.092 06.3365.093
+PEEK FKM VG109-90 11135221 11135224 11135226 11135227 11135228
+PEEK FKM FR25/90 11133636 11133637 11133638 11133640 11133641
+* Also 1½ x2 threaded valves with G and H orifice
+TYPE 863
+Seat material Seal material 1½ x2
+2x3 3x4 4x6
+2x3x3 3x4x4 4x6x6
+PEEK NBR 06.3365.079 06.3365.080 06.3365.081 06.3365.082
+PEEK FKM 06.3365.085 06.3365.086 06.3365.087 06.3365.088
+PEEK EPR 06.3365.091 06.3365.092 06.3365.093 06.3365.094
+7.2 Pilot kit part numbers
+Material Part number
+NBR 06.2869.001
+FKM 06.2869.002
+EPR 06.2869.003
+FKM VG109-90 11135196
+FKM FR25/90 11133550
+7.1 Main valve - kit part numbers
+20
+ANGMC-6021-EN © 2010, 2022 Emerson Electric Co. All rights reserved 01/22. Anderson Greenwood is a mark owned by one of the companies in the Emerson
+Automation Solutions business unit of Emerson Electric Co. The Emerson logo is a trademark and service mark of Emerson Electric Co. All other marks are the property
+of their prospective owners.
+The contents of this publication are presented for informational purposes only, and while every effort has been made to ensure their accuracy, they are not to be
+construed as warranties or guarantees, express or implied, regarding the products or services described herein or their use or applicability. All sales are governed by
+our terms and conditions, which are available upon request. We reserve the right to modify or improve the designs or specifications of such products at any time without
+notice.
+Emerson Electric Co. does not assume responsibility for the selection, use or maintenance of any product. Responsibility for proper selection, use and maintenance of
+any Emerson Electric Co. product remains solely with the purchaser.
+Emerson.com

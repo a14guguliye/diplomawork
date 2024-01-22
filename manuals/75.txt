@@ -1,0 +1,1031 @@
+TM
+IOM TopWorx engineers are happy to provide technical assistance on GO™ Switch products. However, it is the customer’s responsibility to determine the safety and suitability of the product in their application.
+It is also the customer’s responsibility to install the switch using the current electrical codes in their region. 70 Series
+Setting Up A 70 Series GO™
+Switch For Optimum Performance
+GO™ Switch 70 Series end sensing switches
+use three permanent magnets and a pushpull plunger to control a set of mechanical
+contacts. The center magnet simultaneously
+attracts the primary magnet and repels the
+bias magnet, pushing the connecting rod
+and common contact into the normally closed
+position, closing a contact circuit. When a
+ferrous or magnetic target enters the sensing
+area of the switch, it attracts the primary
+magnet, which pulls the connecting rod and
+common contact. The normally closed and
+normally open contacts change state.
+The sensing distance is the maximum
+distance between the switch and target when
+the switch first operates; the trip point. The
+differential, also known as deadband or
+hysteresis, is the distance that the target must
+move from the sensing area in order to allow
+the switch to reset.
+To apply the 70 Series GO™ Switch and
+obtain the least differential, the direction
+the target approaches the switch must
+be considered. Below are two possible
+orientations that illustrate the differences in
+target movement and the affects on switch
+differential.
+The measurements shown are nominal and
+can vary as much as .030-.050” depending
+on the material and size of target used in the
+application. As you can see, the best scenario
+for least differential is to orient the switch and
+target as shown in Orientation B. However,
+in this application, the possibility of getting
+debris be-tween the switch and target must
+also be considered.
+When trying to determine differential of
+an application, it is directly proportional
+to the distance the target will travel in the
+application. For example: a linear valve stroke
+is 1”. A switch is applied to indicate the closed
+position of the valve. Using Orientation A,
+the differential is 0.090 “. The ‘deadband’ is
+therefore 9% of travel. If the switch were reoriented, as shown in the Orientation B, the
+deadband would be only 2% of the total valve
+travel.
+Remember, there is no exact science to use
+when applying a GO™ Switch. However,
+once the switch is set, and the target travels
+to the same position every time (within .002”),
+the GO™ Switch will maintain calibration for
+life. Set it and forget it!
+Attachment of Conduit/Field Wiring
+– When using long runs of conduit, place
+supports close to the switch to avoid
+pulling switch out of position.
+– If switch is mounted on a moving part,
+be sure flexible conduit is long enough
+to allow for movement, and positioned to
+eliminate binding or pulling.
+– All conduit connected electrical devices,
+including GO™ Switches, are advised
+to be sealed against water ingression
+through the conduit system. See Figures
+1 and 2 for best practices.
+– Over sheathed or individual conductors
+must be mechanically protected against
+damage and appropriately terminated
+within a terminal or junction facility.
+– An external ground connection must
+be protected via external mounting
+device, cable connection or conduit.
+For hazardous locations/explosive
+atmospheres install per local Electrical
+Code. Dry contact devices, such as GO™
+Switch, maybe installed intrinsically safe with
+matched barrier. 70 Series is hermetically
+sealed and does not require the installation
+of a separate conduit seal in the conduit
+connected system (e.g. UL/CSA CL I/II Div1)
+For Hermetic seal per UL Standard, use
+7G-Series
+All GO™ Switches are “pure” contact
+switches, meaning they have no voltage
+drop when closed, nor do they have any
+leakage current when open. For multi-unit
+installation, switches may be wired in
+series or parallel, as shown below.
+Series Wiring
+Any number of GO™ Switches may be wired
+in series, without voltage drop. By contrast,
+solid state switches have about two volts drop
+across the switch when operated. In a 12
+volt solid state system with four switches in
+series, 8 volts is dropped across the switches.
+Only 4V is left to operate the load. When
+using GO™ Switches, 12V is still available
+to operate the load. (Except 7L - approx. 5V
+drop)
+Parallel Wiring
+When solid state switches are placed in
+parallel, there is about 100 micro amps
+leakage through each switch. If ten solid
+state switches were wired in parallel, the
+total leakage current would be 1000 microamps or one milliamp - sufficient current to
+indicate an “ON” condition to a programmable
+logic controller (PLC). Any number of GO™
+Switches may be wired in parallel, with
+no current leakage and without drawing
+operating current. (Except 7L - approx. 5V
+drop)
+Introduction
+GO™ Switches operate on the principle of
+magnetic attraction, reacting to ferrous metal
+or magnetic targets as they come within the
+switch’s sensing range.
+Although switches vary in design according to
+their intended applications, all GO™ Switches
+use permanent magnets which, when actuated
+by the presence of a ferrous or magnetic
+target, change the state of electrical contacts.
+Mounting
+- 70 Series GO™ Switches are unaffected by
+weld fields and RF interference.
+- 70 Series GO™ Switches may be mounted
+adjacent to or surrounded by ferrous metals
+however the proximity of ferrous metals will
+affect sensing distance. For the maximum
+rated sensing distance, avoid mounting near
+ferrous metals.
+- GO™ Switches sense ferrous materials such
+as mild steel, 400 series and 17/4 stainless
+steel.
+- Sensing and differential of switch may vary
+depending on target travel direction.
+- Avoid contact between target and switch.
+Configure mounting of switch and/or target
+so that target passes within the sensing area.
+Sensing range will vary according to model
+number and mass of target used.
+-Target magnets, available through TopWorx,
+will increase the sensing range of the switch.
+Reference sensing ranges in corresponding
+sections throughout the catalog.
+-For optimum performance, provide sufficient
+mass of target, and choose the appropriate
+GO™ Switch model to match the application
+requirements for operating frequency, type of
+load, etc.
+- Greater target mass and target movement
+fully into and out of sensing range will increase
+contact pressure. This is helpful in low current
+controls applications.
+- For heavy or inductive loads, arc
+suppression devices, or interposing relays are
+recommended for contact longevity. Contact
+factory for specifics.
+- Do not use excessive force on external
+threads when installing. For typical
+installations: Torque 3/8” threads to 60lbs-in
+(7 Nm) max. Torque 5/8” threads to 35 lbs.-ft.
+(47 N-m) max. Consult TopWorx technician for
+special installations.
+- Configure mounting so bracket dissects
+switch as close to the middle of the body as
+possible. This eliminates undue stress caused
+by heavy cables, connectors, etc.
+- Two appropriately sized jam nuts are included
+with switch. Lock washers are recommended
+where vibration is present.
+Specifications - SPDT
+Sensing Distance:
+Range with Target Magnet:
+Up to .35” (Model 71 & 72 up to .15”)
+Differential:
+Approx. .020” (.5mm)
+Thread Options:
+Response time:
+8 milliseconds
+Temperature Rating:
+* Reference certificates for variations to
+temperature rating.
+Contact Material:
+Palladium silver with Sawtooth surface
+configuration
+Contacts:
+Single Pole, Double Throw, Form C
+Electrical Ratings: Resistive
+71-77:
+4A @ 120VAC/3A @ 24VDC
+2A @ 240 VAC/1.25A @ 48VDC
+7L:
+.25A @ 120VAC/24VDC (approx. 5V drop)
+Target Material:
+Ferrous metal; optional target magnets
+Conduit Outlet:
+1/2” -14 NPT
+M20 x 1.5
+Enclosure Material:
+Stainless steel type 303, 316 optional;
+7L - 316 stainless steel
+Repeatability:
+.002” (0.05mm) Under identical operating
+conditions
+Specifications - DPDT
+Sensing Distance:
+.090” (2.3mm) end sensing (2000 PSI)
+Range with Target Magnet:
+up to .20” (5mm)
+Differential:
+Approx. .020”(.5 mm)
+Thread Option:
+Response time:
+8 milliseconds
+Temperature Rating:
+-40°F (-40°C) to 221°F (105°C)*
+HiTemp option to 400°F (204°C)*
+* Reference certificates for variations to
+temperature rating.
+Contact Material:
+Palladium silver with Sawtooth surface
+configuration
+Contacts:
+Double Pole Double Throw, 2 Form C.
+Electrical Ratings: Resistive
+3A @ 120VAC/1A @ 24VDC
+Target Material:
+Ferrous metal; Optional target magnets
+Enclosure Materials:
+Stainless Steel type 303, 316 optional
+Conduit Outlet:
+1/2”-14 NPT or 3/4-14 NPT
+M20 x 1.5 or M24 x 1.5
+Repeatability:
+.002” (0.05mm) typical under identical
+operating conditions
+Air and Hydraulic Cylinders
+A ferrous cylinder cushion or piston will actuate the switch. To determine the correct
+thread length, measure the distance from the head cap surface to the cushion and
+add 1/2" for seal nut.
+Thread seal nut onto switch. Screw switch into cylinder by hand until switch touches
+cushion. Back out 1/4 to 1/2 turn. Tighten seal nut.
+Cylinder Applications Switch Sealing Torque Values
+Models 71-72:
+3/8" Diam/12mm
+Torque Jam Nuts to:
+15 lbs-in to achieve seal at 2,000 PSI
+30 lbs-in to achieve seal at 5,000 PSI
+Do not exceed 60lbs.-in (7N-m)
+Models 73-76 & 7L:
+5/8” Diam/18mm
+Torque Jam Nuts to:
+15 lbs-ft to achieve seal at 2,000 PSI
+25 lbs-ft to achieve seal at 5,000 PSI
+Do not exceed 35lbs.-ft (47 N-m)
+FOR ADDITIONAL INFORMATION, SEE BULLETIN S-K037.
+To reduce risk of death, serious injury or property damage:
+• Personnel installing, maintaining, or operating this equipment must be qualified,
+must read, understand, and follow these instructions before proceeding.
+• This document must be retained for future reference. • Please contact local Topworx representative for questions, clarifications, or
+comments.
+EU Declaration of Conformity
+The products described herein, conform to the provisions of the following Union
+Directives, including the latest amendments:
+Low Voltage Directive (2014/35/EU)
+EMD Directive (2014/30/EU)
+UNION Directive (2014/34/EU).
+Safety Integrity Level (SIL), Models 73, 74, 75, 76, 77, 7G, 7H, 7I, 7J Highest SIL
+capability: SIL3 (HFT:1), as per IEC61508-2:2010
+Highest SC capability: SC3 (HFT:1), as per Clause 7.4.3
+Proof Test Interval: 1 Year
+GO™ Switch Hook-Up Diagrams
+N/O
+N/C
+COM
+LOAD
+LOAD
+71, 72, 73, 74, 75, 76, 77 & 7G, & I
+(Hermetically sealed) Models
+SPDT (Form C) Contacts
+May be wired from A (N/O) or B (N/C)
+N/O 1
+N/C 1
+COM 1
+COM 2
+N/C 2
+N/O 2
+LOAD
+LOAD
+LOAD
+LOAD
+DPDT (2 Form C) Contacts
+7G, 7H & 7I Models
+Sensing 0.100
+0.090 Differential
+Target
+Target MUST cover at
+least 50% of sensing face
+Orientation A
+0.100
+Sensing 0.100
+0.020 Differential
+Orientation B
+N/O
+N/C
+COM
+LOAD
+LOAD
+N/O 1
+N/C 1
+COM 1
+COM 2
+N/C 2
+N/O 2
+LOAD
+LOAD
+LOAD
+LOAD
+SPDT (Form C) Contacts
+May be wired Form A (N/O) or B (N/C) DPDT (2 Form C) Contacts
+71, 72, 73, 74, 75, 76, 77 &
+7G & I (Hermetically sealed) Models
+7G, 7H & 7I Models
+by weld fields and RF interference.
+- 70 Series GO™ Switches may be mounted adjacent to or surrounded by ferrous
+metals however the proximity of ferrous
+metals will affect sensing distance. For the
+maximum rated sensing distance, avoid
+mounting near ferrous metals.
+- GO™ Switches sense ferrous materials
+such as mild steel, 400 series and 17/4
+stainless steel.
+- Sensing and differential of switch may
+vary depending on target travel direction.
+- Avoid contact between target and switch.
+Configure mounting of switch and/or target
+so that target passes within the sensing
+area. Sensing range will vary according to
+model number and mass of target used.
+-Target magnets, available through TopWorx, will increase the sensing range of
+the switch. Reference sensing ranges in
+corresponding sections throughout the
+catalog.
+-For optimum performance, provide sufficient mass of target, and choose the
+appropriate GO™ Switch model to match
+the application requirements for operating
+frequency, type of load, etc.
+- Greater target mass and target movement fully into and out of sensing range will
+increase contact pressure. This is helpful in
+low current controls applications.
+- For heavy or inductive loads, arc suppression devices, or interposing relays are
+recommended for contact longevity. Contact factory for specifics.
+- Do not use excessive force on external
+threads when installing. For typical installations: Torque 3/8" threads to 60lbs-in (7 Nm) max. Torque 5/8" threads to 35 lbs.-ft.
+(47 N-m) max. Consult TopWorx technician
+for special installations.
+- Configure mounting so bracket dissects
+switch as close to the middle of the body
+as possible. This eliminates undue stress
+caused by heavy cables, connectors, etc.
+- Two appropriately sized jam nuts are
+included with switch. Lock washers are
+recommended where vibration is present.
+Thread Options:
+71, 72: 3/8-24 UNF; M12 x 1
+73-76, 7L: 5/8-18 UNF; M18 x 1
+Response time:
+8 milliseconds
+Temperature Rating:
+71-77: -40ºF (-40ºC) to 221ºF (105ºC) Std.*
+71-77,7G, 7H: HiTemp to 400ºF (204ºC)*
+7L: -40ºF (-40ºC) to 160ºF (71ºC)*
+* Reference certificates for variations to
+temperature rating.
+Contact Material:
+Palladium silver with Sawtooth surface
+configuration
+Contacts:
+Single Pole, Double Throw, Form C
+Electrical Ratings: Resistive
+71-77:
+4A @ 120VAC/3A @ 24VDC
+2A @ 240 VAC/1.25A @ 48VDC
+7L:
+.25A @ 120VAC/24VDC (approx. 5V drop)
+Target Material:
+Ferrous metal; optional target magnets
+Conduit Outlet:
+1/2" -14 NPT
+M20 x 1.5
+Enclosure Material:
+Stainless steel type 303, 316 optional;
+7L - 316 stainless steel
+Repeatability:
+.002" (0.05mm) Under identical operating
+conditions
+GO™ Switch Hook-Up Diagrams
+Response time:
+8 milliseconds
+Temperature Rating:
+-40°F (-40°C) to 221°F (105°C)*
+HiTemp option to 400°F (204°C)*
+* Reference certificates for variations to
+temperature rating.
+Contact Material:
+Palladium silver with Sawtooth surface
+configuration
+Contacts:
+Double Pole Double Throw, 2 Form C.
+Electrical Ratings: Resistive
+3A @ 120VAC/1A @ 24VDC
+Target Material:
+Ferrous metal; Optional target magnets
+Enclosure Materials:
+Stainless Steel type 303, 316 optional
+Conduit Outlet:
+1/2”-14 NPT or 3/4-14 NPT
+M20 x 1.5 or M24 x 1.5
+Repeatability:
+.002" (0.05mm) typical under identical
+operating conditions
+mon contact. The normally closed and
+normally open contacts change state.
+The sensing distance is the maximum
+distance between the switch and target
+when the switch first operates; the trip
+point. The differential, also known as
+deadband or hysteresis, is the distance
+that the target must move from the sensing
+area in order to allow the switch to reset.
+To apply the 70 Series GO™ Switch and
+obtain the least differential, the direction
+the target approaches the switch must be
+considered. Below are two possible orientations that illustrate the differences in
+target movement and the affects on switch
+differential.
+The measurements shown are nominal
+and can vary as much as .030-.050”
+depending on the material and size of
+target used in the application. As you can
+see, the best scenario for least differential
+is to orient the switch and target as shown
+in Orientation B. However, in this application, the possibility of getting debris between the switch and target must also be
+considered.
+When trying to determine differential of an
+application, it is directly proportional to the
+distance the target will travel in the application. For example: a linear valve stroke is
+1”. A switch is applied to indicate the
+closed position of the valve.
+Using Orientation A, the differential is
+0.090 “. The ‘deadband’ is therefore 9% of
+travel. If the switch were re-oriented, as
+shown in the Orientation B, the deadband
+would be only 2% of the total valve travel.
+Remember, there is no exact science to
+use when applying a GO™ Switch. However, once the switch is set, and the target
+travels to the same position every time
+(within .002”), the GO™ Switch will maintain calibration for life. Set it and forget it!
+Sensing 0.100
+0.090 Differential
+Target
+Target MUST cover at
+least 50% of sensing face
+Orientation A
+0.100
+Sensing 0.100
+0.020 Differential
+Orientation B
+for best practices.
+– Over sheathed or individual conductors
+must be mechanically protected against
+damage and appropriately terminated
+within a terminal or junction facility.
+– An external ground connection must be
+protected via external mounting device,
+cable connection or conduit.
+For hazardous locations/explosive atmospheres install per local Electrical Code. Dry
+contact devices, such as GO™ Switch,
+maybe installed intrinsically safe with
+matched barrier. When installed as explosion/flame proof, lead seal fittings
+required within 18" of switch.
+
+
+
+    
+
+
+  
+Conduit
+Water
+
+
+
+
+  
+
+
+
+
+
+
+Conduit
+Water
+Water drain
+Thread sealing
+compound
+RTV
+Figure 1. Incorrect
+Figure 2. Correct
+with four switches in series, 8 volts is
+dropped across the switches. Only 4V is
+left to operate the load. When using GO™
+Switches, 12V is still available to operate
+the load. (Except 7L - approx. 5V drop)
+Parallel Wiring
+When solid state switches are placed in
+parallel, there is about 100 microamps
+leakage through each switch. If ten solid
+state switches were wired in parallel, the
+total leakage current would be 1000 microamps or one milliamp - sufficient current to
+indicate an "ON" condition to a programmable logic controller (PLC). Any number of
+GO™ Switches may be wired in parallel,
+with no current leakage and without
+drawing operating current. (Except 7L -
+approx. 5V drop)
+30 lbs-in to achieve seal at 5,000 PSI
+Do not exceed 60lbs.-in (7N-m)
+25 lbs-ft to achieve seal at 5,000 PSI
+Do not exceed 35lbs.-ft (47 N-m)
+71, 72, 73, 74, 75, 76, 77 & 7G & I
+(Hermetically sealed) Models
+SPDT (Form C) Contacts
+May be wired from A (N/O) or B (N/C) DPDT (2 Form C) Contacts
+7G, 7H &7I Models
+70 Series GO™ Switch
+FOR ADDITIONAL INFORMATION, SEE BULLETIN S-K037.
+EU Declaration of Conformity
+The products described herein, conform to the provisions of the
+following Union Directives, including the latest amendments:
+Low Voltage Directive (2014/35/EU)
+EMD Directive (2014/30/EU)
+UNION Directive (2014/34/EU).
+Safety Integrity Level (SIL), Models 73, 74, 75, 76, 77, 7G, 7H, 7I, 7J
+Highest SIL capability: SIL3 (HFT:1), as per IEC61508-2:2010
+Highest SC capability: SC3 (HFT:1), as per Clause 7.4.3
+Proof Test Interval: 1 Year
+GO™ Switch
+N/O
+N/C
+COM
+LOAD
+LOAD
+N/O 1
+N/C 1
+COM 1
+COM 2
+N/C 2
+N/O 2
+LOAD
+LOAD
+LOAD
+LOAD
+SPDT (Form C) Contacts
+May be wired Form A (N/O) or B (N/C) DPDT (2 Form C) Contacts
+71, 72, 73, 74, 75, 76, 77 &
+7G & I (Hermetically sealed) Models
+7G, 7H & 7I Models
+- 70 Series GO™ Switches are unaffected
+by weld fields and RF interference.
+- 70 Series GO™ Switches may be mounted adjacent to or surrounded by ferrous
+metals however the proximity of ferrous
+metals will affect sensing distance. For the
+maximum rated sensing distance, avoid
+mounting near ferrous metals.
+- GO™ Switches sense ferrous materials
+such as mild steel, 400 series and 17/4
+stainless steel.
+- Sensing and differential of switch may
+vary depending on target travel direction.
+- Avoid contact between target and switch.
+Configure mounting of switch and/or target
+so that target passes within the sensing
+area. Sensing range will vary according to
+model number and mass of target used.
+-Target magnets, available through TopWorx, will increase the sensing range of
+the switch. Reference sensing ranges in
+corresponding sections throughout the
+catalog.
+-For optimum performance, provide sufficient mass of target, and choose the
+appropriate GO™ Switch model to match
+the application requirements for operating
+frequency, type of load, etc.
+- Greater target mass and target movement fully into and out of sensing range will
+increase contact pressure. This is helpful in
+low current controls applications.
+- For heavy or inductive loads, arc suppression devices, or interposing relays are
+recommended for contact longevity. Contact factory for specifics.
+- Do not use excessive force on external
+threads when installing. For typical installations: Torque 3/8" threads to 60lbs-in (7 Nm) max. Torque 5/8" threads to 35 lbs.-ft.
+(47 N-m) max. Consult TopWorx technician
+for special installations.
+- Configure mounting so bracket dissects
+switch as close to the middle of the body
+as possible. This eliminates undue stress
+caused by heavy cables, connectors, etc.
+- Two appropriately sized jam nuts are
+included with switch. Lock washers are
+recommended where vibration is present.
+Thread Options:
+71, 72: 3/8-24 UNF; M12 x 1
+73-76, 7L: 5/8-18 UNF; M18 x 1
+Response time:
+8 milliseconds
+Temperature Rating:
+71-77: -40ºF (-40ºC) to 221ºF (105ºC) Std.*
+71-77,7G, 7H: HiTemp to 400ºF (204ºC)*
+7L: -40ºF (-40ºC) to 160ºF (71ºC)*
+* Reference certificates for variations to
+temperature rating.
+Contact Material:
+Palladium silver with Sawtooth surface
+configuration
+Contacts:
+Single Pole, Double Throw, Form C
+Electrical Ratings: Resistive
+71-77:
+4A @ 120VAC/3A @ 24VDC
+2A @ 240 VAC/1.25A @ 48VDC
+7L:
+.25A @ 120VAC/24VDC (approx. 5V drop)
+Target Material:
+Ferrous metal; optional target magnets
+Conduit Outlet:
+1/2" -14 NPT
+M20 x 1.5
+Enclosure Material:
+Stainless steel type 303, 316 optional;
+7L - 316 stainless steel
+Repeatability:
+.002" (0.05mm) Under identical operating
+conditions
+GO™ Switch Hook-Up Diagrams
+7I: 1-14 UNF
+Response time:
+8 milliseconds
+Temperature Rating:
+-40°F (-40°C) to 221°F (105°C)*
+HiTemp option to 400°F (204°C)*
+* Reference certificates for variations to
+temperature rating.
+Contact Material:
+Palladium silver with Sawtooth surface
+configuration
+Contacts:
+Double Pole Double Throw, 2 Form C.
+Electrical Ratings: Resistive
+3A @ 120VAC/1A @ 24VDC
+Target Material:
+Ferrous metal; Optional target magnets
+Enclosure Materials:
+Stainless Steel type 303, 316 optional
+Conduit Outlet:
+1/2”-14 NPT or 3/4-14 NPT
+M20 x 1.5 or M24 x 1.5
+Repeatability:
+.002" (0.05mm) typical under identical
+operating conditions
+which pulls the connecting rod and common contact. The normally closed and
+normally open contacts change state.
+The sensing distance is the maximum
+distance between the switch and target
+when the switch first operates; the trip
+point. The differential, also known as
+deadband or hysteresis, is the distance
+that the target must move from the sensing
+area in order to allow the switch to reset.
+To apply the 70 Series GO™ Switch and
+obtain the least differential, the direction
+the target approaches the switch must be
+considered. Below are two possible orientations that illustrate the differences in
+target movement and the affects on switch
+differential.
+The measurements shown are nominal
+and can vary as much as .030-.050”
+depending on the material and size of
+target used in the application. As you can
+see, the best scenario for least differential
+is to orient the switch and target as shown
+in Orientation B. However, in this application, the possibility of getting debris between the switch and target must also be
+considered.
+When trying to determine differential of an
+application, it is directly proportional to the
+distance the target will travel in the application. For example: a linear valve stroke is
+1”. A switch is applied to indicate the
+closed position of the valve.
+Using Orientation A, the differential is
+0.090 “. The ‘deadband’ is therefore 9% of
+travel. If the switch were re-oriented, as
+shown in the Orientation B, the deadband
+would be only 2% of the total valve travel.
+Remember, there is no exact science to
+use when applying a GO™ Switch. However, once the switch is set, and the target
+travels to the same position every time
+(within .002”), the GO™ Switch will maintain calibration for life. Set it and forget it!
+Sensing 0.100
+0.090 Differential
+Target
+Target MUST cover at
+least 50% of sensing face
+Orientation A
+0.100
+Sensing 0.100
+0.020 Differential
+Orientation B
+the conduit system. See Figures 1 and 2
+for best practices.
+– Over sheathed or individual conductors
+must be mechanically protected against
+damage and appropriately terminated
+within a terminal or junction facility.
+– An external ground connection must be
+protected via external mounting device,
+cable connection or conduit.
+For hazardous locations/explosive atmospheres install per local Electrical Code. Dry
+contact devices, such as GO™ Switch,
+maybe installed intrinsically safe with
+matched barrier. When installed as explosion/flame proof, lead seal fittings
+required within 18" of switch.
+
+
+
+    
+
+
+  
+Conduit
+Water
+
+
+
+
+  
+
+
+
+
+
+
+Conduit
+Water
+Water drain
+Thread sealing
+compound
+RTV
+Figure 1. Incorrect
+Figure 2. Correct
+operated. In a 12 volt solid state system
+with four switches in series, 8 volts is
+dropped across the switches. Only 4V is
+left to operate the load. When using GO™
+Switches, 12V is still available to operate
+the load. (Except 7L - approx. 5V drop)
+Parallel Wiring
+When solid state switches are placed in
+parallel, there is about 100 microamps
+leakage through each switch. If ten solid
+state switches were wired in parallel, the
+total leakage current would be 1000 microamps or one milliamp - sufficient current to
+indicate an "ON" condition to a programmable logic controller (PLC). Any number of
+GO™ Switches may be wired in parallel,
+with no current leakage and without
+drawing operating current. (Except 7L -
+approx. 5V drop)
+15 lbs-in to achieve seal at 2,000 PSI
+30 lbs-in to achieve seal at 5,000 PSI
+Do not exceed 60lbs.-in (7N-m)
+15 lbs-ft to achieve seal at 2,000 PSI
+25 lbs-ft to achieve seal at 5,000 PSI
+Do not exceed 35lbs.-ft (47 N-m)
+71, 72, 73, 74, 75, 76, 77 & 7G & I
+(Hermetically sealed) Models
+SPDT (Form C) Contacts
+May be wired from A (N/O) or B (N/C) DPDT (2 Form C) Contacts
+7G, 7H &7I Models
+70 Series GO™ Switch
+FOR ADDITIONAL INFORMATION, SEE BULLETIN S-K037.
+EU Declaration of Conformity
+The products described herein, conform to the provisions of the
+following Union Directives, including the latest amendments:
+Low Voltage Directive (2014/35/EU)
+EMD Directive (2014/30/EU)
+UNION Directive (2014/34/EU).
+Safety Integrity Level (SIL), Models 73, 74, 75, 76, 77, 7G, 7H, 7I, 7J
+Highest SIL capability: SIL3 (HFT:1), as per IEC61508-2:2010
+Highest SC capability: SC3 (HFT:1), as per Clause 7.4.3
+Proof Test Interval: 1 Year
+GO™ Switch
+Figure 1. Incorrect
+Figure 2. Correct
+70 Series GO™ Switch
+GO™ Switch
+71 & 72: .040” (1.02mm) 2,000 PSI
+73-77, 7L: .100” (2.54mm) 2,000 PSI
+73-77: .072” (1.83mm) 5,000 PSI
+73-77: .060” (1.52mm)10,000 PSI
+71, 72: 3/8-24 UNF; M12 x 1
+73-76, 7L: 5/8-18 UNF; M18 x 1
+71-77: 40ºF (-40ºC) to 221ºF (105ºC) Std.*
+71-77,7G, 7H: -HiTemp to 400ºF (204ºC)*
+7L: -40ºF (-40ºC) to 160ºF (71ºC)*
+7G, 7H: 5/8”-18 UNF; M18 x 1
+7I: 1”-14 UNF
+TM
+IOM 70 Series
+Visit www.topworx.com for
+comprehensive information
+on our company, capabilities,
+and products – including
+model numbers, data sheets,
+specifications, dimensions, and
+certifications.
+info@topworx.com
+www.topworx.com
+GLOBAL SUPPORT OFFICES
+Americas
+3300 Fern Valley Road
+Louisville, Kentucky 40213 USA
++1 502 969 8000
+Europe
+Horsfield Way
+Bredbury Industrial Estate
+Stockport SK6 2SU
+United Kingdom
++44 0 161 406 5155
+Africa
+24 Angus Crescent
+Longmeadow Business Estate
+East
+Modderfontein
+Gauteng
+South Africa
++27 011 451 3700
+Asia-Pacific
+1 Pandan Crescent
+Singapore 128461
++65 6891 7550
+Middle East
+P.O. Box 17033
+Jebel Ali Free Zone
+Dubai 17033
+United Arab Emirates
++971 4 811 8283
+Special Conditions for Safe Use and Possible Misuse
+-The over sheathed or individual conductors must be suitably protected against
+mechanical damage and terminated within a terminal or junction facility suitable for
+the conditions of use.
+-Three wire/three pin devices are not provided with an external connection facility for
+the earthing or bonding conductor. It is the user's responsibility to ensure adequate
+earth continuity via the mounting arrangements.
+-Both contacts of the Double Throw and the separate poles of the Double Pole switch,
+within one proximity switch must form part of the same intrinsically safe circuit.
+-The proximity switches do not require a connection to earth for safety purposes,
+but an earth connection is provided which is directly connected to the metallic
+enclosure. Normally an intrinsically safe circuit may be earthed at one point only. If
+the earth connection is used, the implications of this must be fully considered in any
+installation. i.e. by the use of a galvanically isolated interface.
+- The switch must be
+supplied from a Certified
+Ex ia IIC intrinsically safe
+source
+- The flying leads must
+be terminated in a manner
+suitable for the zone of
+installation.
+- An external ground
+connection must be
+protected by an external
+mounting device and / or
+cable connections /conduits.
+- For 74 Series switch,
+operating and certified
+ambient temperatures are
+marked T6 / T85 °C (-20 °C
+≤ Ta ≤ +50 °C).
+DMD 4 Pin M12 Connector
+External ground must be
+used with 120VAC and
+voltages greater then
+60VDC when using the
+DMD connector
+The GO Switch can be
+wired as PNP or NPN
+depending on the desired
+application
+Ex db IIC T* Gb; Ex tb IIIC T* Db; IP66
+With PVC leads/cables: T6/T85°C, Tamb: -40°C to +50°C
+With TEFLON leads: T4/135°C, Tamb: -40°C to +100°C
+With PEEK leads: T3/T200°C, Tamb: -40°C to 150°C
+Model 72, 74, 76 with RAYCHEM cable: T6/85°C; T4/135°C; T3/200°C, Tamb: -55°C to +55°C/100°C/100°C
+Model 74 with NILTOX cable: T6/85°C, Tamb: -20°C to +50°C
+Baseefa 08ATEX0360X
+IECEx BAS 08.0122X
+120VAC/4A and 24VDC/3A for SPDT switches
+120VAC/3A and 24VDC/1A for DPDT switches
+Ex d IIC T* Gb; Ex tb IIIC T* Db; IP66
+With PVC leads/cables: T6/T85°C, Tamb: -40°C to +50°C
+With TEFLON leads: T4/135°C, Tamb: -40°C to +100°C
+With PEEK leads: T3/T200°C, Tamb: -40°C to 150°C
+Model 72, 74, 76 with RAYCHEM cable: T6/85°C; T4/135°C; T3/200°C, Tamb: -55°C to +55°C/100°C/100°C
+Model 74 with NILTOX cable: T6/85°C, Tamb: -20°C to +50°C
+UL-BR 18.0097X
+TC RU C-US.ГШ02.В.00063
+GYJ16.1507X
+120VAC/4A and 24VDC/3A for SPDT switches
+120VAC/3A and 24VDC/1A for DPDT switches
+Ex ia IIC T6 Ga, Ex ia IIIC T85°C Da (Tamb = -40°C to +50°C)
+Ex ia IIC T4 Ga, Ex ia IIIC T135°C Da (Tamb = -40°C to +100°C)
+Ex ia IIC T3 Ga, Ex ia IIIC T200°C Da (Tamb = -40°C to +150°C)
+Baseefa 09ATEX0173X
+IECEx BAS 09.0080X
+TC RU C-US.ГШ02.В.00061
+Ui = 30V and Ii = 250mA
+Reference Baseefa Certificate for special conditions.
+All area classifications are dictated by the model number. Reference GO™ Switch brochure for complete listing.
+For 7L Series with “E” approval the following statements apply:
+-This equipment is suitable for use in Class I, Division 2, Groups A,B,C & D, Class II, Division 2, Groups F&G and Class III or non-hazardous
+locations only.
+-Warning-Explosion Hazard- Substitution of components may impair suitability for Class 1, Division 2.
+-Warning-Explosion Hazard - Do not disconnect equipment unless power has been switched off or the area is known to be non-hazardous.
+The Emerson logo is a trademark and service mark of Emerson Electric Co. ©2016 Emerson Electric Co. ©2016 TopWorx™,
+All rights reserved. TopWorx™ and GO™ Switch, are all trademarks of TopWorx™. All other marks are the property of their
+respective owners. Information herein – including product specifications – is subject to change without notice.
+S-K029 AB
+3 Wire PVC & HiTemp Leads
+4 Wire PVC & HiTemp Leads
+3 Conductor PVC Cable
+4 Conductor PVC Cable & RAYCHEM
+High Temp Peek Insulated 3 wire
+SEE WIRE LABELS
+High Temp
+Peek Insulated
+7 Wire DPDT
+SEE WIRE
+LABELS
+DBA
+3 Pin Micro
+Connector
+Pin 1 - COM
+Pin 2 - N/C
+Pin 3 - N/O
+DBD
+4 Pin Micro
+Connector
+Pin 1 - COM
+Pin 2 - N/O
+Pin 3 - N/C
+Pin 4 - GND
+DPDT
+PVC
+Cable
+&
+7 Wire
+DPDT
+Silicone Cable
+4 Wire
+3DD - 3 Pin
+SUBSEA
+Connector
+Pin 1 - N/C
+Pin 2 - COM
+Pin 3 - N/O
+4DD - 4 Pin
+SUBSEA
+Connector
+Pin 1 - COM
+Pin 2 - N/O
+Pin 3 - N/C
+Pin 4 - GND
+DCA
+3 Pin Mini
+Connector
+Pin 1 - COM
+Pin 2 - N/C
+Pin 3 - N/O
+DCD
+4 Pin Mini
+Connector
+Pin 1 - COM
+Pin 2 - N/O
+Pin 3 - N/C
+Pin 4 - GND
+Silicone Cable - DPDT
+3DE - 3 Pin
+SUBSEA
+Right Angle
+Connector
+Pin 1 - COM
+Pin 2 - N/O
+Pin 3 - N/C
+4DE - 4 Pin
+SUBSEA
+Right Angle
+Connector
+Pin 1 - COM
+Pin 2 - N/O
+Pin 3 - N/C
+Pin 4 - GND
+PNP
+Wiring
+NPN
+Wiring
+DCH 7 Pin Mini
+Connector
+Pin 1 - N/O 2
+Pin 2 - COM 1
+Pin 3 - N/C 2
+Pin 4 - N/C1
+Pin 5 - COM 2
+Pin 6 - N/O1
+Pin 7 - GND
+0518 II 2GD
+0518 II 1GD
+N/O
+N/C
+COM
+LOAD
+LOAD

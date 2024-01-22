@@ -1,0 +1,564 @@
+Before installation, these instructions must be carefully read and understood.
+ANDERSON GREENWOOD 4142HF PRESSURE RELIEF VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+Emerson.com © 2021 Emerson. All rights reserved. VCIOM-16471-EN 21/05
+TABLE OF CONTENTS
+Tables and Figures
+Table 1 Seat Lap Band Width ....................... 6
+Table 2 Pallet Thickness .............................. 7
+Table 3 Pallet Pressure Ranges .................. 7
+Table 4 Equivalent Weights for
+Pressure Settings ............................ 9
+Table 5 Replacement Parts ....................... 10
+Figure 1 Valve General Assembly ................. 5
+Figure 2 Pallet Construction ......................... 8
+1. Safety Precautions ........................................ 2
+2. General Descriptions .................................... 2
+3. Operation ....................................................... 2
+4. Set Pressure Verification .............................. 3
+5. Installation ..................................................... 3
+6. Maintenance .................................................. 4
+7. Testing Set Pressure .................................... 7
+8. Pallet Identification ....................................... 7
+2
+ANDERSON GREENWOOD 4142HF PRESSURE RELIEF VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+1 SAFETY PRECAUTIONS
+Read and understand this instruction manual
+before installing, operating or performing
+maintenance on the Anderson Greenwood
+4142HF Pressure Relief Valve (PRV) following
+all precautions and warnings noted herein.
+NOTE
+This manual is issued for guidance only and does
+not affect our standard terms and conditions and
+our Product Limited Warranty, all of which are
+available on request.
+WARNING
+The relief valve must be isolated from tank
+pressure before servicing. All gas/vapour must
+be blocked and pressure safely vented. Wear
+appropriate protective clothing and breathing
+apparatus if hazardous gas/vapours are present.
+Use appropriate lifting equipment where required.
+3 OPERATION
+The Anderson Greenwood 4142HF PRV is a
+direct acting vent valve based on the weight of
+the pallet to keep the valve closed. When tank
+pressure acting on the seat sealing area equals
+the opposing force acting on the pallet, the
+valve is on the threshold of opening. Any further
+increase in pressure will cause the pressure
+pallet to lift allowing the contents of the tank to
+vent through the valve (out-breathing).
+In order for the valve to open and achieve its
+design lift, an overpressure will be required.
+The 4142HF PRV has been designed to achieve
+this design lift and rated capacity within 10%
+overpressure. Since the weight on the pallet
+determines the set pressure of the valve, the
+settings are changed by varying the weight on
+the pallet.
+2 GENERAL DESCRIPTION
+The Anderson Greenwood 4142HF PRV is
+employed in gas/vapour service applications
+for low pressure storage tanks, vessels or
+applications requiring low pressure protection
+with high capacity flow requirements. This
+product helps to prevent damage to the tank
+and also prevents the tank’s contents from
+escaping, ensuring the safety of personnel and
+the surrounding environment.
+Pressure relief valves are designed to limit the
+maximum pressure that can exist in a tank due
+to inflow of the tank contents or due to changes
+in temperature as a result of environmental
+conditions.
+• For ease of maintenance, both pressure and
+vacuum seats are removable.
+• Polytetrafluoroethylene (PTFE) coated
+internals are supplied as an all-weather
+option.
+3
+ANDERSON GREENWOOD 4142HF PRESSURE RELIEF VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+4 SET PRESSURE VERIFICATION
+If the pressure setting is to be verified prior to
+installation, it is recommended that a test rig
+with a suitable accumulator be used having the
+following general features:
+• Connection to the accumulator tank should
+ensure a negligible pressure drop between
+the accumulator and the test valve.
+• Observed pressure shall be measured in the
+accumulator tank.
+• The flange on which the valve is mounted
+shall be level.
+• The valve should be tested using clean air or
+nitrogen.
+Remove valve from shipping container and
+remove all packaging. Check that the pressure
+setting, the rated capacity and other details on
+the nameplate are correct.
+4.1 Set Pressure Verification
+For set pressure verification, the test apparatus
+needs to limit the maximum flow rate into
+the accumulator such that a pressure drop
+measured in the accumulator can be observed
+when the valve set pressure is reached.
+1. Ensure that the test rig is clean and fasten
+the valve securely to the test flange.
+2. Check nameplate for required set pressure.
+3. Increase the inlet pressure slowly until the
+pallet assembly can be seen to be gently
+lifting and reseating on the seat. The inlet
+pressure at this point is the adjusted set
+pressure and should coincide with the point
+at which no further rise in inlet pressure
+is observed. Repeat a further two times to
+ensure repeatability.
+4.2 Set Pressure Adjustment (See Figure 1)
+The valve has been factory set to the required
+setting, however, if it is necessary to make a
+set pressure adjustment this can be done as
+follows:
+1. Remove hex set screws [7] and washers [5]
+then remove cover [2] and O-ring [8].
+2. The set pressure can be increased or
+reduced by adding or removing lead weights
+which can be supplied in various settings.
+3. Refit cover [2] ensuring O-ring [8] is correctly
+installed and secure using hex set screw [7]
+and washers [5].
+CAUTION
+Whenever the cover is removed and re fitted,
+ensure correct engagement of the pallet stem in
+the weather hood guide tube.
+4. Repeat set pressure verification as per 4.1
+and repeat set pressure adjustment if
+required.
+If it is not possible to verify the set pressure on
+a test rig, the required setting can be verified
+by measuring the combined weight of the pallet
+and installed weights. Refer to Table 4 for
+combined weight and equivalent set pressures.
+5 INSTALLATION
+The mating connection to the tank should be
+flat machined horizontal flange and should be
+thoroughly cleaned to remove all foreign matter
+which could lead to valve leakage if trapped
+between the valve seat and the pallet. The bore
+diameter of the tank connection nozzle should
+be at least equal to the inlet bore of the valve
+connection. For correct valve operation, all
+discharge piping shall be adequately supported
+and there shall be no external loads applied to
+the valve body.
+Fit an inlet gasket to the mating flange
+ensuring it does not obstruct the flow path
+and install the valve. Ensure that the main axis
+of the valve is perpendicular. Flange bolting
+should be tightened uniformly to ensure a good
+seal.
+For valves of aluminium construction,
+appropriate flat face flanges should be used
+and a full face gasket fitted.
+NOTE:
+Storage tank inlet piping configurations should
+conform to recognised standards. Different
+configurations will develop different inlet pressure
+losses when the valve is flowing. This should be
+taken into consideration when sizing the valve for
+the application.
+It is recommended that the external surfaces
+of carbon steel valves are painted immediately
+after installation.
+Any discharge pipework should be adequately
+supported to prevent any loads being applied
+to the valve body and should have adequate
+drainage to prevent accumulation of liquids on
+the downstream side.
+Discharge pipework must be at least equal in
+size to the valve outlet and any built up back
+pressure in the discharge line should be limited
+to 10% of the valve set pressure.
+Discharge lines should be positioned so as
+to allow safe disposal of tank contents under
+relief conditions.
+4
+ANDERSON GREENWOOD 4142HF PRESSURE RELIEF VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+6 MAINTENANCE
+Regular inspection should be carried out to
+ensure that the pressure port is free from
+debris and that nothing preventing the correct
+operation of the valve is present. Maintenance
+should be performed at regular intervals and
+should be carried out by suitably qualified
+personnel in an appropriately equipped
+workshop. Alternatively, the valve should
+be returned to the manufacturer or suitably
+authorized agent for service/repair. During
+transport to the workshop the valve should
+be kept vertical to prevent damage to the
+internals.
+WARNING
+The relief valve must be isolated from tank
+pressure before servicing or removing. All gas/
+vapour must be blocked and pressure safely
+vented. Wear appropriate protective clothing and
+breathing apparatus if hazardous gas/vapours
+are present.
+6.1 Valve Disassembly (For reference
+numbers, see Figure 1)
+Before the valve is disassembled it should be
+thoroughly cleaned to remove potential hazards
+from process contamination.
+1. Seat Assembly
+• Remove hex set screws [7], washers [5],
+cover [2] and O-ring [8]. Remove shroud
+[3.4] and lift out pallet assembly [10]
+complete with pressure setting weights
+(for higher set valves, remove some of the
+lead before lifting out the pallet assembly).
+• Remove seat [3.1] complete with guide
+posts [3.2] by removing cap-screws [4].
+This will separate the upper body [1] from
+the inlet flange [9]. Remove gasket [6] and
+O-ring [3.3].
+6.2 Pallet Assemblies (For reference
+numbers, see Figure 2)
+1. VLP/LP Pallet assembly 2”, 3”, 4”
+Remove nut [4] and washer, where used [5],
+to release stem [3] from assembly. Separate
+pallet disc [2], diaphragm [6], pallet [1] and
+any weights taking care to identify weights
+removed to help re-assembly.
+2. VLP/LP Pallet assembly 6”, 8”, 10”, 12”
+Remove nut [4] and washer [5] to release
+stem [3] from assembly. Separate pallet
+disc [2], diaphragm [6], backing disc [7],
+spacer disc [8], pallet [1] and any weights
+taking care to identify weights removed to
+help re-assembly.
+3. HP Pallet assembly 2”, 3”, 4”, 6”
+Remove nut [4] and washer [5] to release
+stem [3] from assembly. Separate pallet
+disc [2], diaphragm [6], backing disc [7],
+spacer disc [8], disc [9], pallet [1] and any
+weights taking care to identify weights
+removed to help re- assembly.
+4. HP Pallet assembly 8”, 10”, 12”
+Remove nut [4] and washer [5] to release
+stem [3] from assembly. Separate pallet disc
+[2], diaphragm [6], backing disc [7], spacer
+disc [8], disc [9], pallet [1], support plate
+[10] and any weights taking care to identify
+weights removed to help re- assembly.
+5
+ANDERSON GREENWOOD 4142HF PRESSURE RELIEF VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+FIGURE 1
+Valve General Assembly
+PARTS LIST
+Item No. Description
+1 Upper Body
+2 Cover
+3 Seat Assembly
+3.1 Seat
+3.2 Vacuum Post
+3.3 O-ring
+3.4 Shroud
+4 Capscrew
+5 Washer
+6 Body Gasket
+7 Hex Set Screw
+8 O-ring
+9 Inlet Flange
+10 Pallet Assembly
+6
+ANDERSON GREENWOOD 4142HF PRESSURE RELIEF VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+6.3 Valve Refurbishment
+With valve in component parts thoroughly clean
+all surfaces with a suitable solvent and check
+for wear, corrosion or other forms of damage.
+Particular attention should be given to the
+sealing face of the valve seat.
+Sealing Face
+Slight damage can be removed by lapping the
+seat face (removing guide posts); however, care
+should be taken not to increase the width of
+the seat face beyond those given in table 1. If
+successive refurbishments or severe damage
+requires the seat to be re-machined, consult
+the factory for approved dimensions.
+Discard and replace any damaged parts plus all
+soft goods including:
+• O-rings
+• Diaphragms
+• Backing Disks
+• Spacer Disks
+• Gasket
+Also discard and replace the pallet disc.
+See table 5 for replacement parts.
+6.4 Pallet Reassembly (For reference
+numbers , see Figure 2)
+1. VLP/LP Pallet assembly 2”, 3”, 4”
+Assemble pallet [1], diaphragm [6], and
+pallet disc [2], to stem [3] and secure using
+washer where used [5], and nut [4].
+2. VLP/LP Pallet assembly 6”, 8”, 10”, 12”
+Assemble pallet [1], spacer disc [8], backing
+disc [7], diaphragm [6], and pallet disc [2],
+to stem [3] and secure using washer [5] and
+nut [4].
+3. HP Pallet assembly 2”, 3”, 4”, 6”
+Assemble pallet [1], disc [9], spacer disc [8],
+backing disc [7], diaphragm [6], and pallet
+disc [2], to stem [3] and secure using washer
+[5] and nut [4].
+4. HP Pallet assembly 8”, 10”, 12”
+Assemble support plate [10], pallet [1],
+disc [9], spacer disc [8], backing disc [7],
+diaphragm [6], and pallet disc [2], to stem [3]
+and secure using washer [5] and nut [4].
+If required, PTFE tape can be applied to stem
+threads and locking compound used to secure
+the nut.
+TABLE 1 - SEAT LAP BANDWIDTHS
+Valve Size,
+In. (mm)
+Nominal Width
+mm
+Max Width
+mm
+2 (50) 1.0 1.5
+3 (75) 1.0 1.5
+4 (100) 1.2 1.8
+6 (150) 1.5 1.8
+8 (200) 1.5 2.2
+10 (250) 2.0 3
+12 (300) 2.0 3
+6.5 Valve Re-assembly
+Re-assemble guide posts [3.2] (if removed)
+and O-ring [3.3] to seat [3.1]. Fit new gasket
+[6] between upper body [1] and inlet flange [9].
+Secure seat [3.1] and
+upper body [1] to inlet flange [9] using capscrews [4]
+ensuring that O-ring is not dislodged during
+assembly.
+Re install pallet ensuring the pallet slides easily
+between the guide posts. Return setting weights.
+Assemble shroud [3.4] which should be installed
+over the guide posts [3.2] before the cover is
+assembled.
+Assemble O-ring [8] to cover [2], assemble
+cover to upper body [1] ensuring that O-ring is
+not dislodged during assembly. Secure using
+washers [5], and hex set screws [7].
+CAUTION
+Whenever the cover is removed and re-fitted,
+ensure correct engagement of the pallet stem.
+7
+ANDERSON GREENWOOD 4142HF PRESSURE RELIEF VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+7 TESTING SET PRESSURE
+The pressure setting should be checked and if
+necessary adjusted as described in section 4.
+8 PALLET IDENTIFICATION
+The pressure setting should be checked and if
+necessary adjusted as described in section 4.
+1. Pressure Ranges
+There are three pallet designs with the
+following designations which each cover the
+respective pressure ranges given in table 3.
+• VLP This is a plain spun pallet suitable for
+very low pressures.
+• LP This is simillar to the VLP pallet appart
+from the material thickness and is
+suitable for slightly higher pressure.
+See table 3 for comparison of material
+thicknes.
+• HP This construction uses a substantial
+disc in combination with a spun pallet
+and is suitable for use up to the highest
+pressures.
+TABLE 2 - PALLET THICKNESS
+PALLET MATERIAL THICKNESS (mm)
+2" 3" 4" 6" 8" 10" 12"
+LP 1.0 1.0 1.0 1.5 1.5 1.5 1.5
+VLP 0.6 0.6 0.6 0.6 0.6 0.6 0.6
+Note the 2", 3' and 4" VLP and LP designs
+contain a recess in the pallet to act as an air
+cushion to assist seat tightness.
+Note the 8” 10” and 12” HP pallets also use
+a pallet support plate on the back face of the
+pallet.
+VLP / LP PALLET 2", 3" AND 4" HP PALLET 2", 3", 4" AND 6"
+VLP / LP PALLET 6", 8", 10" AND 12" HP PALLET 8", 10" AND 12"
+TABLE 3 - PALLET PRESSURE RANGES
+Size,
+In. (mm) Trim Material
+VLP Pallet LP Pallet HP Pallet
+Min Max Min Max Min Max
+2 (50) Aluminum 1.2 2.4 2.4 7.0 7.0 100
+316 SST 2.5 5.6 5.6 14.0 14.0 100
+3 (75) Aluminum 1.1 1.6 1.6 7.0 7.0 100
+316 SST 2.5 3.7 3.7 140 140 100
+4 (100) Aluminum 1.1 1.5 1.5 7.0 7.0 100
+316 SST 2.5 3.4 3.4 14.0 14.0 100
+6 (150) Aluminum 1.1 1.9 1.9 7.0 7.0 100
+316 SST 2.5 4.2 4.2 140 140 100
+8 (200) Aluminum 1.1 2.2 2.2 12 12 100
+316 SST 2.5 4.5 4.5 20 20 100
+10 (250) Aluminum 1.1 2.1 2.1 13 13 100
+316 SST 2.5 4.3 4.3 22 22 100
+12 (300) Aluminum 1.1 2.0 2.0 14 14 100
+316 SST 2.5 4.1 4.1 24 24 100
+8
+ANDERSON GREENWOOD 4142HF PRESSURE RELIEF VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+FIGURE 2
+Pallet Construction
+Pallet [1] Spacer Disc (8)
+Backing Disc (7)
+Diaphragm (6)
+Pallet Disc (2)
+Diaphragm [6]
+Pallet Disc [2]
+VERY LOW PRESSURE (VLP) AND LOW PRESSURE (LP) 2", 3", 4"
+HIGH PRESSURE (HP) 2", 3", 4", 6" HIGH PRESSURE (HP) 8", 10", 12"
+VERY LOW PRESSURE (VLP) AND LOW PRESSURE (LP) 6", 8", 10", 12"
+Pallet [1]
+Note: Washer item [5] not fitted to 2" and 3" VLP/LP
+Pallet [1] Pallet [1]
+Support Plate [10]
+Disc [9] Disc [9]
+Space Disc [8] Space Disc [8]
+Backing Disc [7] Backing Disc [7]
+Diaphragm [6] Diaphragm [6]
+Pallet Disc [2] Pallet Disc [2]
+9
+ANDERSON GREENWOOD 4142HF PRESSURE RELIEF VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+TABLE 4 - EQUIVALENT WEIGHTS FOR PRESSURE SETTINGS
+Inlet Size 2" 3" 4" 6" 8" 10" 12"
+Mean Sealing Area (in2
+) 4.53 9.971 17.603 39.662 69.829 109.563 156.894
+Setting (mbar) lb oz lb oz lb oz lb oz lb oz lb oz lb oz
+1 0 1.1 0 2.3 0 4.1 0 9.2 1 0.2 1 9.4 2 4.4
+2 0 2.1 0 4.6 0 8.2 1 2.4 2 0.4 3 2.9 4 8.9
+3 0 3.2 0 6.9 0 12.3 1 11.6 3 0.6 4 12.3 6 13.3
+4 0 4.2 0 9.3 1 0.4 2 4.8 4 0.9 6 5.8 9 1.7
+5 0 5.3 0 11.6 1 4.4 2 14.0 5 1.1 7 15.2 11 6.2
+6 0 6.3 0 13.9 1 8.5 3 7.3 6 1.3 9 8.7 13 10.6
+7 0 7.4 1 0.2 1 12.6 4 0.5 7 1.5 11 2.1 15 15.0
+8 0 8.4 1 2.5 2 0.7 4 9.7 8 1.7 12 11.5 18 3.5
+9 0 9.5 1 4.8 2 4.8 5 2.9 9 1.9 14 5.0 20 7.9
+10 0 10.5 1 7.2 2 8.9 5 12.1 10 2.2 15 14.4 22 12.3
+12 0 12.6 1 11.8 3 1.1 6 14.5 12 2.6 19 1.3 27 5.2
+14 0 14.7 2 0.4 3 9.2 8 0.9 14 3.0 22 4.2 31 14.1
+16 1 0.8 2 5.0 4 1.4 9 3.4 16 3.5 25 7.1 36 6.9
+18 1 2.9 2 9.7 4 9.6 10 5.8 18 3.9 28 10.0 40 15.8
+20 1 5.0 2 14.3 5 1.8 11 8.2 20 4.3 31 12.9 45 8.7
+22 1 7.1 3 2.9 5 9.9 12 10.6 22 4.8 34 15.7 50 1.5
+24 1 9.2 3 7.6 6 2.1 13 13.1 24 5.2 38 2.6 54 10.4
+26 1 11.3 3 12.2 6 10.3 14 15.5 26 5.6 41 5.5 59 3.3
+28 1 13.5 4 0.8 7 2.5 16 1.9 28 6.0 44 8.4 63 12.2
+30 1 15.6 4 5.5 7 10.6 17 4.3 30 6.5 47 11.3 68 5.0
+32 2 1.7 4 10.1 8 2.8 18 6.7 32 6.9 50 14.2 72 13.9
+34 2 3.8 4 14.7 8 11.0 19 9.2 34 7.3 54 1.1 77 6.8
+36 2 5.9 5 3.4 9 3.2 20 11.6 36 7.8 57 3.9 81 15.6
+38 2 8.0 5 8.0 9 11.3 21 14.0 38 8.2 60 6.8 86 8.5
+40 2 10.1 5 12.6 10 3.5 23 0.4 40 8.6 63 9.7 91 1.4
+42 2 12.2 6 1.2 10 11.7 24 2.8 42 9.1 66 12.6 95 10.2
+44 2 14.3 6 5.9 11 3.9 25 5.2 44 9.5 69 15.5 100 3.1
+46 3 0.4 6 10.5 11 12.0 26 7.7 46 9.9 73 2.4 104 12.0
+48 3 2.5 6 15.1 12 4.2 27 10.1 48 10.4 76 5.3 109 4.8
+50 3 4.6 7 3.8 12 12.4 28 12.5 50 10.8 79 8.1 113 13.7
+52 3 6.7 7 8.4 13 4.6 29 14.9 52 11.2 82 11.0 118 6.6
+54 3 8.8 7 13.0 13 12.7 31 1.4 54 11.6 85 13.9 122 15.4
+56 3 10.9 8 1.7 14 4.9 32 3.8 56 12.1 89 0.8 127 8.3
+58 3 13.0 8 6.3 14 13.1 33 6.2 58 12.5 92 3.7 132 1.2
+60 3 15.1 8 10.9 15 5.3 34 8.6 60 12.9 95 6.6 136 10.0
+62 4 1.2 8 15.6 15 13.4 35 11.0 62 13.4 98 9.5 141 2.9
+64 4 3.3 9 4.2 16 5.6 36 13.5 64 13.8 101 12.3 145 11.8
+66 4 5.4 9 8.8 16 13.8 37 15.9 66 14.2 104 15.2 150 4.6
+68 4 7.5 9 13.5 17 6.0 39 2.3 68 14.7 108 2.1 154 13.5
+70 4 9.6 10 2.1 17 14.1 40 4.7 70 15.1 111 5.0 159 6.4
+72 4 11.7 10 6.7 18 6.3 41 7.1 72 15.5 114 7.9 163 15.2
+74 4 13.8 10 11.3 18 14.5 42 9.6 74 16.0 117 10.8 168 8.1
+76 4 15.9 10 16.0 19 6.7 43 12.0 77 0.4 120 13.7 173 1.0
+78 5 2.1 11 4.6 19 14.8 44 14.4 79 0.8 124 0.5 177 9.9
+80 5 4.2 11 9.2 20 7.0 46 0.8 81 1.3 127 3.4 182 2.7
+82 5 6.3 11 13.9 20 15.2 47 3.2 83 1.7 130 6.3 186 11.6
+84 5 8.4 12 2.5 21 7.4 48 5.7 85 2.1 133 9.2 191 4.5
+86 5 10.5 12 7.1 21 15.5 49 8.1 87 2.6 136 12.1 195 13.3
+88 5 12.6 12 11.8 22 7.7 50 10.5 89 3.0 139 15.0 200 6.2
+90 5 14.7 13 0.4 22 15.9 51 12.9 91 3.4 143 1.9 204 15.1
+92 6 0.8 13 5.0 23 8.1 52 15.4 93 3.8 146 4.7 209 7.9
+94 6 2.9 13 9.7 24 0.3 54 1.8 95 4.3 149 7.6 214 0.8
+96 6 5.0 13 14.3 24 8.4 55 4.2 97 4.7 152 10.5 218 9.7
+98 6 7.1 14 2.9 25 0.6 56 6.6 99 5.1 155 13.4 223 2.5
+100 6 9.2 14 7.5 25 8.8 57 9.0 101 5.6 159 0.3 227 11.4
+10
+ANDERSON GREENWOOD 4142HF PRESSURE RELIEF VALVE
+INSTALLATION, OPERATION AND MAINTENANCE INSTRUCTIONS
+TABLE 5 - REPLACEMENT PARTS (REFER TO FIGURES 1 AND 2)
+Description Ref Usage Material
+Nominal Size
+2" 3" 4" 6" 8" 10" 12"
+Pallet Disc Fig 2 [2]
+Very low pressure Stainless steel 809736-228 809742-228 809748-228 809754-228 809760-228 809766-228 809772-228
+Low pressure Stainless steel 809397-228 809398-228 809399-228 809400-228 809443-228 809506-228 809522-228
+High pressure Stainless steel 809397-228 809398-228 809399-228 809400-228 809443-228 809506-228 809522-228
+Diaphragm Fig 2 [6]
+Very low pressure
+PFA 810044-574 810046-574 810048-574 809589-574 809592-574 809595-574 809598-574
+PTFE 809580-A29 809583-A29 809586-A29 809589-A29 809592-A29 809595-A29 809598-A29
+Low pressure
+PFA 810045-574 810047-574 810049-574 810314-574 810316-574 810318-574 810320-574
+PTFE 809581-A29 809584-A29 809587-A29 810314-A29 810316-A29 810318-A29 810320-A29
+High pressure PTFE 809582-A29 809585-A29 809588-A29 809591-A29 809594-A29 809597-A29 809600-A29
+Backing Disc Fig 2 [7]
+Very low pressure Gen Service N/A N/A N/A 809989-447 810050-447 810051-447 810052-447
+Low pressure Gen Service N/A N/A N/A 810313-447 810315-447 810317-447 810319-447
+High pressure Gen Service 809601-447 809602-447 809630-447 809604-447 809605-447 809606-447 809607-447
+Spacer Disc Fig 2 [8]
+Very low pressure Gen Service N/A N/A N/A 809990-447 810053-447 810054-447 810055-447
+Low pressure Gen Service N/A N/A N/A 809611-447 809612-447 809613-447 809614-447
+High pressure Gen Service 809608-447 809609-447 809610-447 809611-447 809612-447 809613-447 809614-447
+Body Gasket Fig 1 [6] HC501F Gen Service 809401-447 809402-447 809403-447 808422-447 809444-447 809507-447 809523-447
+O-ring
+Fig 1 [3.3] Seat
+Viton 809702-504 809703-504 809632-504 800397-504 809634-504 807878-504 800386-504
+Nitrile 809702-503 809703-503 809632-503 800397-503 809634-503 807878-503 800386-503
+PTFE 809702-502 809703-502 809632-502 800397-502 809634-502 807878-502 800386-502
+Fig 1 [8] Cover
+Viton 809630-504 809631-504 809633-504 809634-504 809640-504 809641-504 809642-504
+Nitrile 809630-503 809631-503 809633-503 809634-503 809640-503 809641-503 809642-503
+PTFE 809630-502 809631-502 809633-502 809634-502 809640-502 809641-502 809642-502
+When ordering replacement parts, specify
+relief valve by model number, pipe size and
+serial number. Identify replacement parts by
+part number, description and material where
+possible.
+WARNING
+This product is a safety related component and improper application, installation or maintenance of the
+valve or the use of parts or components not supplied by Emerson Automation Solutions Final Control
+UK Ltd may result in failure of the valve.
+The information and technical data contained in this document are subject to change without notice.
+Emerson Automation Solutions Final Control UK Ltd does not warrant that the specifications are
+current and assumes no responsibility for the use or misuse thereof. The purchaser should verify that
+there have been no changes to the specifications prior to use.
+VCIOM-16471-EN © 2021 Emerson Electric Co. All rights reserved 05/21. Anderson Greenwood is a mark owned by one of the companies in the Emerson Automation
+Solutions business unit of Emerson Electric Co. The Emerson logo is a trademark and service mark of Emerson Electric Co. All other marks are the property of their
+prospective owners.
+The contents of this publication are presented for informational purposes only, and while every effort has been made to ensure their accuracy, they are not to be
+construed as warranties or guarantees, express or implied, regarding the products or services described herein or their use or applicability. All sales are governed
+by our terms and conditions, which are available upon request. We reserve the right to modify or improve the designs or specifications of such products at any time
+without notice.
+Emerson Electric Co. does not assume responsibility for the selection, use or maintenance of any product. Responsibility for proper selection, use and maintenance of
+any Emerson Electric Co. product remains solely with the purchaser.
+Emerson.com

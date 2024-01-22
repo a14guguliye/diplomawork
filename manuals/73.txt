@@ -1,0 +1,276 @@
+Visit our website at Emerson.com/TOPWORX 1
+Features
+• Single Pole Double Throw (SPDT) 2A/240VAC, 4A/120VAC,
+3A/24VDC
+• AC/DC, NO/NC Wiring Flexibility
+• -50 °C to +105 °C (-58 °F to +221 °F) operating temperature
+• 2.5 mm (0.100 in) Sensing Distance (Ferrous metal)
+• Dry Contact
+• Intrinsically Safe
+• End Sensing
+• Palladium Silver Contacts
+• Stainless Steel 316L Housings
+Options
+• High Temperature: -50 °C to +204 °C (-58 °F to +400 °F)
+• Pressure Rating: 2,000, 5,000, 10,000 PSI, (140, 345, 690 bars)
+• Lead Wires or Cables
+• SubSea Connectors
+• Hermetic Seal
+• Quick Disconnects – Micro or Mini
+• 5/8” or M18 metric thread
+• Global Hazardous Area Approvals
+Approvals
+• Ex ia IIC T* Ga; Ex ia IIIC T* Da
+IECEx BAS 09.0080X / Baseefa 09ATEX0173X
+• PESO P400173 / P473610
+EAC RU C-US.ГШ02.B.00061
+• Ex db IIC T* Gb; Ex tb IIIC T* Db (DIP A21 T*)
+IECEx BAS 08.0122X / Baseefa 08ATEX0360X
+EAC TC RU C-US.ГШ02.B.00063
+NEPSI GYJ16.1507X
+PESO P396877
+KOSHA 14-AV4BO-0160X & 14-AV4BO-0161X
+InMetro UL-BR 18.0097X
+• Ex db eb IIC T* Gb; Ex tb IIIC T* Db
+Baseefa 09ATEX0281X / IECEx BAS 09.0135X
+KOSHA 14-KB4BO-0484X
+PESO P333425
+• USL/CNL Class I, Div 1, GrABCD; Class II, Div 1, GrEFG; Class III
+USL/CNL Class I, Div 2, GrABCD; Class II, Div 2, GrFG; Class III
+UL File E79070
+• USL/CNL General Purpose
+UL File E81878
+• Ex eC nC IIC T* Gc
+IECEx BAS 18.0044X / Baseefa 18ATEX0064X
+USL/CNL Class 1, GrABCD High Ambient Temp of 205⁰C
+Environmental Ratings: Type 4, 4X; IP 66/67/68
+Conformance to Directives: ATEX 2014/34/EU, EMC 2014/30/EU,
+LVD 2014/35/EU
+General Description
+The GO™ Switch Model 73 is the world’s most used and widely
+trusted leverless limit switch with no external moving parts, no
+springs or cams, and no reed element. There is nothing to wear or fail.
+Installation
+The 70 Series GO™ Switches can be installed in any
+position, directly with the threaded body or through
+mounting kits designed for the application.
+Construction
+Enclosure Material 316L Stainless Steel
+Mounting Thread 73 5/8-18 Threads
+Mounting Thread 73M M18
+Conduit Entry Hex Head
+Wiring Leads, Cables & QDC options
+TopWorx™ GO™ Switch
+Models 73 and 73M Series
+70
+PESO
+TR000438ENUS-01_09-21
+Availability, design and specifications are subject to change without notice. All rights reserved.
+2 Visit our website at Emerson.com/TOPWORX TR000438ENUS-01_09-21
+Codification
+Series
+70
+TopWorx™ GO™ Switch
+Models 73 and 73M
+Ordering Information
+Nomenclature guide below. Choose codes for desired feature(s). Not all feature combinations are compatible.
+Please consult TopWorx or Online “Configure Your Product” guide at www.topworx.com for confirmation.
+73 - 1 3 5 6 4 - A2
+Model
+73 5/8” - 18 mounting thread
+1/2” NPT conduit entry
+73M M18 - 1 mounting thread
+M20 conduit entry
+Contact Form
+1 SPDT
+Single Pole
+Double Throw
+Sensing Range
+3 Standard sensing
+.100” end sensing
+4 .072” end sinsing
+5 0.060” end sensing
+Area Classification
+2 HiTemp to 400°F
+3 UL Cl I, Div 1, Grps A-D; Cl II, Div 1, Grps E-G; Cl III
+4 cULus Cl I, Div 1, Grps A-D; Cl II, Div 1, Grps E-G; Cl III
+5 UL Cl I, Div 2, Grps A-D; Cl II, Div 2, Grps F-G; Cl III
+6 cULus Cl I, Div 2, Grps A-D; Cl II, Div 2, Grps F-G; Cl III
+K cULus Cl l, Div l; Grps A-D (-40°C ≤ Ta ≤ 205°C)
+7 cUL General Purpose
+8 UL General Purpose
+9 ATEX/IECEx Zone 1
+T ATEX/IECEx Zone 1
+F ATEX/IECEx Zone 0
+G ATEX/IECEx Zone 0
+H ATEX/IECEx Zone 0
+U ATEX/IECEx Zone 2
+X ATEX/IECEx Zone 1
+Y ATEX/IECEx Zone 1
+Wiring Options
+AX(A2 to A8) 18 Gauge , PVC insulated Lead Wires
+Lengths from (3’ to 250’)
+BX(B2 to B8) 18 Gauge , PVC insulated Cable
+Lengths from (3’ to 250’)
+FX(F2 to F8) 18 Gauge , Teflon Hi-Temp Lead Wires
+Lengths from (3’ to 250’)
+HX(H2 to H8) 18 Gauge , Peek Hi-Temp Lead Wires
+Lengths from (3’ to 250’)
+SX(S2 to S8) 18 Gauge , Silicone Blue Cable
+Lengths from (3’ to 250’)
+SubSea Connector
+3DD 3 pin
+4DD 4 pin
+3DE 3 pin 90°
+4DE 4 pin 90°
+Quick Disconnect
+DCA 3 pin
+DCD 4 pin
+Connection Head Terminals
+JAM Aluminum, M20 conduit entry
+JSM Stainless Steel, M20 conduit entry
+JAP Aluminum, 1/2” NPT conduit entry
+JSP Stainless Steel, 1/2” NPT conduit entry
+Outlet Position
+5 Bottom of enclosure
+Enclosure Material
+6 316L Stainless steel
+Visit our website at Emerson.com/TOPWORX 3TR000438ENUS-01_09-21
+Specification
+Electrical Ratings
+AC 4A@120V/2A@240V
+DC 3A@24V/1.25A@48V
+Operation rating examples based on calculation by maintaining the overall power rating
+Contact Resistance 0.5 Ohm Max
+Temperature Range -65°C to 205°C
+Environmental Rating TopWorx Certified: IP66/67/68, NEMA 4x/6/6P RoHS Compliant
+Frequency 50Hz
+Response Time 8 milliseconds
+Repeatablity 0.002"(0.5mm) typical
+SIL Rating
+MTBF
+System Compatibility Polarity NPN & PNP
+Configuration NO & NC
+TopWorx™ GO™ Switch
+Models 73 and 73M Series
+70
+Model 5 Years 15 Years 50 Years
+70 Series 99.78% 99.34% 98.44%
+Probability of failures/hour: 5.06E-08
+MTBF (Years) – 2,256
+Source: Report 70217010 SIRA Certification Service (CSA Group UK)
+*IEC 61508 standards are lab condition tests. Field conditions and various product features will affect performance.
+Results are not warranty claims but should be used to assess relative confidence of switch performing
+SIRA IEC 61508 Probability of Operation Confidence Level
+Sensing Distance Graph - Standard and with Optional Target Magnets
+Specfication
+TopWorx GO™ Switch Sensing Solutions
+70 Series
+Models: 73 and 73M
+Electrical Ratings GO™ Switches operate normally if the power rating is kept constant at the above mentioned values
+Examples based on calculations
+‐ AC: 2.5A @ 192V, 3A @ 160V
+‐ DC: 1.5A @ 48V, 2A @ 36V
+Product features
+Certification
+AC
+DC
+Contact Resistance
+Tempreature Range
+SIL Rating
+MTBF
+System Capablity
+4A @ 120V / 2A @ 240V
+3A @ 24V / 1.25A @ 48V
+0.5 Ohm Max
+‐65°C to 205°C 
+TopWorx Certified: IP 66/67/68,
+ NEMA 4x/6/6P
+RoHS Compliant
+IP Rating
+2.5
+8.6
+10.5
+5.8
+13
+1.8
+7.9
+9.8
+5.1
+12.3
+1.5
+7.6
+9.5
+4.8
+12
+0.5 0.7 0.85 0.3 0.58
+0
+2
+4
+6
+8
+10
+12
+14
+ Ferrous Target AMP3 AMS4 AMS7 AMS12
+*Sensing & Differential may varry by ± 0.2mm
+Sensing Range 3 Sensing Range 4 Sensing Range 5 Differential values are in mm
+Simple Apparatus
+Dry Contact
+Heavy Duty Hazardous use certified Long Lasting
+SpecficationTopWorx GO™ Switch Sensing Solutions
+70 Series
+Models: 73 and 73M
+Product features
+Certification
+2.5
+8.6
+10.5
+5.8
+13
+1.8
+7.9
+9.8
+5.1
+12.3
+1.5
+7.6
+9.5
+4.8
+12
+0.5 0.7 0.85 0.3 0.58
+0
+2
+4
+6
+8
+10
+12
+14
+ Ferrous Target AMP3 AMS4 AMS7 AMS12
+*Sensing & Differential may varry by ± 0.2mm
+Sensing Range 3 Sensing Range 4 Sensing Range 5 Differential values are in mm
+Simple Apparatus
+Dry Contact
+Heavy Duty Hazardous use certified Long Lasting
+*Sensing & Differential may varry by ± 0.2mm
+** See Codification
+Sensing Range 3** Sensing Range 4** Sensing Range 5** Differential
+4 Visit our website at Emerson.com/TOPWORX TR000438ENUS-01_09-21
+ Dimensions in inches [mm]
+2
+Enclosure Material 316L Stainless Steel
+5/8‐18 Threads Mounting Thread
+73
+73M
+Wiring
+M18
+Hex Head
+Leads,  Cables & QDC options
+Conduit Entry
+Zaxis
+M18 for metric body tube
+Series
+70
+TopWorx™ GO™ Switch
+Models 73 and 73M

@@ -1,0 +1,699 @@
+ANDERSON GREENWOOD SERIES 93 POSITIVE PRESSURE POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Before installation, these instructions must be carefully read and understood.
+WARNING
+Removal of the seal wires in an attempt to adjust
+and/or repair this product by unauthorized or
+unqualified persons voids the product warranty
+and may cause damage to equipment and serious
+injury or death to persons.
+The product is a safety related component
+intended for use in critical applications. The
+improper application, installation or maintenance
+of the product or the use of parts or components
+not manufactured by Anderson Greenwood may
+result in a failure of the product.
+SAFETY PRECAUTIONS
+When the pressure relief valve is under pressure
+never place any part of your body near the pilot
+exhaust nor the outlet of the main valve.
+The main valve outlet should be piped or vented
+to a safe location.
+Always wear proper safety gear to protect
+head, eyes, ears, etc. anytime you are near
+pressurized valves.
+Never attempt to remove the pressure relief
+valve from a system that is pressurized.
+Never make adjustments to or perform
+maintenance on the pressure relief valve while
+in service unless the valve is isolated from
+the system pressure. If not properly isolated
+from the system pressure, the pressure relief
+valve may inadvertently open resulting in
+serious injury.
+Remove the pressure relief valve prior to
+performing any pressure testing of the system.
+The safety of lives and property often depends
+on the proper operation of the pressure relief
+valve. The valve must be maintained according
+to appropriate instructions and must be
+periodically tested and reconditioned to ensure
+correct function.
+STORAGE AND HANDLING
+Pressure relief valve performance may be
+adversely affected if the valve is stored for an
+extended period without proper protection.
+Rough handling and dirt may damage, deform,
+or cause misalignment of valve parts and may
+alter the pressure setting and adversely affect
+valve performance and seat tightness.
+It is recommended that the valve be stored in
+the original shipping container in a warehouse
+or as a minimum on a dry surface with a
+protective covering until installation. Inlet and
+outlet protectors should remain in place until
+the valve is ready to be installed in the system.
+Emerson.com © 2017 Emerson. All Rights Reserved. VCIOM-03092-EN 22/01
+Doc. #05.9040.081 Rev. JA
+1 GENERAL VALVE DESCRIPTION AND
+START-UP
+1.1 Operation
+The Anderson Greenwood Pilot Operated Safety
+Relief Valves utilize the principle of backloading the top of a differential area diaphragm
+with line pressure to hold the diaphragm
+closed up to set pressure. At set pressure the
+pilot valve relieves, partially evacuating the
+dome (volume above the diaphragm) and the
+seat assembly lifts permitting discharge from
+the main valve. When the pilot reseats, line
+pressure is diverted to the dome closing the
+main valve.
+Installation and maintenance instructions for
+Series 93 Positive Pressure Pilot Operated
+Safety Relief Valves (POSRV).
+The intent of these instructions is to acquaint
+the user with the storage, installation and
+operation of this product. Please read these
+instructions carefully before installation.
+TABLE OF CONTENTS
+1. General valve description and start-up ....... 1
+2. Main valve maintenance ............................... 2
+3. Pilot maintenance ......................................... 4
+4. Pilot adjustment............................................ 6
+5. Accessory repair............................................ 8
+6. Leak testing assembly .................................. 9
+7. Pilot set pressure field test procedure........ 9
+8. Soft goods repair kits.................................. 10
+Any installation, maintenance, adjustment, test,
+etc. performed on the product must be done
+in accordance with the requirements of all
+applicable Anderson Greenwood procedures and
+instructions as well as applicable National and
+International Codes and Standards.
+2
+ANDERSON GREENWOOD SERIES 93 POSITIVE PRESSURE POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+1.3 Start-up
+There must be pressure at the valve inlet
+to establish a differential in force across
+the diaphragm and “load” it in the closed
+position. Pressure must pass through the pilot
+supply tube and pilot and exert force on the
+diaphragm. On normal start-up the valve loads
+itself without incident as pressure increases.
+Block valves are often used under safety valves
+in order to isolate them when maintenance
+is required. When putting the safety valve in
+service be sure the block valve is fully opened.
+If the block valve is opened after system startup, the safety valve may briefly vent to the
+atmosphere before the dome gets pressurized.
+It will then close.
+2 MAIN VALVE MAINTENANCE (REFER TO
+FIGURES 2 AND 2A)
+2.1 Valve configuration
+Two different valve internals are used in the
+main valve, depending on set pressure. The
+sponge seat is used for the set pressures
+shown above. The O-ring seat with guide is
+used for all pressures above these values. For
+some applications, a guide may be used in
+place of Item 11 with a sponge seat.
+SET PRESSURES WHERE SPONGE SEAT
+IS USED
+Valve size Set pressure (psig)
+2 x 3 Below 2.5 psig
+3 x 4 Below 1.5 psig
+4 x 6 Below 1.0 psig
+6 x 8 Below 1.0 psig
+8 x10 Below 1.0 psig
+10 x12 Below 1.0 psig
+12 x16 Below 1.0 psig
+2.2 Disassembly
+Disconnect the supply tube from the pilot,
+remove the cap bolts, lift the cap from the valve
+body and lift the diaphragm, seat and guide
+(where used) from the valve. Remove the seat
+bolt(s) to separate the diaphragm from the
+seat, guide, and retainer plates.
+Outlet
+Inlet
+Pilot valve
+Supply tube
+Nameplate
+External
+blowdown
+adjustment
+Main valve
+(typical)
+FIGURE 1
+2.3 Repair
+Inspect the nozzle seating area for nicks or
+scratches. If they cannot be removed with
+crocus cloth or fine sandpaper, the nozzle must
+be remachined. On steel valves the nozzle
+may be removed from the body. Machining of
+the nozzles should be limited to .06” material
+removal.
+2.4 Assembly
+Reassemble the diaphragm, seat guide,
+and pilot supply tube in the reverse order of
+disassembly. Apply a light film of lubricant to
+all threaded parts. Care should be taken to
+adequately tighten the seat bolt(s) on those
+valves with guides to prevent the diaphragm
+from pulling away from the bolt under
+pressure.
+On valves with sponge seats (no guide), the
+seat bolt need not be tightened as much since
+these valves are used at lower pressures and
+excessive tightening will distort the seat.
+Carefully insert the guide (where used) squarely
+into the nozzle and lower the diaphragm
+assembly into place. Align the holes on the
+diaphragm O.D. with those on the body.
+1.2 Installation
+Both inlet and outlet may be standard ANSI or
+DIN flange connections and are to be installed
+in accordance with accepted piping practices.
+The installed position of the safety valve should
+be in the upright position as shown in Figure 1.
+When remote pressure pick-up is used the pilot
+supply tube is connected to a remote location
+rather than to the inlet neck of the valve. If a
+block valve is used in the remote pilot supply
+line, be sure it is opened before pressurizing
+the system.
+Note: remote pressure pick-up piping must
+have the equivalent flow area of ½” tubing for
+lengths up to 20 feet. For lengths greater than
+20 feet, larger tubing or pipe should be used.
+For valves supplied with eyebolts, follow the
+instructions in Anderson Greenwood Pilot
+operated safety relief valves 05-9040-352
+(VCOSI-06034 Operating and Safety
+Instructions) pertaining to the safe use and
+storage of eyebolts.
+Refer to Anderson Greenwood Pilot operated
+safety relief valves 05-9040-372 (VCIOM-03099
+Winterization Guidelines) and 05-9040-352
+for more information regarding Winterization
+requirements.
+The guide spring, Item 3, is used to create
+frictional drag to prevent valve chatter caused
+by excessive inlet piping pressure losses. The
+tension of these springs is correct when the
+diaphragm/guide assembly slowly free falls to
+the closed position. If the assembly will not do
+this, adjust the spring tension by bending the
+tail or lower half of the spring.
+Refer to paragraph 8 for Soft goods repair kits.
+3
+ANDERSON GREENWOOD SERIES 93 POSITIVE PRESSURE POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+PARTS LIST
+Item Description
+1 Cap
+2 Retainer plate
+3 Guide spring
+4 Spring pin[1]
+5 Guide
+6 Dipper tube
+7 O-ring, seat*
+8 Diaphragm*
+9 Body
+10 Retainer, diaphragm
+11 Seat retainer
+12 Seat, sponge
+13 Top plate
+14 Pilot valve
+15 Nozzle
+16 Supply
+20 Seal, thread**
+21 O-ring*
+1. Used in 8" and larger valves only
+* Recommended spare parts for repair
+** Used with elastomer diaphragms only
+Sponge seat
+(no guide)
+See PTFE diaphragm
+deflector detail next page
+FIGURE 2
+4
+ANDERSON GREENWOOD SERIES 93 POSITIVE PRESSURE POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+PARTS LIST
+Item Description
+2 Retainer plate
+5 Guide
+7 O-ring, seat*
+8 Diaphragm*
+10 Retainer, diaphragm
+15 Nozzle
+17 Deflector
+18 Gasket, deflector*
+19 Guide bolt
+20 Gasket cap*
+* Recommended spare parts for repair
+PTFE diaphragm with deflector
+FIGURE 2A
+8", 10" and 12" sizes
+3 PILOT MAINTENANCE (REFER TO
+FIGURES 3 AND 4)
+3.1 Disassembly
+To facilitate assembly, place all parts removed
+in an orderly arrangement so the correct parts
+are assembled in the proper sequence. Refer to
+Figure 3 for parts description and location.
+3.1.1 Begin by removing spring bonnet
+(Remove the spring compression before
+attempting to removing bonnet).
+Remove case bolts and upper case.
+Loosen tube fittings on boost tube at
+lower case and body. Remove spindle
+nut while holding hex spacer. Remove
+diaphragms, sense and boost plates
+and spacers. Remove lower case
+and spindle/seat assembly. Remove
+blowdown adjustment screw and supply
+port tube fitting.
+Note: shim washers (33) may be in
+assembly to accomplish proper stack
+height. If so, note location and quantity.
+3.2 Assembly
+Assembly is done in the reverse order of
+disassembly.
+Lubricate all screw threads and end of spring
+adjusting screw that bears against spring
+washer. Use Down Corning No. 33 Silicone
+grease or equivalent. When assembling pilot,
+the following should be observed:
+3.2.1 Place seat/spindle assembly (11) into
+pilot body.
+Install spindle spacer (32) on top of shim
+washers. Lay straight edge across pilot
+body (14) and check gap between spindle
+spacer and straight edge. Add or remove
+shim washers (33) as required to have
+top of spindle spacer (32) even with top of
+body (14).
+3.1.2 Clean all parts and replace all soft
+goods. The spindle/seat assembly
+is factory assembled and must be
+replaced as a unit. If the nozzle is nicked
+or scratched, it should be replaced.
+To remove it, use a deep socket.
+5
+A
+A
+ANDERSON GREENWOOD SERIES 93 POSITIVE PRESSURE POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+3.2.2 The holes in spindle diaphragm must
+be aligned with all holes in the body.
+The small hole in lower case must be
+aligned with hole in the body. Two of the
+six case bolts for the medium pressure
+pilot (Figure 4) must be assembled
+though holes in the lower case before it
+is attached to the body. After attachment
+there is insufficient clearance to do so.
+3.2.3 For the medium pressure pilot the hole
+in the boost (lower) diaphragm and
+spacer ring must be aligned with boost
+tube port in lower case. The hole in the
+upper diaphragm must be positioned
+away from boost tube part.
+PARTS LIST
+Item Description
+1 Cap
+2 Pressure adj. bolt
+3 Bonnet
+4 Spring
+5 Sense plate
+6 Upper case
+7 Spacer ring
+8 Lower case
+9 Boost spacer
+10 Spindle diaphragm*
+11 Seat/spindle*
+12 Nozzle
+14 Body
+15 Vent
+17 Check plate
+18 Pilot diaphragm*
+19 Boost plate
+20 Sense spacer
+21 Blowdown needle
+22 Seal, body bolt*
+23 Filter screen
+26 Bonnet gasket*
+27 Boost tube seal*
+28 Diaphragm gaskets*
+29 Bushing seal*
+30 Blowdown seal*
+31 Spindle seal*
+32 Spindle spacer
+33 Shim washer
+* Recommended spare parts for repair
+Type 93
+(Rubber seat)
+View A-A
+Exhaust
+FIGURE 3
+3.2.4 Before tightening spindle nut, align
+holes in lower case, spacer ring and
+diaphragms with case bolts.
+Tighten spindle nut snugly but not
+excessively. Three diaphragms are
+sandwiched/stack assembly and
+excessive tightening will damage them.
+Hold the hex spacer when tightening
+spindle nut to prevent the stack from
+rotating.
+Refer to paragraph 8 for Soft goods repair kits
+6
+A
+A
+ANDERSON GREENWOOD SERIES 93 POSITIVE PRESSURE POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+PARTS LIST
+Item Description
+1 Cap
+2 Pressure adj. bolt
+3 Bonnet
+4 Spring
+5 Sense plate
+6 Upper case
+7 Spacer ring
+8 Lower case
+9 Boost spacer
+10 Spindle diaphragm*
+11 Seat/spindle*
+12 Nozzle
+14 Body
+15 Vent
+17 Check plate
+18 Pilot diaphragm*
+19 Boost plate
+20 Sense spacer
+21 Blowdown needle
+22 Seal, body bolt*
+23 Filter screen
+26 Bonnet gasket*
+28 Diaphragm gaskets*
+29 Bushing seal*
+30 Blowdown seal*
+31 Spindle seal*
+33 Shim washer
+* Recommended spare parts for repair
+View A-A
+FIGURE 4
+4 PILOT ADJUSTMENT
+4.1 General
+Two adjustments are provided; one for varying
+the pressure at which the pilot opens and
+one for varying the pressure at which the
+pilot closes. The first adjustment controls the
+“set” or “popping” pressure, the second the
+“reseat” or “blowdown” pressure. To adjust set
+pressure, a test set-up similar to that shown in
+Figure 5 should be used.
+4.2 Set pressure
+This adjustment is obtained by turning the
+pressure adjusting bolt, clockwise (in) to
+increase set pressure and counterclockwise
+(out) to decrease set pressure.
+4.3 Reseat pressure
+This adjustment is obtained by turning
+the blowdown needle adjusting screw,
+clockwise (in) to increase blowdown,
+counterclockwise (out) to decrease blowdown.
+A small interaction between set pressure
+and reseat pressure adjustments will occur,
+therefore it may be necessary to readjust the
+set pressure after setting reseat pressure.
+Note: if the blowdown adjusting screw has been
+moved or turned to either extreme, positioning
+it midway will aid in obtaining the correct
+blowdown. There are approximately 7 to 8 turns
+to obtain full travel of the adjustment.
+Midway from either end should produce a
+blowdown for “snap action”. For “modulating
+pilot action”, back the adjustment screw out
+(counter-clockwise) to obtain the adjustment
+limits given in paragraph 4.5.
+4.4 Range of adjustment
+All pilots can be adjusted + 10% beyond the
+nameplate setting.
+Medium pressure pilot
+(above 15 psig)
+7
+ANDERSON GREENWOOD SERIES 93 POSITIVE PRESSURE POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+4.5 Adjustment tolerances
+Pilot action[1] Set pressure
+Set pressure
+tolerance[2]
+Minimum crack pressure as %
+of nameplate set
+Supply pressure as % of set for
+dome pressure recovery[3]
+Snap 2”WC to 7”WC ± .2”WC 75 90 ± 1
+7”WC to 1.0 psig ±3% 90 90 ± 1
+Above 1.0 psig ±3% 95 92½ ± ½
+-2”WC to -7”WC ± .2”WC 75 90 ± 1
+-7”WC to -1.0 psig ±3% 90 90 ± 1
+-1 psi to -14.7 psig ±3% 95 92½ ± ½
+Modulating 2”WC to 7”WC ± .2”WC 75 100
+7”WC to 1.0 psig ±3% 90 100
+Above 1.0 psig ±3% 95 100
+-2”WC to -7”WC ± .2”WC 75 100
+-7”WC to -1.0 psig ±3% 90 100
+-1.0 psi to -14.7 psig ±3% 95 100
+NOTES
+1. Snap action - dome pressure decreases rapidly with a “snap” to 15% ± 10% of set pressure at set pressure.
+Pilot seat should be bubble tight at dome pressure recovery.
+Modulating action - dome pressure decreases slowly to 30% ± 5% of set pressure and recovers to 60% ± 10%
+of set pressure at set pressure.
+2. Adjust set pressure on test stand to 101% ± 1% of nameplate setting to allow for spring tension relaxation
+caused by compression of the elastomer in the diaphragm stack.
+3. Pilot seat should be bubble tight at dome recovery for “snap” pilot action and at 90% of set pressure for
+“modulating” pilot action for valves set above 7”WC. For valves set 7”WC and below, the pilot seat shall be
+bubble tight at 75% of set pressure.
+Pressure adjustment
+Pressure adjustment
+Pilot valve to be set
+Blowdown adjustment
+Adjustable
+pressure
+regulator
+(relieving type)
+Supply
+pressure gage
+Supply
+pressure Vent
+Supply port
+Supply
+½" FNPT
+ports
+Blowdown adjustment
+Dome pressure gage
+Dome pressure
+FIGURE 5
+Optional test set-up
+Accumulator
+½" pipe
+8
+ANDERSON GREENWOOD SERIES 93 POSITIVE PRESSURE POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+5 ACCESSORY REPAIR
+5.1 Check valve
+A check valve is used in the pressure sense
+line to the pilot when the safety valve is
+equipped with a field test or backflow preventer
+accessory. A check valve is also installed
+between the pilot dome connection and main
+valve when the safety relief valve is equipped
+with a backflow preventer.
+The check valve used in the pressure sense line
+is shown in Figure 6. This type of check valve is
+also used for the backflow preventer accessory
+between the pilot dome connection
+and main valve for set pressures below
+15 psig. The diaphragm is the only part that
+should require servicing. If the diaphragm
+is to be replaced, care should be taken not
+to scratch or distort it in the center nozzle
+sealing area. When reassembling the check
+valve, uniformly tighten the body bolts, first one
+side, then the opposite side until all are tight.
+DO NOT OVERTIGHTEN bolts as this will distort
+the diaphragm and cause leakage. For set
+pressures below 1.0 psig, a diaphragm gasket,
+Item 9, may be used between the diaphragm
+and lower body. If the check valve has one,
+replace it with a new one.
+If the check valve is not equipped with one,
+do not put one in.
+PARTS LIST
+Item Description
+1 Hex head cap screw
+2 Upper body
+3 Diaphragm
+4 Nut
+5 Lower body
+6 Spring pin
+7 Lockwasher
+8 Diaphragm support washer
+9 Diaphragm gasket
+PARTS LIST
+Item Description
+1 Body
+2 Spring
+3 Ball
+4 O-ring seat
+5 Tee
+FIGURE 6
+FIGURE 6A
+Flow
+Inlet
+Ref
+Outlet
+Pilot dome connection
+Flow
+Optional
+accessory port
+(normally
+plugged)
+To valve outlet
+The check valve used for the backflow
+preventer accessory between the pilot dome
+connection and main valve for set pressures
+15 psig and above is shown in Figure 6A.
+The O-ring, Item 4, is the only part that should
+require servicing. Remove Item 1 to replace
+O-ring.
+9
+ANDERSON GREENWOOD SERIES 93 POSITIVE PRESSURE POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+6 LEAK TESTING ASSEMBLY
+6.1 General
+The complete valve assembly should be leak
+tested for internal and external leaks using a
+pressure equal to 30% and 90% of set.
+6.2 Internal leak test
+Cover valve outlet with wet piece of paper and
+observe paper for movement. Any outward
+movement indicates a leak. If leakage is
+detected, remove paper and spray leak test
+solution around nozzle/seat to locate leak.
+Leakage my be caused by damaged seat
+sealing surface or improper squeeze of O-ring
+or sponge seat.
+6.3 External leak test
+Following the internal leak test, check for
+external leakage by applying leak test solution
+to all joints and seals. Tighten bolts or fittings
+as required.
+7 PILOT SET PRESSURE FIELD TEST
+PROCEDURE
+7.1 General
+The pilot set pressure can be checked in the
+field by applying an external test pressure to
+the pilot through the field test hand valve as
+shown in Figure 7.
+Note: if the process pressure at the time of test
+is less than approximately 30% of the pilot set
+pressure, the main valve will not open. If the
+process pressure is greater than 30% and the
+main valve must remain closed,
+temporarily replace the pilot exhaust vent with
+an orifice plug having an orifice diameter of
+.040”/.060”. This orifice must be removed on
+completion of field testing as it prevents the
+main valve from opening.
+7.2 Procedure
+A. Connect test gas bottle as shown in
+Figure 7.
+B. Close vent valve “C”.
+C. Open field test valve “B”. Test gauge will
+read process pressure.
+D. Open block valve “A” SLOWLY to increase
+pressure until pilot “pops”. The set pressure
+will be the pressure indicated on the test
+gauge at the time of pop.
+E. To remove test set up, close valves “A” and
+“B”, open valve “C”.
+FIGURE 7
+Field test valve "B"
+Flexible hose
+Test gage
+Block valve "A"
+Vent valve "C"
+Nitrogen
+bottle
+10
+ANDERSON GREENWOOD SERIES 93 POSITIVE PRESSURE POSRV
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+8 SOFT GOODS REPAIR KITS
+Soft goods repair kits contain all the seals,
+seats and diaphragms to repair a valve. To
+order a kit, specify the base number and select
+the last three digits from the following tables.
+To ensure the purchase of the correct repair
+kit, the order should specify the valve model
+and serial number.
+The external bolts on the main valve and pilot
+are 300 Series stainless steel. Corrosion of
+these fasteners may occur however due to local
+environmental conditions. The bolt kits listed
+below contain the necessary parts to replace
+these fasteners.
+Kit base number: 04.4744.XXX
+MAIN VALVE - SPONGE SEAT
+Kit Material 2 x 3 3 x 4 4 x 6 6 x 8 8 x 10 10 x 12 12 x 16
+Soft goods NBR .232 .242 .252 .262 .272 .282 .292
+FKM .233 .243 .253 .263 .273 .283 .293
+EPR .234 .244 .254 .264 .274 .284 .294
+NBR* .235 .245 .255 .265 .275 .285 .295
+FKM* .236 .246 .256 .266 .276 .286 .296
+Bolt SST .347 .348 .349 .350 .351 .351 .351
+* PTFE diaphragms
+PILOT
+Low pressure (below 15 psi)
+Kit Material Vacuum Pressure Medium pressure
+Soft goods NBR .010 .011 .012
+FKM .013 .014 .015
+EPR .016 .017 .018
+NBR* .019 .020 .896
+FKM* .021 .022 .897
+EPR* .023 .024 .898
+Bolt SST .342 .342 .343
+* PTFE diaphragms
+BACKFLOW PREVENTER CHECK VALVE
+Kit Type Material All pressure
+Soft goods Diaphragm PTFE .781
+Ball NBR .344
+FKM .345
+EPR .346
+Kalrez .782
+Bolt Diaphragm SST .335
+MAIN VALVE - O-RING SEAT
+Kit Material 2 x 3 3 x 4 4 x 6 6 x 8 8 x 10 10 x 12 12 x 16
+Soft goods NBR (5 psi and below) .237 .247 .257 .267 .277 .287 .297
+NBR (above 5 psi) .542 .543 .544 .545 .546 .547 .548
+FKM .238 .248 .258 .268 .278 .288 .298
+EPR .239 .249 .259 .269 .279 .289 .299
+NBR* .240 .250 .260 .270 .280 .290 .300
+FKM* .241 .251 .261 .271 .281 .291 .301
+Bolt SST .347 .348 .349 .350 .351 .351 .351
+* PTFE diaphragms
+VCIOM-03092-EN © 2015, 2022 Emerson Electric Co. All rights reserved 01/22. Anderson Greenwood is a mark owned by one of the companies in the Emerson
+Automation Solutions business unit of Emerson Electric Co. The Emerson logo is a trademark and service mark of Emerson Electric Co. All other marks are the property
+of their prospective owners.
+The contents of this publication are presented for informational purposes only, and while every effort has been made to ensure their accuracy, they are not to be
+construed as warranties or guarantees, express or implied, regarding the products or services described herein or their use or applicability. All sales are governed by
+our terms and conditions, which are available upon request. We reserve the right to modify or improve the designs or specifications of such products at any time without
+notice.
+Emerson Electric Co. does not assume responsibility for the selection, use or maintenance of any product. Responsibility for proper selection, use and maintenance of
+any Emerson Electric Co. product remains solely with the purchaser.
+Emerson.com

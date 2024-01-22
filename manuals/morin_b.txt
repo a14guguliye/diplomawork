@@ -1,0 +1,1283 @@
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+May 2020
+Biffi Morin Series A, B, C, and S
+Scotch Yoke Actuators
+Copyright © Biffi. The information in this document is subject to change without notice. Updated data sheets can be obtained from our website www.biffi.it or from your nearest Biffi Center:
+Biffi Italia s.r.l. - Strada Biffi 165, 29017 Fiorenzuola d'Arda (PC) – Italy PH: +39 0523 944 411 – biffi_italia@biffi.it
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Notes
+May 2020
+This page intentionally left blank
+i
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Table of Contents
+Table of Contents
+May 2020
+Table of Contents
+Section 1: Introduction
+1.1 General Application..................................................................................... 1
+1.2 Technical Data............................................................................................. 1
+1.3 Installation.................................................................................................. 1
+Section 2: Maintenance
+Maintenance......................................................................................................... 2
+Section 3: Jackscrew Override
+3.1 Jackscrew Operating Instructions................................................................ 3
+3.2 Actuator Stroke Adjustment........................................................................ 3
+3.3 Models 006 through 270 ............................................................................ 3
+3.4 Models 370, 575 and 740............................................................................ 4
+Section 4: Actuator Construction
+Actuator Construction.......................................................................................... 5
+Section 5: Manual Handpump Hydraulic Override
+5.1 Hydraulic Fluid Level ................................................................................. 13
+5.2 Remote Mounting the Handpump............................................................. 13
+Section 6: Integral Proximity Switch Mounting
+Integral Proximity Switch Mounting.................................................................... 14
+Section 7: Spring Conversion to change Operating Pressure
+Spring Conversion to change Operating Pressure................................................ 15
+Section 8: Failure Mode Change - Spring-Return
+Failure Mode Change - Spring-Return.................................................................. 16
+ii
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Table of Contents
+Table of Contents
+May 2020
+Section 9: Removal of Actuator from Valve
+Removal of Actuator from Valve.......................................................................... 17
+Section 10: Disassembly
+10.1 Disassembly of Symmetric Yoke Actuators ................................................ 18
+10.2 Disassembly of Canted Yoke Actuators...................................................... 20
+Section 11: Assembly
+11.1 Assembly of Symmetric Yoke Actuators .................................................... 21
+11.2 Spring-Return Only ................................................................................... 26
+11.3 Assembly of Canted Yoke Actuators .......................................................... 27
+Section 12: Operating Instructions
+Operating Instructions........................................................................................ 28
+Section 13: Important Safeguards
+Important Safeguards......................................................................................... 29
+Section 14: Additional Safety Instructions for Actuators
+used in a Potentially Explosive Atmosphere
+under ATEX 2014/34/EU
+14.1 Marking .................................................................................................... 30
+14.2 Selection................................................................................................... 30
+14.3 Installation................................................................................................ 30
+14.4 Maintenance............................................................................................. 30
+Section 15: Additional Safety Instructions for Actuators
+used in Emergency Shut-down Service
+or IEC 61508 safety integrity level (SIL)
+Compliant Installations
+Additional Safety Instructions for Actuators used in Emergency
+Shut-down Service or IEC 61508 safety integrity level (SIL)
+Compliant Installations....................................................................................... 31
+1
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1 May 2020
+Introduction
+Section 1: Introduction
+1.1 General Application
+Actuators are designed for "ON-OFF" or modulating control of any quarter-turn ball,
+butterfly, rotary plug or damper style valve application.
+1.2 Technical Data
+1.3 Installation
+The actuator can be mounted parallel or perpendicular to pipeline. The actuator can
+be installed in any convenient position including vertical, horizontal or upside down.
+A. Bolt mounting bracket to actuator hand tight. Do not tighten yet.
+B. Install coupling on valve. Be sure rotary stops on valve are removed or adjusted
+to allow actuator stops to do the stopping.
+C. Install actuator and bracket to valve being sure to leave all fastener connections
+hand tight. If possible, stroke valve and actuator to a half open position 45° and
+physically shift actuator back and forth until coupling and all fasteners are relaxed
+then tighten all bolts and nuts. This procedure will accurately align valve stem to
+actuator output shaft and prolong valve stem seal life. Lift the actuator at a balance
+point near the center housing. Do not lift the weight of the valve, see Figure 1.
+D. Cycle valve / actuator assembly and observe for smooth operation.
+E. Adjust travel stops for perfect alignment in both open and closed positions.
+NOTICE
+If jackscrew override is installed, please refer to Section 3 for stroke adjustment.
+F. Tubing connections - some models utilize two pistons for added power.
+Spring-return (single acting) dual cylinders designs require one "jumper" to make
+the supply port common on both pistons. Double-acting (air to air) dual cylinder
+designs require two "jumpers". See Figure 2 for typical arrangement.
+!CAUTION
+Use correct length mounting bolts! Mounting bolts used in actuator mounting pad may
+interfere with the actuator rotary mechanism. Select bolts that will not extend more than
+two threads above the back of the mounting pad.
+Supply Pressure 40 - 160 psig (2.75 - 11 barg), see product nameplate
+Supply Medium any pneumatic fluid compatible with materials of construction
+Temperature Rating Standard Range: -20 °F to +210 °F (-28 °C to +99 °C)
+Optional Range: -65 °F to +300 °F (-54 °C to +149 °C)
+Angular Rotation 90 degrees ± 8 degrees
+Section 1: Introduction
+2
+SINGLE ACTING ACTUATOR
+TWO CYLINDERS WITH JUMPER
+DOUBLE ACTING ACTUATOR
+TWO CYLINDERS WITH JUMPER
+SUPPLY SUPPLY
+EXHAUST EXHAUST SOLENOID
+OR
+POSITIONER
+SOLENOID
+OR
+POSITIONER
+SINGLE ACTING ACTUATOR
+ONE CYLINDER
+DOUBLE ACTING ACTUATOR
+ONE CYLINDER
+SUPPLY SUPPLY
+EXHAUST EXHAUST SOLENOID
+OR
+POSITIONER
+SOLENOID
+OR
+POSITIONER
+UT SH
+SHUT
+OPEN
+OPEN
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Figure 2
+Section 2: Maintenance
+Actuators are factory lubricated and in general do not require periodic lubrication or
+maintenance while in service. Actuators should be visually inspected periodically for
+corrosion damage and promptly repaired. Actuators should be operated at least annually
+to assure proper operation.
+Figure 1
+Maintenance
+May 2020
+DOUBLE-ACTING ACTUATOR
+TWO CYLINDERS WITH JUMPER
+EXHAUST SOLENOID
+OR
+POSITIONER
+SUPPLY
+EXHAUST SOLENOID
+OR
+POSITIONER
+SUPPLY
+SINGLE ACTING ACTUATOR
+TWO CYLINDERS WITH JUMPER
+Section 2: Maintenance
+3
+OPEN
+OPEN
+SHUT
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Jackscrew Override
+Section 3: Jackscrew Override
+The jackscrew option is intended for infrequent or emergency on-site operation of the
+automated valve.
+3.1 Jackscrew Operating Instructions
+1. Disengage power supply and vent air from actuator.
+2. Operate the handwheel to drive the actuator into the desired position. Valve
+position can be verified by checking the actuator position indicator. For models
+006 through 270, the jackscrew must be returned to the fully retracted position
+before actuator can resume normal operation. Back the jackscrew out until it
+stops. Air will leak from the jackscrew unless it has been fully retracted against
+its internal seal.
+3.2 Actuator Stroke Adjustment
+The jackscrew has a built-in actuator stroke adjustment, see Figure 3 and 4.
+3.3 Models 006 through 270
+See Figure 3:
+1. Retract the jackscrew override completely by rotating counter clockwise.
+2. Loosen the lock nut and turn the brass adjusting screw to the desired position.
+The handwheel will rotate with the adjusting screw. Never make stroke
+adjustments by turning the handwheel only.
+3. Tighten lock nut.
+Figure 3 Jackscrew Override - Models 006 through 270
+May 2020
+Section 3: Jackscrew Override
+JACKSCREW FULLY RETRACTED JACKSCREW EXTENDED
+Jackscrew seal
+Seal
+Lock nut
+Jackscrew
+Stroke adjusting screw
+Note: Air escapes unless
+jackscrew is fully retracted
+Actuator stroke
+adjusting screw
+4
+OPEN
+SHUT
+OPEN
+SHUT
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Jackscrew Override
+Lock nut Lock nut
+Handwheel
+Stroke adjusting
+screw
+Sealed jackscrew
+assembly
+Stroke
+adjusting screw
+3.4 Models 370, 575 and 740
+See Figure 4:
+1. Retract the jackscrew override completely by rotating clockwise.
+2. Loosen the stroke adjusting screw and lock nut.
+3. Using the handwheel, turn the jackscrew to adjust the actuator to the
+desired position.
+4. Screw the adjusting screw until it stops and tighten lock nut.
+Section 3: Jackscrew Override
+May 2020
+Figure 4 Jackscrew Override - Models 370, 575 and 740
+5
+28 39 16 7 29 30
+43 41 24 32 18 19 20 31 35 25
+37 1 14 15 17 21 33 34 52 57
+38 27 46 4 26 2 13 53 55 56 49 50 54 51
+A
+A
+36
+5
+12
+6
+1
+3
+8
+9
+10
+11 42 48
+12
+1
+18 19 20
+13
+12
+1
+3 5 12b
+6b
+2
+5
+8
+22
+13c
+8a
+8a
+28 39 16 7 29 30
+43 41 24 32 18 19 20 31 35 25
+37 1 14 15 17 21 33 34 52 57
+38 27 46 4 26 2 13 53 55 56 49 50 54 51
+A
+A
+36
+5
+12
+6
+1
+3
+8
+9
+10
+11 42 48
+12
+1
+18 19 20
+13
+12
+1
+3 5 12b
+6b
+2
+5
+8
+22
+13c
+8a
+8a
+28 39 16 7 29 30
+43 41 24 32 18 19 20 31 35 25
+37 1 14 15 17 21 33 34 52 57
+38 27 46 4 26 2 13 53 55 56 49 50 54 51
+A
+A
+36
+12
+6
+1
+3
+9
+10
+11 42 48
+1
+18 19 20
+13
+12
+1
+6b
+2
+5
+8
+22
+13c
+8a
+8a
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Actuator Constructrion
+Section 4: Actuator Construction
+Single acting Spring-Return Two Pistons
+Models: 012, 046, 058, 059, 072, 100, 270, 344, 345, 420, 740, 944, 945, 1150, 1480,
+1929, 1930, 2380
+Single acting Spring-Return One Piston
+Models: 003, 006, 015, 023, 036, 050, 135, 210, 370 and 575
+Double-Acting Air to Air Two Pistons
+Models: 012, 059, 072, 100, 270, 345, 420, 740, 945, 1150, 1480, 1930, 2380
+Section 4: Actuator Construction
+May 2020
+6
+SECTION A-A, MODELS 003 - 1150
+YOKE SHOWN AT MID-STROKE,
+POINTER OMITTED FOR CLARITY
+SECTION A-A, MODELS 135 - 1150
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Actuator Construction
+SECTION A-A, MODELS 135 - 1150
+YOKE SHOWN AT MID-STROKE,
+POINTER OMITTED FOR CLARITY
+SECTION A-A, MODELS 003 - 1150
+Double-Acting Air to Air One Piston
+Models: 003, 006, 015, 023, 036, 050, 135, 210, 370, 575
+Single acting Spring-Return Two Pistons
+Models: 1485, 1934, 1935, 2385-5336
+Section 4: Actuator Construction
+May 2020
+7
+SECTION A-A, MODELS 1480 - 2380
+YOKE SHOWN AT MID-STROKE, POINTER OMITTED FOR CLARITY
+SECTION A-A, MODELS 1485, 1934, 1935, 2385 - 7114
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Actuator Constructrion
+SECTION A-A, MODELS 1480 - 2380
+YOKE SHOWN AT MID-STROKE, POINTER OMITTED FOR CLARITY
+SECTION A-A, MODELS 1485, 1934, 1935, 2385 - 7114
+Single acting Spring-Return Two Pistons
+Models: 6044, 7114
+Double-Acting Air to Air Two Pistons
+Models: 1485, 1934, 2385 - 7114
+Section 4: Actuator Construction
+May 2020
+8
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Actuator Construction
+Item
+S material B material C material A material
+003-100 135-1150 006-100 135-1150 135-1150 006-100 135-420
+1 Housing 316 SS 316 SS Ductile
+iron
+Ductile
+iron Ductile iron Steel Steel
+2 Yoke 17-4 PH 17-4 PH 17-4 PH 17-4 PH 17-4 PH 17-4 PH 17-4 PH
+3 Output shaft 17-4 SS 17-4 SS 4140 4140 4140 4140 4140
+4 Piston rod 316 SS 316 SS CPO CPO CPO CPO CPO
+5 Bushing -
+output shaft PTFE PTFE
+composite Bronze PTFE
+composite
+PTFE
+composite Bronze PTFE
+composite
+6a Yoke pin 18-8 SS - Steel - - Steel -
+6b Key - yoke - 17-4 PH Steel Steel Steel
+7 Bushing -
+piston rod PTFE PTFE Bronze Bronze Bronze Bronze Bronze
+8 Retaining ring -
+output shaft 15-7 MO 15-7 MO Steel Steel Steel Steel Steel
+9 Thrust pin 440C SS 440C SS 440C SS 440C SS 440C SS 440C SS 440C SS
+10 Roller bearing 440C SS 440C SS 440C SS 440C SS 440C SS 440C SS 440C SS
+11 Retaining
+ring - pin 15-7 MO 15-7 MO Steel Steel Steel Steel Steel
+12 Seal, thrust plate NBR NBR NBR Steel
+12a Set screw 18-8 SS - 18-8 SS - 18-8 SS
+12b Retaining ring -
+lower bearing - 18-8 SS Steel Steel Steel
+13 Pointer adaptor Nylon Nylon Nylon Nylon
+13a Position
+indicator 304 SS - - - - - -
+13b Thrust plate - 316 SS Ductile iron Ductile iron Steel
+13c Gasket, thrust
+plate Fiber Fiber Fiber Fiber
+14 Hex head bolt 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 ss Steel
+15 Lock washer 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 ss Steel
+16 Pointer Soft PVC Soft PVC Soft PVC Soft PVC Soft PVC Soft PVC Soft PVC
+17 Round head
+screw 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 ss steel
+18 Cover - housing 316 SS 316 SS Steel Steel Steel Steel Steel
+19 Hex head bolt 18-8 SS 18-8 SS 18-8 ss Steel Steel 18-8 SS Steel
+20 Lock washer 18-8 SS 18-8 SS 18-8 ss Steel Steel 18-8 SS Steel
+21 Pointer washer 18-8 SS 18-8 SS 18-8 ss Steel Steel 18-8 SS Steel
+22 Thrust washer - 18-8 SS Steel Steel Steel
+23 Gasket - cover Fiber Fiber Fiber Fiber Fiber Fiber Fiber
+24 Cylinder 316 SS 316 SS 316 SS 316 SS Steel /XYLAN 316 SS Steel /XYLAN
+25 Piston 316 SS 316 SS Ductile
+iron
+Ductile
+iron Ductile iron Steel Steel
+26 Adaptor 316 SS 316 SS Ductile
+iron
+Ductile
+iron Ductile iron Steel Steel
+Table 1. Materials of Construction
+Section 4: Actuator Construction
+May 2020
+9
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Actuator Constructrion
+Item
+S material B material C material A material
+003-100 135-1150 006-100 135-1150 135-1150 006-100 135-420
+27 End cap 316 SS 316 SS Ductile
+iron
+Ductile
+iron
+Ductile
+iron Steel Steel
+28 Rod cover 316 SS 316 SS Ductile
+iron
+Ductile
+iron
+Ductile
+iron Steel Steel
+29 Seal - piston rod NBR NBR NBR NBR NBR NBR NBR
+30 Seal - piston bolt NBR NBR NBR NBR NBR NBR NBR
+31 Seal- piston NBR NBR NBR NBR NBR NBR NBR
+32 Gasket -
+housing Fiber Fiber Fiber Fiber Fiber Fiber Fiber
+33 Piston bolt 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 SS Steel
+34 Lock washer 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 SS Steel
+35 Bearing - piston PTFE PTFE PTFE PTFE PTFE PTFE PTFE
+36 Thread seal SS/EPDM SS/EPDM Steel/NBR Steel/NBR Steel/NBR Steel/NBR Steel/NBR
+37 Travel stop bolt 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 SS Steel
+38 Jam nut 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 SS Steel
+39 Socket head
+cap screw
+18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 SS Steel
+41 Tie rod 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 SS Steel
+42 Seal -
+output shaft - - NBR - - NBR -
+43 Lock washer 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 SS Steel
+45 Stato-seal NBR NBR NBR NBR NBR NBR NBR
+46 Cylinder gasket
+or o-ring
+TFE OR
+NBR NBR NBR NBR NBR NBR NBR
+47 Label -
+nameplate MYLAR MYLAR MYLAR MYLAR MYLAR MYLAR MYLAR
+48 Seal - output
+shaft bushing - - NBR - - NBR -
+49 Cylinder -
+spring side 316 SS 316 SS 316SS 316 SS Steel /
+XYLAN 316 SS Steel /
+XYLAN
+50 Tie rod -
+spring side 316 SS 316 SS 316 SS Steel Steel 316 SS Steel
+51 Hex head bolt 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 SS Steel
+52 Travel stop bolt 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 SS Steel
+53 Flat washer 18-8 SS 18-8 SS 18-8 SS Steel Steel 18-8 SS Steel
+54 End cap -
+spring side 316 SS 316 SS Ductile
+iron
+Ductile
+iron
+Ductile
+iron Steel Steel
+55 Spring - outer Steel Steel Steel Steel Steel Steel Steel
+56 Spring - inner Steel Steel Steel Steel Steel Steel Steel
+57 Breather 18-8 SS 18-8 SS Steel Steel Steel Steel Steel
+58 Label - spring LEXAN LEXAN leXAn LEXAN LEXAN LEXAN LEXAN
+Section 4: Actuator Construction
+May 2020
+10
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Actuator Construction
+Item
+S Material
+Item
+B material C material
+1480 - 2380 1480 - 2380 1480 - 2380
+1 Housing 316 SS 1 Housing Ductile iron Ductile iron
+2 Yoke 17-4 PH 2 Yoke Ductile iron Ductile iron
+3 Guide block Ductile iron Ductile iron
+4 Piston rod - left CPO CPO
+4a Piston rod - right CPO CPO
+4 Piston rod 316 SS 4b Jam nut - piston rod Steel Steel
+5 Bearing - yoke PTFE
+composite 5 Bearing - yoke PTFE
+composite
+PTFE
+composite
+6 Bearing - thrust pin Steel Steel
+6a Bearing - guide bar Steel Steel
+6b Thrust bearing -
+thrust pin Nylon Nylon
+7 Bushing - piston rod Bronze 7 Bushong - puston rod Bronze Bronze
+8 Guide bar CPO CPO
+9 Thrust pin 440C SS 9 Thrust pin 440C SS 440C SS
+10 Slide block Bronze 10 Seal, bearing NBR NBR
+11 Retaining
+ring - pin 15-7 MO 11 Retaining ring -
+accessory drive Steel Steel
+12 Plug - thrust pin access 18-8 SS 12 Seal - guide bar NBR NBR
+12a Seal, cap NBR NBR
+12b Seal, accessory drive NBR NBR
+13 Pointer adaptor Nylon 13 Accessory drive Steel Steel
+14 Drive bar Steel 14 Drive bar Steel Steel
+15 Screw, accessory
+drive Steel 15 Cap Ductile iron Ductile iron
+16 Pointer Soft PVC 16 Pointer Soft PVC Soft PVC
+17 Round head screw 18-8 SS 17 Round head screw 18-8 SS Steel
+18 Cover - housing 316 SS 18 Cover - housing ductile iron Ductile iron
+19 Hex head bolt -
+cover 18-8 SS 19 Hex head
+bolt - cover Steel Steel
+20 Lock washer - cover 18-8 SS 20 Lock washer - cover Steel Steel
+21 Pointer washer 18-8 SS 21 Pointer washer Steel Steel
+22 Vent valve Brass 22 Vent valve Brass Brass
+23 Cup, spring Ductile iron Ductile iron
+24 Cylinder 316 SS 24 Cylinder 316 SS Steel / XYLAN
+25 Piston 316 SS 25 Piston Ductile iron Ductile iron
+26 Adaptor 316 SS 26 Adaptor Ductile iron Ductile iron
+26a Spacer plate
+(1485-2385 only) Ductile iron Ductile iron
+27 Endcap 316 SS 27 Endcap Ductile iron Ductile iron
+28 Rod cover 316 SS 28 Rod cover Ductile iron Ductile iron
+29 Seal - piston rod NBR 29 Seal - piston rod NBR NBR
+30 Seal - piston bolt NBR 30 Seal - piston bolt NBR NBR
+Section 4: Actuator Construction
+May 2020
+11
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Actuator Constructrion
+Item
+S Material
+Item
+B material C material
+1480 - 2380 1480 - 2380 1480 - 2380
+31 Seal - piston NBR 31 Seal - piston NBR NBR
+32 Gasket - housing Fiber 32 Gasket - housing Fiber Fiber
+33 Hex head bolt - piston 18-8 SS 33 Hex head bolt - piston Steel Steel
+34 Lock washer - piston 18-8 SS 34 Lock washer - piston Steel Steel
+35 Bearing - piston PTFE 35 Bearing - piston PTFE PTFE
+36 Thread seal SS/EPDM 36 Thread seal Steel/EPDM Steel/EPDM
+37 Travel stop bolt 18-8 SS 37 Travel stop bolt Steel Steel
+38 Jam nut 18-8 SS 38 Jam nut Steel Steel
+39 Socket head cap screw 18-8 SS 39 Socket head cap screw Steel Steel
+40 Tie rod 18-8 SS 40 Tie rod Steel Steel
+41 Seal - yoke NBR 41 Seal - yoke NBR NBR
+42 Lock washer 18-8 SS 42 Lock washer Steel Steel
+43 Hex head bolt 18-8 SS 43 Hex head bolt Steel Steel
+44 Stato-seal NBR 44 Stato-seal NBR NBR
+45 Cylinder o-ring NBR 45 Cylinder o-ring NBR NBR
+46 Label - nameplate MYLAR 46 Label - nameplate MYLAR MYLAR
+47 Seal - output shaft bushing NBR 47 Seal - output shaft bushing
+48 Cylinder - spring side 316 SS 316 SS Steel / XYLAN
+49 Tie rod - spring side 316 SS 49 Tie rod - spring side Steel Steel
+50 Hex head bolt 18-8 SS 50 Hex head bolt Steel Steel
+51 Travel stop bolt 18-8 SS 51 Travel stop bolt Steel Steel
+52 Flat washer 18-8 SS 52 Flat washer Steel Steel
+53 Endcap - spring side 316 SS 53 Endcap - spring side Ductile iron Ductile iron
+54 Spring - outer Steel 54 Spring - outer Steel Steel
+55 Spring - inner Steel 55 Spring - inner Steel Steel
+56 Breather 18-8 SS 56 Breather Steel Steel
+57 Label - spring LEXAN 57 Label - spring LEXAN LEXAN
+Section 4: Actuator Construction
+May 2020
+12
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+OPEN
+SHUT
+OPEN
+SHUT
+Manual Handpump Hydraulic Override
+Reservoir
+Handle
+Selector valve
+Section 5: Manual Handpump
+Hydraulic Override
+See Figure 5.
+A. Maintain fluid level to fill line using ISO-22 hydraulic fluid. Use Chevron
+"Hydraulic Oil AW" or equal.
+B. The selector control valve is set in center position for remote operation. Select
+left or right positions for manual open or manual close as shown on pump label.
+C. Store and lock handle to keep pump plunger closed. Do not remotely operate
+actuator with handle on plunger.
+Figure 5 Hydraulic Override
+Manual Handpump Specifications:
+1. Maximum reservoir fill volume = 75 in3
+ (1.23 dm3
+)
+2. Pump relief pressure = 1500 psi (103 bar)
+3. Pump volume/stroke = 0.66 in3
+ (0.01 dm3
+)
+4. Handle length = 24 in. (610 mm)
+Section 5: Manual Handpump Hydraulic Override
+May 2020
+13
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Manual Handpump Hydraulic Override
+5.1 Hydraulic Fluid Level
+The fluid level in the handpump reservoir changes when the actuator is operated. The
+fluid level is high when the hydraulic cylinder piston rod is retracted into the hydraulic
+cylinder. The fluid level is low when the hydraulic cylinder piston rod is extended out
+of the hydraulic cylinder. Measure the fluid level in the low position, using a dip stick,
+and maintain this level as shown on the sticker (1 in. [25.4 mm] above the pump base).
+Operate the actuator open and closed and view the fluid level to verify where the low
+position is. Be sure to tighten the fill port plug securely.
+!CAUTION
+Do not exceed this fluid level or fluid may squirt out of the relief valve.
+5.2 Remote Mounting the Handpump
+The handpump is normally installed on the actuator with the fill port on top. When
+installed on a valve in a pipeline, the fill port must remain on top regardless of the angle
+of the valve in the pipeline. This may require the handpump to be reinstalled in the field.
+The handpump can be remote mounted on an adjacent structure. The optimum position
+is close to and above the actuator. If the handpump is located below the actuator, both
+speed control valves must be completely closed before removing the reservoir fill plug
+to check the fluid level. This will prevent hydraulic fluid from draining out of the actuator.
+Reset both speed controls after the fill plug is reinstalled.
+Section 5: Manual Handpump Hydraulic Override
+May 2020
+14
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Integral Proximity Switch Mounting
+Section 6: Integral Proximity
+Switch Mounting
+(Only with Prox Prep Factory Ordered Option)
+A. Remove plastic plugs from proximity ports located on the back of the
+actuator housing.
+B. Insert switch and turn clockwise until switch touches ferrous activator on yoke,
+then back off approximately 1/16 in. (1.6 mm).
+C. Test switch by stroking actuator and verifying make and break of switch.
+D. Repeat procedure for second switch if required.
+Section 6: Integral Proximity Switch Mounting
+May 2020
+15
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Spring Conversion to change Operating Pressure
+Section 7: Spring Conversion to change
+Operating Pressure
+All spring packs except the 40 psi (2.8 bar) consist of an inner and outer spring. The 40 psi
+(2.8 bar) spring pack uses an outer spring only. Various spring packages are available
+upon request from the factory.
+!CAUTION
+Before attempting spring conversions always be sure that spring is in the "failed" or
+extended position. Remove any accessory equipment that may cause the spring to
+be cocked (e.g.: declutchable override, jackscrew override, etc.).
+A. Back off adjustable travel stop on end of actuator opposite spring end.
+This will allow maximum spring extension inside the actuator.
+(Models S003 and B-006 only)
+B. Remove tie rod bolts (41). Back off piston bolt (33) until spring is fully relaxed
+and piston (25) is free.
+C. Remove 80 psi (5.5 bar) spring package and replace with desired spring package.
+D. Re-assemble piston, cylinder, endcap and tie rods, being sure to follow the tie rod
+tightening sequence (Figure 6A). Do not over tighten bolts. Refer to Assembly
+Torque Requirements Chart (Table 2).
+(All models except S-003 and B-006)
+A. Alternately and uniformly remove bolts (51) from hollow tie rods. Back off each
+bolt approximately 1/4 in. (6.4 mm), following the tie rod sequence (Figure 6A).
+Repeat the sequence until spring(s) is/are totally relaxed and endcap is free.
+B. Remove 80 psi (5.5 bar) spring package and replace with desired spring package.
+C. Re-assembly endcap with bolts (51). Use reverse procedure as shown in step B,
+being sure to follow the tie rod tightening sequence (Figure 6A). Be sure each
+hollow tie rod slides into the counterbore in endcap. Do not over tighten bolts.
+Refer to Assembly Torque Requirement Chart (Table 2).
+D. Remove nameplate from actuator and stamp or etch correct spring pressure
+rating accordingly.
+Section 7: Spring Conversion to change Operating Pressure
+May 2020
+16
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Failure Mode Change
+Section 8: Failure Mode Change -
+Spring-Return
+(Models 003-100) Symmetric Yoke Actuators Only
+Conversion from "fail close" to "fail open" is accomplished by flipping the actuator over
+(i.e. left to right). The top and bottom of the center housing have identical mounting
+flanges and output shaft dimensions. Remove the vinyl pointer and indicator plate and
+mount them on opposite side of actuator.
+(Models 023-7114) Canted and Symmetric Yoke Actuators (Except Noted Above)
+Conversion requires removal of the spring cylinder assembly and reinstallation on the
+other side of the housing. It is recommended that fail open and fail closed be ordered
+from the factory.
+Section 8: Failure Mode Change
+May 2020
+17
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Removal of Actuator from Valve
+Section 9: Removal of Actuator from Valve
+!CAUTION
+Do not attempt to remove mounting bolts between actuator and valve until supply pressure
+has been disconnected and vented. If spring-return, be sure that valve is completely in
+failed position. If valve is frozen in a position causing the spring to be cocked, removal of
+bracket bolts would allow spring to stroke, resulting in the actuator rotating over bracket
+causing possible injury or damage.
+A. Loosen bracket to actuator bolts to hand tight position.
+B. Physically shift actuator back and forth to be sure there is no strain (or shear
+stress) on the bracket bolts. Once it has been determined that there is no
+pressure or spring coil remaining in the actuator, remove bolts and remove
+actuator and coupling from valve.
+C. In the event the valve is frozen or locked in place, resulting in spring
+energy remaining in the actuator, replace adjusting screw (37) on end of
+actuator opposite spring end with length of "all thread" rod of sufficient
+length and turn clockwise until it contacts the piston. This procedure will
+safely secure the piston and spring assembly and allow actuator removal.
+Be sure to remove "all thread" rod prior to actuator disassembly.
+Section 9: Removal of Actuator from Valve
+May 2020
+18
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Disassembly
+Section 10: Disassembly
+10.1 Disassembly of Symmetric Yoke Actuators
+A. Remove endcap(s) (27); tie rods (41) and cylinder (24). Remove rod cover (28)
+if applicable.
+B. Remove piston bolts (33) and pistons (25) and springs if applicable (55 and 56).
+C. Remove adaptor (26) and piston rod seals (29).
+Note: S-003, B-006 and B-015 have one piece cast housing/adaptor.
+D. Remove housing cover (18), pointer (16) and position indicator
+(where applicable) (13).
+(Models 003-100)
+E. Disengage yoke (2) from roller bearing assembly by pulling piston rod to extreme
+right, as in Figure 6, and swing yoke mechanism clear of roller bearing as in
+Figure 7.
+F. Rotate piston rod 90° to allow access to retaining ring (11) as shown in Figure 8.
+G. Remove retaining ring and bearing (10). Then rotate piston rod (4) 180° and
+remove the bearing and thrust pin assembly.
+H. Remove piston rod (4) and piston rod bushings (7).
+I. Remove plug (12) from back of housing.
+J. Using a punch or suitable dowel pin, insert through clearance hole and press
+yoke pin (6) out.
+K. Remove retaining ring (8) from output shaft. Remove output shaft and yoke.
+L. Remove bushings (5) from housing.
+(Models 135, 270-1150)
+E. Disengage yoke (2) from roller bearing assembly by pulling piston rod (4) to
+extreme right, as in Figure 6, and swing yoke (2) clear of roller bearing (10)
+assembly. See Figure 7.
+F. Rotate piston rod (4) 90° to allow access to retaining ring (11) as shown in
+Figure 8.
+G. Remove the thrust pin retaining rings (11) and withdraw the roller bearings (10),
+and thrust pin (9).
+H. Remove piston rod (4) and piston rod bushings (7).
+I. Remove retaining rings (8) and (12b) on both ends of output shaft.
+J. Remove thrust plate (13b) and thrust washers (22) from the output shaft (3).
+K. Position the yoke (2) in the fully clockwise position (viewed from the thrust
+plate [13b] side).
+L. Using a soft hammer, drive output shaft (3) out through top of housing (1).
+M. Withdraw yoke (2) from housing (1).
+N. Remove the output shaft bushings (5) from the housing (1).
+May 2020
+Section 10: Disassembly
+19
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Disassembly
+(Models 1480, 1929, 1930, 2380)
+E. Remove the pointer (16) and accessory drive (13) from the actuator by removing
+the screw (14) from inside the yoke (2) bore.
+F. Remove all cover bolts (19). Three of these bolts occupy "jack bolts" holes
+and are threaded into the cover (18). Screw three long cover bolts into these
+"jack bolt" holes and turn them sequentially 1/2 turn at a time to pry the cover off.
+See Figure 7A.
+G. Remove the thrust pin access plug (12), see Figure 6A.
+H. Push the yoke (2) using the piston rod (4) until the thrust pin (9) is centered over
+the thrust pin access hole (see Figure 6A). Remove the upper thrust pin retaining
+ring (11) from the thrust pin (9) (see Figure 8A).
+I. Push the thrust pin (9) and lower retaining ring (11) out through the thrust
+pin access hole allowing the slide blocks (10) to fall free. Remove the slide
+blocks (10).
+J. Remove the piston rod (4), piston rod bushings (7), yoke (2). Remove yoke
+bearings (5), and yoke seals (48) from the housing (1) and cover (18).
+Remove the upper and lower vent valves (22) from the back of the housing.
+(Models 1485, 1934, 2935, 2385-7114)
+D. Remove adaptor spacer (26a) (installed on models 1485-2385 only,
+see Figure 8B).
+E. Remove cap (15) by removing the cap bolts (15a),
+F. Remove all cover bolts (19) and cover (18). Three of these bolts occupy "jack bolt"
+holes and are threaded into the cover (18). Screw three long cover bolts into
+these "jack bolt" holes and turn them sequentially 1/2 turn at a time to pry the
+cover off. See Figure 7B.
+K. Swing the yoke (2) to one side to expose the guide block (3).
+L. U nscrew the piston rod jam nuts (4b) and remove the piston rods (4 and 4a).
+M. Remove the guide bar (8), guide block (3) and yoke (2).
+N. Remove the yoke bearings (5).
+Figure 6
+Section 10: Disassembly
+May 2020
+20
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Disassembly
+Figure 7
+Figure 8
+10.2 Disassembly of Canted Yoke Actuators
+Canted yoke actuators are disassembled the same way as the symmetric yoke actuators
+except for the following additional instructions for specific models:
+(Models 023-100)
+These actuators are disassembled using the same procedure as the symmetric actuators.
+However, the thrust pin (9) is removed from the housing (1) via access plugs on the upper
+and lower housing mounting flanges.
+(Models 135-1150)
+A. Remove the pointer (16), pointer adaptor (13) and pry out the thrust plate seal
+(12) (if fitted).
+B. Remove the thrust plate (13b) and thrust washers (22) from the output shaft (3).
+C. Position the yoke (2) in the fully clockwise position (viewed from the thrust plate
+[13b] side).
+D. Using a soft hammer, drive output shaft (3) out through the thrust plate side of
+the housing (1). This will drive out the upper output shaft bushing (5) and yoke
+key (6b).
+E. Remove the piston rod bushings (7) from the housing (1).
+F. Shift the yoke (2) around in the housing (1) so that the thrust pin (9) and roller
+bearing (10) assembly can be moved out of the yoke slot. Remove the thrust pin
+retaining rings (11) and withdraw the roller bearings (10), thrust pin (9), piston
+rod (4) and yoke (2).
+G. Remove the lower output shaft bushing retaining ring (12b) and lower output
+shaft bushing (5).
+Section 10: Disassembly
+May 2020
+21
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Assembly
+Section 11: Assembly
+11.1 Assembly of Symmetric Yoke Actuators
+(Models 003-100)
+A. Insert piston rod bushings (7) and output shaft bushings (5) in housing.
+(On models B-006 through 100 lube output shaft bushings O-rings (48) with
+"Dow Corning #112" lubricant. Push one O-ring halfway on each bushing and
+install bushings in housing.)
+B. Place yoke (2) in position in housing. Lubricate with "WD-40" or similar lubricant
+and install output shaft (3). (On models B-006 through 100, lube output shaft
+O-rings (42) with "Dow Corning #112" lubricant. Install one O-ring on one end
+of output shaft and insert through housing and yoke. Install second O-ring on
+opposite end of output shaft and push output shaft back into housing.) Secure
+output shaft with retaining rings (8).
+C. Lubricate and press yoke pin (6) into yoke and output shaft assembly from open
+side of housing. Be sure pin is pressed flush in yoke to prevent interference with
+piston rod (4).
+(Models 135, 270-1150)
+A. Insert yoke key (6b) into output shaft (3).
+B. Install yoke (2) in housing (1). Slide output shaft (3) through top of housing (1)
+into the yoke (2). Install lubricated upper and lower bearings (5a).
+C. Install lower thrust washer (22), thrust plate (13), upper thrust washer (22)
+retaining ring (8) and thrust plate seal (12) (if fitted). Install lower bearing
+retaining ring (12b).
+(Models 003-1150)
+D. Lubricate with "WD40" and install piston rod (4) being careful not to scratch
+sealing surfaces when sliding through yoke assembly.
+E. Swing yoke clear toward left side of housing as shown in Figure 8.
+F. Sub-assemble thrust pin (9) with one roller bearing (10) and one retaining
+ring (11). Pre-lubricate sub-assembly with high temperature grease such as
+"Whitmore’s Omnitemp II".
+G. Install roller bearing sub-assembly per Figure 8. Rotate piston rod 180° and
+assemble second roller bearing and retaining ring. Place ample amount of high
+temperature grease on roller bearing and inside wear area of yoke.
+H. Engage roller bearing in yoke assembly as shown in Figure 6, 7, and 8.
+I. Install plug (12) in back of housing if applicable. Use "Loctite 222 Thread Locker".
+Section 11: Assembly
+May 2020
+22
+Jack bolt
+Jack bolt Jack bolt
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Assembly
+Thrust pin
+access
+Jack bolts
+Slide block and
+thrust pin
+Yoke
+Jack bolt
+Jack bolt Jack bolt
+Figure 6A
+Figure 7A
+Figure 8A
+Figure 7B
+Section 11: Assembly
+May 2020
+23
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Assembly
+(Models 1480-2380)
+A. Install yoke seals (42) using o-ring lube and yoke bearings (5) using WD-40 into
+the cover (18) and housing (1).
+B. Inspect the housing upper and lower vent passages and clear any blockage.
+Install new vent valves (22).
+C. Lubricate the bearing surfaces of the yoke (2) with WD-40 and install the yoke
+(2) in the housing (1). Install the yoke with the marking and the pointer drive
+bar visible through the cover hole.
+D. Install the piston rod bushings (7) and the piston rod (4).
+E. Install the lower retaining ring (11) on the thrust pin (9) and lubricate the pin
+with Whitmore grease. Lubricate the slide blocks (10) with Whitmore grease
+inside and out and position them in the yoke (2) slots. Insert the thrust pin (9)
+through the thrust pin access hole (Figure 6) and slide it through the lower slide
+block (10), piston rod (4), and upper slide block (10). Install the upper retaining
+ring (11) on the thrust pin (9).
+F. Place joint compound on the sealing surface of the cover (18), install the cover on
+the housing (1), and torque the cover bolts (19) to 30 ft-lb. Install the short cover
+bolts (19) into the jack bolt holes of the cover (18).
+(Models 1485-7114)
+A. Install new guide bar bearing (6a) and thrust pin bearings (6b) in the guide
+block (3).
+B. I nstall new yoke bearings (5) and thrust bearings (6) in housing (1) and cover
+(18).Position the bearing seal (10) in the yoke bearings (5) toward the inside of
+the housing (1).
+C. Use Valvoline multi-purpose grease /GM (or equal)to lubricate all bearings
+including a generous amount on the thrust bearings (6).
+D. Insert the yoke (2) into the housing (1).
+E. Insert the guide block (3) into the housing (1) and slide the guide bar (8) through the
+housing (1) and through the guide block. Install the guide bar seals (12), lubricate
+the seals with grease, and then finish sliding the guide bar into the housing.
+F. Install the piston rod bearings (7) in the housing (1).
+G. Install the jam nuts (4b) on the piston rods (4) and (4a) and install the piston
+rods. Symmetric yoke piston rods are equal length and can be installed on either
+side. See Figure 8C.
+H. Swing the yoke (2) over the guide block (3) and install the thrust pin (9).
+I. Insert a bead of Dow Corning 732 silicone sealant on the cover (18) sealing
+surface and install the cover (18) on the housing (1) torquing the bolts to
+6 ft-lb (8 Nm).
+J. Install the cap seal (12a) and cap (15).
+Section 11: Assembly
+May 2020
+24
+CANTED YOKE ACTUATOR SYMMETRIC YOKE ACTUATOR
+Short Dimension Long Dimension
+Curved arm
+of yoke
+Equal Dimension Equal Dimension
+Canted Yoke Actuator
+Open Position - Top view
+Symmetric Yoke Actuator
+Open Position - Top view
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Figure 8C
+Assembly
+CANTED YOKE ACTUATOR SYMMETRIC YOKE ACTUATOR
+Canted Yoke Actuator
+Open Position - Top view
+Short Dimension Long Dimension
+Curved arm
+of yoke
+Equal Dimension
+Equal Dimension
+Symmetric Yoke Actuator
+Open Position - Top view
+(Cylinder and Rod Cover Assembly - All Models)
+A. Assemble bolt (33) on end of piston rod before installing rod cover when rod
+cover is required.
+B. Install rod cover (28) if applicable. Actuators utilizing one piston only require
+a rod cover. Bolt rod cover and gasket in place with socket head screws (39).
+Use “Locktite 222 Thread Locker.”
+C. For models 1485 – 3072 install the piston rod spacer plate.
+D. Assemble piston rod o-ring (29) on piston rod. Lubricate o-ring with
+"Dow Corning #112" lubricant.
+Figure 8B
+1. The canted yoke piston rod is not symmetrical, it must be positioned as shown.
+The symmetrical yoke piston rod can be installed either way.
+2. Canted yoke must be installed oriented as shown.
+Section 11: Assembly
+May 2020
+25
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Assembly
+Model
+Number
+Adaptor Bolt
+(44)
+Piston Bolt
+(33)
+Tie Rod (41) Tie Rod Bolt
+Spring Side (51)
+003 N/A 20.3 13.6 N/A
+B-006 N/A 20.3 20.3 N/A
+015 N/A 20.3 40.7 33.9
+s-006, 012 20.3 20.3 20.3 13.6
+023 thru 100 40.7 54.2 40.7 33.9
+135, 270 203.4 203.4 203.4 135.6
+344 203.4 203.4 339.0 135.6
+345 203.4 203.4 203.4 339.0
+210, 420 203.4 203.4 339.0 339.0
+370, 575 thru 2380 339.0 339.0 339.0 339.0
+Table 2. Assembly Torque Requirements (Nm)
+A. Assemble adaptor (26) to housing using gasket (32) between adaptor and
+housing. If actuator is spring-return model be sure to insert long tie rod bolts (51)
+with washer into adaptor prior to bolting adaptor to housing. Secure the adaptor
+(26) using hex head bolts (44) with stato-seals (45). Use “Locktite 222 Removable
+Thread Locker” on the bolts. Uniformly tighten referring to Assembly Torque
+Requirement (Figure 9 and Table 2) for proper bolt torque.
+B. Lubricate piston bolt o-ring (30) with "Dow Corning #112" lubricant and put on
+piston rod. Assemble piston (25) to piston rod with bolt (33) and lock washer
+(34). Use "Locktite 262 Permanent Thread Locker"on bolt threads. Rotate piston
+before tightening piston bolt to ensure proper seating of o-ring.
+C. Install cylinder gasket or lubricated o-ring (46) in adaptor groove.
+D. Lubricate piston seal (31) with "Dow Corning #112" lubricant and install
+on piston.
+E. Lubricate piston bearing (35) and cylinder (24) with "Dow Corning #112"
+lubricant. Hold piston bearing (35) in place on piston (25) and slide cylinder
+(24) over piston and bearing until cylinder is in contact with gasket / o-ring (46)
+in adaptor groove. On spring-return models substitute one cylinder (24) with
+cylinder (49) on spring side.
+F. Assemble tie rods (41) on adaptor.
+G. Insert cylinder gasket / o-ring (46) in endcap (27) groove and place endcap over
+tie rods (41) and on cylinder (24).
+H. Assemble lock washers (43) and hex nuts (HP Models) on tie rods and uniformly
+tighten. Do not exceed torque values shown in Assembly Torque Requirement
+Table (Figure 9 and Table 2).
+Section 11: Assembly
+May 2020
+26
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Assembly
+11.2 Spring-Return Only
+(Models S-003 and B-006 only)
+I. Place cylinder gasket / O-ring (46) in endcap (54).
+J. Place springs in adaptor, being sure to nest in contours. Mount piston (25) over
+springs and fasten with piston bolt (33) and lock washer (34). Do not over tighten
+bolts. Refer to Assembly torque requirements chart (Table 2).
+All Models (except S-003 and B-006)
+K. On spring-return models; hollow tie rods (50) must be screwed onto long bolts
+(51) protruding from adaptor (26).
+L. Place cylinder gasket / o-ring (46) in endcap (54). Insert long bolts (51) with flat
+washer (53) in endcap.
+M. Place spring(s) in cylinder, being sure to nest in piston contours. Mount endcap
+over extended spring(s) and fasten to hollow tie rods (50) with bolts (51).
+To prevent galling, lubricate bolts (51) with "Whitmore’s Omnitemp II" grease
+or equal. Alternately and uniformly tighten bolts (51) in hollow tie rods. Tighten
+each bolt approximately 1/4” – 1/2” following the sequence shown in Tie Rod
+Tightening Sequence (Figure 9) until spring is completely compressed. Be sure that
+each hollow tie rod slides into the counterbore in the endcap. Do not over tighten
+bolts. Refer to Assembly Torque Requirements Table (Figure 9 and Table 2).
+All Models
+N. Install position indicator (13) and pointer (16), where applicable. Assemble
+adjusting screws (37), thread seals (36) and jam nuts (38). Lubricate the rubber
+face of the thread seal with Dow Corning #112 lubricant and install finger tight
+against the endcap. Tighten the seal approximately one turn so that the rubber
+begins to bulge beyond the metal portion of the seal.
+O. Stoke actuator with rated supply air and check for leaks. The thread seal may be
+tightened up to one additional turn if there is any leakage at the adjusting bolt.
+P. Testing: Operate the actuator at rated pressure a minimum of 5 strokes under
+load while checking for smooth operation. Check the actuator for leaks using a
+leak detector spray solution. If the actuator does not operate smoothly or if it
+hesitates midstroke, contact Engineering for assistance.
+Figure 9 Tie Rod Tightening Sequence
+Section 11: Assembly
+May 2020
+1 3
+4 2
+5
+1
+4
+6
+2
+3
+27
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Assembly
+11.3 Assembly of Canted Yoke Actuators
+Canted yoke actuators are assembled the same way as the symmetric yoke actuators
+except for the following additional instructions for specific models.
+Canted yoke actuators have a non-symmetrical piston rod as well as a non-symmetrical
+yoke. It is important to orient the piston rod with the longer dimension in relation to
+the yoke as shown in Figure 8C. Note that the finished housing assembly is used for
+both fail open and fail closed actuators.
+(Models 135-1150)
+A. Insert the yoke (2) into the housing (1) and position the yoke in the fully
+clockwise position (viewed from the thrust plate [13b] side).
+B. Insert the piston rod (4) correctly oriented with the longer dimension as shown
+in Figure 8C.
+C. Install the thrust pin (9) and roller bearings (10) using generous amounts of
+Whitmore Omnitemp grease and install both pin retaining rings (11).
+D. Shift the yoke (2) and piston rod (4) so that the thrust pin (11) and roller bearing
+(10) assembly can be inserted into the yoke slot. The absence of the piston rod
+bushings (7) and output shaft bushings (5) allows just enough room for this process.
+E. Insert the lower output shaft bushing (5) and retaining ring (12b). This bushing
+must have a press fit. The integral seal o-ring must be oriented toward the yoke.
+F. Insert the yoke key (6b) into the output shaft (3), then insert the output shaft
+into the housing (1) and yoke(2) and lower output shaft bushing (5).
+G. Install the upper output shaft bushing (5) over the output shaft and into the
+housing (5). The bearing must have a press fit. The integral seal o-ring must
+be oriented toward the yoke.
+H. Install output shaft thrust washer (22), thrust plate gasket(13b) thrust plate
+(13b), thrust washer (22) and retaining ring (8).
+I. Install Pointer adaptor (13) using two socket head cap screws.
+J. Install the thrust plate seal (12), pointer (16) and pointer washer (21).
+(Models 1485-7114)
+Assembly for these canted yoke actuator models is identical to the symmetric yoke models.
+However, the yoke (2) must be oriented as shown in Figure 8B. The left and right piston
+rods are different lengths. Refer to Figure 8C to assure the correct orientation.
+Section 11: Assembly
+May 2020
+28
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Operating Instructions
+Section 12: Operating Instructions
+Operate the actuator in accordance with the pressure and temperature limits specified
+on the nameplate. See the appropriate Biffi Catalog for technical information.
+Section 12: Operating Instructions
+May 2020
+29
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Important Safeguards
+Section 13: Important Safeguards
+!CAUTION
+To reduce the risk of injury:
+• Read the entire Installation, Operation and Maintenance Manual before installing,
+operating, or servicing this actuator.
+• Inspect the actuator regularly for signs of corrosion and repair immediately.
+• Always remove pressure and disconnect power supply before servicing the actuator.
+• Keep hands and feet clear of an actuator that is in service.
+• Do not disassemble the actuator without reviewing the disassembly procedure
+in this manual first. This is particularly important that the proper procedure be
+followed to avoid injury from internal spring power.
+• Before attempting to remove an actuator from the equipment it is assembled to,
+always be sure that spring is in the “failed” or extended position. Remove any
+accessory equipment that may cause the spring to be cocked. If there is any
+doubt that the actuator is in the “failed” position, remove the air pressure from
+the actuator and install a long threaded bolt (a bolt that exceeds the length of
+the cylinder) in place of both travel stops. Once the actuator has been removed
+from the equipment the long bolts must be removed first before the actuator can
+be disassembled.
+• Repair or replace a damaged actuator immediately.
+• Inspect the vent valves on models 1480 – 2380 during regular maintenance
+periods. The valves should allow leaking fluids to escape but prevent
+contaminates from the surrounding atmosphere from entering the actuator.
+Fluid leaking from the lower valve indicates a valve stem seal leak. Fluid leaking
+from the upper valve indicates a leaking cylinder seal. If leakage is observed from
+either valve disassemble and repair the source immediately. Never replace the
+vent valves with plugs.
+• Operate the actuators within the pressure and temperature ranges specified
+on the nameplate. Otherwise the actuator life may be reduced or serious safety
+hazards may develop.
+Section 13: Important Safeguards
+May 2020
+30
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Additional Safety Instructions
+Section 14: Additional Safety Instructions
+for Actuators used in a
+Potentially Explosive Atmosphere
+under ATEX 2014/34/EU
+14.1 Marking
+• ATEX 2014/34/EU, Ex II 2G Ex h IIc T4 Gb
+14.2 Selection
+• Ensure that the equipment is marked with the correct equipment group,
+category and type of atmosphere for the application and that the safety
+instructions are followed for each item of the equipment.
+• In particular, all items included in an actuator package, including valve, actuator
+and all accessories should be CE marked to ATEX in the appropriate and / or
+requested category.
+14.3 Installation
+• The installer must only use tooling appropriate to the working area,
+see EN 1127-1 Annex A.
+• Installation must be carried out at ambient temperature.
+• During installation ensure that no metallic shocks / impacts are made to the
+equipment or the adjacent piping.
+• Ensure that the equipment is suitably earthed (grounded) through the pipe
+or individually.
+• The installer should thoroughly follow the operating and safety instructions
+provided for each individual item of equipment.
+• When the valve is to handle hot fluids or fluids where exothermic reactions may
+take place, the end user must take al the necessary measures to ensure that the
+hot surface of the valve cannot provide a source of ignition to the surrounding
+gas, vapour, mist or dust atmosphere.
+• Before putting into use or during operation with a dangerous fluid, ensure that
+no release of the fluid to atmosphere can take place.
+14.4 Maintenance
+• The operator shall ensure that maintenance and testing activities are carried
+out by competent personnel.
+• The operator must ensure that only personnel qualified to work in a potentially
+hazardous area are allowed to carry out maintenance appropriate to the category
+of the equipment in use.
+• The end user must ensure that only tooling appropriate to the working area is
+used, see EN 1127-1 Annex A.
+• All equipment must only be fitted with manufacturer’s original spare parts.
+Section 14: Additional Safety Instructions
+May 2020
+31
+Installation, Operation and Maintenance Manual
+MAN-03-04-103-0738-EN Rev. 1
+Additional Safety Instructions
+Section 15: Additional Safety Instructions
+for Actuators used in
+Emergency Shut-down Service
+or IEC 61508 safety integrity
+level (SIL) Compliant Installations
+1. The actuator will move a valve to the designated safe position per the actuator
+design within the specified safety time.
+2. The actuator has met the systematic requirements for SIL-3.
+3. The actuator is a Type A device with a hardware fault tolerance (HFT) = 0.
+4. If the automated partial valve stroke test (PVST) diagnostics is used, the
+diagnostics time is the PVST test interval.
+5. Customer is required to confirm the actuator is operated within the listed
+temperature limitations shown on page 1.
+6. Customers may voluntarily register their actuator by contacting Biffi actuator
+sales department.
+7. Actuators should be inspected for proper functioning and signs of deterioration
+every 100,000 cycles or annually (whichever comes first) under normal operating
+conditions. Inspect more frequently under severe operating conditions defects
+should be repaired promptly.
+8. Normal operating conditions are: Air Quality within ANSI/ISA-7.0.01
+standards; operating temperature and pressures consistent with the actuator
+nameplate and catalog limits; environment free from excessive particulates;
+operating environment consistent with the actuator materials of construction.
+Under these conditions, actuator life can exceed a million cycles.
+9. The recommended minimum operating interval is six months and a partial
+stroke is acceptable to confirm that the installation is functioning.
+10. When an actuator has been repaired or any maintenance is performed, check
+the actuator for proper function (proof testing). Any failures effecting functional
+safety should be reported to the Pelham facility.
+11. IEC 61508 (SIL) installations should consult the Emerson factory to obtain the
+assessment and FMEDA report, which include failure data, PFDAVG, and other
+associated statistical data to establish or satisfy SIL level or requirements. This
+information is available in report MOR 12\04-064 R001 V1 R1 FMEDA.
+12. Proof testing of the actuator shall be performed on the interval determined per
+IEC 61508 / IEC 61511 requirements. A suggested proof test is included in report
+MOR 12\04-064 R001 V1 R1 FMEDA. No special tools are needed. The report
+includes the achieved proof test coverage.
+13. Service and maintenance on actuators shall only be performed by personnel
+trained in Safety Integrity Systems (SIS) operations and in the repair and
+maintenance procedure for Biffi actuators.
+Section 15: Additional Safety Instructions
+May 2020
+For complete list of sales and manufacturing sites, please visit
+www.biffi.it or contact us at biffi_italia@biffi.it
+Biffi Italia s.r.l.
+Strada Biffi 165
+29017 Fiorenzuola d’Arda (PC)
+Italy
+T +39 0523 944 411
+VCIOM-14630-EN ©2019 Biffi. All rights reserved.
+The contents of this publication are presented for information purposes only,
+and while every effort has been made to ensure their accuracy, they are not
+to be construed as warranties or guarantees, express or implied, regarding
+the products or services described herein or their use or applicability. All sales
+are governed by our terms and conditions, which are available on request.
+We reserve the right to modify or improve the designs or specifications of our
+products at any time without notice.

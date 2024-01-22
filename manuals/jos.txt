@@ -1,0 +1,2891 @@
+WARNING
+Suitability of the material and product for
+the use contemplated by the buyer is the
+sole responsibility of the buyer. Also storage,
+installation and proper use and application
+are the sole responsibility of the purchaser.
+Emerson disclaims any and all liability arising out
+of the same.
+Any installation, maintenance, adjustment,
+repair and testing performed on pressure
+relief valves should be done in accordance with
+the requirements of all applicable codes and
+standards under which those performing such
+work should maintain proper authorization
+through appropriate governing authorities.
+No repair, assembly and test work done by
+other than Emerson shall be covered by the
+warranty extended by Emerson to its customers.
+You assume full responsibility for your work. In
+maintaining and repairing Crosby products you
+should use only parts manufactured by Emerson.
+Call your nearest Emerson regional sales office or
+representative for a service engineer should you
+wish assistance with your field needs.
+ATTENTION
+The safety of lives and property often depends on
+the proper operation of the pressure relief valves.
+Consequently, the valves should be kept clean and
+should be tested and reconditioned periodically to
+ensure they function properly.
+Emerson.com
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+© 2017 Emerson. All Rights Reserved. VCIOM-06208-EN 23/08
+Engineering Doc. #IS-V3137B
+Before installation, these instructions must be carefully read and understood.
+SAFETY FIRST
+To reduce the risk during installation:
+• Comply with all information on the product,
+in this manual and in any local and national
+codes that apply to this product.
+• Do not allow untrained personnel to work
+with this product.
+• Use Emerson parts and work procedures
+specified in this manual.
+2
+40
+24
+25
+34
+19
+20
+18
+19
+21
+22
+15
+5
+34
+34
+8
+27
+1
+2
+41
+16
+17
+28
+6
+29
+9
+6C
+6B
+6A
+5
+8
+8
+9
+13
+9 12
+11
+10
+12
+11
+10
+5
+41
+26
+16
+17
+28
+9
+40
+24
+25
+34
+19
+20
+18
+19
+21
+22
+15
+34
+3
+4
+8
+27
+1
+2
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+NOTE
+This vent must remain
+open on JBS-E and
+JLTJBS-E construction.
+FIGURE 1
+Style JOS-E Style JBS-E
+Soft seat
+Style JLT
+D-N orifice construction
+4
+(P-T orifice
+have lockscrews)
+3
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Style JDS-E Style JBSBP-E with Bellows Leak Detection
+Detail A View A-A
+FIGURE 2
+40
+24
+25
+34
+19
+19
+21
+22
+23
+34
+27
+12
+9
+28
+31
+16A
+16C
+41
+7 (Detail A)
+4
+3
+1
+2
+15
+5
+8
+20
+18
+NOTE
+This vent must
+remain open
+on JDS-E and
+JLTJDS-E
+construction.
+40
+24
+25
+41
+34
+19
+19
+9
+70B
+70D
+70D
+27
+34
+2
+8
+5
+29
+6A
+6B
+6C
+1
+31
+22
+21
+16A
+16D
+32
+20
+16C
+View A-A
+6
+4
+3
+5G
+23
+18
+NOTE
+This vent must
+remain
+open on JBSBP-E
+and
+JLTJBSBP-E
+construction.
+(Bonnet vent
+shown)
+7F
+7C
+7E
+7A
+7B
+7D
+70E
+70F
+70J
+70G
+70H
+4
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+No. Part name Notes
+NOTES
+1. Consumable spare parts: valve parts which should be replaced as part of any
+disassembly and disc inserts which must be replaced if seats are damaged.
+2. Repair spare parts: valve parts exposed to wear and/or corrosion during normal
+operation. They are in fluid flow paths and may require replacement as part of
+any repair.
+3. Insurance spare parts: valve parts exposed to process or environmental wear
+and/or corrosion and may require replacement as part of a major repair.
+Emerson recommends that sufficient inventory of spare parts be maintained to
+support process requirements. Always be sure to use genuine Emerson parts
+to ensure continued product performance and warranty.
+16D Spindle rod pin 8
+17 Spindle cotter pin(s) 2 (L-T2 orifice)
+18 Spring 3, 6
+19 Spring washers 3, 6
+20 Bonnet
+21 Bonnet stud(s) 3, 5
+22 Bonnet stud nut(s) 3
+23 Bonnet adapter 3, 5, 8
+24 Adjustment bolt 3
+25 Adjustment bolt nut 3
+26 Pipe plug
+27 Set screw gasket 1, 4
+28 Guide gasket(s) 1, 4
+29 Tailpiece gasket 1, 4
+31 Gasket (bonnet adapter) 1, 4, 5
+32 Bug screen
+34 Seal and wire
+35 Seal clip (not shown)
+36 Nameplate (not shown)
+39 Drive screw(s) (not shown)
+40 Cap 7
+41 Cap gasket 1, 4
+42 Cap bolt(s) (not shown) 3, 7
+43 Cap bolt nut(s) (not shown) 3, 7
+70A Reducer 9
+70C Connector 9
+70D Tubing 9
+70E Pressure transmitter 9
+70F Bracket 9
+70G Elbow 9
+70H Bolts 3, 9
+70J Lock washers 3, 9
+4. Available as a gasket kit, complete set for all valve styles.
+5. Available as an Upgrade Kit for existing JOS-E and JBS-E or as a replacement
+Diaphragm Kit for service of an existing JDS-E/JLTJDS-E.
+6. Replacement spring and washers provided as an assembly, washers machined
+to fit spring, not sold separately.
+7. See Figure 21 for cap style variations.
+8. Sold as an assembly only.
+9. Available as an Upgrade kit for existing JOS-E and JBS-E,
+Pressure transmitter (70E) and bellows assembly (6) sold separately.
+PARTS LIST
+No. Part name Notes
+1 Body
+2 Nozzle 2
+3 Nozzle ring 3
+4 Set screw 3, except P-T orifice JLT
+4A Set screw 3, 8 (M-T2 orifice)
+4B Set screw rod 3, 8 (M-T2 orifice)
+4C Set screw pin 3, 8 (M-T2 orifice)
+5 Disc holder 2, 5, 9
+5B Bushing 2
+5G Piston 2, 9
+5H Piston pin/Retainer 2
+5J Stem pin 2
+6 Bellows assembly 2, 8
+6A Bellows tailpiece 8
+6B Bellows 8
+6C Bellows flange 8
+7 Diaphragm assembly 5
+7A Diaphragm gasket 1, 5
+7B Spacer 3, 5
+7C Diaphragm 1, 5
+7D Diaphragm plate 3, 5
+7E Lock washer 1, 5
+7F Lock washer nut 3, 5
+8 Disc insert 2
+9 Retention clip 2
+10 O-ring 1
+11 O-ring retainer 3
+12 Retainer screw(s) 3
+13 Nozzle ring lock screw(s) 3, P-T2 orifice JLT
+14 Set screw plug 3, P-T2 orifice JLT (not shown)
+15 Guide 3, 5
+16 Spindle assembly 3
+16A Spindle point 8
+16C Spindle rod 8
+5
+Safety precautions
+Proper handling, storage, installation,
+maintenance and operation is essential to the
+safe and reliable functioning of any pressure
+relief product.
+Precautionary statements in the form of
+warnings, cautions and notes are used
+throughout this instruction to emphasize
+important and critical factors where applicable.
+Examples:
+WARNING
+An operating procedure or practice which, if not
+observed strictly, may result in injury to personnel
+or loss of life.
+CAUTION
+An operating procedure or practice which, if not
+observed strictly, may result in damage to or
+destruction of equipment.
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+FIGURE 3
+Sample nameplates
+Ordering spare parts
+When ordering spare parts, the valve size,
+style and assembly number and/or serial
+number should be given together with set
+pressure, part name and reference number
+from page 4. Spare parts may be ordered
+from any Emerson regional sales office or
+authorized representative.
+All personnel working with Emerson products
+should be trained adequately and thoroughly
+familiar with the contents of the appropriate
+instruction manual(s).
+Emerson cannot evaluate all conditions in
+which the products may be used.
+However, Emerson offers the following general
+safety suggestions:
+• Never subject valves to sharp impact loads.
+Rough handling (striking, bumping, dropping,
+etc.) may alter the pressure setting, deform
+valve parts and affect seat tightness and
+valve performance adversely. Striking a
+valve which is under pressure can cause
+premature actuation.
+These precautionary statements are by no
+means exhaustive.
+Emerson cannot be expected to know, evaluate
+and advise customers of all the possible
+applications and operating conditions for
+its products or of the possible hazardous
+consequences which may result from the
+misapplication or misuse of such products.
+Consequently, the improper handling,
+storage, installation, use or maintenance
+of any Emerson product by a non Emerson
+employee may void any Emerson guarantees or
+warranties with respect to such product.
+• When moving a valve, never use the lifting
+lever to lift the valve.
+• Always lower the system pressure to the
+pressure level specified in the instruction
+before making any adjustment to the valve.
+Furthermore, always install a proper test rod
+to gag an installed valve before making any
+ring adjustments on the valve.
+• Ear and eye protection should be used when
+working on a valve which has pressure.
+• Never stand in front of the discharge
+outlet of a pressure relief valve which is
+under pressure.
+• Always stand to the side of and at a safe
+distance from the valve discharge and
+use extreme care when observing a valve
+for leakage.
+The above precautions and suggestions are
+by no means exhaustive and the user should
+always approach and use any pressure relief
+valve with great care.
+Operation, Installation and Safety Instructions
+are available at Emerson.com/FinalControl or
+from your local Emerson regional sales office
+or representative.
+6
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+2 STORAGE AND HANDLING
+Valves are often on hand at the job site months
+before they are installed. Unless stored
+properly and protected, valve performance may
+be affected adversely.
+Rough handling and dirt may damage or
+cause misalignment of the valve parts. It is
+recommended that the valves be left in their
+original shipping containers and that they be
+stored in a warehouse or at a minimum on a
+dry surface with a protective covering until they
+are used.
+Care should be exercised to ensure the
+elastomer parts like diaphragm, soft seat
+and O-Ring etc., are not damaged during
+shipping and handling. In the case of large size
+elastomer parts, provisions should be made to
+not fold, crease or bend the material.
+Unless otherwise specified, elastomer parts
+can be only used until their Maximum Shelf
+Life. The parts shall be scrapped past their
+Maximum Shelf Life.
+3 INSTALLATION
+3.1 Care in handling
+Pressure relief valves must be handled
+carefully and never subjected to sharp
+impact loads. They should not be struck,
+bumped or dropped. Rough handling may
+alter the pressure setting, deform valve
+parts and affect seat tightness and valve
+performance adversely.
+When it is necessary to use a hoist, the chain
+or sling should be placed around the valve body
+and bonnet in a manner that will ensure that
+the valve is in a vertical position to facilitate
+installation. The valve should never be lifted or
+handled using the lifting lever inlet and outlet
+protectors should remain in place until the
+valve is ready to be installed on the system.
+1 INTRODUCTION
+Crosby Style JOS-E, JBS-E, JBSBP-E, JLT-E
+and JDS-E Pressure Relief Valves have been
+selected for installation because of their
+performance features, reliability and ease
+of maintenance.
+Adherence to the installation and maintenance
+procedures specified herein will provide the
+utmost in safety, a minimum of maintenance,
+and a long service life. Crosby Style JOS-E,
+JBS-E, JBSBP-E, JDS-E and JLT-E Valves
+are manufactured in accordance with the
+requirements of Section VIII ASME Boiler and
+Pressure Vessel Code and Section XIII Rules for
+Overpressure Protection.
+Style JOS-E is a conventional closed bonnet
+valve. Style JBS-E has a balanced bellows
+for minimizing the effect of back pressure.
+Style JBSBP-E are balanced bellows valves
+with a supplementary back pressure balancing
+piston with optional wired or wireless bellows
+leak detection monitoring options.
+Style JDS-E utilizes a balanced diaphragm
+technology eliminating the need for bellows
+providing improved performance.
+Style JLT-E is a high performance valve
+designed specifically for liquid service. The
+JLT-E features a contoured liquid trim in a
+standard JOS-E, JBS-E and/or JDS-E envelope.
+3.3 Inlet piping
+Pressure relief valves should be mounted
+vertically in an upright position either directly
+on a nozzle from the pressure vessel or on a
+short connecting fitting that provides direct and
+unobstructed flow between the vessel and the
+valve. Installing a pressure relief valve in other
+than this recommended position might affect
+its operation adversely. Where rounded or
+beveled approaches cannot be provided ahead
+of the valve it is recommended that one size
+larger nozzle or fitting be used. A valve should
+never be installed on a fitting having a smaller
+inside diameter than the inlet connection of
+the valve.
+Inlet piping (nozzles) must be designed to
+withstand the total resultant forces due
+to the valve discharging at the maximum
+accumulated pressure and the expected piping
+loads. The magnitudes of the bending moment
+exerted on the inlet piping will depend on the
+configuration and method of supporting the
+outlet piping.
+Many valves are damaged when first placed
+in service because of failure to clean the
+connections properly when installed. Both
+the valve inlet and the vessel and/or line on
+which the valve is mounted must be cleaned
+thoroughly of all foreign material. The inlet
+connection bolts or studs should be drawn
+down evenly to avoid straining the valve body
+with possible distortion of the nozzle flange
+or base.
+3.2 Inspection
+Pressure relief valves should be inspected
+visually before they are installed to ensure that
+no damage has occurred during shipment or
+while in storage.
+All protective material, sealing plugs and any
+extraneous material inside the valve body or
+nozzle must be removed.
+The valve nameplate and other identifying tags
+should be checked to ensure that the particular
+valve is being installed at the location for which
+it was intended.
+The valve seals protecting the spring setting
+and ring adjustments should be intact. If seals
+are not intact, the valve should be inspected,
+tested and seals installed properly before use.
+7
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+3.4 Outlet piping
+Outlet piping should be simple and direct.
+Where possible, for non-hazardous fluids, a
+short discharge pipe or vertical riser connected
+through a long radius elbow venting directly to
+atmosphere is recommended. Such discharge
+piping should be at least the same size as the
+valve outlet.
+All discharge piping should be run as direct as
+is practicable to the point of final release for
+disposal. Valve effluent must discharge to a
+safe disposal area.
+Where discharge piping is long, due
+consideration shall be given to the use of long
+radius elbows, and the reduction of excessive
+line strains through the use of expansion joints
+and proper means of support to minimize
+line sway and vibration under operating
+conditions. Adequate drainage is required
+to prevent corrosive media from collecting
+in the discharge side of the pressure relief
+valve. When required, low point drains shall be
+provided in the discharge pipe. Particular care
+must be observed to ensure that the drains
+are directed or piped to a safe disposal area.
+In installations where the pressure relief valve
+discharges into a closed system, care must be
+taken to ensure that built up and superimposed
+back pressure has been calculated properly,
+specified and accounted for when sizing and
+selecting the valve.
+Where built up back pressure is expected to
+exceed 10% of set pressure or if superimposed
+back pressure is variable, a bellows valve or a
+diaphragm valve is required.
+4 HYDROSTATIC PRESSURE TESTS
+4.1 Hydrostatic test of vessel or system
+When a pressure vessel or system is to be
+hydrostatically tested, it is recommended
+that the pressure relief valve be removed
+and a blank flange be installed in its place.
+This practice precludes the possibility of
+any damage to the pressure relief valve.
+Bent spindles and damaged valve seats are
+problems that can be caused by improper
+hydrostatic test procedures.
+Blank flanges must be removed and the
+pressure relief valve reinstalled before the
+vessel is placed in service.
+When the hydrostatic test must be performed
+with the valve in place, a test gag may be used.
+Crosby Style JOS-E/JBS-E/JDS-E Valves are
+designed to accommodate test gags for use
+with each type of cap. In the case of the Type C
+cap with lifting lever, the lifting lever assembly
+must be replaced with a hydrostatic test cap
+and test rod prior to hydrostatic testing. When
+test rods are used, care must be exercised to
+prevent overtightening that could damage the
+valve spindle and valve seats. Generally, a test
+rod which is hand tight will provide sufficient
+force to hold the valve closed.
+After the hydrostatic test, the test rod (gag)
+must be removed and replaced by either a cap
+plug or a cap not fitted with a test rod.
+FIGURE 4 -
+Recommended installation discharging
+to atmosphere
+Discharge pipe
+Low
+point drain
+Long
+radius
+elbow
+Free
+support
+Top of vessel Rounded approach
+Short
+as possible
+Lid
+4.2 Hydrostatic test of outlet system
+When a hydrostatic test must be conducted
+on the outlet piping system, with the valve in
+place, special consideration must be given
+not to exceed the design pressure limits of
+the downstream side of the pressure relief
+valve. The outlet side of a pressure relief valve
+is known as the secondary pressure zone.
+This zone is normally designed to a lower
+pressure rating than the inlet and frequently is
+designed to a lower pressure rating than the
+outlet flange. This is true particularly in the
+case of balanced bellows or diaphragm designs
+and in the larger valve sizes.
+Consult relevant product specifications
+for the back pressure design limits of
+the Style JOS-E/JBS-E/JBSBP-E/JDS-E or
+JLT-E Valves.
+CAUTION
+Bellows and Diaphragm valves must have an open
+bonnet vent.
+Non bellows and diaphragm valves must have a
+bonnet plug installed.
+8
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+5 SETTING, TESTING AND ADJUSTMENTS
+5.1 New valves
+Every new Crosby J-Series Pressure Relief
+Valve is tested and sealed prior to shipment by
+following ASME Section XIII 3.6. The external
+adjustment points of each valve are sealed to
+ensure that no changes have been made to the
+valve after shipment and that the valve has not
+been disassembled or tampered with. The seals
+and nameplates are your assurance that the
+valve has been built and tested to the applicable
+Codes and Standards and are the physical
+evidence of our product warranty.
+All new Crosby J-Series Valves are tested
+fully prior to shipment on the appropriate
+testing medium, so there is no need to
+pre-test the valve prior to installation. If
+pre-testing is required, in order to maintain
+the product warranty, an Emerson authorized
+service organization should be contacted to
+perform the testing. Contact your local sales
+representative or visit our website to locate the
+authorized service organization closest to your
+location. By choosing an Emerson authorized
+service organization to perform testing you can
+be assured that the correct testing procedure
+is followed which will save time and cost by
+avoiding possible valve damage caused by
+improper testing methods.
+In any event, if pre-testing is to be performed,
+several important cautions should be observed.
+First it is vital that the appropriate test fluid is
+used to test any valve. See Section 5.5. This will
+ensure accuracy of the test results as well as
+avoid possible damage to the valve.
+All Crosby J-Series valves are tested for seat
+tightness after the final set point test and prior
+to shipment from the factory. If further seat
+tightness testing is required before installation,
+it is recommended that the test be performed
+prior to any set point verification testing.
+Repeated pressure testing of a metal seated
+valve can cause damage to the sealing surfaces
+leading to seat leakage.
+Testing on a low volume test stand requires
+specific testing techniques in order to ensure
+accurate test results and to avoid damage to the
+sealing surfaces of the valve. In many cases this
+requires temporary adjustment of the nozzle
+ring during the test as described in Section 5.8
+and specifically in Section 5.8.1. For valves with
+set points in excess of 500 psig (3447 kPa), it is
+recommended that when testing on a low volume
+test bench, the lift be restricted temporarily by
+use of a gag or other suitable device. When a test
+rod is used,it is recommended that the test rod
+be installed until the rod contacts the spindle and
+then backed off approximately one-half turn.
+However, it is good practice to inspect the valve
+prior to installation.
+5.3 Valves removed from service
+Valves being removed from service should
+be tested on a shop test bench before being
+disassembled to determine the set pressure
+and seat tightness. This is an important
+phase of the maintenance routine and the test
+results should be recorded for review and
+determination of necessary corrective action.
+The 'as received from service' condition
+of a pressure relief valve is a most useful
+tool in establishing the proper time interval
+between inspections.
+5.4 The test bench
+The quality and condition of the shop test bench
+is paramount to obtaining proper test results.
+The test bench must be free of leaks and the
+test fluid must be clean. Solids or other foreign
+material in the test medium will damage the
+seating surfaces of the pressure relief valve
+being tested.
+The test pressure gauge must be calibrated
+and have a range proper to the pressure level
+of the valve setting. Set pressure should fall
+within the middle third of the dial range of the
+test gauge. The test bench provides an accurate
+and convenient facility for determining valve
+set pressure and seat tightness. It does not
+duplicate all of the field conditions to which
+a pressure relief valve will be exposed while
+in service. It is not practical to attempt to
+measure relieving capacity or blowdown using
+a test bench.
+5.5 Test fluids - set pressure test
+The test fluid should be air or nitrogen for
+valves used on gas and vapor service and water
+for valves used on liquid service. Valves for
+steam service should be tested on steam.
+It may be necessary to make a correction to
+the adjusted set pressure to compensate for
+the difference in temperature of the test fluids
+(see appropriate instruction).
+5.2 Reconditioned valves
+Valves which have not been in service for
+extended periods due to plant shutdown or
+long term storage, or valves which have been
+repaired or reconditioned, also should be tested
+before being put into operation.
+CAUTION
+To prevent valve damage, seat leakage and
+inaccurate set pressure, the testing procedure
+listed in this manual should be followed. .
+This inspection determines any damage which
+may have occurred due to rough handling in
+transit or storage and initiates appropriate
+service records.
+9
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+5.6 Valve operation
+Crosby Style JOS-E/JBS-E/JBSBP-E/JDS-E
+Valves intended for compressible fluid service
+and tested with air or steam will open with a
+sharp clear popping action at the set point.
+Style JLT-E valves for liquid service tested with
+water are considered open when there is a
+continuous unbroken stream of liquid flowing
+from the valve.
+5.7 Set pressure changes
+Set pressure changes beyond the specified
+spring range will necessitate a change in the
+valve spring assembly consisting of the spring
+and two fitted spring washers. The new spring
+and washers must be obtained from Emerson
+and the valve must be reset by an authorized
+valve repair facility.
+TABLE 1
+Service Orifice size Nozzle ring setting (below highest lock position)
+Style JOS-E/JBS-E/JBSBP-E/JDS-E pressure relief valve recommended nozzle ring settings
+Vapor and gases D through J -5
+K through N -10
+P through T2 -15
+Style JLT-E pressure relief valve recommended nozzle ring settings
+Liquids and gases
+D, E, and F -2
+G, H, and J -3
+K and L -5
+M and N -10
+P and Q (see Table 2)
+R, T and T2 (see Table 2)
+5.8 Set pressure adjustment
+Before making any adjustments, reduce the
+test pressure under the valve seat to at least
+10% below the stamped set pressure (or cold
+differential test pressure - CDTP). This will
+prevent seat damage due to turning of the disc
+on the nozzle seat and minimize the chance of
+an inadvertent valve opening. A strong (high)
+ring position is necessary to obtain a good clean
+popping action of the valve on air or gas with
+the limited volume available on the test bench.
+5.8.1 (Not required for testing on liquid). Remove
+the nozzle ring set screw and raise the
+nozzle ring until it touches the disc holder,
+then back it down two (2) notches. Exercise
+care in counting the number of notches
+moved so that the ring can be returned to
+its proper position following testing.
+Moving the notches on the nozzle ring to
+the left will lower the nozzle ring.
+Replace the nozzle ring set screw before
+each set pressure test. The set screw
+must engage one of the ring notches,
+being careful that it does not bear on the
+top of a tooth.
+5.8.2 Remove the cap or lifting lever following
+the instruction for valve disassembly
+(see Section 6.2).
+5.8.3 Loosen the adjusting bolt nut and turn the
+adjusting bolt clockwise to increase set
+pressure or counterclockwise to reduce
+set pressure.
+5.8.4 Retighten the adjusting bolt nut following
+each adjustment.
+5.8.5 Two or three consecutive valve openings
+at the same pressure are necessary to
+verify the opening pressure accurately.
+5.8.6 Opening pressure tolerance shall comply
+with ASME Section XIII Table 3.6.3.1-2
+for UV Designator as below or other
+tolerance may be used so long as it meets
+ASME requirements:
+The set pressure tolerance for
+pressure relief valves shall not exceed
+±2 psi (15 kPa) for pressures up to and
+including 70 psi (500 kPa) and ±3% for
+pressures above 70 psi (500 kPa)
+5.8.7 Once the set pressure has been
+established, lower the nozzle ring to the
+installed ring position as indicated in
+Table 1 and replace the nozzle ring set
+screw as described above. Seal wire the
+cap and adjusting ring set screw with
+identifying seals.
+5.9 Nozzle ring settings
+The nozzle ring adjustment is made at the
+factory and resetting in service is seldom
+necessary. Should it be necessary to change
+blowdown or reduce valve simmer, the nozzle
+ring may be adjusted as shown in Table 1 and
+Table 2.
+CAUTION
+Should any adjustments be made while the valve is
+installed on a pressurized system, the valve should
+be gagged while ring adjustments are made to
+prevent valve from inadvertently relieving.
+NOTE
+Minus sign indicates number of ring notches
+below starting position of nozzle ring which is the
+highest position with the valve closed (contact with
+disc holder).
+TABLE 2
+JLT-E orifice size Nozzle ring setting - Total revolutions below highest lock position
+P and Q ¾ Revolution
+R, T and T2 1 Revolution
+10
+0 - 150°F (-18 - 65°C) -
+151 - 600°F (66 - 315°C) 1%
+601 - 800°F (316 - 430°C) 2%
+801 - 1000°F (431 - 540°C) 3%
+15 - 400 psig (103 - 2758 kPa) 3%
+401 -1000 psig (2765 - 6895 kPa) 4%
+1001 - 1500 psig (6902 - 10,342 kPa) 5%
+D, E, F, G, H, J, K, L 1500 (10342)
+M 1100 (7584)
+N, P 1000 (6895)
+Q 600 (4137)
+R, T, T2 300 (2068)
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+5.9.1 JOS-E, JBS-E, JBSBP-E, JDS-E
+5.9.1.1 Remove the nozzle ring set screw
+and insert a screwdriver to engage
+the ring notches.
+5.9.1.2 Turning the ring to the right raises the
+ring, thereby increasing blowdown.
+Turning the ring to the left lowers the
+ring, thereby decreasing the blowdown.
+5.9.1.3 Do not lower the nozzle ring to the
+point where the valve begins to have
+excessive simmer. Raising of the ring
+will reduce simmer.
+5.9.1.4 The nozzle ring should not be moved
+more than two notches before retesting.
+When making adjustments, always keep
+count of the number of notches and
+the direction in which the nozzle ring is
+moved. This will permit returning to the
+original setting in case of error.
+5.10 Cold differential test pressure
+adjustments
+When a pressure relief valve is on a test
+bench at room temperature and atmospheric
+pressure, and is to be installed on a
+system operating at a higher temperature
+and/or a higher back pressure, a compensating
+adjustment is necessary. The test pressure
+required to have the valve open at the desired
+set pressure under actual service conditions is
+known as the cold differential test pressure.
+5.10.1 Temperature correction
+When a Crosby Style JOS-E/JBS-E/
+JBSBP-E/JDS-E or JLT-E Valve is set
+on air or water at room temperature
+and then used at a higher service
+temperature, the test pressure shall be
+corrected to exceed the set pressure
+using the temperature correction shown
+in Table 3.
+Note: This table is not applicable
+to JOS-H-E open bonnet or
+steam service valves.
+TABLE 3
+Operating temperature % Excess pressure
+TABLE 4 - (JOS/JOS-E STYLE ONLY)
+Orifice size Saturated steam set pressure (max), psig (kPa)
+TABLE 5 - SATURATED STEAM SERVICE
+Air set pressure correction factors at ambient temperature
+Set pressure (psig) % Increase in spring set pressure
+5.9.2 JLTJOS, JLTJBS, JLTJBSBP-E, JLTJDS
+The Style JLT in the P, Q, R, T and T2
+orifice sizes is preset at the factory and
+cannot be adjusted externally in the field,
+since the special contoured skirt on the
+disc holder prevents engagement of the
+set screw with the nozzle ring. As a result
+the nozzle ring is not slotted and is held in
+place by three set screws. The position of
+the nozzle ring must be set prior to valve
+assembly as follows:
+5.9.2.1 Screw the nozzle ring (3) on
+to the nozzle. The top of the
+nozzle ring should be below the
+nozzle seating surface.
+5.9.2.2 Install the disc insert retention
+clip (9) onto the disc insert.
+Assemble the disc insert (8) and
+disc holder (5). The disc insert
+should snap into place using hand
+force only.
+5.9.2.3 Lower the disc holder and disc
+insert carefully onto the nozzle.
+5.9.2.4 Reach through the valve body
+outlet and turn the nozzle ring
+until it touches the disc holder
+lightly. This is the highest
+lock position.
+5.9.2.5 Carefully remove the disc holder
+and disc insert from the valve.
+5.9.2.6 Lower the nozzle ring (turn to
+the left) the total number of
+revolutions shown in Table 2.
+5.9.2.7 Carefully tighten each of the set
+screws on the nozzle ring to hold
+the ring in position.
+5.10.2 Back pressure correction
+Conventional valves without balancing
+bellows or diaphragm with atmospheric
+pressure at the outlet and intended
+for use under elevated constant back
+pressure conditions shall be adjusted
+so that the test pressure is equal to the
+set pressure minus the expected back
+pressure. See example below:
+Set pressure 100 psi (689 kPa)
+Constant back pressure 10 psi (69 kPa)
+Cold differential test pressure 90 psi (621 kPa)
+In all instances, the spring should be selected
+based on the cold differential test pressure;
+in the example above, 90 psi (621 kPa). See
+sample nameplate on page 5 which shows how
+temperature and back pressure are indicated.
+5.10.3 Saturated steam correction factors
+Crosby Style JOS and JOS-E Pressure
+Relief Valves excluding JOS-H-E
+open bonnet valves that are used for
+saturated steam service and are within
+the set pressure limits established in
+Table 4 may be set on air at ambient
+temperature, provided the correction
+factors in Table 5 are applied to the valve
+set pressure.
+11
+15-1000 (103-6895) 40 0.6 0.017 20 0.30 0.0085
+1500 (10,342) 60 0.9 0.026 30 0.45 0.0130
+2000 (13,790) 80 1.2 0.034 40 0.60 0.0170
+2500 (17,237) 100 1.5 0.043 50 0.75 0.0210
+3000 (20,684) 100 1.5 0.043 60 0.90 0.0260
+4000 (27,579) 100 1.5 0.043 80 1.20 0.0340
+5000 (34,474) 100 1.5 0.043 100 1.50 0.0430
+6000 (41,369) 100 1.5 0.043 100 1.50 0.0430
+TABLE 6 - MAXIMUM SEAT LEAKAGE RATE - METAL SEATED PRESSURE RELIEF VALVES
+Set pressure
+psig (kPa)
+Effective orifice sizes 0.307 In2 (198 mm2
+) and smaller D, E and F Effective orifice sizes larger than 0.307 In2
+ (198 mm2
+) G orifice and lager
+Max. bubbles
+per minute
+Approximate leakage rate per 24 hours Max. bubbles
+per minute
+Approximate leakage rate per 24 hours
+Standard cubic feet Standard cubic meters Standard cubic feet Standard cubic meters
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+5.11 Seat leakage tests
+Ambiguous terms such as 'bubble-tight',
+'drop tight', 'zero leakage' and 'commercial
+tightness' sometimes are used to describe seat
+tightness. However, these terms lack uniform
+definition and true practical meaning.
+Test procedure API standard 527 provides a
+standard for 'commercial' tightness and has
+been adopted by industry and users in order to
+clarify testing methods and tightness criteria.
+This standard applies to flanged inlet nozzle
+type pressure relief valves.
+5.11.1 Testing with Air
+ • Testing apparatus
+ A typical test arrangement for determining
+seat tightness for pressure relief valves
+per API standard 527 is shown in Figure 5.
+Leakage is measured using a 5/16 in. (7.9 mm)
+OD tube with 0.035 in. (0.89 mm) wall.
+The tube end is cut square and smooth, is
+parallel to and ½ in. (12.7 mm) below the
+surface of the water. A snap-on type test
+clamp shown in Figure 6 is available.
+• Testing Pressure
+- All valves covered by this manual shall be
+tested for seat tightness.
+- Metal to metal and TFE seated valves with
+set pressures or CDTP of 45 psig (3.10 bar)
+or greater shall be tested at not less than
+90% of the CDTP.
+- Elastomer O-Ring seated valves with set
+pressure or CDTP of 45 psig (3.10 bar) or
+greater shall be tested at not less than
+95% of the CDTP.
+- All valves with set pressures or CDTP of
+less than 45 psig (3.10 bar) and greater
+than or equal to 20 psig (1.3 bar) shall be
+tested at a pressure equal to or greater
+than 4.5 psig (0.31 bar) below the CDTP.
+- All valves with set pressures or CDTP
+below 20 psig (1.38 bar) and greater
+than 7 psig (0.48 bar) shall be tested at a
+pressure of not less than 75% of the CDTP.
+- All valves with set pressure or CDTP of
+7 psig (0.48 bar) and below shall be tested
+at a pressure equal to or greater than
+2 psig (0.14 bar) below the CDTP.
+NOTE
+The cover plate should be
+fitted with a suitable device to
+relieve body pressure in case of
+accidental popping of valve
+NOTE
+The tube must be bent so that reservoir runs
+parallel to face of coverplate
+FIGURE 5
+Typical test arrangement
+FIGURE 6
+Seat leak apparatus for 150 and 300 lbs. (68 and 136 kg.) outlets 1 in. to 10 in. sizes
+Air receiver
+Cover plate
+Tube 5/16 in. O.D. x 0.035 in. wall
+(7.9 mm O.D. x 0.89 mm wall)
+• Waiting Time before Observation of Leakage:
+- 2 in. and smaller - 1 minute
+- 21/2 in., 3 in., 4 in. - 2 minutes
+- 6 in. and greater - 5 minutes
+• Acceptance Criteria
+- Metal-to-metal seated valves
+The leakage rate in bubbles per minute
+shall be observed for at least one minute
+and shall not exceed the values indicated
+in Table 6.
+- Soft seated valves
+For soft seated valves there shall be no
+leakage for one minute (zero bubbles for
+one minute).
+5.11.2 Testing with Water
+After opening the valve at the set pressure,
+the valve shall be allowed to reseat.
+Testing pressure should be same as testing
+with air.
+• Waiting Time
+The seat leak pressure shall be maintained
+for a period of not less than three (3) minutes.
+• Acceptance Criteria
+- The maximum allowable leakage rate for
+metal to metal seat valves shall not exceed
+ten (10) cubic centimeters per hour per inch
+of diameter of nominal valve inlet size.
+- The maximum allowable leakage rate for
+Teflon and O-ring seat valves shall be zero.
+12
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+6 VALVE MAINTENANCE
+CAUTION
+Valves in hazardous fluid service and any other
+materials classified as dangerous must be
+neutralized immediately after removal from service.
+6.1 Visual inspection and neutralizing
+A visual inspection shall be made when valves
+are first removed from service. The presence
+of deposits or corrosive products in the valve
+and in the piping should be recorded and
+valves should be cleaned to the extent possible
+prior to disassembly. Check the condition
+of external surfaces for any indication of
+corrosive atmospheric attack or evidence of
+mechanical damage.
+5.11.3 Testing with Steam
+• Testing Pressure should be same as Testing
+with Air
+• Waiting Time
+The seat leak pressure shall be maintained
+for a period of not less than three (3) minutes.
+NOTE
+Any condensate in the valve body bowl shall be
+removed before the seat tightness test. Air may be
+used to dry condensate.
+• Acceptance Criteria
+- For both metal- and soft-seated valves,
+there shall be no audible or visible leakage
+for one minute
+5.11.4 Testing with Air for Open Bonnet Valve
+Leakage shall be measured on open bonnet
+valves and valves that do not have back
+pressure integrity by filling the valve outlet
+with water above the nozzle and the seating
+surfaces. The valve outlet shall be partially
+sealed with water to about 0.5 in. above
+nozzle’s seating surface.
+• Testing Pressure
+- should be same as testing with air.
+• Waiting Time
+The seat leak pressure shall be maintained for
+a period of not less than one (1) minute.
+• Acceptance Criteria
+The maximum allowable leakage rate for
+metal-to-metal seated valves in bubbles per
+minute shall not exceed 50% of the value in
+Table 6. For soft seated valves there shall be no
+leakage for one minute (0 bubbles/minute).
+6.2.2 Remove the nozzle ring set screw (4)
+and set screw gasket (27). Record
+the position of the nozzle ring (3) with
+respect to the disc holder (5) by counting
+the number of notches required to
+raise the ring until it just touches the
+disc holder. This information may be
+needed again when reassembling the
+valve. (For Style JLT P through T2 orifice
+refer to 6.2.13)
+6.2.3 Loosen the adjusting bolt nut (25).
+Before releasing the spring load, make
+note of the depth of the adjusting bolt
+in the bonnet by measuring the height
+of the adjustment bolt with a pair of
+dial calipers or depth micrometer.
+This measurement will help when
+reassembling the valve to its approximate
+original setting.
+6.2.4 Release all of the spring load by
+rotating the adjusting bolt (24) in a
+counterclockwise direction.
+6.2.5 Remove the bonnet stud nuts (22). For
+bellows leak detection styles JBSBP-E/
+JLTJBSBP-E remove the tubing from the
+transmitter and set aside.
+6.2.6 Lift the bonnet (20) straight up to clear
+the spindle (16) and valve spring (18).
+Exercise care when lifting the bonnet (20)
+as the spring (18) and spindle (16) will
+then be free to fall aside.
+6.2.7 The spring (18) and spring washers (19)
+can now be lifted off the spindle (16).
+The spring and spring washers are fitted
+together and must be kept together as
+a subassembly. Spring washers (19)
+are not interchangeable between ends
+of the spring.
+6.2 Disassembly
+Crosby JOS-E/JBS-E/JDS-E/JLTJOS-E/
+JLTJBS-E/JLTJDS-E/JBSBP-E/JLTJBS-BP-E
+Valves should be disassembled as described
+below. Parts identification may be found on
+pages 2 through 4. The parts from each valve
+should be marked properly and segregated
+to keep them separate from parts used in
+other valves.
+6.2.1 Remove the cap (40) and cap gasket (41).
+If the valve has a lifting lever device
+follow the instructions in Section 6.9.
+13
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+6.2.8 D through K orifice remove the spindle
+assembly (16), while holding the top of
+the disc holder (5) lift the disc holder
+assembly straight up out of the body (1).
+L through T2 orifice while holding the
+spindle, lift the spindle and disc holder
+assembly straight up out of the body (1)
+then remove the two spindle cotter
+pins (17) and the spindle assembly (16).
+For JOS-E, JLTJOS-E, JBS-E and
+JLTJBS-E styles lift off the guide (15)
+from the disc holder (5). For JDS-E
+and JLTJDS-E styles (see 6.2.9) before
+removing the guide. For JBSBP-E
+and JLTJBSBP-E (see 6.2.10) before
+removing the guide.
+NOTE
+A mechanical lifting aid such as a hoist may be
+required for N-T2 orifice.
+CAUTION
+For balanced bellows and bellows leak detection
+valves (Style JBS-E, JLTJBS-E, JBSBP-E and
+JLTJBSBP-E) special care must be taken not
+to damage the bellows assembly (6). If parts are
+difficult to remove, due to the presence of corrosive
+or foreign materials, soaking in a suitable solvent
+may be required.
+6.2.9 For diaphragm valves (JDS-E and
+JLTJDS-E), place the disc holder (5)
+in a vise (as shown in Figure 7). Lift
+off the bonnet adapter (23), remove
+the lock washer nut (7F) by turning
+counterclockwise, lift off the lock
+washer (7E), diaphragm plate (7D),
+diaphragm (7C), spacer (7B) and
+diaphragm gasket (7A), lift off the
+guide (15) from the disc holder (5).
+6.2.10 For bellows leak detection styles
+(JBSBP-E and JLTJBS-BP-E) place the
+disc holder (5) in a vise (as shown in
+Figure 7) remove the bonnet adapter (23)
+by lifting it off the guide (15), for D/E
+orifice the bonnet adapter (23) is used
+in lieu of the guide (15). Remove the
+piston (5G) using a suitable wrench
+turning counterclockwise, if disassembly
+is not possible with hand tools it may be
+required to heat the piston with a heat
+gun up to a maximum of 500°F (260°C),
+remove piston while hot, lift off the
+guide (15) from the disc holder (5).
+CAUTION
+If piston was heated use suitable gloves. Warning
+since Loctite is used it may also act as a thread
+sealant trapping some pressure inside the
+piston. During disassembly care should be taken
+to ensure any pressure trapped is released
+during disassembly.
+6.2.11 For bellows and bellows leak detection
+valves (JBS-E, JLTJBS-E, JBSBP-E, and
+JLTJBSBP-E), with the disc holder (5) in
+a vise (as shown in Figure 7). The bellows
+assembly is threaded onto the disc
+holder to remove use a suitable wrench
+on the bellows tailpiece (6A) by turning
+counterclockwise, remove the tailpiece
+gasket (29). The bellows assembly (6A,
+6B, 6C) are welded and there should be
+no attempt to separate. For JBS/JLTJBS
+styles with bellows welded to the disc
+holder see IS-V3137A.
+FIGURE 7
+Vise jaws
+Bellows
+Tailpiece
+Tailpiece
+gasket
+Disc holder
+14
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+NOTE
+The larger sizes may require a 3-jaw vise.
+6.2.12 Disc insert removal
+• Orifice sizes D through M (metal seats)
+Screw a standard bolt into the tapped
+hole (refer to Table 7) in the face of
+the disc insert (8) (See Figure 8). Using
+hand force pull the bolt straight out. The
+disc insert (8) with the retention clip (9)
+should come out with moderate force.
+If additional pullout force is required, a
+bolt with a T handle may be used. The
+method described below for orifice sizes
+N through T2 may be used if necessary.
+• Orifice sizes N through T2 (metal seats).
+The removal of the disc insert (8) is
+accomplished using a tool as shown
+in (Figure 8). This tool consists of a
+rectangular steel bar which spans the
+outside diameter of the disc holder (5)
+and a center hole through which the
+standard bolt can be inserted before
+screwing into the disc insert (8). A nut
+and washer are also required as shown.
+Tightening the nut with a wrench will
+exert a pulling force on the disc insert (8)
+and cause it to be removed from the
+disc holder (5).
+• Orifice sizes D through K (O-ring seats)
+the O-ring seat design has a retaining
+screw (12) in the center of the disc
+insert (8). A drilled and tapped hole
+(4-40 UNC) is provided in the center of
+the retaining screw (12) for removal of
+the disc insert (8) (refer to Figure 9).
+Screw a standard bolt into the hole in
+the retaining screw (12). Using hand
+force pull the bolt straight out. The
+disc insert (8) with the retention clip (9)
+should come out with moderate force.
+• Orifice sizes L through T2 (O-ring
+seats). Remove the three retaining
+screws (12) from the disc insert (8).
+Remove the O-ring retainer (11) and
+O-ring seat (10). A tapped hole (refer
+to Table 7) is provided in the disc
+insert (8) for insertion of a removal bolt.
+Follow instructions for metal seated
+insert removal.
+CAUTION
+Safety precautions should be followed whenever
+heavy parts are being lifted or transported.
+Dropping the disc holder may dislodge the
+insert. If the valve has been in dirty service, it
+may be necessary to use a suitable solvent to aid
+in removal.
+6.2.13 Remove the nozzle ring (3) from the
+nozzle (2) by turning counterclockwise. For
+styles (JLTJOS-E, JLTJBS-E, JLTJBSBP-E,
+or JLTJDS-E) orifice sizes P through T2
+remove the nozzle ring lock screws (13)
+with the appropriate allen head wrench
+before removing the nozzle ring.
+6.2.14 Remove the nozzle (2) from the valve
+body (1) if necessary. Unless the valve
+seat on the nozzle has been damaged
+mechanically or shows signs of corrosive
+attack, it will not be necessary to remove
+the nozzle. In most cases the nozzle can
+be reconditioned without removal from the
+valve body. To remove the nozzle, turn the
+valve body over taking care not to damage
+the bonnet studs (21). Turn the nozzle
+counterclockwise by using the wrench flats
+on the nozzle flange or a nozzle wrench
+designed to clamp onto the nozzle flange.
+6.3 Cleaning
+External parts such as the valve body, bonnet
+and cap should be cleaned by immersion in a
+bath such as hot Oakite solution or equivalent.
+These external parts may be cleaned by wire
+brushing, provided the brushes used do not
+damage nor contaminate the base metals.
+Only clean stainless-steel brushes should be
+used on stainless steel components.
+The internal parts such as the guide, disc
+holder, disc insert, nozzle ring and spindle
+should be cleaned by immersion in a
+commercial high alkaline detergent.
+Guiding surfaces on the disc holder and guide
+may be polished using a fine emery cloth. The
+bellows and other metal parts may be cleaned
+using acetone or alcohol, then rinsed with clean
+tap water and dried.
+Remove disc insert by pulling on bolt
+Bolt
+Washer
+Rectangular
+bar bolt Nut
+Bolt
+FIGURE 8
+Remove disc insert by turning nut with wrench
+Remove disc insert by pulling on bolt
+Bolt
+FIGURE 9
+Orifice size Thread size (UNC)
+D, E # 10 - 24
+F, G, H ¼ - 20
+J, K, L ¼ - 20
+M, N, P, Q, R, T, T2 ⅜ - 16
+TABLE 7 - JOS-E/JBS-E/JDS-E DISC INSERT
+THREADED HOLE SIZES
+15
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+6.4 Inspection
+Check all valve parts for wear and corrosion.
+The valve seats on both the nozzle and disc
+insert must be examined to determine if they
+have been damaged. Most often, lapping the
+valve seats is all that is necessary to restore
+them to their original condition.
+If the inspection shows that the valve seats are
+damaged badly, remachining will be necessary
+or it may be advisable to replace these parts.
+When the time element is a factor, it may be
+advantageous to replace damaged parts from
+spare parts stock, thereby permitting the
+replaced part to be checked and reworked at
+leisure. (See Figure 11 and Table 8 for nozzle
+critical dimensions). The valve spring (18)
+should be inspected for evidence of cracking,
+pitting or deformation. The bellows (6B)
+in a Style JBS-E, JBSBP-E, JLTJBS-E, and
+JLTJBSBP-E valve and
+diaphragm (7C) in a Style JDS-E and JLTJDS-E
+valves should be inspected for evidence
+of cracking, pitting or deformation that might
+develop into a leak.The bearing surfaces on
+the guide and disc holder should be checked
+for residual product build up and any evidence
+of scoring. Inspection of valve components is
+important to ensure proper valve performance.
+Damaged valve parts must be repaired
+or replaced.
+Spindle assemblies should be checked for
+excessive runout. For D to K orifice the total
+runout between the spindle point to top of the
+spindle rod should be less than 0.015 in.
+(0.38 mm). For L orifice and larger it should be
+less than 0.030 in. (0.80 mm).
+Check and inspect all gaskets for evidence of
+damage (creases, gouges, cuts) or corrosion.
+Metal gaskets may be re-used if found to be
+undamaged. All organic fiber or soft gaskets
+should be replaced.
+Grit compound no. Description
+320 Medium coarse
+400 Medium
+600 Fine
+900 Polish
+FIGURE 10
+Lapping block resurfacing plate
+Lapping block
+Top lapping surface
+Lapping block to
+be squared up
+Motion shown by
+dotted lines
+Bottom rough
+surface do not use
+6.5 Reconditioning of valve seats
+The tightness of a valve and its proper
+operation depend directly on the condition of
+the seats. Many pressure relief valve problems
+are due to eroded or damaged seats.
+The standard Crosby Style JOS-E/JBS-E/
+JBSBP-E/JDS-E/JLT-E Valve is constructed
+with a flat metal-to-metal seat. It is important
+that seating surfaces be refurbished properly
+by lapping with a flat cast iron lap coated with
+the correct lapping compound.
+6.5.1 Lapping procedures
+ Unless the seats have been damaged
+badly by dirt or scale, lapping the seating
+surfaces should restore them to their
+original condition. Never lap the disc
+insert against the nozzle. Lap each part
+separately against a cast-iron lapping
+block of the proper size. These blocks hold
+the lapping compound in their surface
+pores and must be recharged frequently.
+Lap the block against the seat. Never
+rotate the block continuously, but use an
+ As the lapping nears completion, only the
+compound left in the pores of the block
+should be present. This should give a very
+smooth finish. If scratches appear, the
+cause is probably dirty lapping compound.
+These scratches should be removed by
+using compound free from foreign material.
+ Disc inserts should be lapped in the same
+way as nozzles. The disc insert must be
+removed from the holder before lapping.
+Before the disc insert is placed back in
+the holder all foreign material should be
+removed from both parts. The insert must
+be free when in the holder. If the disc insert
+is damaged too badly to be reconditioned
+by lapping, it should be replaced.
+ Remachining the insert will change critical
+dimensions, affect the action of the valve
+and is not recommended.
+• Lapping blocks
+Lapping blocks are made of a special
+grade of annealed cast iron. There is a
+block for each orifice size. Each block
+has two perfectly flat working sides and
+it is essential that they retain this high
+degree of flatness to produce a truly flat
+seating surface on either the disc insert
+or the nozzle. Before a lapping block is
+used, it should be checked for flatness and
+reconditioned after use on a lapping plate.
+The block should be lapped in a figure
+eight motion, applying uniform pressure
+while rotating the lapping block against
+the plate as shown in Figure 10.
+• Lapping compounds
+Experience has proven that medium
+coarse, medium fine and polish lapping
+compounds will condition any damaged
+pressure relief valve seat properly except
+where the damage requires remachining.
+The following lapping compounds, or their
+commercial equivalents are suggested:
+oscillating motion. Extreme care should
+be taken throughout to make certain
+that the seats are kept perfectly flat.
+If considerable lapping is required, spread
+a thin coat of medium coarse lapping
+compound on the block. After lapping with
+the medium coarse compound, lap again
+with a medium grade compound. Unless
+much lapping is called for, the first step
+can be omitted. Next, lap again using a
+fine grade compound. When all nicks
+and marks have disappeared, remove all
+the compound from the block and seat.
+Apply polish compound to another block
+and lap the seat.
+16
+15° 45°
+D 3.453 87.7 3.453 87.7 3.453 87.7 3.453 87.7 3.453 87.7 3.675 93.3 3.675 93.3 3.675 93.3 4.796 121.8
+E 3.453 87.7 3.453 87.7 3.453 87.7 3.453 87.7 3.453 87.7 3.675 93.3 3.675 93.3 3.675 93.3 4.796 121.8
+F 4.013 101.9 4.013 101.9 4.013 101.9 4.013 101.9 4.013 101.9 4.013 101.9 4.013 101.9 4.013 101.9 4.633 117.7
+G 3.763 95.6 3.763 95.6 3.763 95.6 3.763 95.6 3.763 95.6 3.763 95.6 3.763 95.6 4.763 121.0 4.763 121.0
+H 3.889 98.8 3.889 98.8 3.889 98.8 3.889 98.8 4.826 122.6 4.826 122.6 4.826 122.6 4.826 122.6 - - - - - - - -
+2J3 4.326 109.9 4.326 109.9 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+2½J4 - - - - - - - - - - - - - - - - 4.357 110.7 4.357 110.7 5.107 129.7 5.107 129.7 - - - - - - - - - - - - - - - - - - - - - - - -
+3J4 - - - - - - - - - - - - - - - - 6.232 158.3 6.232 158.3 6.232 158.3 6.232 158.3 6.441 163.6 6.441 163.6 - - - - - - - -
+K 4.701 119.4 4.701 119.4 4.701 119.4 4.701 119.4 5.826 148.0 5.826 148.0 7.013 178.1 7.013 178.1 - - - - - - - -
+L 5.045 128.1 5.045 128.1 5.263 133.7 5.263 133.7 5.263 133.7 6.236 158.4 6.236 158.4 6.236 158.4 - - - - - - - -
+M 5.576 141.6 5.576 141.6 5.576 141.6 5.576 141.6 5.576 141.6 6.389 162.3 6.389 162.3 - - - - - - - - - - - - - - - -
+N 6.107 155.4 6.117 155.4 6.117 155.4 6.117 155.4 6.117 155.4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+P 5.857 148.8 5.857 148.8 7.607 193.2 7.607 193.2 7.607 193.2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+Q 7.732 196.4 7.732 196.4 7.732 196.4 7.732 196.4 7.732 196.4 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+R 8.107 206.2 8.117 206.2 8.117 206.2 8.117 206.2 8.117 206.2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+T, T2 9.576 243.2 9.576 243.2 9.576 243.2 - - - - - - - - 9.576 243.2 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+'A' 0.332 8.4 0.370 9.4 0.369 9.4 0.398 10.1 0.429 10.9 0.531 13.5 0.546 13.9 0.605 15.4 0.632 16.1 0.692 17.6 0.783 19.9 0.781 19.8 0.839 21.3
+'B' 0.021 0.5 0.025 0.6 0.030 0.8 0.036 0.9 0.044 1.1 0.051 1.3 0.063 1.6 0.070 1.8 0.076 1.9 0.091 2.3 0.118 3.0 0.139 3.5 0.176 4.5
+0.023 0.6 0.027 0.7 0.032 0.8 0.038 1.0 0.046 1.2 0.053 1.3 0.065 1.7 0.072 1.8 0.078 2.0 0.093 2.4 0.120 3.0 0.141 3.6 0.178 4.5
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+6.5.2 Machining of nozzle seats
+If machining of the nozzle seat or
+other major repairs are necessary, it is
+recommended that the valve be returned
+to an authorized Emerson Service Center
+for repair. All parts must be machined
+accurately per Emerson specifications.
+No pressure relief valve will be tight,
+nor will it operate properly unless all
+parts are machined correctly. The most
+satisfactory way to machine a nozzle is to
+remove it from the valve body. However,
+it may also be machined while assembled
+within the valve body. In any event, it is
+vitally important that the seating surfaces
+run absolutely true before machining.
+Machining dimensions for Crosby Style
+FIGURE 11
+Nozzle seat critical dimensions
+Minimum
+face to
+seat dim,
+refer to
+Table 8
+Raised seal face
+Related
+surfaces
+Seat 0.010-0.014
+machined
+0.008 min after
+lapping
+0.004 after lapping
+6.5.3 Machining of disc insert seats
+When the damage to the disc insert seat
+is too severe to be removed by lapping,
+the disc insert may be machined and
+lapped provided that minimum seat height
+is maintained (Figure 12 and Table 9).
+FIGURE 12
+Disc insert minimum seat height (Table 9)
+'B' mach.
+'A' min.
+after lapping
+TABLE 9 - DISC INSERT MINIMUM SEAT HEIGHTS
+Orifice D and E F G H J K L M N P Q R T
+in. mm in. mm in. mm in. mm in. mm in. mm in. mm in. mm in. mm in. mm in. mm in. mm in. mm
+TABLE 8 - MINIMUM NOZZLE FACE TO SEAT DIMENSIONS (SEE FIGURE 11)
+Valve type
+Orifice 12, 14, 15, 16 22, 24, 25, 26 32, 34, 35, 36, 37 47 42, 44, 45, 46 57 55, 56 64, 65, 66, 67 75, 76, 77
+in. mm in. mm in. mm in. mm in. mm in. mm in. mm in. mm in. mm
+JOS-E/JBS-E/JBSBP-E/JDS-E/JLT-E
+Valves with metal-to-metal nozzle seats
+are shown in Figure 11 and Table 8.
+Remove only enough metal to restore the
+surface to its original condition. Turning
+to the smoothest possible finish will
+facilitate lapping.
+The nozzle must be replaced when
+minimum face to seat dimension is
+reached. This critical dimension is shown
+in Table 8.
+17
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+6.6 Assembly
+All components should be clean. Before
+assembling the following parts, lubricate with
+pure nickel 'Never-Seez®' or equivalent (See
+Figure 12).
+• Nozzle to body threads.
+• Nozzle and body sealing surface.
+• All studs and nuts.
+• Spindle rod threads.
+• Spring spacer bevels.
+• Set screw threads.
+• Adjusting bolt and bonnet threads.
+• Bonnet pipe plug (JOS-E
+and JLTJOS-E only).
+• Cap threads.
+• Dog shaft bearing threads.
+• Spindle point thrust bearing.
+• Body, bonnet, cap set screw gaskets and
+bellows tailpiece gasket.
+• Disc insert bearing.
+• D through H orifice Disc holder top
+threads (JDS-E and JLTJDS-E only) by
+using Loctite®243.
+• J through T orifice Disc holder top threads
+(JDS-E and JLTJDS-E only).
+Special attention should be given to the guiding
+surfaces, bearing surfaces, threaded surfaces,
+and gasket surfaces to ensure that they are
+clean, undamaged, and ready for assembly.
+For parts identification, refer to Figure 1.
+Please refer to the respective manufacturer’s
+latest documentation on usage, dry time,
+curing time etc. for proper performance. Metal
+gaskets and O-ring soft seals (if applicable)
+should be replaced during each repair for best
+performance. Metal gaskets can be re-used if
+not damaged or corroded.
+6.6.1 Apply lubricant to the flange surface
+in contact with the valve body (1)
+and on the body to nozzle threads.
+Screw the nozzle (2) into the
+valve body (1) and tighten with the
+appropriate nozzle wrench.
+6.6.2 Screw the nozzle ring (3) onto the nozzle (2).
+The top of the nozzle ring should be above
+the nozzle seating surface. This prevents
+damaging the seating surfaces during
+installation of the disc holder assembly.
+6.6.3 If removed, install the retention clip (9)
+onto the disc insert (8) by placing the
+retention clip over the groove of the disc
+insert and pushing into the groove. For
+O-ring soft seat (see Figure 22) lightly
+coat the new O-ring (10) with “Parker
+Super O-Lube” place the O-ring around
+the radius lip of the O-ring retainer (11)
+and install into the disc insert (8) being
+careful not to pinch the O-ring, place
+a small amount of Loctite® 242 (or
+FIGURE 13
+Recommended lubrication points
+equivalent removable thread lock)
+onto the O-ring retainer screw(s)
+threads (12) thread the retainer screw(s)
+into the disc insert finger tight. Using
+the proper allen head wrench securely
+tighten the retainer screw(s). Place the
+disc insert (8) into the disc holder (5)
+and push on the disc insert until it snaps
+into the disc holder using hand force
+only. Rocking the disc insert may aid in
+snaping into place.
+CAUTION
+Safety precautions should be followed whenever
+heavy parts are being lifted or transported.
+Dropping the disc holder assembly may dislodge
+the disc insert.
+6.6.4 For bellows valves (JBS-E/JLTJBS-E/
+JBSBP-E/JLTJBSBP-E), place the
+disc holder (5) in a vise (or 3 jaw vise
+for larger sizes) as shown in Figure 7.
+Install the new tailpiece gasket (29) onto
+the disc holder (5). Screw the bellows
+assembly (6) onto the disc holder by
+holding the bellows tailpiece (6A),
+tighten the bellows using the flats on
+the tailpiece with a suitable wrench. For
+Bellows Leak Detection style JBSBP-E/
+JLTJBSBP-E See paragraph 6.8
+for assembly.
+NOTE
+Special care should be taken to not damage
+the bellows, never use a pipe wrench to
+tighten the tailpiece (6A).
+6.6.5 Assemble the disc holder (5) and
+guide (15), by sliding the guide over the
+disc holder. For restricted lift styles “RL”
+install the restricted lift spacer over the
+disc holder prior to installing the guide
+(See Figure 18, paragraph 6.7).
+NOTE
+For orifice sizes D and E only on styles JOS-E/
+JBS-E/JLTJOS-E/JLTJBS-E the guide lift stop
+protrudes up into the valve bonnet (20), orifice
+sizes F through T2 the guide lift stop protrudes
+down into the body (1). For orifice sizes D
+through T2 on styles JDS-E/JLTJDS-E/JBSBP-E/
+JLTJBSBP-E the guide lift stop protrudes down
+into the valve body (1). For D/E orifice the bonnet
+adapter (23) is used in lieu of the guide (15).
+18
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+a. For styles JDS-E/JLTJDS-E with the
+disc holder (5) in the vise (or 3 jaw
+vise), place the diaphragm gasket (7A)
+onto the shoulder of the disc holder
+being careful to make sure the
+diaphragm gasket rests squarely
+on the shoulder of the disc holder
+then stack the spacer (7B) onto the
+diaphragm gasket, keep the nonserration surface of the spacer against
+the diaphragm gasket.
+NOTE
+Visually check for any burrs on the spacer (7B)
+serration prior to assembling.
+b. Install the diaphragm (7C) onto the
+spacer (7B) through the center hole,
+keep the rubber side of the diaphragm
+towards the serration surface of the
+spacer. Fold down the diaphragm to be
+convoluted around the spacer so that
+diaphragm rests on the guide flatly and
+evenly in the circumferential direction.
+c. Place the diaphragm plate (7D) onto
+the diaphragm (7C), serration side
+down towards the diaphragm. Stack the
+wedge lock washer set (7E) above the
+diaphragm plate (7D) keep the pair of
+washers together. (See Figure 15 for the
+correct paired washer stacking). (See
+Figure 14 for JDS assembly).
+NOTE
+Visually check for any burrs on the diaphragm
+plate (7D) serration surface prior to assembling.
+d. For D through H orifice sizes, place
+a small amount of Loctite® 243
+(removable thread locker) onto the
+disc holder top threads (5). For J
+through T2 orifice sizes, lubricate the
+disc holder top threads (5) with pure
+Nickle “Never-Seez®” or equivalent.
+Screw the lock washer nut (7F) onto
+the disc holder (5) finger tight. Using
+the proper wrench tighten the nut
+to the torque required per Table 10.
+The torque shall be increased slowly
+to avoid diaphragm (7C) rotation
+and potential diaphragm gasket (7A)
+damage. The torque shall not exceed
+the maximum value as specified
+in Table 10.
+e. Install the bonnet adapter (23)
+by positioning the counter
+bore on the O.D. of the
+diaphragm (7C) and guide (15).
+6.6.6 Install the new bottom guide gasket (28),
+into the recess in the body (1) below
+the guide (15). For bellows valves, the
+bellows flange eliminates the need for
+the bottom guide gasket (28).
+Figure 14
+JDS Assembly
+6.6.7 While holding the top of the disc
+holder (5) install the disc holder and
+guide assembly into the body (1). Align
+the hole in the guide with the body
+outlet. Once guide is seated, the disc
+holder (5) and disc insert (8) assembly,
+can be lowered into the nozzle (2). By
+reaching into the valve outlet lower the
+nozzle ring (3) clockwise below the seat
+so that it moves freely. For JLTJOS-E/
+JLTJBS-E/JLTJDS-E/JLTJBSBP-E
+orifice sizes P-T2 only, turn the nozzle
+ring (3) counter-clockwise until it
+touches the disc holder (5). Remove the
+disc holder guide and disc assembly and
+position the nozzle ring (13) (per Table 2),
+then tighten the three set screws (13)
+with the appropriate allen-head wrench.
+Once the set screws are installed
+re-install the disc holder, guide, and
+disc assembly.
+NOTE
+It may be required for orifice sizes L-T2 to
+install the spindle (16) and cotter pins (17) and
+use a mechanical lifting aid attached to the
+spindle threads.
+6.6.8 Position the upper gasket (28) onto the
+guide, line up the O.D. of the gasket with
+the O.D. of the guide. For diaphragm
+type JDS position the bonnet adapter
+gasket (31) above the bonnet adapter (23).
+Place the spring (18) and washers (19)
+onto the spindle (16) and assemble the
+spindle to the disc holder. Orifice sizes L
+through T2 require two cotter pins (17) to
+attach the spindle to the disc holder (5) in
+the two pre-drilled holes. No cotter pins
+are required in orifice sizes D-K.
+6.6.9 Lower the bonnet (28) over the
+spindle (16) and spring assembly (18-19)
+onto the bonnet studs (21) in the body (1).
+Position the bonnet counter bore gasket
+surface on the O.D. of the guide (15)
+or bonnet adapter (23) as applicable.
+The bonnet vent should face the outlet
+direction unless otherwise specified.
+NOTE
+The spindle and spring assembly for orifices L
+through T2 will tend to shift to the side, special
+care should be taken to hold the spring and
+washer assembly upright before installing the
+bonnet (20) this can be accomplished by placing
+a sized block of wood (or any alternate spacer) on
+two opposing sides between the bottom spring
+washer (19) and the guide (15). Once the bonnet
+clears the spindle the blocks or spacer must be
+removed prior to lowering the bonnet into its final
+seated position.
+Figure 15
+Wedge Lock Washer Set
+(31) Gasket
+(bonnet adapter)
+(23) Bonnet
+adapter
+(7F) Lock washer nut
+(7E) Wedge lock
+washer
+(7D) Diaphragm plate
+(7C) Diaphragm
+(15) Guide
+(28) Guide gasket
+(5) Disc holder
+(7B) Spacer
+(7A) Diaphragm
+gasket
+19
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+TABLE 11 - REQUIRED TIGHTENING TORQUE FOR BONNET NUT
+Thread
+Torque in ft-lbs Torque in N•m
+Minimum Maximum
+7/16 - 14 23.0 (31.2) 30.0 (40.7)
+1/2 - 13 35.0 (47.5) 45.0 (61.))
+5/8 - 11 70.0 (94.9) 90.0 (122.0)
+3/4 - 10 115.0 (155.9) 150 (203.4)
+7/8 - 9 185.0 (250.8) 240.0 (325.4)
+1 - 8 240.0 (325.4) 370.0 (501.7)
+11/8 - 8 405.0 (549.1) 525.0 (711.8)
+11/4 - 8 580.0 (786.4) 750.0 ( 1016.9)
+TABLE 10 - REQUIRED TIGHTENING TORQUE FOR DIAPHRAGM NUT
+Orifice Thread
+Torque in ft-lbs Torque in N•m
+Minimum Maximum
+D and E 1/4 - 28 3.0 (4.0) 4.0 ( 5.4)
+F 1/4 - 28 3.5 (4.7) 3.8 (5.2)
+G 5/16 - 24 6.6 (8.9) 7.4 (10.1)
+H 3/8 - 32 12.3 (16.7) 14.2 (19.3)
+J 1/2 - 20 28.0 (38.0) 31.0 (43.0)
+K 5/8 - 18 57.0 (76.0) 59.0 (80.0)
+L 11/4 - 12 147.0 (200.0) 169.0 (230.0)
+M 13/8 - 12 162.0 (220.0) 162.0 (220.0)
+N 15/8 - 12 224.0 (305.0) 224.0 (305.0)
+P 15/8 - 12 269.0 (365.0) 269.0 (365.0)
+6.6.10 Install the bonnet nuts (22) finger-tight
+onto the bonnet studs (21) For
+JBSBP-E and JLTJBSBP-E install the
+bracket opposite of the nameplate
+(See Figure 20) tighten the nuts in the
+sequence shown in the diagram in
+Figure 16 approximately one-half the
+minimum torque value. Repeat the same
+sequence of tightening to the maximum
+torque value shown in Table 11. Then
+starting with the Number 1 nut, tighten
+each nut in order in a clockwise or
+counterclockwise direction to a value no
+greater than the maximum value shown
+in Table 11.
+6.6.11 Screw the adjusting bolt nut (25) onto
+the adjusting bolt (24), then screw the
+adjusting bolt and nut assembly into
+the bonnet threads (24), tighten by
+turning clockwise to apply force to the
+spring and washers (18-19). The original
+set pressure can be approximated by
+screwing the adjustment bolt (24) down
+to the original measurement taken
+during disassembly.
+NOTE
+It may be necessary to hold the spindle (16) with
+pliers (or two nuts tightened onto the spindle and
+held by the bottom nut) or hold disc holder by
+reaching into the valve outlet while tightening the
+adjustment bolt to prevent damage to the seats.
+6.6.12 For JOS-E/JBS-E/JDS-E/JBSBP-E
+styles in air or gas service turn the
+nozzle ring (3) counterclockwise until it
+touches the disc holder (5), then lower
+it clockwise two notches. This is the test
+stand setting only, once valve setting
+is complete, nozzle ring should be
+adjusted by turning counterclockwise
+until it touches the disc holder, then
+adjusted down by turning clockwise to
+the recommended position in Table 1.
+For JLTJOS-E/JLTJBS-E/JLTJDS-E/
+JLTJBSBP-E on liquid and air service
+the nozzle ring (3) can be adjusted to the
+recommended position in Tables 1 and 2
+without presetting to two notches.
+6.6.13 Place the new set screw gasket (27)
+onto the set screw (4) and screw the set
+screw into the body (1) the set screw
+should engage the nozzle ring between
+the slots allowing the nozzle ring to
+move slightly back and forth after set
+screw is tightened. For styles JLTJOS-E/
+JLTJBS-E/JLTJBSBP-E/JLTJDS-E, P
+through T2 orifice the set screw does not
+engage the nozzle ring due to nozzle ring
+is held by lock screws (13).
+6.6.14 The valve is now ready for testing. After
+testing, the following measures should
+be taken:
+• Be sure that adjusting bolt nut (25)
+is locked.
+• Return the nozzle ring (3) to either the
+original recorded position or to the
+recommended position shown in Table 1.
+• Install the cap or lifting device. See
+paragraph 6.9 for lifting lever assembly.
+• Seal the external adjustments, cap or
+lifting lever device and nozzle ring set
+screw to prevent tampering.
+1
+1
+1
+1
+2
+2
+2
+2
+3
+3
+3
+3
+7
+7
+8
+8
+4
+4
+4
+11
+12 9
+10
+5
+5
+5
+6
+6
+6
+4 4 Studs
+6 Studs
+8 Studs
+12 Studs
+Figure 16
+Sequence Diagram
+20
+6.7 Restricted lift valves
+Crosby JOS-E/JDS-E/JBS-E/JBSBP-E and
+JLT-E Pressure Relief Valves are available
+in a restricted lift version. The purpose of a
+restricted lift valve is to more closely match
+the required capacity of the protected vessel or
+pipe with the actual and rated capacities of the
+relief valve providing over-pressure protection.
+Restricted lift (RL) versions of the J-Series may
+be built by a certified Emerson manufacturing
+facility or by an ASME certified Assembler with
+the required certification specific to the RL
+version (National Board certificates 01045 and
+01382). Any ASME marked RL valve may be VR
+repaired by a repair organization certified under
+the National Board VR repair program. Existing
+non- restricted lift versions of the J-Series may
+be converted to the restricted lift version by
+VR certificate holders. In addition existing RL
+versions may have their lift modified using the
+same procedures.
+NOTE
+Restricted lift valves may be identified by the restricted
+lift nameplate by model number with “-RL".
+6.7.1 Restricted lift valves have a limit spacer
+that prevents the disc and disc holder
+from lifting its limits. These valves may be
+restricted to a minimum lift of 30% of the
+full rated capacity or .080 in. (2.03 mm).It
+is important to check lift on all restricted
+lift valves to ensure accuracy of the
+capacity on the nameplate. For production
+purposes the spacers are precut for 10%
+increments. 5% increments can be added
+for K orifice and larger.
+6.7.2 Determining the correct limit spacer height
+• The nameplate capacity should
+be as specified on the nameplate
+or determined by calculation
+(See example on page 21).
+• The required lift should also
+be specified on the nameplate
+or determined by calculation
+(See example on page 21).
+• Select the limit spacer(s) to the
+required limit spacer height
+(See Tables 12 and 13).
+6.7.3 Measure the valve lift.
+• Install the limit spacer (see Figure 18)
+with the chamfer down and reassemble
+the valve as described in Steps 6.6.1
+through 6.6.10.
+Install bellows to disc holder first for
+bellows valve, then install spacer.
+• Measure the lift of the valve and
+compare it with the required lift as given
+on the restricted lift nameplate with
+tolerance (-0.020 in., +0.020 in.
+(-0.50 mm, +0.50 mm)).
+• Based on the results, if the lift is not in
+the tolerance:
+If the actual lift is less than required, machine
+the limit spacer as necessary to obtain the
+required lift. (Machine chamfer, deburr and
+polish before installation into the valve.)
+If the actual lift is greater than required, obtain
+a new next taller limit spacer, disassemble
+the valve and return to section 6.7.3. (Machine
+chamfer, deburr and polish before installation
+into valve.)
+• Once correct lift is obtained,
+disassemble the valve.
+• Ensure the limit spacer has been
+chamfered to fit over the radius of the
+disc holder. The limit spacer must be
+installed so that the chamfered end is
+mating to the back face of disc holder,
+and not sitting on the disc holder radius.
+• Prior assembly, verify the lift for
+each valve.
+FIGURE 18
+Restricted lift spacer
+CAUTION
+Do not interchange internal parts or use a
+different nozzle after a set of parts has been
+custom-fit.
+6.7.4 Assembly
+Valves need to be assembled as per
+section 6.6.
+6.7.5 Restricted Lift Nameplate
+For new restricted lift version valves, use
+the restricted lift nameplate (See Figure 17.)
+If a non-restricted lift J-Series PRV is
+converted to the RL version, or if the
+restricted lift is changed on an existing
+RL version valve the following procedure
+regarding nameplates should be followed.
+• The information on the original ASME
+nameplate which is changed by the
+conversion, such as model number,
+capacity and restricted lift should be
+lightly etched out but still legible.
+• Information changed by conversion of
+the valve or change to the restricted
+lift shall be included on the repair
+nameplate to serve as a record of
+the conversion and its effect on the
+performance of the PRV.
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Lift
+restricting
+spacer
+FIGURE 17
+Sample Restricted Lift Nameplate
+N AS ME
+UV
+B ANDERSON GREENWOOD CROSBY, EMRT
+SIZE STYLE
+SET PRESS. CDTP
+SER. BP TC
+NO.
+OVER
+PRESS.
+RESTRICTED CAP.
+RESTRICTED LIFT
+N AS ME
+UV
+B ANDERSON GREENWOOD CROSBY, EMRT
+SIZE STYLE
+SET PRESS. CDTP
+SER. BP TC
+NO.
+OVER
+PRESS.
+RESTRICTED CAP.
+RESTRICTED LIFT
+1D2 JBS-E-15J
+660 PSIG 660.6 PSIG
+12345678
+1820 SCFM AIR @ 60F
+0.116”
+10%
+0 PSIG 1
+21
+Examples
+Valve model number: JBS-E
+Size and orifice: 6 Q 8
+Set pressure: 600 psig (4137 kPa)
+Back pressure: 100 psig (689 kPa)
+Operating temperature: 350 °F (177°C)
+Design temperature: 450 °F (232°C)
+Outlet temperature: 100 °F (38°C)
+Body/bonnet material: Carbon steel
+Full lift: 1.243 in. (31.6 mm)
+Rated full capacity of full lift: 374.860 lbs/hr (170 kgs/hr)
+CASE 1
+Capacity required: 250.000 lbs/hr (113 kg/hr)
+Selection 1
+Maximum, not to exceed, rated nameplate capacity (110% of capacity required): 275.000 lbs/hr (125 kgs/hr)
+Required capacity of full capacity: 250.000 / 374.860 = 67%
+Required lift: 67% × 1.243 inches = 0.833 in. (21.2 mm)
+Choose a spacer of 70% of full capacity in Table 12: 11408478
+Nameplate restricted lift: 1.243 × 70% = 0.870 in. (22.1 mm)
+Nameplate capacity: 374.860 lbs/hr ×70% = 262.402 lbs/hr (119 kgs/hr)
+CASE 2
+Capacity required: 165.000 lbs/hr (74.84 kg/hr)
+Selection 2
+Maximum, not to exceed, rated Nameplate Capacity (110% of capacity required): 181.500 lbs/hr (82.32 kgs/hr)
+Required capacity of full capacity: 165.000 / 374.860 = 44%
+Required lift: 44% × 1.243 inches = 0.547 in. (13.9 mm)
+Choose two spacers of 50% of Full Capacity and 5% Reduction in Table 12: 11408482 and 11408471
+Nameplate restricted lift: 1.243 × 45% = 0.559 in. (14.2 mm)
+Nameplate capacity: 374.860 lbs/hr × 45% = 168.687 lbs/hr (76.51 kgs/hr)
+NOTE
+Nameplate capacity shall be greater than required capacity of 250.000 lbs/hr (113 kg/hr) and lower than
+maximum of 275.000 lbs/hr (125 kgs/hr).
+NOTE
+Nameplate capacity shall be greater than required capacity of 165,000 lbs/hr (74.84 kgs/hr) and lower than
+maximum of 181.500 lbs/hr (82.32 kgs/hr)
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+22
+D 1-4() N/A N/A N/A N/A N/A N/A N/A N/A
+JOS D 5-7() N/A N/A N/A N/A N/A N/A N/A N/A
+E 1-4() N/A N/A N/A N/A 11408429 0.117 (3) 11408440 0.100 (2.5)
+JOS E 5-7() N/A N/A N/A N/A 11408809 0.117 (3) 11408807 0.099 (2.5)
+F 1-4() N/A N/A 11408542 0.161 (4.1) 11408554 0.141 (3.6) 11408535 0.120 (3.0)
+F 5-7() N/A N/A 11408542 0.161 (4.1) 11408554 0.141 (3.6) 11408535 0.120 (3.0)
+G 11408534 0.225 (5.7) 11408818 0.199 (5.1) 11408819 0.173 (4.4) 11408536 0.146 (3.7)
+H 11277099 0.274 (7.0) 11408828 0.241 (6.1) 11408829 0.208 (5.3) 11408830 0.174 (4.4)
+J 11408532 0.342 (8.7) 11408839 0.299 (7.6) 11408840 0.257 (6.5) 11408842 0.215 (5.5)
+K 11408854 0.407 (10.3) 11408855 0.356 (9.0) 11408856 0.306 (7.8) 11408858 0.255 (6.5)
+L 1-4() 11408387 0.501 (12.7) 11408539 0.438 (11.1) 11408388 0.375 (9.5) 11408389 0.311 (7.9)
+L 5-6() 11408401 0.514 (13.1) 11408402 0.451 (11.5) 11408403 0.388 (9.9) 11408404 0.324 (8.2)
+M 11408410 0.560 (14.2) 11408417 0.486 (12.3) 11408419 0.416 (10.6) 11408420 0.345 (8.8)
+N 11408434 0.608 (15.4) 11408435 0.530 (13.5) 11408436 0.453 (11.5) 11408437 0.375 (9.5)
+P 11408452 0.735 (18.7) 11408453 0.640 (16.3) 11408454 0.546 (13.9) 11408455 0.451 (11.5)
+Q 11408469 0.961 (24.4) 11408485 0.829 (21.1) 11408482 0.708 (18) 11408480 0.583 (14.8)
+R 11408486 1.128 (28.7) 11408483 0.979 (24.9) 11408485 0.829 (21.1) 11408481 0.679 (17.2)
+T 11408505 1.455 (37) 11408506 1.264 (32.1) 11408508 1.074 (27.3) 11408509 0.883 (22.4)
+T2 11408488 1.435 (36.4) 11408489 1.237 (31.4) 11408490 1.040 (26.4) 11408491 0.843 (21.4)
+D 1-4() 11408396 0.114 (2.9) 11408407 0.102 (2.6) 11408418 0.090 (2.3)
+JOS D 5-7() 11408808 0.114 (2.9) 11408680 0.102 (2.6) 11408798 0.090 (2.3)
+E 1-4() 11408451 0.084 (2.1) 11408462 0.067 (1.7) 11408473 0.051 (1.3)
+JOS E 5-7() 11408786 0.084 (2.1) 11408775 0.067 (1.7) 11408750 0.051 (1.3)
+F 1-4() 11408566 0.099 (2.5) 11408577 0.078 (2.0) 11408588 0.058 (1.5)
+F 5-7() 11408566 0.099 (2.5) 11408577 0.078 (2.0) 11408588 0.058 (1.5)
+G 11408820 0.120 (3.0) 11408821 0.093 (2.4) 11408823 0.066 (1.7)
+H 11408831 0.141 (3.6) 11408832 0.108 (2.7) 11408834 0.075 (1.9)
+J 11408844 0.172 (4.4) 11408845 0.130 (3.3) 11408847 0.087 (2.2)
+K 11408859 0.204 (5.2) 11408860 0.153 (3.9) 11408861 0.103 (2.6)
+L 1-4() 11408390 0.248 (6.3) 11408391 0.185 (4.7) 11408392 0.122 (3.1)
+L 5-6() 11408405 0.261 (6.6) 11408406 0.198 (5.0) 11408408 0.135 (3.4)
+M 11408421 0.274 (7.0) 11408422 0.203 (5.2) 11408423 0.132 (3.4)
+N 11408438 0.297 (7.5) 11408439 0.219 (5.6) 11408441 0.141 (3.6)
+P 11408456 0.357 (9.1) 11408537 0.262 (6.7) 11408457 0.168 (4.3)
+Q 11408478 0.459 (11.7) 11408476 0.335 (8.5) 11408474 0.210 (5.3)
+R 11408479 0.530 (13.5) 11408477 0.380 (9.7) 11408475 0.231 (5.9)
+T 11408511 0.692 (17.6) 11408538 0.501 (12.7) 11408512 0.311 (7.9)
+T2 11408492 0.645 (16.4) 11408493 0.448 (11.4) 11408494 0.250 (6.4)
+D Thru J N/A N/A
+K 11408853 0.025 (0.6)
+L 1-4() 11408386 0.032 (0.8)
+L 5-6() 11408400 0.032 (0.8)
+M 11408416 0.035 (0.9)
+N 11408433 0.039 (1.0)
+P 11408450 0.047 (1.2)
+Q 11408471 0.062 (1.6)
+R 11408472 0.075 (1.9)
+T 11408504 0.095 (2.4)
+T2 11408487 0.099 (2.5)
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+TABLE 12 - JOS/JBS/JDS RESTRICTED LIFT SS316 SPACER / J_S-RL SS316 SPACER 
+Orifice
+Part number Height(1), in. (mm) Part number Height(1), in. (mm) Part number Height(1), in. (mm) Part number Height(1), in. (mm)
+30% of full capacity 40% of full capacity 50% of full capacity 60% of full capacity
+Orifice 70% of full capacity 80% of full capacity 90% of full capacity
+Orifice 5% increment
+NOTE
+1. Tolerance of Spacer Height is +/-.005. in. (+/-0.13 mm)
+2. N/A = Not Applicable, does not exist.
+23
+D 1-4() N/A N/A N/A N/A 11408383 0.137 (3.5)
+JLTJOS D 5-7() N/A N/A N/A N/A 11408808 0.113 (2.9)
+E 1-4() 11408810 0.146 (3.7) 11408822 0.126 (3.2) 11408833 0.105 (2.7)
+JLTJOS E 5-7() 11408702 0.122 (3.1) 11408680 0.102 (2.6) 11408669 0.081 (2.1)
+F 1-4() 11408533 0.182 (4.6) 11408484 0.157 (4.0) 11408496 0.131 (3.3)
+F 5-7() 11408737 0.182 (4.6) 11408726 0.157 (4.0) 11408714 0.131 (3.3)
+G 11408534 0.225 (5.7) 11408814 0.192 (4.9) 11408815 0.159 (4.0)
+H 11277099 0.274 (7.0) 11408824 0.233 (5.9) 11408825 0.192 (4.9)
+J 11408532 0.342 (8.7) 11408835 0.291 (7.4) 11408836 0.238 (6.0)
+K 11408854 0.407 (10.3) 11408849 0.343 (8.7) 11408850 0.28 (7.1)
+L 1-4() 11408387 0.501 (12.7) 11408863 0.424 (10.8) 11408864 0.346 (8.8)
+L 5-6() 11408401 0.514 (13.1) 11408394 0.437 (11.1) 11408395 0.359 (9.1)
+M 11408410 0.56 (14.2) 11408411 0.472 (12) 11408412 0.384 (9.8)
+N 11408426 0.611 (15.5) 11408427 0.515 (13.1) 11408428 0.419 (10.6)
+P 11408444 0.739 (18.8) 11408445 0.623 (15.8) 11408446 0.506 (12.9)
+Q 11408469 0.961 (24.4) 11408468 0.808 (20.5) 11408466 0.654 (16.6)
+R 11408470 1.149 (29.2) 11408469 0.961 (24.4) 11408467 0.779 (19.8)
+T 11408498 1.511 (38.4) 11408499 1.275 (32.4) 11408500 1.038 (26.4)
+D 1-4() 11408495 0.122 (3.1) 11408611 0.107 (2.7) 11408725 0.092 (2.3)
+JLTJOS D 5-7() 11408807 0.098 (2.5) 11408786 0.084 (2.1) 11408646 0.068 (1.7)
+E 1-4() 11408846 0.085 (2.2) 11408857 0.064 (1.6) 11408385 0.044 (1.1)
+JLTJOS E 5-7() 11408635 0.061 (1.5) 11408612 0.04 (1.0) 11408599 0.02 (0.5)
+F 1-4() 11408507 0.105 (2.7) 11408577 0.078 (2.0) 11408519 0.054 (1.4)
+F 5-7() 11408691 0.105 (2.7) 11408657 0.079 (2.0) 11408623 0.054 (1.4)
+G 11408816 0.126 (3.2) 11408821 0.093 (2.4) 11408817 0.061 (1.5)
+H 11408826 0.151 (3.8) 11408832 0.108 (2.7) 11408827 0.069 (1.8)
+J 11408837 0.186 (4.7) 11408838 0.133 (3.4) 11408540 0.081 (2.1)
+K 11408851 0.217 (5.5) 11408860 0.153 (3.9) 11408852 0.092 (2.3)
+L 1-4() 11408865 0.268 (6.8) 11408866 0.189 (4.8) 11408867 0.111 (2.8)
+L 5-6() 11408397 0.281 (7.1) 11408398 0.202 (5.1) 11408399 0.124 (3.1)
+M 11408413 0.296 (7.5) 11408414 0.209 (5.3) 11408415 0.121 (3.1)
+N 11408430 0.322 (8.2) 11408431 0.226 (5.7) 11408432 0.129 (3.3)
+P 11408447 0.389 (9.9) 11408448 0.272 (6.9) 11408449 0.155 (3.9)
+Q 11408464 0.5 (12.8) 11408461 0.346 (8.8) 11408459 0.192 (4.9)
+R 11408465 0.594 (15.1) 11408463 0.408 (10.4) 11408460 0.223 (5.7)
+T 11408501 0.802 (20.4) 11408502 0.566 (14.4) 11408503 0.33 (8.4)
+D thru J N/A N/A
+K 11408848 0.031 (0.8)
+L 1-4() 11408862 0.039 (1.0)
+L 5-6() 11408393 0.039 (1.0)
+M 11408409 0.044 (1.1)
+N 11408425 0.048 (1.2)
+P 11408443 0.058 (1.5)
+Q 11408472 0.075 (1.9)
+R 11408458 0.093 (2.4)
+T 11408497 0.118 (3.0)
+TABLE 13 - JLT RESTRICTED LIFT SS316 SPACER / JLT-J_S-RL SS316 SPACER
+Orifice
+Part number Height(1) in. (mm) Part number Height(1) in. (mm) Part number Height(1) in. (mm)
+40% of full capacity 50% of full capacity 60% of full capacity
+Orifice 70% of full capacity 80% of full capacity 90% of full capacity
+NOTE
+1. Tolerance of Spacer Height is +/-.005 in. (+/- 0.13 mm)
+2. N/A = Not Applicable, does not exist.
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Orifice 5% increment
+24
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+6.8 Bellows Leak Detection Valves
+The Crosby J-Series Bellows Leak Detection
+feature is based on two technologies: a backup
+piston that guarantees balanced operation
+if the bellows ruptures and a Rosemount™
+pressure transmitter that monitors the
+pressure chamber between the piston and the
+bellows. The steps below show the high-level
+assembly procedure.
+The rest of the parts that are not discussed
+herein will follow the standard assembly
+procedure used for standard J-Series in
+section 6.6 JBS-E or JLTJBS-E.
+6.8.1 Bellows leak detection assembly
+a. As outlined in 6.6.4 place the disc
+holder (5) in a vise (or 3 jaw-vise
+for larger sizes) as shown in
+Figure 7. Install the new tailpiece
+gasket (29) onto the disc holder (5).
+Screw the bellows assembly (6) onto
+the disc holder by holding the bellows
+tailpiece (6A), tighten the bellows
+using the flats on the tailpiece with a
+suitable wrench. Install the guide (15)
+with lift stop protruding downward
+toward the base of the disc holder (5).
+For restricted lift styles “RL” install
+the restricted lift spacer over the disc
+holder prior to installing the guide (See
+Figure 18, paragraph 6.7). D/E orifice
+uses the bonnet adapter (23) in lieu of
+the guide (15).
+b. Refer to Table 14, select the
+appropriate primer and Loctite® and
+apply on the external threads of the
+disc holder (5) and internal threads of
+the Piston (5G). Directions for use can
+be found
+Loctite®
+ 243: Directions for use:
+https://tds.henkel.com/tds5/Studio/
+ShowPDF/?pid=LOCTITE 243 UPDATED&
+format=MTR&subformat=REAC&languag
+e=EN&plant=WERCS&authorization=2
+Loctite® 7649™ Primer Directions
+for use:
+https://tds.henkel.com/tds5/Studio/
+ShowPDF/?pid=SF 7649&format=MTR&s
+ubformat=REAC&language=EN&plant=W
+ERCS&authorization=2
+Loctite® 277™ Primer Directions
+for use:
+https://tds.henkel.com/tds5/Studio/Show
+PDF/?pid=277&format=MTR&subformat=
+REAC&language=EN&plant=WERCS&au
+thorization=2
+FIGURE 19
+Bellows leak detection feature
+c. Thread piston (5G) on the disc
+holder (5) to the torque value specified
+in Table 15. The piston (5G) has
+two flats so a torque wrench with
+adjustable wrench adaptor may be
+required. The only exception is the
+D orifice which has two slots for
+the spanner.
+d. After threading the piston (5G) to the
+disc holder (5A) follow the curing time
+listed in Table 14 before assembling
+into the valve.
+e. Install the disc insert (8) see
+paragraph 6.6.3.
+f. Apply ample lubricant on the top
+of the Piston (5G) head for designs
+where the Piston (5G) contacts the
+Spindle Assembly (16).
+g. Place gasket (28) on top of
+the guide (15).
+h. Mount the Bonnet Adaptor (23) on top
+of the gasket (28) followed by another
+gasket (31) on top of the Bonnet
+Adaptor (23). The NPT port of the
+bonnet adapter (23) should face the
+rear of the valve.
+i. The valve can now assembled refer
+to 6.6.7.
+6.8.2 Bracket, tubing, and pressure transmitter
+a. Mount the pressure transmitter (70E)
+on the side opposite of the nameplate.
+b. Tube the pressure transmitter (70E)
+to the Bonnet Adapter (23) port
+using the provided fittings. The
+tubing (70D) should be a simple
+U-shaped configuration. The
+tubing (70D) should be installed
+without imparting any additional
+stress on the Bonnet Adapter (23)
+NPT threads.
+c. Use Nickel Impregnated High
+Temperature Teflon tape for all
+NPT connection.
+d. Refer to Figure 20 for two examples of
+mounting configuration.
+6.8.3 Leak check
+After assembly, apply 10 psig pressure through
+the Bonnet vent (20) and ensure there is no
+leakage at the bonnet adapter gaskets (31),
+guide gasket (28), bellows flange sealing
+area (6C), or tubing connections.
+FIGURE 20
+Examples of mounting configuration
+Disc holder
+Bellows and
+tailpiece
+assembly
+Guide
+Tailpiece
+ gasket
+Piston
+25
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+TABLE 14 - BELLOWS LEAK DETECTION LOCTITE DRY AND CURING TIME
+Orifice P/C Thread Size Loctite Dry Time Cure Time
+D, E, F 1()-7() .3125-20 UN-2A 243 N/AP 10 Minutes
+G 1()-7() .375-20 UN-2A 243 N/AP 10 Minutes
+H 1()-6() .500-20 UNF-2A 243 N/AP 10 Minutes
+J 1()-6() .625-20 UN-2A 243 N/AP 10 Minutes
+K 1()-6() .750-20 UNEF-2A 243 N/AP 10 Minutes
+L 1()-4() 1.375-16 UN-2A 7649 + 277 30-70 Seconds 60 Minutes
+L 5()-6() .750-20 UNEF-2A 243 N/AP 10 Minutes
+M 1()-5() 1.375-16 UN-2A 7649 + 277 30-70 Seconds 60 Minutes
+N and P 1()-4() 1.625-20 UN-2A 7649 + 277 30-70 Seconds 60 Minutes
+TABLE 15 - REQUIRED TIGHTENING TORQUE FOR PISTON
+Orifice Maximum Torque, N•m Maximum Torque, ft-lbs
+D and E 1()-4() 3.0 2.2
+F 5.9 4.3
+G 12.5 9.2
+H 12.8 9.4
+J 18.5 13.7
+K 39.6 29.2
+L 1()-4() 164.5 121.3
+M 164.5 121.3
+N 109.9 81.1
+P 109.9 81.1
+26
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+6.9 Assembly of cap and lifting lever devices
+Styles JOS-E/JBS-E/JBSBP-E/JDS-E and
+JLT-E Pressure Relief Valves are furnished
+with several different caps and lifting lever
+devices. The following describes assembly of
+the available types of cap construction.
+(Disassembly is the reverse of assembly).
+For part identification refer to Figure 21.
+• Type A and J
+Install the cap gasket and screw the cap onto
+the top of the bonnet. Tighten the cap with a
+strap wrench.
+• Type B and K
+Install the cap gasket and screw the cap onto
+the top of the bonnet. Tighten the cap with
+a strap wrench. Install the cap plug gasket
+and screw cap plug into the cap. The test rod
+is installed only during system hydrostatic
+testing. Never install the test rod unless
+performing system hydrostatic testing.
+• Type C
+Screw the spindle nut onto the spindle.
+Place the cap on the bonnet. Install the forked
+lever and forked lever pin. Attach the lever to
+the cap using the lever pin and secure with
+the lever pin cotter.
+Adjust the spindle nut until the forked
+lever rests on the lever and there is a
+1/16 in. (1.58 mm) minimum of play between
+the forked lever and the spindle nut. The
+spindle nut may be adjusted by removing the
+forked lever pin, forked lever and cap. When
+the spindle nut is in proper adjustment, install
+the spindle nut cotter pin. Replace the cap
+and forked lever and install the forked lever
+pin and forked lever pin cotter.
+Position the lever opposite the valve outlet
+and install the four (4) cap set screws and
+tighten them against the groove in the top of
+the bonnet.
+• Type D
+Install the cap gasket on the bonnet. Screw
+the spindle nut onto the spindle. Place the
+dog in the cap and install the dog shaft so
+that the dog is horizontal and the square
+on the end of the dog shaft has a corner on
+top. With the dog shaft in the position above,
+scribe a horizontal line on the end of the dog
+shaft. This line must be horizontal when the
+lifting gear is finally installed on the valve.
+Install the dog shaft O-ring in the dog shaft
+bearing and place the dog shaft bearing
+gasket on the dog shaft bearing.
+Screw the dog shaft bearing into the cap.
+Rotate the dog shaft so that the dog is
+pointing down and install the cap assembly
+onto the bonnet. Rotate the dog shaft so that
+the dog contacts the spindle nut. With the
+scribed line horizontal, remove the assembly
+and adjust the position of the spindle nut.
+Repeat the operation until the scribed line is
+horizontal when the dog contacts the spindle.
+Remove the assembly and install the spindle
+nut cotter pin.
+Install the lifting gear assembly onto the
+bonnet and secure it with cap studs and nuts.
+For Type D lifting levers that have two part
+caps (cap and cap top) the above procedure
+is accomplished more easily. After the cap is
+screwed to the bonnet, the positioning of the
+dog shaft is the same as above except that the
+positioning of the spindle nut is performed
+last through the open end of the cap.
+With the dog in the horizontal position,
+screw the spindle nut onto the spindle until
+it contacts the dog. Install the spindle nut
+cotter, cap top gasket and screw the cap top
+into the cap.
+• Type E
+Assembly of Type E lifting lever is identical
+to Type D with the addition of the cap plug
+gasket and cap plug. The test rod is installed
+only during system hydrostatic testing.
+Never install the test rod unless performing
+system hydrostatic test.
+• Type G and L
+Install the cap studs to the bonnet top.
+Place the cap gasket onto the bonnet and the
+cap onto the cap studs. Install and tighten cap
+stud nuts.
+• Type H and M
+Assembly of Type H and M is identical to
+Type G and L with the addition of the cap plug
+gasket and cap plug. The test rod is installed
+only during system hydrostatic testing. Never
+install the test rod unless performing system
+hydrostatic test.
+27
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Cap
+Cap
+Cap top
+Cap stud
+Cap stud
+Cap stud nut
+Cap stud nut
+Cap
+Cap
+Cap
+O-ring
+Cap set screw
+Cap
+Cap
+Seal and wire
+Seal and wire
+Seal and wire
+Type A
+Threaded cap
+Bolted cap
+Packed lifting lever Type D
+(Top view of packing gland construction used
+for special materials)
+Packed lifting lever Type D
+(Top view)
+Packed lifting lever Type D
+Regular lifting lever Type C
+Cotter pin
+Cotter pin
+Cotter pin
+Pin
+Pin
+Spindle
+Spindle nut
+Spindle nut
+Spindle
+Valve spindle
+Spindle
+Test rod
+Spindle
+Adjusting bolt
+Adjusting
+bolt nut
+Dog shaft
+Dog shaft
+Dog shaft gasket
+Dog shaft
+Dog
+Dog
+Lockwasher
+Lever nut
+Lever nut
+Lever nut lockwasher
+Lever
+Lever
+Packing gland
+Packing
+Packing gland sleeve
+Packing gland nut
+Forked lever
+Lever
+Cap plug
+Cap plug
+gasket
+Cap top gasket
+Cap gasket
+Cap gasket
+Gasket
+Cap or cap
+top
+Cap and test rod
+Type B - screwed cap
+Type E - packed lifting lever
+Type H - bolted cap
+Type K - screwed cap (standard)
+Type M - bolted cap (standard)
+FIGURE 21 - Cap and lifting levers
+Type J
+(standard)
+Type G Type L
+(standard)
+Dog shaft bearing
+28
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+7 STYLE VARIATIONS
+The Crosby Style JOS-E Pressure Relief
+Valve was designed with flexibility and
+interchangeability in mind. Retrofitting from
+conventional to balanced bellows or diaphragm
+high performance liquid trim or soft seat design
+is accomplished with a minimum number
+of new parts. These style retrofits can be
+accomplished at lowest possible cost.
+• Balanced bellows
+A Crosby JOS-E Conventional Non-bellows
+Pressure Relief Valve may be converted
+to a Style JBS-E balanced bellows valve
+simply by adding the bellows assembly and
+tailpiece gasket.
+• Balanced diaphragms
+A Crosby JOS-E Conventional Non-bellows
+Pressure Relief Valve may be converted to
+a Style JDS-E balanced diaphragm valve by
+replacing with threaded disc holder and guide
+and adding the diaphragms assembly and
+bonnet adapter.
+• JLT liquid trim
+Crosby Style JOS-E/JBS-E/JDS-E Pressure
+Relief Valves in D to T2 orifice sizes may be
+converted to high performance JLT liquid
+service design simply by replacing the
+standard disc holder with a JLT disc holder,
+or vice versa. For P to T2 orifice sizes, a new
+nozzle ring is also required.
+• O-ring soft seat design
+Crosby Style JOS-E/JBS-E/JDS-E Pressure
+Relief Valves in all orifice sizes may be
+converted from the standard metal-tometal seats to an exceptionally tight soft
+seat design. This style conversion can be
+accomplished by replacing the standard
+disc insert and nozzle with parts adapted to
+accommodate the soft seat design.
+The soft seat design uses standard size
+O-rings and is capable of handling pressures
+to 1480 psig (10,204 kPa). Standard O-ring
+materials include NBR, EPR, FKM, FFKM,
+Silicone and PTFE (see Figure 22.)
+• Bellows leak detection
+A Crosby JOS-E Conventional Non-Bellows
+may be upgraded by replacing the disc
+holder, guide and installing the bellows
+assembly, tailpiece gasket, piston, bonnet
+adapter, bonnet studs, tubing, fittings,
+bracket, and pressure transmitter. A
+Crosby JBS-E Balanced Bellows may be
+upgraded by replacing the disc holder, guide
+and installing the piston, bonnet adapter,
+bonnet studs, tubing, fittings, bracket, and
+pressure transmitter.
+NOTE
+When converting any of the styles above the spring
+and/or spring pressure range may change, consult the
+Emerson representative for correct spring and range.
+JOS-E/JBS-E O-ring
+Soft seat
+JLT-E O-ring
+Soft seat
+8 SERVICE RECORDS FIGURE 22
+Service records should be completed before
+a valve is returned to service. These records
+are important and will provide guidance on
+establishing time intervals between repairs as
+well as providing the historical record of repairs
+and service conditions. Well kept records will
+be useful in predicting when to retire a valve
+and which spare parts should be maintained in
+inventory to ensure uninterrupted plant operation.
+9 SPARE PARTS
+When ordering spare parts, the valve shop
+number, assembly number or serial number
+should be given together with set pressure, part
+name and item number, valve size and style.
+Spare parts may be ordered from any Emerson
+regional sales office or representative.
+10 TROUBLE SHOOTING PRESSURE
+RELIEF VALVES
+Troubles encountered with pressure relief
+valves can affect the life and performance of
+the valve vitally and must be corrected at the
+first possible opportunity.
+Failure of a pressure relief valve to function
+properly could result in the rupture of a line or
+vessel jeopardizing the safety of personnel and
+causing damage to property and equipment.
+Some of the most common troubles and
+the recommended correction measures are
+discussed in the following paragraphs.
+10.1 Seat leakage
+A leaking valve allows fluids to circulate into
+the secondary pressure zone of the valve
+where it can cause corrosion of the guide and
+valve spring.
+When a leaking valve problem is not
+addressed immediately, the leakage
+itself will further contribute to seat
+damage through erosion (wire-drawing).
+10.1.1 Seats damaged by foreign matter
+Seating surfaces may be damaged
+when hard foreign particles such as mill
+scale, welding spatter, coke and dirt are
+trapped between the seats. While this
+type of damage usually occurs while the
+valve is in service, it may also happen in
+the maintenance shop. Every precaution
+should be taken to clean the process
+system before installing a pressure relief
+valve and to test the valve using only
+clean fluids.
+Generally, damaged seating surfaces
+are reconditioned by lapping. Most often
+small pits and scratches may be removed
+by lapping alone. More extensive damage
+will also require remachining prior
+to lapping.
+In some instances, valve construction can
+be changed to reduce the effects of seat
+leakage. The use of an O-ring soft seat
+when applicable will minimize leakage
+and thus eliminate the associated
+corrosion and erosion problems. If it is
+not possible to use a soft seated valve,
+or if the corrosive media is present
+in the exhaust system, conversion to
+a Style JBS-E and JBSBP-E bellows
+seated valve will isolate and protect
+the guides and valve spring from any
+corrosive fluids.
+29
+CROSBY STYLE JOS-E, JBS-E, JBSBP-E, JDS-E, JLTJBS-E, JLTJBSBP-E, JLTJOS-E, JLTJDS-E VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+10.1.2 Distortion from piping strains
+Valve bodies can be distorted by
+excessive piping loads causing seat
+leakage. Both inlet and discharge
+piping must be supported properly and
+anchored so that high bending loads are
+not transmitted to the valve body.
+10.1.3 Operating pressure too close to
+set pressure
+A carefully lapped metal-to-metal
+seated valve will be commercially tight
+at a pressure approximately ten percent
+under the set pressure or 5 psi (34 kPa),
+whichever is greater. Consequently, this
+minimum pressure differential should be
+maintained between set and operating
+pressure to avoid seat leakage problems.
+10.1.4 Chatter
+Oversized valves, excessive pressure drop
+in the inlet lines, restrictions in the inlet
+line, too great a build up of back pressure
+or pulsating inlet pressure will cause
+instability to the pressure relief valve. In
+such installations, the pressure under the
+valve disc may be great enough to cause
+the valve to open but, as soon as flow is
+established, the pressure drops allowing
+the valve to close immediately. This cycle
+of opening and closing sometimes occurs
+at very high frequency causing severe
+seat damage, sometimes beyond repair.
+Proper valve selection and installation
+techniques are paramount to reliable
+valve performance.
+10.1.5 Incorrectly adjusting lifting gear
+A space of 1/16 in. (1.58 mm) minimum
+should always be provided between the
+lifting device and the spindle lift nut.
+Failure to provide sufficient clearance
+may result in inadvertent contact causing
+a slight shift in the opening pressure.
+11 EMERSON FIELD SERVICE AND REPAIR
+PROGRAMS
+Emerson field service provides on-site, in line
+testing and repair capability for all types of
+pressure relief devices.
+11.1 Parts
+Emerson will help you establish the right mix of
+on-site spares with Emerson’s own distribution
+and manufacturing support.
+11.2 Training
+Emerson offers intensive factory or onsite seminars to improve maintenance and
+application skills.
+11.3 Testing
+Emerson has the capability to evaluate
+pressure relief valve operability either in the
+field or at various Emerson facilities. Special
+qualifications programs may also be conducted
+in our laboratories.
+11.4 Contract management
+Emerson will combine a group of services to
+satisfy your special maintenance needs.
+WARNING
+The product is a safety related component
+intended for use in critical applications.
+The improper application, installation or
+maintenance of the product or the use of parts or
+components not manufactured by Emerson may
+result in failure of the product. The advice of a
+qualified engineer should be sought prior to any
+use of the product.
+Any installation, maintenance, adjustment,
+repair or test performed on the product must be
+done in accordance with the requirements of all
+applicable codes and standards.
+The information, specifications and technical data
+(the 'Specifications') contained in this document
+are subject to change without notice. Emerson
+does not warrant that the specifications are
+current and assumes no responsibility for the use
+or misuse thereof.
+The purchaser should verify that there have been
+no changes to the specifications prior to use.
+10.1.6 Other causes of seat leakage
+Improper alignment of the spindle, too
+much clearance between the valve spring
+and the spring washers, or improper
+bearing contact between the adjusting
+bolt and the spring washers, spindle
+and disc holder or spindle and lower
+spring washer may cause seat leakage
+problems. Spindles should be checked
+for straightness and springs and spring
+washers should be fitted properly and
+kept together as a spring assembly.
+10.1.7 Corrosion
+Corrosion may result in pitting of valve
+parts, failure of various valve parts, build
+up of corrosive products and general
+deterioration of the valve materials.
+Generally, corrosive attack is controlled
+through selection of suitable materials
+or by employing a bellows or diaphragm
+to isolate the valve spring, adjusting bolt,
+spindle and guiding surfaces from the
+corrosive attack of the process fluid.
+Environmental corrosion attacks all
+exposed surfaces, including studs and
+nuts. In general, the materials required
+for a particular service are dictated
+by the temperature, pressure and the
+degree of corrosion resistance required.
+VCIOM-06208 © 2017, 2023 Emerson Electric Co. All rights reserved 08/23. Crosby is a mark owned by one of the companies in the Emerson Automation Solutions business
+unit of Emerson Electric Co. The Emerson logo is a trademark and service mark of Emerson Electric Co. All other marks are the property of their prospective owners.
+The contents of this publication are presented for informational purposes only, and while every effort has been made to ensure their accuracy, they are not to be construed
+as warranties or guarantees, express or implied, regarding the products or services described herein or their use or applicability. All sales are governed by our terms and
+conditions, which are available upon request. We reserve the right to modify or improve the designs or specifications of such products at any time without notice.
+Emerson Electric Co. does not assume responsibility for the selection, use or maintenance of any product. Responsibility for proper selection, use and maintenance of any
+Emerson Electric Co. product remains solely with the purchaser.
+Emerson.com

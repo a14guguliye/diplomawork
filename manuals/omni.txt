@@ -1,0 +1,539 @@
+CROSBY SERIES 800 AND 900 OMNI-TRIM® PRESSURE RELIEF VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+© 2017 Emerson. All rights reserved.
+1 GENERAL
+Crosby valves have been tested and adjusted
+at the factory. As service conditions differ it
+may be necessary to make slight adjustments.
+These adjustments are made easily if the
+instructions below are followed carefully.
+WARNING
+To have trouble free performance be sure to clean
+the inlets and outlets of valves thoroughly before
+installing.
+2 STORAGE AND HANDLING
+Often, valves are on hand at the job site months
+before they are installed. Unless stored and
+protected properly, valve performance may be
+affected adversely. Rough handling and dirt
+may damage or cause misalignment of the
+valve parts. It is recommended that the valves
+be left in their original shipping containers
+and that they be stored in a warehouse or, as
+a minimum, on a dry surface with a protective
+covering until they are used.
+Pressure relieving valves must be handled
+carefully and never subjected to sharp impact
+loads. They should not be struck, bumped or
+dropped. Rough handling may alter the pressure
+setting, deform valve parts and affect seat
+tightness and valve performance adversely.
+WARNING
+Suitability of the material and product for the use
+contemplated by the buyer is the sole responsibility
+of the buyer. Also storage, installation and proper
+use and application are the sole responsibility of
+the purchaser. Emerson disclaims any and all
+ATTENTION
+The safety of lives and property often depends on
+the proper operation of the pressure relief valves.
+Consequently, the valves should be kept clean and
+should be tested periodically and reconditioned to
+make sure they function properly.
+Emerson.com
+Engineering Doc. #IS-V3117
+liability arising out of the same.
+Any installation, maintenance, adjustment,
+repair and testing performed on pressure relief
+valves should be done in accordance with the
+requirements of all applicable Codes and Standards
+under which those performing such work should
+maintain proper authorization through appropriate
+governing authorities.
+No repair, assembly and test work done by other
+than Emerson shall be covered by the warranty
+extended by Emerson to its customers. You assume
+full responsibility for your work. In maintaining
+and repairing Crosby products you should use
+only parts manufactured by Emerson. Call
+your nearest Emerson regional sales office or
+representative for a service engineer should you
+wish assistance with your field needs.
+VCIOM-06205-EN 22/04
+TABLE OF CONTENTS
+1. General........................................................... 1
+2. Storage and handling.................................... 1
+3. Installation..................................................... 2
+4. Testing............................................................ 3
+5. Set pressure .................................................. 3
+6. Maintenance - dismantling........................... 3
+7. Cleaning......................................................... 4
+8. Lapping of seats - metal seated
+valves only..................................................... 4
+9. Maintenance - assembly .............................. 4
+10.Assembly of caps and lifting lever devices.. 5
+11.Replacement spare parts ............................. 6
+NOTE
+Where valves have levers as in types D and E Top
+construction, do not lift or carry valves by the levers.
+Inlet and outlet protectors should remain in
+place until the valve is ready to be installed on
+the system.
+2
+CROSBY SERIES 800 AND 900 OMNI-TRIM® PRESSURE RELIEF VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+Threaded connection series 800
+Seal and wire
+O-ring
+O-ring soft seat
+Metal-to-metal seat
+Base
+Set screw
+Spindle
+Cap
+Adjusting bolt
+Adjusting bolt
+nut
+Spring washer
+(top)
+Spring
+Spring washer
+(bottom)
+Disc holder
+Guide
+Set screw
+gasket
+Disc insert
+Adjusting ring
+Cylinder
+Cap
+Spring washer
+(top)
+Adjusting bolt
+Spindle
+Threaded connection series 900
+Adjusting bolt nut
+Disc insert
+Base
+Cylinder
+Disc holder
+Seal and wire
+O-ring
+Guide
+O-ring soft seat
+Metal-to-metal seat
+Spring
+Spring washer
+(bottom)
+3 INSTALLATION
+• Inlet piping
+The valve should be mounted vertically in an
+upright position either directly on a nozzle from
+the pressure vessel or on a short connection
+fitting that provides a direct, unobstructed
+flow between the vessel and the valve.
+Installing a pressure relief valve in other than
+this recommended position might affect its
+operation adversely.
+A valve should never be installed on a fitting
+having a smaller inside diameter than the inlet
+connection of the valve.
+Compliance with the above recommendations
+will assure clean, positive valve operation.
+Many valves are damaged when first placed
+in service because of failure to clean the
+connections properly when installed.
+Both the valve inlet and the vessel and/or line
+on which the valve is mounted must be cleaned
+thoroughly of all dirt and foreign material.
+• Outlet piping
+Discharge piping should be simple and direct.
+A broken connection near the valve outlet is
+preferred. The weight of the discharge piping
+should be carried by a separate support and be
+braced firmly against swaying or vibrations.
+Fittings or pipe having a smaller inside
+diameter than the valve outlet connections
+must not be used. The flow from the valve must
+discharge to a safe disposal area.
+The safety of lives and property often depends
+on the proper operation of the pressure relief
+valves. The valves must be maintained according
+to appropriate instructions and must be tested
+periodically and reconditioned to ensure that they
+function correctly.
+Crosby pressure relief valves described in this
+instruction are manufactured in accordance
+with the requirements of ASME Boiler and
+Pressure Vessel Code, Section VIII and XIII.
+3
+CROSBY SERIES 800 AND 900 OMNI-TRIM® PRESSURE RELIEF VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+5 SET PRESSURE
+Set pressure changes
+Set pressure changes beyond the specified
+spring range will necessitate a change in the
+valve spring assembly consisting of the spring
+and two washers.
+The new spring and washers must be obtained
+from Emerson and the valve must be reset and
+the nameplate restamped by an authorized
+repair facility.
+Set pressure adjustment
+Before making any adjustments reduce the
+pressure under the valve seat to at least 25%
+below the stamped opening pressure. This
+will prevent seat damage due to turning of the
+4 TESTING
+Testing should be performed by trained
+personnel using the applicable test procedure.
+Follow these guidelines for performance of the
+set pressure test:
+• Test fluids - set pressure test
+The test fluid should be air or nitrogen for
+valves used on gas and vapor service and water
+for valves used on liquid service.
+NOTE
+Series 800 valves are for gas and vapor service only.
+Valves for steam service should be tested on steam.
+When steam testing is not possible, valves for steam
+service may be tested on air or nitrogen. In such
+cases it may be necessary to make a correction to
+the adjusted set pressure to compensate for the
+difference in temperature of the test fluids.
+• Temperature correction
+When a valve is set on air or water at room
+temperature and then used at a higher service
+temperature, the cold differential set pressure
+shall be corrected to exceed the set pressure
+using the following temperature correction:
+Operating temperature % Pressure
+°F °C increase
+0 - +150 -18 - +66 -
++151 - +600 +66 - +316 1%
++601 - +750 316 - +399 2%
+• Valve operation
+Valves intended for compressible fluid service and
+tested on air, nitrogen or steam will open with a
+sharp, clear popping action at the set point. Valves
+for liquid service tested with water are considered
+open at the first continuous unbroken stream of
+liquid flowing through the valve. Sometimes it is
+helpful to install a short piece of pipe in the valve
+outlet to determine the opening on water.
+NOTE
+This table is not applicable to steam service valves.
+disc insert on the nozzle seat and minimize the
+chance of an inadvertent opening.
+Blowdown adjustment - Series 800
+(gas and vapor service only)
+The adjusting ring is set at the factory and
+resetting in service seldom is necessary.
+Should it be necessary to change blowdown the
+ring may be adjusted as follows:
+CAUTION
+Should any adjustments be made while the valve
+is installed on a pressurized system, the valve
+should be gagged while ring adjustment is made.
+Remove the set screw and insert a screwdriver
+to engage the ring notches. Turning the ring to
+the right raises the ring, thereby decreasing the
+blowdown. Turning the ring to the left lowers
+the ring, thereby increasing the blowdown.
+The adjusting ring should not be moved more
+than two notches before retesting. When
+making adjustments, always keep count of the
+number of notches and the direction in which
+the ring is moved. This will permit returning to
+the original setting in case of error.
+6 MAINTENANCE - DISMANTLING
+1. Remove the cap.
+2. Before removing the adjusting bolt, take a
+measurement from the top of the adjusting
+bolt to the top of the cylinder as a reference
+for resetting the valve later.
+3. Loosen the adjusting bolt nut and turn the
+adjusting bolt counterclockwise to remove
+the load on the spring completely. Unless
+this is done, unnecessary damage to the
+seat or misalignment of the trim parts may
+occur when the valve is reassembled.
+4. On series 800 valves remove the set screw
+and gasket.
+5. Unscrew the cylinder from the base. Lift the
+cylinder from the base making sure that the
+guide remains on the base.
+Note: if the guide is not removed with the
+base, invert the entire valve and remove the
+base. Then remove the guide, disc holder
+and disc insert.
+6. Remove the spindle, spring and spring
+washers.
+7. Invert the base/guide/disc assembly and
+remove the base.
+8. Remove the disc holder assembly.
+• Metal seated valves
+The disc insert is not attached to the disc holder
+so use care when removing this assembly.
+• O-ring seated valves
+Remove the disc insert by inserting a drive pin
+or similar tool into the hole in the disc holder
+and press out the disc insert. Remove the
+O-ring with a suitable tool. Be careful not to
+damage the O-ring groove.
+4
+CROSBY SERIES 800 AND 900 OMNI-TRIM® PRESSURE RELIEF VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+8 LAPPING OF SEATS - METAL SEATED
+VALVES ONLY
+Many different methods exist for lapping valve
+seats but certain essential steps are required
+for satisfactory results. Extreme care should be
+taken throughout to make certain that the seats
+are kept perfectly flat. The following procedure
+is suggested for lapping bases and disc inserts:
+1. Never lap the disc against the base. Lap
+each part separately against a cast-iron
+lapping block of proper size. These blocks
+hold the lapping compound in their surface
+pores and must be recharged frequently.
+2. Check the lapping block frequently on a
+good lapping block reconditioner to make
+certain that it is perfectly flat.
+3. If considerable lapping is required, spread
+a thin coat of medium coarse lapping
+compound on the block. After lapping
+with this, lap again with a medium grade
+compound. The first step may be omitted
+unless much lapping is called for. Next, lap
+again using a fine grade compound. Lap
+the block against the seat. Do not rotate the
+block continuously, but use an oscillating
+motion as in grinding automobile valves.
+4. When the seat is flat and all nicks and
+marks have disappeared, remove all
+compound from the lapping block and seat.
+Apply polishing compound to another block
+and lap the seat with this. As the lapping
+nears completion, only the compound left
+in the pores of the block should be present.
+This should give a very smooth finish. If
+scratches appear, the cause is probably
+dirty lapping compound. These scratches
+should be removed by using a compound
+free from foreign matter.
+5. After wiping off all compounds, the valve is
+ready for assembly.
+7 CLEANING
+The following instructions are general
+guidelines. Certain applications may require the
+use of special cleaning procedures.
+1. After the valve has been dismantled
+completely, the seats on both the nozzle
+and the disc insert should be examined to
+determine how badly they are damaged,
+if at all. Any severe damage may make it
+advisable to replace the parts.
+2. External parts, such as the cylinder and cap,
+can be cleaned by immersion in a bath such
+as a hot oakite solution or equivalent.
+3. Internal parts, except O-rings, can be
+cleaned using acetone, denatured alcohol
+or any other suitable solvent. Mechanical
+cleaning of internal parts, except seats,
+can be performed using fine sandpaper or
+emery cloth.
+9 MAINTENANCE - ASSEMBLY
+1. Prior to assembly, the following parts are
+to be coated with a lubricant/sealant such
+as pure nickel 'Never-Seez' or equivalent.
+Other lubricants/sealants can be used
+depending on service conditions.
+2. Disc assembly
+• Metal seated valve
+With the disc holder in the inverted
+position, drop in the disc insert.
+• O-ring soft seated valve
+Coat the entire O-ring (except TFE
+O-rings) with Parker Super O-Lube. Insert
+the O-ring into the groove in the disc
+holder. Push the disc insert into the disc
+holder. TFE O-rings may require the use
+of a small press or, with care, a hammer
+and a punch.
+3. (for series 800 valves only) Screw the
+adjusting ring onto the guide until the
+adjusting ring is in the lowest position.
+4. With the guide inverted, drop in the disc
+assembly.
+5. With the guide still inverted, install the base
+into the guide.
+6. The base/guide/disc assembly can now
+be turned upright and placed into a vise
+or fixture for assembly of the remaining
+components.
+Note: be sure to clamp only onto the wrench
+flats of the base.
+7. Place the spring and spring washers onto
+the spindle.
+8. While holding the spindle in place, lower the
+cylinder into place on the base and screw
+tightly onto the base.
+9. Screw the adjusting bolt nut onto the
+adjusting bolt and install into the cylinder.
+10.Screw the cap onto the cylinder.
+Cap to cylinder
+sealing surface
+Spring washer
+bevels
+Set screw gasket
+sealing surfaces
+Series 800 only
+Set screw threads
+Spindle point bearing
+surface (metal seated
+valve only)
+Guide sealing
+surfaces
+Base to cylinder threads
+Adjusting
+bolt threads
+Cap threads
+The following steps apply to series 800 only
+11.Adjust the adjusting ring up five notches
+from the lowest position.
+12. Install the set screw and set screw gasket
+making sure that the set screw engages
+one of the notches of the adjusting ring. The
+adjusting ring should move back and forth
+slightly after the set screw is tightened.
+5
+CROSBY SERIES 800 AND 900 OMNI-TRIM® PRESSURE RELIEF VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+10 ASSEMBLY OF CAPS AND LIFTING LEVER
+DEVICES
+Type A (screwed cap)
+Apply pure nickel Never-Seez or equivalent to
+the cap sealing surface and screw the cap onto
+the top of the cylinder. Tighten the cap with a
+suitable wrench.
+Type B (screwed cap with test rod)
+Apply pure nickel Never-Seez to the cap sealing
+surface and screw the cap onto the top of
+the cylinder. Tighten the cap with a suitable
+wrench. Install the cap plug O-ring and screw
+the cap plug into the cap. The test rod is
+installed only during system hydrostatic testing.
+Never install the test rod unless performing
+system hydrostatic testing.
+Type D (packed lifting lever)
+1. Apply Loctite 242 or equivalent to the
+spindle threads. Screw the spindle nut onto
+the spindle. Screw on the cap hand tight.
+2. Apply Parker Super O-Lube to the cam
+O-ring and install onto the cam. Insert the
+cam into the sleeve. Install the lever onto
+the cam and secure with the lever pin.
+3. Screw the lever assembly into the cap.
+If the cam interferes with the spindle nut,
+remove the spindle assembly and raise the
+spindle nut. Repeat until the spindle nut is
+approximately 1/16” above the cam.
+4. Once the spindle nut is in position, remove
+the cap and screw the locknut on the
+spindle and, while securing the spindle
+nut firmly with locking pliers, tighten the
+locknut.
+5. Apply pure nickel Never-Seez or equivalent
+to the cap threads and to the cap sealing
+surface. Screw the cap onto the top of the
+cylinder. Tighten the cap with a suitable
+wrench.
+6. Apply Parker Super O-Lube or equivalent
+to the cam sleeve O-ring and install the
+O-ring. Install the lever assembly.
+Type E (packed lifting lever with test rod)
+Assembly of the Type E lifting lever is identical
+to the Type D with the addition of the cap
+plug O-ring and the cap plug. The test rod
+is installed only during system hydrostatic
+testing.
+Never install the test rod unless performing
+system hydrostatic testing.
+Cap
+Type A
+Test rod
+Cap plug
+Cap plug
+O-ring
+Cap
+Type B
+View showing valve
+gagged with test rod
+(Types B and E)
+Locknut
+Spindle nut
+Cam
+Cap
+Type D
+Cam sleeve
+O-ring
+Cam sleeve
+Lever pin
+Cam O-ring
+Lever
+Cap plug
+Cap plug O-ring
+Locknut
+Spindle nut
+Cam
+Cap
+Type E
+Cam sleeve
+O-ring
+Cam sleeve
+Lever pin
+Cam O-ring
+Lever
+6
+CROSBY SERIES 800 AND 900 OMNI-TRIM® PRESSURE RELIEF VALVES
+INSTALLATION AND MAINTENANCE INSTRUCTIONS
+11 REPLACEMENT SPARE PARTS
+Ordering information
+Emerson recommends that a sufficient
+inventory of spare parts be maintained to
+support process requirements. Always be
+sure to use genuine Emerson parts to ensure
+continued product performance and warranty.
+Parts
+To order parts, the following information
+should always be included:
+1. Quantity
+2. Part name, i.e. (disc insert)
+3. Size, style, type and valve number
+4. Shop and/or serial number
+5. Original purchase order number
+(if the nameplate has been destroyed)
+NOTE
+The size, style, shop number, set pressure and serial
+number always can be found on the valve nameplate.
+Springs with washers
+To order springs with washers, the required
+valve set pressure also must be specified in
+addition to the other parts information. Should
+back pressure (fixed or variable) or elevated
+temperature exist during operation, also
+specify these conditions.
+For additional information about
+Crosby Series 800 and 900 pressure relief
+valves, see technical datasheet VCTDS-00594.
+VCTDS-06205-EN © 2016, 2022 Emerson Electric Co. All rights reserved 04/22. Crosby is a mark owned by one of the companies in the Emerson Automation Solutions
+business unit of Emerson Electric Co. The Emerson logo is a trademark and service mark of Emerson Electric Co. All other marks are the property of their prospective
+owners.
+The contents of this publication are presented for informational purposes only, and while every effort has been made to ensure their accuracy, they are not to be
+construed as warranties or guarantees, express or implied, regarding the products or services described herein or their use or applicability. All sales are governed by
+our terms and conditions, which are available upon request. We reserve the right to modify or improve the designs or specifications of such products at any time without
+notice.
+Emerson Electric Co. does not assume responsibility for the selection, use or maintenance of any product. Responsibility for proper selection, use and maintenance of
+any Emerson Electric Co. product remains solely with the purchaser.
+Emerson.com

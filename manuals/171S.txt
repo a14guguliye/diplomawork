@@ -1,0 +1,230 @@
+KUNKLE MODELS 71S/171/171P/171S LIQUID RELIEF VALVES
+SAFETY AND RELIEF PRODUCTS
+FEATURES
+• Suitable for back pressure to 50 psig
+(3.45 barg)[1].
+• Seats lapped for optimum performance.
+• Spherical pivot between disc and spring
+corrects misalignment and compensates
+for spring side thrust.
+• Stainless steel springs.
+• Tested and inspected for pressure setting
+and leakage.
+• All SS 316 model 171S suitable for sanitary
+applications, depending on requirements.
+GENERAL APPLICATION
+Suitable for overpressure relief, pressure
+regulation, by-pass relief and protection of
+pumps, tanks, lines and hydraulic systems
+containing acid, caustic, ammonia and other
+corrosive liquids requiring iron, steel or
+SS materials.
+Emerson.com/FinalControl © 2017 Emerson. All Rights Reserved. VCTDS-00379-EN 17/06
+TECHNICAL DATA
+Connections: FNPT
+Temperature range:
+Model 71S: -20°F to 406°F
+(-29°C to 208°C)
+Models 171, 171P, 171S: -20°F to 550°F
+(-29°C to 288°C)
+Pressure range:
+Model 71S: 1 to 250 psig
+(.07 to 17.2 barg)
+Models 171, 171P, 171S: 1 to 400 psig
+(.07 to 27.6 barg)
+Extra heavy, rugged construction non-code liquid relief valves
+with a variety of model options to meet specific applications
+MODEL 171
+NOTE
+1. Back pressure increases set pressure on a
+one to one basis, and reduces capacity. Back
+pressure in excess of 10% of set pressure is
+not recommended.
+2
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+1
+18
+10
+17
+16
+15
+14
+13
+12
+11
+10
+9
+6
+8
+7
+6
+5
+4
+3
+2
+1
+KUNKLE MODELS 71S/171/171P/171S LIQUID RELIEF VALVES
+SAFETY AND RELIEF PRODUCTS
+PARTS AND MATERIALS - MODELS 71S, 171, 171S
+No. Part name 71S 171 171S
+1 Nozzle SS A479-316[1] SS A479-316[1] SS A479-316[1]
+2 Body gasket PTFE PTFE PTFE
+3 Disc SS A743-CF8M SS A743-CF8M SS A743-CF8M
+4 Stem end SS A479-316 SS A479-316 SS A479-316
+5 Stem SS A479-316 SS A479-316 SS A479-316
+6 Spring SS A313-316 SS A313-316 SS A313-316
+7 Body Cast iron 126 Steel A216-WCB SS A351-CF8M
+8 Spring step SS A479-316 SS A479-316 SS A479-316
+9 Compression screw SS A479-316 SS A479-316 SS A479-316
+10 Cap gasket PTFE PTFE PTFE
+11 Jam nut SS A479-316 SS A479-316 SS A479-316
+12 Cap Steel A108 Steel A108 SS A479-316
+MODELS 71S, 171, 171S
+NOTE
+1. SS A351-CF8M for 1½” and 2” size.
+MODELS 171P, 171S
+PARTS AND MATERIALS - MODELS 171P, 171S WITH PACKED LIFT LEVER
+No. Part Name 171P 171S
+1 Nozzle SS A479-316[1] SS A479-316[1]
+2 Body gasket PTFE PTFE
+3 Body Steel A216-WCB SS A351-CF8M
+4 Disc SS A743-CF8M SS A743-CF8M
+5 Stem end SS A479-316 SS A479-316
+6 Spring step SS A479-316 SS A479-316
+7 Stem SS A479-316 SS A479-316
+8 Spring SS A313-316 SS A313-316
+9 Compression screw SS A479-316 SS A479-316
+10 O-ring NBR NBR
+11 Cap SS A296-CF8M SS A296-CF8M
+12 Jam nut SS A479-316 SS A479-316
+13 Lift cam SS A296-CF8M SS A296-CF8M
+14 Cotter pin Steel commercial Steel commercial
+15 Lever Steel A108 zinc plated Steel A108 zinc plated
+16 Drive screw SS commercial SS commercial
+17 Retainer nut SS A479-316 SS A479-316
+18 Lift nut Steel A108 zinc plated Steel A108 zinc plated Outlet NPT
+Inlet NPT
+MODELS OVERVIEW
+Model 71S: cast iron body with SS seat and
+disc. Pressure-tight hood.
+Model 171: carbon steel with SS seat and disc.
+Pressure-tight hood.
+Model 171P: as model 171 with packed
+lift lever.
+Model 171S: all 316 SS construction including
+spring. Available with pressure-tight hood or
+packed lift lever.
+3
+1 1 2 4 6 10 19
+3 2 4 6 11 17 32
+5 2 5 8 14 22 42
+7 2 6 9 16 26 49
+10 3 7 11 20 31 59
+20 4 9 16 28 43 84
+30 5 11 20 34 53 102
+40 6 13 23 39 61 118
+50 7 15 25 44 68 132
+60 7 16 28 48 75 145
+70 8 17 30 52 81 156
+80 8 19 32 55 87 167
+90 9 20 34 59 92 177
+100 9 21 36 62 97 187
+110 10 22 37 65 102 196
+120 10 23 39 68 106 205
+130 11 24 41 71 110 213
+140 11 25 42 73 115 221
+150 11 25 44 76 119 229
+160 12 26 45 78 123 236
+170 12 27 47 81 126 244
+180 13 28 48 83 130 251
+190 13 29 49 86 134 258
+200 13 29 50 88 137 264
+210 14 30 52 90 140 271
+220 14 31 53 92 144 277
+230 14 32 54 94 147 284
+240 14 32 55 96 150 290
+250 15 33 56 98 153 296
+260 15 34 58 100 156 301
+270 15 34 59 102 159 307
+280 16 35 60 104 162 313
+290 16 35 61 106 165 318
+300 16 36 62 107 168 324
+310 16 37 63 109 171 329
+320 17 37 64 111 173 334
+330 17 38 65 113 176 340
+340 17 38 66 114 179 345
+350 17 39 67 116 181 350
+360 18 39 68 118 184 355
+370 18 40 69 119 186 360
+380 18 41 70 121 189 364
+390 18 41 70 122 191 369
+400 19 42 71 124 194 374
+KUNKLE MODELS 71S/171/171P/171S LIQUID RELIEF VALVES
+SAFETY AND RELIEF PRODUCTS
+CAPACITIES - NON-CODE LIQUID - 25% ACCUMULATION (GPM)
+Set pressure Valve inlet and outlet size
+(psig) ½” ¾” 1” 1¼” 1½” 2”
+NOTE
+1. Liquid overpressure factors
+To determine capacities at other than 25% overpressure/accumulation, multiply capacity shown by:
+10% acc. = 0.6
+15% acc. = 0.8
+20% acc. = 0.9
+4
+C
+A
+B
+½[1] 2 7/16 1¾ 6⅞ 8⅜ 2½
+¾ 2 7/16 1¾ 6⅞ 8⅜ 2⅝
+1 2 11/16 1¾ 7 8 9/16 3¼
+1¼ 3 5/16 2⅛ 7¾ 8¾ 5½
+1½ 3⅛ 2 7/16 8¼ 9¾ 7¼
+2 4 3/16 2¾ 9¾ 11⅛ 12
+SELECTION GUIDE
+Example: 071S - C 01 - M G 0250
+Model
+071S Cast iron
+0171 Cast steel
+171S Cast SS
+171P Cast steel
+Connection size
+C ½" inlet x ¾" outlet
+D ¾" inlet x ¾" outlet
+E 1" inlet x 1" outlet
+F 1¼" inlet x 1¼" outlet
+G 1½" inlet x 1½" outlet
+H 2" inlet x 2" outlet
+Variation
+01 Catalog standard
+02 Packed lever (Model 171S)
+Design revision
+Indicates non-interchangeable revision
+Dash (-) if original design
+Service
+M Non-code liquid
+Spring material
+G 316 SS
+Set pressure
+0005 5 psig
+0400 400 psig
+KUNKLE MODELS 71S/171/171P/171S LIQUID RELIEF VALVES
+SAFETY AND RELIEF PRODUCTS
+DIMENSIONS - MODELS 71S, 171, 171P, 171S
+Inlet and outlet
+female, NPT
+Dimensions (in)
+A B C C Weight
+(in) 71S, 171, 171S 171P, 171S (lb)
+NOTE
+1. ½” size has ¾” outlet.
+Dimensions are for reference only
