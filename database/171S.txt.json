@@ -1,5 +1,4 @@
 {
-  "s": 59,
   "model": 24,
   "steel": 15,
   "relief": 11,
@@ -137,6 +136,5 @@
   "service": 1,
   "female": 1,
   "weight": 1,
-  "lb": 1,
   "reference": 1
 }
