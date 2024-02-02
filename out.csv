@@ -1,0 +1,17 @@
+,biffi,crosby,anderson_greenwood,fisher,asco,keystone,rosemount,micro_motion,pneumatic_actuator,electric_actuator,globe_valve,garlock_kit,transmitter,tyco_valve,gas chromatograph
+erkin,False,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+talib,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+gulu,True,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+gulu,False,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+gulu,False,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+talib,False,False,False,False,False,False,False,False,False,False,False,False,True,False,False
+gulu,False,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+talib,False,False,False,False,False,False,False,True,False,False,False,False,True,False,False
+gulu,False,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+erkin,False,False,False,False,False,False,False,False,False,False,True,False,False,False,False
+talib,False,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+gulu,False,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+gulu,False,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+gulu,False,False,False,False,False,False,False,False,False,False,False,False,False,True,False
+gulu,False,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+talib,False,False,False,False,False,False,False,False,False,False,False,False,False,False,True
