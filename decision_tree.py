@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-
+import re 
 
 
 class AbstractFilter(ABC):
@@ -169,6 +169,9 @@ class DanielFilter(AbstractFilter):
 
 
 
+
+
+
 class BaileyBirkett(AbstractFilter):
     def filter_passed(self, text: str):
         return "bailey" in text and 'birkett' in text  or ('birkett' in text)
@@ -257,6 +260,121 @@ class GroveleyDetectorFilter(AbstractFilter):
     def __str__(self) -> str:
         return 'groveley_detection'
 
+
+
+
+
+class Rosemount0096ThermowellFilter(AbstractFilter):
+
+    pattern =r"^0096[dyajkpz]\d{4}[t,f,d,w,e]\d{2}t\d{3}[adt]"
+    def filter_passed(self, text: str):
+        words= re.split(r'\W+', text)
+
+        for word in words:
+            if re.match(self.pattern, word):
+                return True 
+
+        return False
+    
+    def __str__(self) -> str:
+        return 'rosemount_0096'
+
+
+
+
+class Trex375FieldCommunicatorFilter(AbstractFilter):
+
+    pattern =r"^(00275|00375|00475)-(0096|0002|0003|0004|0005|0006|0015|0018|0035|0043|0044|0045|0047|0049)-(0001|0022|0044|0003|0002|0008|dvd1)"
+
+    def filter_passed(self, text: str):
+        words= text.split()
+
+        for word in words:
+            if re.match(self.pattern, word):
+                return True 
+
+        return False
+    
+    def __str__(self) -> str:
+        return 'trex_field_communicator_375'
+
+
+
+
+class GenericFisherSpareFilter(AbstractFilter):
+
+    pattern =r"^(1[0-9]|2[0-9])(a|b)\d{4}(d|f|x)\d{3}$"
+
+
+    def filter_passed(self, text: str):
+        words= text.split()
+
+        for word in words:
+            if re.match(self.pattern, word):
+                return True 
+
+        return False
+    
+    def __str__(self) -> str:
+        return 'generic_fisher'
+
+
+
+
+class Actuator3025SpareFilter(AbstractFilter):
+    pattern =r"^(014|015|016|041|026|027|029|122|123|126|128|134|138|160|163)\d{4}"
+
+
+    def filter_passed(self, text: str):
+        words= text.split()
+
+        for word in words:
+            if re.match(self.pattern, word):
+                return True 
+
+        return False
+    
+    def __str__(self) -> str:
+        return '3025_actuator_spare'
+    
+
+
+class RosemountManifoldSpare(AbstractFilter):
+    pattern =r"^(03031|00304|00305|01151|01166)-\d{4}-\d{4}"
+
+    def filter_passed(self, text: str):
+        words= text.split()
+
+        for word in words:
+            if re.match(self.pattern, word):
+                return True 
+
+        return False
+    
+    def __str__(self) -> str:
+        return 'rosemount_manifold'
+
+
+
+class FisherSpare25002503(AbstractFilter):
+    pattern =r"^(r250).{7}$|^(rrelay)"
+
+
+    def filter_passed(self, text: str):
+        words= text.split()
+
+        for word in words:
+            if re.match(self.pattern, word):
+                return True 
+
+        return False
+    
+    def __str__(self) -> str:
+        return 'fisher_spare_25032500'
+    
+
+
+
 texts=['regulator pressure 316 stainless steel fisher body',
        'cover terminal block o ring rosemount', 
        'seal electric actauator biffi',
@@ -284,8 +402,20 @@ texts=['regulator pressure 316 stainless steel fisher body',
        'switch limit topworx',
        'mr95h filter emerson', 
        'multiflow regulator step groveley detection', 
-       'flow control technologies valve'
+       'flow control technologies valve', 
+       "thrmowl:flg,1-1/2in,375mm insertion lg,1 thermowell: flanged,1-1/2in,375mm insertion lg,1/2in npt,w/ material certification,80mm,class 900/1500,rf,tapered thermowell:flg,375mm insertion lg,1-1/2in,class 900/1500,rf,1/2in anpt,tapered,80mm lagging lg emerson 0096a0375f64t080dq8r",
+       "set:lead,field communicator 475,w/ conne set: lead,field communicator 475,w/ connector set:lead,475 field communicator,w/ connectors emerson 00375-0004-0001",
+       "gauge,pres:dual scale,0 to 30 psig,0 to gauge,pressure: dual scale,0 to 30 psig,0 to 2 kg/cm2,stainless steel case gauge,pressure:dual scale,0-30 psig,ss case emerson 11b8583x032", 
+       "pin:grooved,7/16in dia,3in lg,ss,asme sa pin: grooved,7/16in dia,3in lg,stainless steel,asme sa479/uns s31600,gr 316,hardness: 22 hrc pin:grooved,10mm dia,316 ss,f/ 10 & 12in type 24 v150 vee ball control valve emerson 11b8596x012",
+       "ring,bk-up:uns s31803 ring,back-up: uns s31803 ring,back-up:uns s31803 emerson 11b9659x022", 
+       "ring,scraper:wiper,30mm,40mm,7.5mm thk,n ring,scraper: wiper,30mm,40mm,7.5mm thk,nitrile,steel ring,wiper:valve,30 id x 40 od x 7.5mm thk,buna-n/stl emerson 1234722", 
+       "kit:manifold to flange,20mm id x 25mm od kit: manifold to flange,20mm id x 25mm od x 3mm thk ptfe o-ring,12/set o-ring set:20 id x 25mm od,3mm thk,glass-filled teflon,12/set,304 manifold to flg emerson 03031-0019-0003", 
+       "kit:rep,relay valve level controller,bal kit: relay valve,repair,level controller,consists of ball bearing assy,zinc ga glass gasket,relay base gasket,filter gasket,flappera                                                  ssy,f/ 2500 series high temp controller kit:relay valve,repair,level controller,consists of ball bearing assy,zinc ga glass gasket,relay base gasket,filter gasket,flapper assy,f/ 2500 series high temp controller fisher controls r2500x00h32", 
+       "kit:replacement,rep,level controller,xmt kit: replacement,repair,level controller,transmitter,high temperature relay gasket,fisher kit:repair,replacement,level controller/transmitter,w/ relay gasket,high temp emerson rrelay-x0h22", 
+       "rrelayx0h22"
+
        ]
+
 
 
 results=['erkin',
@@ -315,7 +445,17 @@ results=['erkin',
              'gulu', 
              'erkin', 
              'talib', 
-             'gulu'
+             'gulu', 
+             'talib', 
+             'talib',
+             "erkin", 
+             "erkin",
+             "erkin", 
+             "erkin",
+             "talib", 
+             "erkin", 
+             "erkin", 
+             "erkin"
              ]
 
 
@@ -343,7 +483,13 @@ features = [
    Rosemount3300HTFilter(),
    TemperatureDetector(), 
    MR95HFilter(), 
-   GroveleyDetectorFilter()
+   GroveleyDetectorFilter(), 
+   Rosemount0096ThermowellFilter(), 
+   Trex375FieldCommunicatorFilter(), 
+   GenericFisherSpareFilter(),
+   Actuator3025SpareFilter(), 
+   RosemountManifoldSpare(),
+   FisherSpare25002503(), 
 ]
 
 
@@ -431,5 +577,5 @@ result_df = pd.DataFrame(combined_data)
 
 result_df.to_csv('output.csv', index=False)
 
-print(result_df.head())
+print(result_df[135:145])
 
