@@ -1,0 +1,8750 @@
+Figure 1. 299H Series Pressure Reducing RegulatorsBulletin 71.2
+D102683X012
+January 2023
+299H Series
+299H Series Pressure Reducing Regulators
+• Outlet Pressures up
+to 60 psig / 4.1 bar
+• Robust
+• High Capacity
+• Integral Pilot
+• Compact
+• Inlet Pressure up to
+175 psig / 12.1 bar
+• ±1% Accuracy for
+Fixed Factor Billing (PFM)
+• Rugged Construction
+• Easy to Maintain
+• NEW! Optional
+Travel Indicator
+• Optional Slam-Shut
+Configuration
+• No Bleed Monitor
+• External, Internal or
+Dual Registration
+• Optional Token Relief
+2299H Series
+Specifications
+Specifications for 299H Series constructions are given below. Some specifications for a given regulator as it originally
+comes from the factory are stamped on a nameplate located on the actuator upper casing.
+Available Constructions
+Type 299H: Pilot-operated pressure reducing
+regulator with a pilot integrally mounted to the
+actuator casing.
+Type 299HR: A Type 299H with a token internal
+relief valve to relieve minor overpressure caused
+by thermal expansion.
+Type 299HV: Same as the Type 299H
+with a Type VSX8 slam-shut valve which
+provides overpressure or overpressure and
+underpressure protection.
+Type 299HVR: Same as the Type 299HV with an
+internal token relief valve.
+Body Size and End Connection Styles
+See Table 1
+Maximum Operating Inlet Pressure by Orifice Size(1)
+1/4 x 3/8 in. / 6.4 x 9.5 mm . . . . . . .175 psig / 12.1 bar
+3/8 in. / 9.5 mm . . . . . . . . . . . . . . . .175 psig / 12.1 bar
+1/2 in. / 13 mm . . . . . . . . . . . . . . . .175 psig / 12.1 bar
+3/4 in. / 19 mm . . . . . . . . . . . . . . . .150 psig / 10.3 bar
+7/8 in. / 22 mm(5) . . . . . . . . . . . . . . .125 psig / 8.6 bar
+1 in. / 25 mm(5) . . . . . . . . . . . . . . . . .100 psig / 6.9 bar
+1-3/16 in. / 30 mm(5) . . . . . . . . . . . 80 psig / 5.5 bar
+Maximum Casing and Emergency Outlet Pressure(1)
+66 psig / 4.5 bar
+Outlet (Control) Pressure Ranges(1)(2)
+See Table 2
+Maximum Set Pressure for Type 299HV(1)
+16 psig / 1.1 bar
+Maximum Set Pressure for Slam-Shut Device (1)
+See Table 2
+Minimum and Maximum Slam-Shut Trip
+Pressure Ranges
+Types 299HV and 299HVR: 21 psig / 1.45 bar
+Type VSX8 Sensing Line Connection
+1/4 NPT
+Flow Coefficients
+See Table 3
+Flow Capacities
+See Tables 5 through 10
+Pressure Control Accuracy (Fixed Factor) (PFM)
+±1% (3) of absolute control pressure
+Minimum Differential Pressure For Full Stroke
+1.5 psid / 0.10 bar d
+Control Line Connections
+3/4 NPT; See Figures 8 and 9
+Temperature Capabilities (1)(6)
+-20 to 150°F / -29 to 66°C
+Approximate Weight
+21 lbs / 10 kg
+Pressure Registration
+Internal, External or Dual Registration
+See Figure 3
+Fixed Restriction Sizes
+0.044 in. / 1.1 mm, Red (standard gain)
+0.071 in. / 1.8 mm, Green (low gain)
+0.082 in. / 2.1 mm, Blue (lower gain)
+Options
+• Filter(3) : A P590 Series filter installed in the pilot
+supply tubing between main body and pilot
+• Filtered pilot supply regulator(3)(4) :
+A Type 67CF supply regulator with integral
+5 micron Polyethylene filter
+• Reed switch: An optional remote notification
+switch can be installed offering the capability to
+remotely notify the operator should VSX8 Series
+shut off occur. (Types 299HV and 299HVR only)
+• (NEW) Travel Indicator: Optional travel indicator
+that can be used used with position monitor
+system. (Bracket and monitor sourced separately.)
+Construction Materials
+Actuator Upper Casings: Aluminum
+Actuator Lower Casing: Aluminum
+Pilot Spring Case: Aluminum
+Actuator Diaphragm: Nitrile (NBR)
+Pilot Diaphragm: Nitrile (NBR)
+Pilot Inlet Screen: Stainless steel
+Valve Body: Cast iron, Ductile iron or Steel
+Orifice and Valve Stem: Aluminum
+Disk Holder: Aluminum holder with Nitrile (NBR) disk
+Main Disk Construction: Nitrile (NBR)
+Metal Trim Parts For Pilot: Aluminum
+Pilot Disk Construction: Nitrile (NBR)
+O-rings: Nitrile (NBR)
+Fittings: Steel (standard) or Stainless steel
+Tubing: Stainless steel
+1. The pressure/temperature limits in this Bulletin and any applicable standard or code limitation should not be exceeded.
+2. For optimum performance, a pilot supply regulator may be installed in the pilot supply tubing between the main valve and pilot.
+3. A pilot supply regulator or a P590 Series filter (only one may be used, not both) may be ordered with the Type 299H, but not both.
+4. For in. w.c., use a pilot supply regulator if actual inlet pressure varies more than ±20 psi / ±1.4 bar and published accuracy is required.
+5. This orifice size is not available for Types 299HV and 299HVR .
+6. Product has passed Emerson Process Management Regulator Technologies, Inc. testing for lockup, relief start-to-discharge and reseal down to -40°.
+W7527-1_07/2010 W7528-1
+3299H Series
+TYPE 299HR PILOT WITH OPTIONAL TOKEN RELIEFTYPE 299H WITH EXTERNAL REGISTRATION
+3/4 NPT
+CONTROL LINE
+Figure 2. 299H Series Sectional Views
+Features
+• Compact in Size—Small envelope because of the
+built-in pilot and internal registration.
+• Unique No Bleed Monitor System—Flexible
+worker/monitor system setup that allows for
+bleed to be piped to the intermediate piping thus
+eliminating downstream bleed which reduces lost
+and unaccounted for gas. Another advantage of this
+configuration is that the system lockup pressure is
+that of the worker instead of the monitor.
+• Not an Adaptation of Existing Regulators—
+New design of integrated cases and internal
+registration ports.
+• Wide Variety of Applications—Natural gas
+distribution systems, gas supply to industrial
+boilers, furnaces, ovens, mixers, plant air service.
+• Highest Quality— Designed and manufactured to
+ISO 9001 standards.
+• Accuracy—Keeps constant inlet pressures to
+downstream equipment by accurately controlling
+distribution system pressures at widely varying flow
+rates and supply pressures for maximum efficiency
+and best operation or by eliminating the need for
+pressure-compensating meters by holding a steady
+pressure to the meter inlet.
+• Optional Token Relief—The Types 299HR and
+299HVR with an integral token relief in the pilot is
+designed to relieve minor overpressure caused by
+thermal expansion.
+• High-Capacity Pressure Control—Actuator
+diaphragm responds quickly to downstream
+pressure change, causing immediate correction in
+main valve position. Pilot responds simultaneously
+and controls final positioning of main valve. This
+action permits full main valve travel, resulting in
+higher capacity than could be obtained without an
+external pilot regulator.
+• Easy Registration Conversion—Two screws and
+O-rings change internal registration to external or
+dual registration.
+• Easy Startup—No special procedure required.
+• Easy to Maintain—Main valve disk and orifice can
+be inspected without removing body from pipeline.
+Easy access two bolt flange permits quick removal
+of actuator and pilot from body.
+• Economical, Labor-Saving Installation—Supply
+pressure to pilot is factory-piped directly from inlet
+side of main regulator body, thus requiring no
+upstream pilot supply line on standard installations.
+• Rugged Construction—With a two bolt connection
+of the regulator to the body and no union ring, the
+299H Series regulators are designed for longer
+service life with minimal maintenance requirements.
+• No gaskets—Reusable O-rings at all
+serviceable joints.
+• Startup Protection—The main valve and the pilot
+are designed with reverse pressure mechanisms to
+prevent damage during startup or sudden increase
+in downstream pressure.
+• Fewer Parts—Fewer recommended parts needed
+for spare parts inventory.
+4299H Series
+BODY SIZE,
+NPS / DN
+BODY MATERIAL AND END CONNECTION STYLES
+Cast iron
+(For Types 299H and 299HR only) Ductile iron Steel
+(For Types 299H and 299HR only)
+1-1/4
+1-1/2
+NPT
+NPT
+- - - -
+NPT
+- - - -
+NPT
+2 / 50 NPT, CL125 FF Flanged (1) NPT, CL125 FF and CL250 RF Flanged,
+PN 10/16 Flanged NPT, CL150 RF Flanged
+1. This flange is available with a face-to-face dimension of 7.5 or 10 in. / 191 or 254 mm.
+Table 1. Body Sizes and End Connection Styles
+Table 2. Outlet Pressure Ranges
+OUTLET (CONTROL)
+PRESSURE RANGE
+TYPE PILOT CONTROL SPRING
+299H
+299HR,
+299HV and
+299HVR
+Part Number Color Free Length Wire Diameter
+In. w.c. mbar In. mm In. mm
+3.5 to 6(1)
+5 to 9(1)
+7 to 20 (1)
+16 to 40 (1)
+9 to 15 (1)
+12 to 22 (1)
+17 to 50 (1)
+40 to 99 (1)
+X
+X
+X
+X
+X
+X
+X
+X
+T13707T0012
+T13589T0012
+1N3112X0012
+1B413727222
+Black
+Yellow
+Unpainted
+Purple
+1.86
+2.05
+2.18
+2.12
+47.2
+52.1
+55.4
+53.8
+0.055
+0.051
+0.075
+0.092
+1.40
+1.30
+1.90
+2.34
+1 to 3.25 psig
+2.75 to 6 psig
+5 to 16 psig
+14 to 35 psig
+30 to 60 psig
+69 mbar to 0.22 bar
+0.19 to 0.41 bar
+0.34 to 1.1 bar
+0.97 to 2.4 bar
+2.1 to 4.1 bar
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+T13593T0012
+T13671T0012
+T13600T0012
+19B0432X012
+19B0432X022
+Light blue
+Orange
+Red
+Zinc
+Green
+2.12
+2.40
+2.10
+2.15
+2.75
+53.8
+61.0
+53.3
+54.6
+69.8
+0.105
+0.120
+0.142
+0.207
+0.225
+2.67
+3.05
+3.61
+5.26
+5.71
+1. Use a pilot supply regulator if actual inlet pressure varies more than ±20 psi / ±1.4 bar and the published accuracy is required.
+Introduction
+Description
+▲ WARNING
+Since a pilot-operated regulator is
+constructed of both a pilot and a main
+valve, do not exceed the maximum inlet
+pressure shown on the nameplate.
+The 299H Series pressure reducing regulators provide
+a broad capacity of controlled pressure ranges and
+capacities in a wide variety of distribution, industrial
+and commercial applications. A 299H Series regulator
+has a pilot integrally mounted to the actuator casing.
+The 299H Series regulators can handle inlet pressures
+up to 175 psig / 12.1 bar depending on orifice size.
+The integral token relief on the Types 299HR and
+299HVR regulators is located in the pilot and
+alerts you to an increase in downstream pressure
+beyond the regulator setpoint.
+The Type 299HV provides overpressure or
+overpressure and underpressure protection by
+completely shutting off the flow of gas to the
+downstream system. It comes with a Type VSX8
+(299HV) slam-shut device which can be configured
+for Ovepressure Shutoff (OPSO) or Overpressure
+and Underpressure Shutoff (OPSO/UPSO). The
+slam-shut device’s actions are independent of the
+main valve and of variations to the inlet pressure. The
+Type VSX8 (299HV) slam-shut device has internal or
+external registration. External registration requires a
+downstream sensing line.
+Options
+P590 Series Pilot Supply Filter
+The optional P590 Series pilot supply filter prevents
+pipeline debris from entering the pilot; a primary cause
+of pilot clogging. When the upstream system is free of
+debris, the 299H Series regulators may be installed
+without a pilot supply filter .
+Type 67CF Filtered Pilot Supply Regulator
+When it is necessary to install a pilot supply regulator,
+an optional Type 67CF filtered pilot supply regulator
+may be installed. For example, on applications
+with in. of water column setpoints and inlet pressure
+variations of more than ±20 psig / ±1.4 bar, it may
+be necessary to install a Type 67CF to maintain
+published accuracy.
+Reed Switch
+An optional remote notification switch can be
+installed offering the capability to remotely notify the
+operator should VSX8 Series shut off occur. Reed
+switch is available on our regulators 299HV and
+299HVR Series only. Reference D103127X012 for
+instruction manual.
+A7268_1
+A7269 A7270
+EXTERNAL REGISTRATION DUAL REGISTRATION
+TYPE 299H WITH INTERNAL REGISTRATION
+J
+G
+3/4 NPT
+DOWNSTREAM
+CONTROL LINE
+CONNECTION
+3/4 NPT
+CONTROL LINE
+CONNECTION
+PILOT SUPPLY
+SCREEN
+3/4 NPT
+DOWNSTREAM
+CONTROL LINE
+CONNECTION
+J
+G
+A
+C
+G
+F
+K
+B
+E
+H
+J
+5299H Series
+INLET PRESSURE
+OUTLET PRESSURE
+ATMOSPHERIC PRESSURE
+LOADING PRESSURE
+Figure 3. Type 299H Operational Schematic
+pe 299HV
+LOADING PRESSURE
+INLET PRESSURE
+OUTLET PRESSURE
+ATMOSPHERIC PRESSURE
+RNAL REGISTRATION
+RNAL REGISTRATION
+ber 2016 Type 299HV
+Type 299HV
+LOADING PRESSURE
+INLET PRESSURE
+OUTLET PRESSURE
+ATMOSPHERIC PRESSURE
+EXTERNAL REGISTRATION
+INTERNAL REGISTRATION
+September 2016
+Type 299HV
+LOADING PRESSURE
+INLET PRESSURE
+OUTLET PRESSURE
+ATMOSPHERIC PRESSURE
+EXTERNAL REGISTRATION
+INTERNAL REGISTRATION
+September 2016
+E0072_05/2017
+A7271
+A7272
+6299H Series
+TOKEN RELIEF CLOSED TOKEN RELIEF OPEN
+Figure 4. Type 299HR Operational Schematic
+ATMOSPHERIC PRESSURE
+LOADING PRESSURE
+INLET PRESSURE
+OUTLET PRESSURE
+Figure 5. Type 299HV Operational Schematic
+Travel Indicator
+An optional travel indicator can be added to the main
+actuator adjusting screw for measuring travel. The
+travel indicator construction allows for a bracket to be
+installed to add a position monitoring device. This will
+allow remote monitoring of the main actuator position
+to indicate percent open or percent flow.
+Principle of Operation
+Letter keys in this section refer to Figure 3 unless
+otherwise noted. Fast response and accuracy are made
+possible by the amplifying effect of the pilot and by the
+two-path control system. The function of the pilot is
+to sense change in the controlled outlet pressure and
+amplify it into a larger change in the loading pressure.
+Any changes in outlet pressure act quickly on both the
+actuator diaphragm and the loading pilot, thus providing
+the precise pressure control and fast speed of response
+that is characteristic of a two-path system.
+Upstream or inlet pressure is utilized as the operating
+medium, which is reduced through pilot operation to
+load the main diaphragm chamber. Tubing connects
+the inlet pressure to the pilot. Downstream or outlet
+pressure registers underneath main diaphragm (E) and
+on top of pilot diaphragm (F). There are three different
+versions of pressure registration for the Type 299H.
+7299H Series
+Figure 6. Type 299H with Travel Indicator and
+Fisher
+™ 4320 Bracket
+The increased pressure is transmitted through the
+downstream control line (for external or dual registration)
+or through the port (G) (for internal registration) and acts
+on top of the pilot diaphragm (F). This pressure exceeds
+the pilot spring setting and forces the diaphragm down,
+closing the orifice (C). The loading pressure acting on
+main diaphragm (E) bleeds to the downstream system
+through a bleed restriction (H).
+With a decrease in loading pressure on top of main
+diaphragm (E), main spring (B) exerts an upward
+force on the diaphragm post connected to main
+diaphragm (E), pulling it upward. This moves the
+main valve disk (K) toward its seat, decreasing flow
+to the downstream system.
+Internal registration (screws and O-rings (J)
+removed)—Outlet pressure is registered through the
+throat to the main diaphragm chamber and through a
+small port (G) to the top of the pilot diaphragm. Internal
+registration is used for ease of installation. Capacity
+is somewhat limited because of droop and/or boost
+associated with sensing pressure within the body.
+External registration—Screws and O-rings (J) block
+the throat and a downstream control line is connected to
+the pilot diaphragm chamber which is connected to the
+lower main diaphragm chamber by a small port (G). The
+other end of the control line connects to the downstream
+pipeline. External registration is used for higher capacity
+and/or the upstream regulator in a monitor set. It also
+allows monitoring for inlet pressures over 66 psig /
+4.5 bar. Capacity is increased because of better
+registration of pipeline pressure when a control line is
+used. The alternate 3/4 NPT control line connection
+(on the side of the pilot) can be used for piping
+convenience, see Figures 8 and 9.
+Dual registration (screws and O-rings (J) removed)—
+The lower main diaphragm chamber registers outlet
+pressure through the throat and the pilot diaphragm
+chamber registers downstream pressure by use of
+a downstream control line. The port (G) between the
+chambers is blocked by inserting a screw and O-ring (J)
+that was removed from the throat and the control line
+runs from the pilot to the downstream pipeline. Dual
+registration, with its larger orifice (control line must be
+piped to the primary 3/4 NPT connection on the side
+of the pilot), provides an improved performance as
+compared to internal pressure registration when used in
+low flow rate and high pressure drop applications. It is
+also used for no downstream bleed monitoring systems
+with inlet pressures up to 66 psig / 45 bar.
+Type 299H
+In operation, assume the outlet pressure is less than
+the setting of pilot control spring (A). The top side
+of pilot diaphragm assembly (F) will have a lower
+pressure than the setting of spring (A). Spring (A)
+forces the diaphragm assembly upward, opening the
+pilot orifice (C). Additional loading pressure is supplied
+to the top side of the main diaphragm (E).
+This creates a higher pressure on the top side of
+main diaphragm (E) than on the bottom side, forcing
+the diaphragm downward. This motion is transmitted
+through a lever, which pulls the valve disk (K) open,
+allowing more gas to flow through the valve.
+When the gas demand in the downstream system
+has been satisfied, the outlet pressure increases.
+100
+AB1104
+103
+102
+101
+3
+10
+5
+9
+4
+MAGNET ASSEMBLY
+FOR 1.97 IN. / 50 mm TRAVEL
+FISHER™ 4320 MOUNTING
+BRACKET KIT (PMB)
+DETAIL A
+SCALE 1:1
+A7136A A7136B
+A7136C
+A7273
+0.14 0.28 0.41 0.55 0.69 0.83 0.97 1.10 1.24 1.38 1.52
+16
+14
+12
+10
+8
+6
+4
+2
+0
+1.10
+0.97
+0.83
+0.69
+0.55
+0.41
+0.28
+0.14
+0 2 4 6 8 10 12 14 16 18 20 22
+0.10 0.14 0.17 0.21 0.24 0.28
+40
+35
+30
+25
+20
+15
+10
+5
+0
+99
+87
+75
+62
+50
+37
+25
+12
+1.5 2.0 2.5 3.0 3.5 4.0
+PURPLE SPRING
+16 TO
+40 IN. W.C. /
+40 TO 99 mbar
+1B41372722
+8299H Series
+NOTE: IF USED, THE PILOT SUPPLY REGULATOR SHOULD BE SET TO
+3 psig / 0.21 bar ABOVE THE MONITOR OUTLET PRESSURE SETTING.
+NOTE: IF USED, THE PILOT SUPPLY REGULATOR SHOULD BE SET TO
+3 psig / 0.21 bar ABOVE THE MONITOR OUTLET PRESSURE SETTING.
+WIDE-OPEN DOWNSTREAM MONITOR WIDE-OPEN UPSTREAM MONITOR
+NOTE: THE PILOT SUPPLY REGULATOR SHOULD BE SET TO 3 psig / 0.21 bar
+ABOVE THE MONITOR OUTLET PRESSURE SETTING.
+NO DOWNSTREAM BLEED MONITOR SYSTEM
+NOTE: THE PILOT SUPPLY REGULATOR SHOULD BE SET TO 3 psig / 0.21 bar
+ABOVE THE MONITOR OUTLET PRESSURE SETTING.
+WIDE-OPEN UPSTREAM MONITOR
+OPTIONAL PILOT
+SUPPLY FILTER OR
+FILTERED PILOT
+SUPPLY REGULATOR
+OPTIONAL PILOT SUPPLY
+FILTER OR FILTERED PILOT
+SUPPLY REGULATOR
+OPTIONAL PILOT SUPPLY
+FILTER OR FILTERED PILOT
+SUPPLY REGULATOR
+OPTIONAL PILOT SUPPLY
+FILTER OR FILTERED PILOT
+SUPPLY REGULATOR
+OPTIONAL PILOT
+SUPPLY REGULATOR
+OPTIONAL PILOT
+SUPPLY REGULATOR
+OPTIONAL PILOT
+SUPPLY REGULATOR
+WORKING
+REGULATOR
+WIDE-OPEN
+MONITOR
+WIDE-OPEN
+MONITOR
+WORKING
+REGULATOR
+WORKING
+REGULATOR
+WIDE-OPEN
+MONITOR
+OPTIONAL PILOT
+SUPPLY REGULATOR
+WORKING
+REGULATOR
+UNPAINTED SPRING
+7 TO 20-IN. W.C. /
+17 TO 50 mbar
+1N3112X0012
+BLACK SPRING
+3.5 TO
+6 IN. W.C. /
+9 TO 15 mbar
+T13707T0012
+YELLOW SPRING
+5 TO 9 IN. W.C. /
+12 TO 22 mbar
+T13589T0012
+ORANGE SPRING
+2.75 TO 6 psig /
+0.19 TO 0.41 bar
+T13671T0012
+LIGHT BLUE
+SPRING
+1 TO 3.25 psig /
+69 mbar TO
+0.22 bar
+T13593T0012
+RED SPRING
+5 TO 16 psig /
+0.34 TO 1.1 bar
+T13600T0012
+APPROXIMATE START-TO-DISCHARGE, psigAPPROXIMATE START-TO-DISCHARGE, psig
+SET in. w.c.
+SET mbar
+SET psig
+APPROXIMATE START-TO-DISCHARGE, barAPPROXIMATE START-TO-DISCHARGE, bar
+SET bar
+Figure 8. Type 299HR Approximate Start-to-Discharge
+Figure 7. Typical Monitor Installations
+9299H Series
+Type 299HR
+Refer to Figure 4. The Type 299HR provides an integral
+token relief valve. During an overpressure condition the
+spring on the pilot post will allow the diaphragm head to
+travel to the spring case. As the diaphragm head moves
+a small amount of gas is relieved.
+Note
+The Type 299HR is not a full capacity
+relief device. Approximate start-to-
+discharge pressure is dependent on set
+pressure, see Figure 8.
+During normal operation the Type 299HR performance
+is identical to the Type 299H. If an overpressure
+condition occurs, the pilot diaphragm head will
+separate from the pilot diaphragm post and travel
+until it contacts the pilot spring case. The movement
+of the diaphragm head creates a path and a token or
+noticeable amount of gas will be released.
+When the overpressure condition ceases, the pilot
+diaphragm head will return to the diaphragm post and
+the regulator will return to normal operation.
+Type 299HV
+Refer to Figure 5. The Type VSX8 (299HV) slam-
+shut devices on the Type 299HV regulator is a fast
+acting slam-shut valve which provides overpressure
+or overpressure and underpressure protection
+by completely shutting off the flow of gas to the
+downstream system. The slam-shut modules’
+actions are independent of the Type 299HV main
+regulator and of variations to the inlet pressure.
+The Type VSX8 (299HV) has internal or external
+registration. External registration requires a downstream
+sensing line.
+The slam-shut disk is held in the open position
+(reset position) by an internal latching mechanism
+that holds the valve stem and disk assembly. If
+the pressure below the diaphragm increases (or
+decreases) reaching the Type VSX8 (299HV) setpoint,
+the diaphragm will travel upwards (or downwards)
+operating a lever which in turn releases the valve
+stem assembly.
+Once released, the spring force on the stem will push
+the stem and disk to the closed position against the seat
+shutting off all gas flow. The pilot supply pressure is also
+shut off when the Type VSX8 (299HV) is closed. The
+manual reset has an internal bypass to equalize the reset
+pressure on either side on the slam-shut disk.
+In order for the Underpressure Shutoff (UPSO) of
+any slam shut to be triggered, the downstream pipe
+pressure must drop below the UPSO setpoint. In the
+case of a downstream line break, numerous factors
+can prevent the downstream pipe pressure from
+decreasing below the slam-shut UPSO setpoint. These
+factors include the distance of pipe to the break, the
+diameter of the pipe, size of the break and the number
+of restrictions, such as valves, elbows and bends,
+downstream of the regulator and/or slam-shut device.
+Due to these factors, additional protections should be
+installed to stop flow in the event of a line break.
+Overpressure Protection
+Like most regulators, the Type 299H has outlet pressure
+ratings lower than the inlet pressure ratings. Complete
+downstream overpressure protection is needed if the
+actual inlet pressure exceeds the outlet pressure rating.
+Overpressure protection for internal parts is built
+into the main and pilot diaphragms by means of a
+small spring on each post. The springs will allow
+the diaphragm heads to move farther on the posts
+avoiding damage to or bending of the valve trim.
+Overpressuring any portion of a regulator or
+associated equipment may cause leakage, parts
+damage or personal injury due to bursting of pressure-
+containing parts or explosion of accumulated gas.
+Regulator operation within ratings specified in the
+Specifications section and on the regulator nameplate
+does not preclude the possibility of damage from
+external sources or from debris in the pipeline. A
+regulator should be inspected for damage periodically
+and after any overpressure condition. The pilot vent
+is provided with a 1/4 NPT tapped connection in the
+spring case.
+10299H Series
+Table 3. Flow Coefficients
+TYPE
+ORIFICE DIAMETER WIDE-OPEN REGULATING (1)
+In. mm C g C v C 1 C g C v C 1
+299H/299HR
+1/4 x 3/8 6.4 x 9.5 53 2.0 27 50 1.9 26
+3/8 9.5 117 4.2 28 115 4.0 29
+1/2 13 203 7.0 29 200 9.6 21
+3/4 19 437 14.1 31 430 13.9 31
+7/8 22 544 16.5 33 534 16.2 33
+1 25 725 20.7 35 710 20.3 35
+1-3/16 30 910 25.3 36 885 24.6 36
+299HV and 299HVR
+1/4 x 3/8 6.4 x 9.5 53 2.0 27 50 1.9 26
+3/8 9.5 117 4.1 29 115 4.0 29
+1/2 13 184 5.0 37 180 4.9 37
+3/4 19 421 11.9 35 415 11.7 35
+7/8 22 544 15.3 36 528 14.8 36
+1 25 648 17.3 38 628 16.8 38
+1-3/16 30 740 19.1 39 717 18.5 39
+1. For external/dual registration only.
+Table 4a. Type VSX8 High and Low Trip Pressure Ranges (North American Overpressure Shut-off OPSO Ranges Only)
+REGULATOR SLAM SHUT DEVICE
+Type
+Number
+Typical Setpoint Spring Range Type Number
+OPSO OPSO(1)
+Typical SetSet Range Over
+UPSO Setpoint Spring Part Number
+and Color
+In. w.c. In. w.c. In. w.c. In. w.c.
+299HV
+299HVR
+4.0 3.5 to 6.0
+VSX8L
+12.0 to 24.0 GF02168X012
+Brown
+19.0
+7.0 5.0 to 9.0 22.0
+11.0 7.0 to 20.0
+16.0 in. w.c.
+to 1.6 psig
+GF02169X012
+Red 25.0
+14.0 24.0 in. w.c.
+to 2.8 psig
+GF02170X012
+Orange
+1.1 psig
+1 psig 16.0 in. w.c. to 1.4 psig 2.0 psig
+2.0 psig 1.0 to 3.3 psig 2.0 to 7.3 psig GF02172X012
+Green
+3.5 psig
+3.0 psig
+2.8 to 6.0 psig
+5.0 psig
+5.0 psig 3.2 to 11.0 psig GF02173X012
+Silver 7.0 psig
+10.0 psig 5.0 to 16.0 psig 5.8 to 21.0 psig GF04353X012
+Yellow
+12.0 psig
+15.0 psig 19.0 psig
+1. For units equipped with Token Relief, if Non-Factory Slam-shut OPSO setpoints are specified, they must be higher than the Token Relief Start-to-Discharge values provided in Table 5.
+Note: Other spring combinations are available. Please contact your local Sales Office for additional information.
+Table 4b. Type VSX8 High and Low Trip Pressure Ranges (European Overpressure Shut-off OPSO Ranges Only)
+REGULATOR SLAM SHUT DEVICE
+Type
+Number
+Typical Setpoint Spring Range Type Number
+OPSO OPSO(1)
+Typical SetSet Range Over
+UPSO Setpoint Spring Part Number
+and Color
+mbar mbar mbar mbar
+299HV
+299HVR
+21 12 to 22
+VSX8L
+30 to 60 GF02168X012
+Brown 45
+35 17 to 50 40 to 110 GF02169X012
+Red 67
+50
+40 to 100 60 to 190 GF02170X012
+Orange
+90
+60 104
+75 128
+100
+70 to 224
+170
+150 140 to 500 GF02172X012
+Green 248
+300 190 to 414 220 to 760 GF02173X012
+Silver 450
+500 345 to 1103 400 to 1450 GF04353X012
+Yellow 700
+1. For units equipped with Token Relief, if Non-Factory Slam-shut OPSO setpoints are specified, they must be higher than the Token Relief Start-to-Discharge values provided in Table 5.
+Note: Other spring combinations are available. Please contact your local Sales Office for additional information.
+11299H Series
+Table 4c. Type VSX8 High and Low Trip Pressure Ranges (North American Overpressure and Underpressure Shut-off
+UPSO/OPSO Ranges)
+REGULATOR SLAM SHUT DEVICE
+Type
+Number
+Typical
+Setpoint Spring Range
+Type
+Number
+UPSO OPSO Typical Set
+In. w.c. In. w.c.
+Set Range (1) Spring
+Part Number
+and Color
+Set Range
+Over UPSO
+Setpoint
+Spring
+Part Number
+and Color
+UPSO Adjusted
+OPSO Range
+OPSO(2)
+In. w.c. In. w.c. In. w.c. In. w.c.
+299HV
+299HVR
+7.0(3) 5.0 to 9.0
+VSX8L
+3.0 to 12.0 ERAA05835A0
+White
+18 in. w.c.
+to 1.1 psig
+GF02168X012
+Brown
+3 (3) 21 in. w.c.
+to 1.2 psig 22.0
+11.0 (3)
+7.0 to 20.0
+6 (3) 24 in. w.c.
+to 1.3 psig 25.0
+14.0 (3)
+4.0 in. w.c.
+to 1.1 psig
+T14169T0012
+Blue
+25 in. w.c.
+to 1.9 psig
+GF02169X012
+Red
+9 (3) 27 in. w.c.
+to 1.3 psig 1.1 psig
+1.0 psig (3) 16.0 in. w.c. to
+1.4 psig 14 (3) 1.4 to
+2.4 psig 2.0 psig
+2.0 psig(4) 1.0 psig to
+3.3 psig
+10.0 in. w.c.
+to 2.3 psig
+T14170T0012
+Silver
+1.2 to
+3.2 psig
+GF02170X012
+Orange 1.0 psig (4) 2.2 to
+4.2 psig 3.5 psig
+3.0 psig(4)
+2.8 to
+6.0 psig 1.5 to
+7.3 psig
+FA142869X12
+Orange Stripe
+2.6 to
+5.6 psig
+GF02171X012
+Pink 2.0 psig(4) 4.4 to
+7.4 psig 5.0 psig
+5.0 psig(4)
+3.5 to
+8.2 psig
+GF02172X012
+Green
+3.0 psig(4) 6.5 to
+11.2 psig 7.0 psig
+10.0 psig(5)
+5.0 to
+16.0 psig
+5.0 psig (5) 10.5 to
+15.2 psig 12 psig
+15.0 psig(5) 1.5 to
+10.9 psig
+T14171T0012
+Olive
+6.7 to
+13.5 psig
+GF02173X012
+Silver 7.0 psig(5) 13.7 to
+20.5 psig 19.0 psig
+1. If Non-Factory UPSO setpoints are specified, a minimum differential of 4 in. w.c. between UPSO setpoint and regulator setpoint must be maintained in order to ensure a secure latch of
+the Slam-Shut.
+2. For units equipped with Token Relief, if Non-Factory Slam-shut OPSO setpoints are specified, they must be higher than the Token Relief Start-to-Discharge values provided in Table 5.
+3. For an internally registered Type VSX8, UPSO cannot be used with this main valve spring range to provide underpressure shutoff under flowing conditions. If protection against loss of
+inlet pressure is the only required function for the Type VSX8 then an internally registered Type VSX8 may be used with the same minimum trip pressures as an externally registered
+Type VSX8.
+4. For an internally registered Type VSX8, 70% of regulator setpoint is the minimum allowable UPSO setting used with this main valve spring range. If protection against loss of inlet
+pressure is the only required function for the Type VSX8 then an internally registered Type VSX8 may be used with the same minimum trip pressures as an externally registered
+Type VSX8.
+5. For an internally registered Type VSX8, 75% of regulator setpoint is the minimum allowable UPSO setting used with this main valve spring range. If protection against loss of inlet
+pressure is the only required function for the Type VSX8 then an internally registered Type VSX8 may be used with the same minimum trip pressures as an externally registered
+Type VSX8.
+Note: Other spring combinations are available. Please contact your local Sales Office for additional information.
+12299H Series
+Table 4d. Type VSX8 High and Low Trip Pressure Ranges (European Overpressure and Underpressure Shut-off
+UPSO/OPSO Ranges)
+REGULATOR SLAM SHUT DEVICE
+Type
+Number
+Typical
+Setpoint,
+mbar
+Spring Range,
+mbar
+Type
+Number
+UPSO OPSO Typical Set
+Set Range(1) Spring
+Part Number
+and Color
+Set Range
+Over UPSO
+Setpoint
+Spring
+Part Number
+and Color
+UPSO Adjusted
+OPSO Range
+OPSO(2)
+mbar mbar mbar mbar
+299HV
+299HVR
+21(3) 12 to 22
+VSX8L
+7 to 30 ERAA05835A0
+White
+40 to 55 GF02167X012
+Black 10 (3) 50 to 65 55
+35(3) 17 to 50 45 to 76
+GF02168X012
+Brown
+18 (3) 63 to 94 67
+50(3)
+40 to 100
+10 to 75
+T14169T0012
+Blue
+50 to 80
+25 (3) 75 to 105 90
+60(3) 30 (3) 80 to 110 104
+75(3)
+25 to 160
+62 to 132 GF02169X012
+Red 38(3) 100 to 170 128
+100(4)
+70 to 224 T14170T0012
+Silver 83 to 221 GF02170X012
+Orange
+50(4) 133 to 271 170
+150(4) 75 (4) 158 to 296 248
+300(4) 190 to 414 100 to 500 FA142869X12
+Orange Stripe 179 to 386 GF02171X012
+Pink 150(4) 329 to 536 450
+500(5)
+345 to 1103 100 to 750 T14171T0012
+Olive 460 to 932 GF02173X012
+Silver
+250(5) 710 to 1182 710
+1000 (5) 500 (5) 960 to 1432 1320
+1. If Non-Factory UPSO setpoints are specified, a minimum differential of 10 mbar between UPSO setpoint and regulator setpoint must be maintained in order to ensure a secure latch of
+the Slam-Shut.
+2. For units equipped with Token Relief, if Non-Factory Slam-shut OPSO setpoints are specified, they must be higher than the Token Relief Start-to-Discharge values provided in Table 5.
+3. For an internally registered Type VSX8, UPSO cannot be used with this main valve spring range to provide underpressure shutoff under flowing conditions. If protection against loss of
+inlet pressure is the only required function for the Type VSX8 then an internally registered Type VSX8 may be used with the same minimum trip pressures as an externally registered
+Type VSX8.
+4. For an internally registered Type VSX8, 70% of regulator setpoint is the minimum allowable UPSO setting used with this main valve spring range. If protection against loss of inlet
+pressure is the only required function for the Type VSX8 then an internally registered Type VSX8 may be used with the same minimum trip pressures as an externally registered
+Type VSX8.
+5. For an internally registered Type VSX8, 75% of regulator setpoint is the minimum allowable UPSO setting used with this main valve spring range. If protection against loss of inlet
+pressure is the only required function for the Type VSX8 then an internally registered Type VSX8 may be used with the same minimum trip pressures as an externally registered
+Type VSX8.
+Note: Other spring combinations are available. Please contact your local Sales Office for additional information.
+Q = Cg P1 SIN
+520
+GT
+3417
+C 1
+∆P
+P1
+DEG
+13299H Series
+Monitoring Systems
+Monitoring regulators serve as overpressure protection
+devices to limit system pressure in the event of open
+failure of a working regulator feeding the system.
+Wide-Open Monitor
+The control line of the upstream regulator is connected
+downstream of the second regulator (Figure 7), so
+that during normal operation the monitoring regulator
+is standing wide open with the reduction to distribution
+pressure being taken across the working regulator. Only
+in case of open failure of the working regulator does the
+wide-open monitoring regulator take control at its slightly
+higher setting. A pressure build-up above the monitor
+set pressure is required for the monitor to take control in
+the event of an overpressure situation. Installing a pilot
+supply regulator on the monitor will minimize the pressure
+build-up. The pilot supply regulator should be set to
+3 psig / 0.21 bar above the monitor setpoint.
+The minimum set pressure difference between
+the worker and monitor should be greater than the
+proportional band. Small set pressure differences may
+cause the worker and monitor to function independently.
+The upstream regulator can easily be field converted
+or ordered with screws and O-rings in the throat
+(Figure 7). This seals off the path that otherwise would
+let line pressure ahead of the working regulator inlet
+and try to close the wide-open monitoring regulator.
+No Downstream Bleed Monitor
+The no bleed monitor is a wide-open upstream
+monitor which works like a conventional wide-open
+upstream monitor except for registration. The no bleed
+monitor utilizes a dual registration construction as
+opposed to the external registration construction of the
+conventional monitor. This ensures that the lockup of
+the monitor system is the lockup of the downstream
+working monitor at zero flow during normal operation.
+Installation
+Although the actuator and pilot can be mounted in
+90° increments relative to the body, the normal installation
+is with the body in a horizontal run of pipe and the pilot
+hanging vertically from the bottom of the actuator.
+Control and vent lines necessary for installation are not
+supplied with a Type 299H regulator. Control and vent
+connection locations are shown in Figures 8 and 9.
+In many instances good piping practice will require
+that outlet piping be swaged up above the body size
+to prevent excessive pressure drop along the outlet
+line. The piping should be expanded as close to the
+regulator outlet as possible.
+Capacity Information
+Tables 5 through 10 give the 299H Series natural gas
+regulating capacities at selected inlet pressures and
+outlet pressure settings. Flows are in SCFH (60°F and
+14.7 psig) and Nm³/h (0°C and 1.01325 bar) of 0.6
+specific gravity natural gas. To determine equivalent
+capacities for air, propane, butane or nitrogen, multiply
+the capacity number in the Tables by the following
+appropriate conversion factor: 0.775 for air, 0.628 for
+propane, 0.548 for butane or 0.789 for nitrogen. For
+gases of other specific gravities, multiply the given
+capacity by 0.775 and divide by the square root of the
+appropriate specific gravity.
+For critical flow:
+To determine wide-open flow capacities for relief
+sizing of 0.6 specific gravity natural gas at 60°F at
+critical pressure drops (absolute outlet pressure equal
+to approximately one-half or less than one-half of the
+absolute inlet pressure), use the following formula:
+Q = P 1(abs) (C g )(1.29)
+For subcritical flow:
+If pressure drops are lower than critical (absolute
+outlet pressure greater than approximately one-half
+the absolute inlet pressure), use the following formula
+and convert according to the factors in the preceding
+paragraph if necessary:
+where:
+C 1 = Cg /Cv (see Table 3)
+Cg = Gas sizing coefficient (see Table 3)
+G = Gas specific gravity (air = 1.0)
+P1 = Regulator inlet pressure, psia
+∆P = Pressure drop across regulator, psi
+Q = Gas flow rate, SCFH
+T = Absolute temperature of gas at inlet, °Rankine
+Note
+Due to boost, the above formulas
+cannot be used to obtain correct
+regulating capacities for regulators with
+internal registration.
+The published capacities were obtained using inlet and
+outlet piping the same size as the regulator body size.
+14299H Series
+Table 5. Types 299H and 299HR Flow Capacities (1) for 1-1/2 NPT and NPS 2 / DN 50 External/Dual Registration
+OUTLET PRESSURE
+RANGE SETTING,
+ACCURACY,
+SPRING PART NUMBER
+AND COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH / Nm 3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 7/8 / 22 1 / 25 1-3/16 / 30
+psig bar SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h
+3.5 to 6 in. w.c. /
+9 to 15 mbar
+3.5 in. w.c. /
+9 mbar
+-1 to 2 in. w.c. /
+-2 to 5 mbar
+T13707T0012
+Black
+2
+5
+10
+15
+0.14
+0.34
+0.69
+1.0
+760
+1160
+1590
+1920
+20.4
+31.1
+42.6
+51.4
+1560
+2460
+3580
+4410
+41.8
+65.9
+95.9
+118
+2700
+4270
+6230
+7670
+72.4
+114
+167
+206
+5490
+8790
+13,060
+16,480
+147
+236
+350
+442
+6460
+10,350
+15,270
+19,450
+173
+277
+409
+521
+8170
+13,310
+20,300
+25,780
+219
+357
+544
+691
+9940
+16,250
+24,900
+31,730
+266
+436
+667
+850
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+2240
+2570
+2890
+3530
+60.0
+68.9
+77.4
+94.6
+5150
+5890
+6640
+8120
+138
+158
+178
+218
+8960
+10,250
+11,540
+14,120
+240
+275
+309
+378
+19,250
+22,030
+24,800
+30,350
+516
+590
+665
+813
+24,110
+27,110
+31,110
+38,100
+646
+727
+834
+1021
+31,790
+36,370
+40,950
+50,100
+852
+975
+1097
+1343
+39,620
+45,330
+51,040
+62,450
+1062
+1215
+1368
+1674
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4180
+4820
+6110
+7400
+112
+129
+164
+198
+9600
+11,090
+14,050
+17,020
+257
+297
+377
+456
+16,700
+19,280
+24,440
+29,600
+448
+517
+655
+793
+35,890
+41,440
+52,540
+63,630
+962
+1111
+1408
+1705
+44,100
+51,090
+65,080
+79,060
+1182
+1369
+1744
+2119
+59,260
+68,420
+86,740
+105,060
+1588
+1834
+2325
+2816
+73,870
+85,290
+108,120
+1980
+2286
+2898
+125
+150
+175
+8.6
+10.3
+12.1
+9020
+10,630
+12,240
+242
+285
+328
+20,730
+24,440
+28,150
+556
+655
+754
+36,050
+42,500
+48,950
+966
+1139
+1312
+77,500
+91,360
+2077
+2448
+96,050 2574
+5 to 9 in. w.c. /
+12 to 22 mbar
+7 in. w.c. /
+17 mbar
+-1 to 2 in. w.c. /
+-2 to 5 mbar
+T13589T0012
+Yellow
+2
+5
+10
+15
+0.14
+0.34
+0.69
+1.0
+750
+1160
+1590
+1920
+20.1
+31.1
+42.6
+51.4
+1520
+2440
+3580
+4410
+40.7
+65.4
+95.9
+118
+2650
+4240
+6220
+7670
+71.0
+114
+167
+206
+5380
+8730
+13,040
+16,480
+144
+234
+349
+442
+6270
+10,250
+15,220
+19,420
+168
+275
+408
+520
+8000
+13,220
+20,250
+25,750
+214
+354
+543
+690
+9730
+16,130
+24,830
+31,690
+261
+432
+665
+849
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+2240
+2570
+2890
+3530
+60.0
+68.9
+77.4
+94.6
+5150
+5890
+6640
+8120
+138
+158
+178
+218
+8960
+10,250
+11,540
+14,120
+240
+275
+309
+378
+19,250
+22,030
+24,800
+30,350
+516
+590
+665
+813
+24,110
+27,110
+31,110
+38,100
+646
+727
+834
+1021
+31,790
+36,370
+40,950
+50,100
+852
+975
+1097
+1343
+39,620
+45,330
+51,040
+62,450
+1062
+1215
+1368
+1674
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4180
+4820
+6110
+7400
+112
+129
+164
+198
+9600
+11,090
+14,050
+17,020
+257
+297
+377
+456
+16,700
+19,280
+24,440
+29,600
+448
+517
+655
+793
+35,890
+41,440
+52,540
+63,630
+962
+1111
+1408
+1705
+44,100
+51,090
+65,080
+79,060
+1182
+1369
+1744
+2119
+59,260
+68,420
+86,740
+105,060
+1588
+1834
+2325
+2816
+73,870
+85,290
+108,120
+1980
+2286
+2898
+125
+150
+175
+8.6
+10.3
+12.1
+9020
+10,630
+12,240
+242
+285
+328
+20,730
+24,440
+28,150
+556
+655
+754
+36,050
+42,500
+48,950
+966
+1139
+1312
+77,500
+91,360
+2077
+2448
+96,050 2574
+7 to 20 in. w.c. /
+17 to 50 mbar
+14 in. w.c. /
+35 mbar
+±2 in. w.c./
+±5 mbar
+1N3112X0012
+Unpainted
+2
+5
+10
+15
+0.14
+0.34
+0.69
+1.0
+700
+1140
+1580
+1920
+18.8
+30.5
+42.3
+51.4
+1430
+2400
+3560
+4410
+38.3
+64.3
+95.4
+118
+2480
+4170
+6190
+7670
+66.5
+112
+166
+206
+5040
+8570
+12,970
+16,480
+135
+230
+348
+442
+5850
+10,040
+15,110
+19,350
+157
+269
+405
+519
+7480
+12,950
+20,110
+25,660
+200
+347
+539
+688
+9090
+15,800
+24,640
+31,560
+244
+423
+660
+846
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+2240
+2570
+2890
+3530
+60.0
+68.9
+77.4
+94.6
+5150
+5890
+6640
+8120
+138
+158
+178
+218
+8960
+10,250
+11,540
+14,120
+240
+275
+309
+378
+19,250
+22,030
+24,800
+30,350
+516
+590
+665
+813
+24,110
+27,110
+31,110
+38,100
+646
+727
+834
+1021
+31,790
+36,370
+40,950
+50,100
+852
+975
+1097
+1343
+39,620
+45,330
+51,040
+62,450
+1062
+1215
+1368
+1674
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4180
+4820
+6110
+7400
+112
+129
+164
+198
+9600
+11,090
+14,050
+17,020
+257
+297
+377
+456
+16,700
+19,280
+24,440
+29,600
+448
+517
+655
+793
+35,890
+41,440
+52,540
+63,630
+962
+1111
+1408
+1705
+44,100
+51,090
+65,080
+79,060
+1182
+1369
+1744
+2119
+59,260
+68,420
+86,740
+105,060
+1588
+1834
+2325
+2816
+73,870
+85,290
+108,120
+1980
+2286
+2898
+125
+150
+175
+8.6
+10.3
+12.1
+9020
+10,630
+12,240
+242
+285
+328
+20,730
+24,440
+28,150
+556
+655
+754
+36,050
+42,500
+48,950
+966
+1139
+1312
+77,500
+91,360
+2077
+2448
+96,050 2574
+16 to 40 in. w.c. /
+40 to 99 mbar
+28 in. w.c. /
+70 mbar
+±4 in. w.c. /
+±10 mbar
+1B413727222
+Purple
+5
+10
+15
+20
+0.34
+0.69
+1.0
+1.4
+1110
+1570
+1920
+2240
+29.7
+42.1
+51.4
+60.0
+2320
+3530
+4410
+5150
+62.2
+94.6
+118
+138
+4020
+6140
+7670
+8960
+108
+165
+206
+240
+8250
+12,830
+16,170
+19,250
+221
+344
+433
+516
+9580
+14,870
+19,220
+24,110
+257
+399
+515
+646
+12,430
+19,830
+25,480
+30,670
+333
+531
+683
+822
+15,150
+24,290
+31,320
+37,820
+406
+651
+839
+1014
+25
+30
+40
+50
+60
+1.7
+2.1
+2.8
+3.4
+4.1
+2570
+2890
+3530
+4180
+4820
+68.9
+77.4
+94.6
+112
+129
+5890
+6640
+8120
+9600
+11,090
+158
+178
+218
+257
+297
+10,250
+11,540
+14,120
+16,700
+19,280
+275
+309
+378
+448
+517
+22,030
+24,800
+30,350
+35,890
+41,440
+590
+665
+813
+962
+1111
+27,110
+31,110
+38,100
+44,100
+51,090
+727
+834
+1021
+1182
+1369
+36,370
+40,950
+50,100
+59,260
+68,420
+975
+1097
+1343
+1588
+1834
+45,330
+51,040
+62,450
+73,870
+85,290
+1215
+1368
+1674
+1980
+2286
+80
+100
+125
+150
+175
+5.5
+6.9
+8.6
+10.3
+12.1
+6110
+7400
+9020
+10,630
+12,240
+164
+198
+242
+285
+328
+14,050
+17,020
+20,730
+24,440
+28,150
+377
+456
+556
+655
+754
+24,440
+29,600
+36,050
+42,500
+48,950
+655
+793
+966
+1139
+1312
+52,540
+63,630
+77,500
+91,360
+1408
+1705
+2077
+2448
+65,080
+79,060
+96,050
+1744
+2119
+2574
+86,740
+105,060
+2325
+2816
+108,120 2898
+- Blank areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Downstream piping may affect actual capacity. It may be necessary to use enlarged downstream piping to obtain published capacities.
+- continued -
+15299H Series
+Table 5. Types 299H and 299HR Flow Capacities (1) for 1-1/2 NPT and NPS 2 / DN 50 External/Dual Registration (continued)
+OUTLET PRESSURE
+RANGE SETTING,
+ACCURACY,
+SPRING PART NUMBER
+AND COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH / Nm 3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 7/8 / 22 1 / 25 1-3/16 / 30
+psig bar SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h
+1 to 3.25 psig /
+69 mbar to 0.22 bar
+2 psig / 0.14 bar
+±1% psia / bar
+T13593T0012
+Light Blue
+5
+10
+15
+20
+0.34
+0.69
+1.0
+1.4
+1020
+1550
+1920
+2240
+27.3
+41.5
+51.4
+60.0
+2100
+3340
+4360
+5150
+56.4
+89.5
+117
+138
+3640
+5810
+7580
+8960
+97.5
+156
+203
+240
+7440
+12,040
+15,990
+19,250
+199
+323
+429
+516
+8650
+14,410
+18,950
+24,110
+232
+386
+508
+646
+11,140
+18,460
+25,050
+30,380
+299
+495
+671
+814
+13,560
+22,570
+30,760
+37,410
+363
+605
+824
+1003
+25
+30
+40
+50
+60
+1.7
+2.1
+2.8
+3.4
+4.1
+2570
+2890
+3530
+4180
+4820
+68.9
+77.4
+94.6
+112
+129
+5890
+6640
+8120
+9600
+11,090
+158
+178
+218
+257
+297
+10,250
+11,540
+14,120
+16,700
+19,280
+275
+309
+378
+448
+517
+22,030
+24,800
+30,350
+35,890
+41,440
+590
+665
+813
+962
+1111
+27,110
+31,110
+38,100
+44,100
+51,090
+727
+834
+1021
+1182
+1369
+36,370
+40,950
+50,100
+59,260
+68,420
+975
+1097
+1343
+1588
+1834
+45,330
+51,040
+62,450
+73,870
+85,290
+1215
+1368
+1674
+1980
+2286
+80
+100
+125
+150
+175
+5.5
+6.9
+8.6
+10.3
+12.1
+6110
+7400
+9020
+10,630
+12,240
+164
+198
+242
+285
+328
+14,050
+17,020
+20,730
+24,440
+28,150
+377
+456
+556
+655
+754
+24,440
+29,600
+36,050
+42,500
+48,950
+655
+793
+966
+1139
+1312
+52,540
+63,630
+77,500
+91,360
+1408
+1705
+2077
+2448
+65,080
+79,060
+96,050
+1744
+2119
+2574
+86,740
+105,060
+2325
+2816
+108,120 2898
+2.75 to 6 psig /
+0.19 to 0.41 bar
+5 psig / 0.34 bar
+±1% psia / bar
+T13671T0012
+Orange
+10
+15
+20
+25
+0.69
+1.0
+1.4
+1.7
+1390
+1870
+2240
+2570
+37.2
+50.1
+60.0
+68.9
+2910
+4190
+5090
+5890
+78.0
+112
+136
+158
+5050
+7280
+8850
+10,250
+135
+195
+237
+275
+10,350
+15,150
+18,640
+22,030
+277
+406
+500
+590
+12,700
+17,950
+22,970
+27,110
+340
+481
+616
+727
+15,600
+23,310
+29,180
+34,550
+418
+625
+782
+926
+19,030
+28,530
+35,820
+42,530
+510
+765
+960
+1140
+30
+40
+50
+60
+80
+2.1
+2.8
+3.4
+4.1
+5.5
+2890
+3530
+4180
+4820
+6110
+77.4
+94.6
+112
+129
+164
+6640
+8120
+9600
+11,090
+14,050
+178
+218
+257
+297
+377
+11,540
+14,120
+16,700
+19,280
+24,440
+309
+378
+448
+517
+655
+24,800
+30,350
+35,890
+41,440
+52,540
+665
+813
+962
+1111
+1408
+31,110
+38,100
+44,100
+51,090
+65,080
+834
+1021
+1182
+1369
+1744
+40,950
+50,100
+59,260
+68,420
+86,740
+1097
+1343
+1588
+1834
+2325
+51,040
+62,450
+73,870
+85,290
+108,120
+1368
+1674
+1980
+2286
+2898
+100
+125
+150
+175
+6.9
+8.6
+10.3
+12.1
+7400
+9020
+10,630
+12,240
+198
+242
+285
+328
+17,020
+20,730
+24,440
+28,150
+456
+556
+655
+754
+29,600
+36,050
+42,500
+48,950
+793
+966
+1139
+1312
+63,630
+77,500
+91,360
+1705
+2077
+2448
+79,060
+96,050
+2119
+2574
+105,060 2816
+5 to 16 psig /
+0.34 to 1.1 bar
+10 psig / 0.69 bar
+±1% psia / bar
+T13600T0012
+Red
+15
+20
+25
+30
+1.0
+1.4
+1.7
+2.1
+1580
+2130
+2540
+2890
+42.3
+57.1
+68.1
+77.4
+3280
+4720
+5710
+6640
+87.9
+126
+153
+178
+5690
+8210
+9930
+11,540
+152
+220
+266
+309
+11,640
+17,000
+20,790
+24,150
+312
+456
+557
+647
+12,640
+20,380
+24,570
+29,540
+339
+546
+658
+792
+17,470
+25,940
+32,220
+37,900
+468
+695
+863
+1016
+21,280
+31,690
+39,480
+46,550
+570
+849
+1058
+1248
+40
+50
+60
+80
+2.8
+3.4
+4.1
+5.5
+3530
+4180
+4820
+6110
+94.6
+112
+129
+164
+8120
+9600
+11,090
+14,050
+218
+257
+297
+377
+14,120
+16,700
+19,280
+24,440
+378
+448
+517
+655
+30,350
+35,890
+41,440
+52,540
+813
+962
+1111
+1408
+38,100
+44,100
+51,090
+65,080
+1021
+1182
+1369
+1744
+50,100
+59,260
+68,420
+86,740
+1343
+1588
+1834
+2325
+62,450
+73,870
+85,290
+108,120
+1674
+1980
+2286
+2898
+100
+125
+150
+175
+6.9
+8.6
+10.3
+12.1
+7400
+9020
+10,630
+12,240
+198
+242
+285
+328
+17,020
+20,730
+24,440
+28,150
+456
+556
+655
+754
+29,600
+36,050
+42,500
+48,950
+793
+966
+1139
+1312
+63,630
+77,500
+91,360
+1705
+2077
+2448
+79,060
+96,050
+2119
+2574
+105,060 2816
+5 to 16 psig /
+0.34 to 1.1 bar
+15 psig / 1.0 ba
+±1% psia / bar
+T13600T0012
+Red
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+1750
+2360
+2820
+3530
+46.9
+63.2
+75.6
+94.6
+3620
+5220
+6290
+8120
+97.0
+140
+169
+218
+6290
+9070
+10,940
+14,120
+169
+243
+293
+378
+12,830
+18,700
+22,790
+29,650
+344
+501
+611
+795
+15,830
+22,040
+27,870
+36,530
+424
+591
+747
+979
+19,190
+28,360
+35,050
+46,610
+514
+760
+939
+1249
+23,360
+34,610
+42,890
+57,270
+626
+928
+1149
+1535
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4180
+4820
+6110
+7400
+112
+129
+164
+198
+9600
+11,090
+14,050
+17,020
+257
+297
+377
+456
+16,700
+19,280
+24,440
+29,600
+448
+517
+655
+793
+35,890
+41,440
+52,540
+63,630
+962
+1111
+1408
+1705
+44,100
+51,090
+65,080
+79,060
+1182
+1369
+1744
+2119
+57,080
+68,420
+86,740
+105,060
+1530
+1834
+2325
+2816
+70,350
+85,290
+108,120
+1885
+2286
+2898
+125
+150
+175
+8.6
+10.3
+12.1
+9020
+10,630
+12,240
+242
+285
+328
+20,730
+24,440
+28,150
+556
+655
+754
+36,050
+42,500
+48,950
+966
+1139
+1312
+77,500
+91,360
+2077
+2448
+96,050 2574
+14 to 35 psig /
+0.97 to 2.4 bar
+20 psig / 1.4 bar
+±1% psia / bar
+19B0432X012
+Zinc
+25
+30
+40
+50
+60
+1.7
+2.1
+2.8
+3.4
+4.1
+1920
+2580
+3480
+4180
+4820
+51.4
+69.1
+93.3
+112
+129
+3930
+5680
+7830
+9600
+11,090
+105
+152
+210
+257
+297
+6840
+9870
+13,610
+16,700
+19,280
+183
+265
+365
+448
+517
+13,930
+20,280
+28,440
+35,140
+41,440
+373
+544
+762
+942
+1111
+14,960
+24,090
+34,480
+41,940
+51,090
+401
+646
+924
+1124
+1369
+20,800
+30,630
+43,980
+55,310
+65,780
+557
+821
+1179
+1482
+1763
+25,310
+37,340
+53,880
+67,980
+81,060
+80
+100
+125
+150
+175
+5.5
+6.9
+8.6
+10.3
+12.1
+6110
+7400
+9020
+10,630
+12,240
+164
+198
+242
+285
+328
+14,050
+17,020
+20,730
+24,440
+28,150
+377
+456
+556
+655
+754
+24,440
+29,600
+36,050
+42,500
+48,950
+655
+793
+966
+1139
+1312
+52,540
+63,630
+77,500
+91,360
+1408
+1705
+2077
+2448
+65,080
+79,060
+96,050
+1744
+2119
+2574
+86,740
+105,060
+2325
+2816
+108,120
+- Blank areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Downstream piping may affect actual capacity. It may be necessary to use enlarged downstream piping to obtain published capacities.
+- continued -
+16299H Series
+Table 5. Types 299H and 299HR Flow Capacities (1) for 1-1/2 NPT and NPS 2 / DN 50 External/Dual Registration (continued)
+OUTLET PRESSURE
+RANGE SETTING,
+ACCURACY,
+SPRING PART NUMBER
+AND COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH / Nm 3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 7/8 / 22 1 / 25 1-3/16 / 30
+psig bar SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h SCFH Nm3 /h
+14 to 35 psig /
+0.97 to 2.4 bar
+25 psig / 1.7 bar
+±1% psia / bar
+19B0432X012
+Zinc
+30
+40
+50
+60
+2.1
+2.8
+3.4
+4.1
+2070
+3320
+4140
+4820
+55.5
+89.0
+111
+129
+4230
+7350
+9340
+11,090
+113
+197
+250
+297
+7360
+12,780
+16,250
+19,280
+197
+343
+436
+517
+14,980
+26,420
+34,040
+40,630
+401
+708
+912
+1089
+18,330
+32,120
+40,400
+48,920
+491
+861
+1083
+1311
+22,310
+40,220
+52,830
+64,010
+598
+1078
+1416
+1715
+27,140
+49,120
+64,770
+78,690
+727
+1316
+1736
+2109
+80
+100
+125
+150
+175
+5.5
+6.9
+8.6
+10.3
+12.1
+6110
+7400
+9020
+10,630
+12,240
+164
+198
+242
+285
+328
+14,050
+17,020
+20,730
+24,440
+28,150
+377
+456
+556
+655
+754
+24,440
+29,600
+36,050
+42,500
+48,950
+655
+793
+966
+1139
+1312
+52,540
+63,630
+77,500
+91,360
+1408
+1705
+2077
+2448
+65,080
+79,060
+96,050
+1744
+2119
+2574
+86,740
+105,060
+2325
+2816
+108,120 2898
+14 to 35 psig /
+0.97 to 2.4 bar
+30 psig / 2.1 bar
+±1% psia / bar
+19B0432X012
+Zinc
+40
+50
+60
+80
+2.8
+3.4
+4.1
+5.5
+2980
+4020
+4800
+6110
+79.9
+108
+129
+164
+6520
+8950
+10,850
+14,050
+175
+240
+291
+377
+11,330
+15,560
+18,870
+24,440
+304
+417
+506
+655
+23,190
+32,300
+39,600
+52,540
+621
+866
+1061
+1408
+27,330
+37,410
+46,980
+65,080
+732
+1003
+1259
+1744
+34,790
+49,460
+61,630
+83,170
+932
+1326
+1652
+2229
+42,370
+60,480
+75,590
+102,470
+1136
+1621
+2026
+2746
+100
+125
+150
+175
+6.9
+8.6
+10.3
+12.1
+7400
+9020
+10,630
+12,240
+198
+242
+285
+328
+17,020
+20,730
+24,440
+28,150
+456
+556
+655
+754
+29,600
+36,050
+42,500
+48,950
+793
+966
+1139
+1312
+63,630
+77,500
+91,360
+1705
+2077
+2448
+79,060
+96,050
+2119
+2574
+105,060 2816
+14 to 35 psig /
+0.97 to 2.4 bar
+35 psig / 2.4 bar
+±1% psia / bar
+19B0432X012
+Zinc
+40
+50
+60
+80
+2.8
+3.4
+4.1
+5.5
+2350
+3770
+4700
+6110
+63.0
+101
+126
+164
+4790
+8300
+10,510
+14,050
+128
+222
+282
+377
+8330
+14,430
+18,270
+24,440
+223
+387
+490
+655
+16,920
+29,690
+38,050
+51,600
+453
+796
+1020
+1383
+20,530
+34,220
+44,960
+62,470
+550
+917
+1205
+1674
+25,150
+44,890
+58,520
+81,400
+674
+1203
+1568
+2182
+30,580
+54,750
+71,620
+100,090
+820
+1467
+1919
+2682
+100
+125
+150
+175
+6.9
+8.6
+10.3
+12.1
+7400
+9020
+10,630
+12,240
+198
+242
+285
+328
+17,020
+20,730
+24,440
+28,150
+456
+556
+655
+754
+29,600
+36,050
+42,500
+48,950
+793
+966
+1139
+1312
+63,630
+77,500
+91,360
+1705
+2077
+2448
+79,060
+96,050
+2119
+2574
+105,060 2816
+30 to 60 psig /
+2.1 to 4.1 bar
+40 psig / 2.8 bar
+±1% psia / bar
+19B0432X022
+Green
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+3340
+4500
+6100
+7400
+89.5
+121
+163
+198
+7290
+9970
+13,840
+17,020
+195
+267
+371
+456
+12,670
+17,340
+24,070
+29,600
+340
+465
+645
+793
+25,840
+35,820
+50,670
+63,630
+693
+960
+1358
+1705
+30,500
+42,700
+61,300
+77,250
+817
+1144
+1643
+2070
+38,590
+54,480
+79,160
+100,560
+1034
+1460
+2121
+2695
+46,950
+66,530
+97,160
+1258
+1783
+2604
+125
+150
+175
+8.6
+10.3
+12.1
+9020
+10,630
+12,240
+242
+285
+328
+20,730
+24,440
+28,150
+556
+655
+754
+36,050
+42,500
+48,950
+966
+1139
+1312
+77,500
+91,360
+2077
+2448
+95,700 2565
+30 to 60 psig /
+2.1 to 4.1 bar
+50 psig / 3.4 bar
+±1% psia / bar
+19B0432X022
+Green
+60
+80
+100
+4.1
+5.5
+6.9
+3680
+5900
+7400
+98.6
+158
+198
+7990
+13,170
+16,830
+214
+353
+451
+13,900
+22,900
+29,260
+373
+614
+784
+28,290
+47,570
+61,700
+758
+1275
+1654
+33,300
+57,000
+74,800
+892
+1528
+2005
+42,110
+72,950
+96,630
+1129
+1955
+2590
+51,210
+89,220
+1372
+2391
+125
+150
+175
+8.6
+10.3
+12.1
+9020
+10,630
+12,240
+242
+285
+328
+20,730
+24,440
+28,150
+556
+655
+754
+36,050
+42,500
+48,950
+966
+1139
+1312
+77,500
+91,360
+2077
+2448
+94,400 2530
+30 to 60 psig /
+2.1 to 4.1 bar
+60 psig / 4.1 bar
+±1% psia / bar
+19B0432X022
+Green
+80
+100
+125
+5.5
+6.9
+8.6
+5380
+7260
+9020
+144
+195
+242
+11,810
+16,270
+20,730
+317
+436
+556
+20,540
+28,290
+35,860
+550
+758
+961
+42,160
+59,000
+75,900
+1130
+1581
+2034
+50,000
+70,900
+92,300
+1340
+1900
+2474
+63,540
+90,970
+1703
+2438
+77,440 2075
+150
+175
+10.3
+12.1
+10,630
+12,240
+285
+328
+24,440
+28,150
+655
+754
+42,500
+48,950
+1139
+1312
+91,360 2448
+- Blank areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Downstream piping may affect actual capacity. It may be necessary to use enlarged downstream piping to obtain published capacities.
+- continued -
+17299H Series
+OUTLET PRESSURE
+RANGE SETTING,
+ACCURACY,
+SPRING PART NUMBER
+AND COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH / Nm 3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 1 / 25 1-3/16 / 30
+psig bar SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h
+3.5 to 6 in. w.c. /
+9 to 15 mbar
+3.5 in. w.c. /
+9 mbar
+-1 to 2 in. w.c. /
+-2 to 5 mbar
+T13707T0012
+Black
+2
+5
+10
+15
+0.14
+0.34
+0.69
+1.0
+760
+1200
+1700
+2000
+20.4
+32.2
+45.6
+53.6
+1560
+2600
+3800
+4600
+41.8
+69.7
+102
+123
+2700
+4500
+6500
+8000
+72.4
+121
+174
+214
+4050
+8490
+7140
+7120
+109
+228
+191
+191
+4340
+10,690
+8570
+10,860
+116
+286
+230
+291
+4540
+7290
+10,570
+9020
+122
+195
+283
+242
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+2350
+2700
+3040
+3700
+63.0
+72.4
+81.5
+99.2
+5300
+6000
+6740
+8200
+142
+161
+181
+220
+9250
+10,010
+10,330
+11,640
+248
+268
+277
+312
+7060
+7100
+8030
+9610
+189
+190
+215
+258
+11,250
+11,170
+11,660
+10,790
+302
+299
+312
+289
+9810
+9760
+9700
+11,150
+263
+262
+260
+299
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4400
+5100
+4700
+4300
+118
+137
+126
+115
+9700
+11,200
+4680
+3040
+260
+300
+125
+81.5
+11,650
+11,380
+4510
+3990
+312
+305
+121
+107
+10,530
+11,590
+15,210
+14,510
+282
+311
+408
+389
+9460
+9010
+6250
+7700
+254
+241
+168
+206
+10,100
+10,200
+8900
+271
+273
+239
+125
+150
+175
+8.6
+10.3
+12.1
+4300
+4320
+5600
+115
+116
+150
+3200
+3200
+5050
+85.8
+85.8
+135
+4390
+4810
+7300
+118
+129
+196
+8640
+2650
+232
+71.0
+5 to 9 in. w.c. /
+12 to 22 mbar
+7 in. w.c. /
+17 mbar
+-1 to 2 in. w.c. /
+-2 to 5mbar
+T13589T0012
+Yellow
+2
+5
+10
+15
+0.14
+0.34
+0.69
+1.0
+750
+1300
+1600
+2000
+20.1
+34.8
+42.9
+53.6
+1520
+2600
+3800
+4400
+40.7
+69.7
+102
+118
+2650
+4250
+6500
+8000
+71.0
+114
+174
+214
+5380
+7110
+8150
+6180
+144
+191
+218
+166
+5610
+7600
+8210
+10,770
+150
+204
+220
+289
+5790
+6620
+10,320
+9040
+155
+177
+277
+242
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+2300
+2600
+2970
+3700
+61.6
+69.7
+79.6
+99.2
+5100
+5800
+6600
+8200
+137
+155
+177
+220
+9500
+10,660
+10,410
+10,170
+255
+286
+279
+273
+6520
+6190
+7420
+12,030
+175
+166
+199
+322
+11,510
+10,920
+10,850
+10,310
+308
+293
+291
+276
+9510
+9850
+10,080
+10,170
+255
+264
+270
+273
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4400
+5100
+4850
+4600
+118
+137
+130
+123
+9700
+11,200
+4700
+2800
+260
+300
+126
+75.0
+11,170
+11,710
+4570
+3790
+299
+314
+122
+102
+12,160
+10,620
+3610
+3380
+326
+285
+96.7
+90.6
+10,430
+8230
+8000
+6400
+280
+221
+214
+172
+10,000
+10,200
+8500
+268
+273
+228
+125
+150
+175
+8.6
+10.3
+12.1
+4600
+4600
+5400
+123
+123
+145
+3200
+3640
+5050
+85.8
+97.5
+135
+4190
+4590
+7300
+112
+123
+196
+3440
+2400
+92.2
+64.3
+7 to 20 in. w.c. /
+17 to 50 mbar
+14 in. w.c. /
+35 mbar
+±2 in. w.c. /
+±5 mbar
+1N3112X0012
+Unpainted
+2
+5
+10
+15
+0.14
+0.34
+0.69
+1.0
+700
+1100
+1700
+1900
+18.8
+29.5
+45.6
+50.9
+1430
+2200
+3600
+4600
+38.3
+59.0
+96.5
+123
+2480
+4000
+6500
+8000
+66.5
+107
+174
+214
+5040
+7180
+8310
+7000
+135
+192
+223
+188
+6900
+7280
+9330
+11,940
+185
+195
+250
+320
+7050
+8860
+10,320
+9530
+189
+237
+277
+255
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+2150
+2400
+2740
+3400
+57.6
+64.3
+73.4
+91.1
+5300
+6000
+6740
+8200
+142
+161
+181
+220
+8500
+9000
+10,000
+10,900
+228
+241
+268
+292
+7410
+6900
+6500
+9220
+199
+185
+174
+247
+11,850
+11,330
+11,270
+10,820
+318
+304
+302
+290
+11,060
+11,080
+10,780
+11,220
+296
+297
+289
+301
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4250
+5100
+5250
+5400
+114
+137
+141
+145
+9700
+11,000
+5210
+4580
+260
+295
+140
+123
+10,210
+9650
+4060
+4410
+274
+259
+109
+118
+12,580
+11,750
+4970
+4970
+337
+315
+133
+133
+10,820
+8840
+8550
+6780
+290
+237
+229
+182
+10,450
+11,100
+9400
+280
+297
+252
+125
+150
+175
+8.6
+10.3
+12.1
+5400
+5900
+555
+145
+158
+149
+4400
+5020
+5200
+118
+135
+139
+5290
+6170
+6500
+142
+165
+174
+4330
+3130
+116
+83.9
+16 to 40 in. w.c. /
+40 to 99 mbar
+28 in. w.c. /
+70 mbar
+±4 in. w.c. /
+±10 mbar
+1B413727222
+Purple
+5
+10
+15
+20
+0.34
+0.69
+1.0
+1.4
+1200
+1600
+2000
+2300
+32.2
+42.9
+53.6
+61.6
+2400
+3700
+4400
+5100
+64.3
+99.2
+118
+137
+4000
+6500
+8000
+9250
+107
+174
+214
+248
+6010
+8130
+10,340
+11,980
+161
+218
+277
+321
+9210
+10,300
+13,020
+14,790
+247
+276
+349
+396
+9070
+10,650
+12,890
+13,170
+243
+285
+345
+353
+25
+30
+40
+50
+60
+1.7
+2.1
+2.8
+3.4
+4.1
+2600
+2800
+3200
+4100
+5000
+69.7
+75.0
+85.8
+110
+134
+5800
+6600
+8200
+9750
+11,100
+155
+177
+220
+261
+297
+10,500
+11,840
+14,060
+14,010
+14,040
+281
+317
+377
+375
+376
+12,390
+12,500
+13,350
+14,530
+13,440
+332
+335
+358
+389
+360
+14,570
+14,050
+13,290
+12,860
+13,020
+390
+377
+356
+345
+349
+14,180
+13,770
+14,110
+12,050
+10,950
+380
+369
+378
+323
+293
+80
+100
+125
+150
+175
+5.5
+6.9
+8.6
+10.3
+12.1
+6300
+7600
+9200
+10,700
+5510
+169
+204
+247
+287
+148
+5910
+5220
+5690
+7380
+5100
+158
+140
+152
+198
+137
+6140
+5420
+6010
+5970
+7250
+165
+145
+161
+160
+194
+9950
+7780
+8220
+4900
+267
+209
+220
+131
+8500
+6500
+228
+174
+10,200 273
+- Blank areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Downstream piping may affect actual capacity. It may be necessary to use enlarged downstream piping to obtain published capacities.
+Table 6. Types 299H and 299HR Flow Capacities (1) for 1-1/2 NPT Internal Registration
+18299H Series
+Table 6. Types 299H and 299HR Flow Capacities (1) for 1-1/2 NPT Internal Registration (continued)
+OUTLET PRESSURE
+RANGE SETTING,
+ACCURACY,
+SPRING PART NUMBER
+AND COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH / Nm 3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 1 / 25 1-3/16 / 30
+psig bar SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h
+1 to 3.25 psig /
+69 mbar to 0.22 bar
+2 psig / 0.14 bar
+±1% psia / bar
+T13593T0012
+Light Blue
+5
+10
+15
+20
+0.34
+0.69
+1.0
+1.4
+1020
+1550
+1920
+2240
+27.3
+41.5
+51.4
+60.0
+2100
+3340
+4360
+5150
+56.4
+89.5
+117
+138
+3640
+5840
+7580
+8960
+97.5
+157
+203
+240
+7020
+8990
+11,260
+12,950
+188
+241
+302
+347
+10,790
+12,180
+13,580
+13,630
+289
+326
+364
+365
+10,820
+11,180
+11,960
+12,750
+290
+300
+321
+342
+25
+30
+40
+50
+60
+1.7
+2.1
+2.8
+3.4
+4.1
+2570
+2890
+3530
+4180
+4820
+68.9
+77.4
+94.6
+112
+129
+5890
+6640
+8120
+9600
+10,890
+158
+178
+218
+257
+292
+10,250
+11,540
+14,120
+15,010
+15,740
+275
+309
+378
+402
+422
+13,090
+14,830
+13,500
+13,780
+14,050
+351
+397
+362
+369
+377
+13,890
+13,740
+13,470
+13,970
+14,080
+372
+368
+361
+374
+377
+13,370
+14,000
+15,250
+12,500
+12,300
+358
+375
+409
+335
+330
+80
+100
+125
+150
+175
+5.5
+6.9
+8.6
+10.3
+12.1
+6110
+7400
+8170
+8450
+7750
+164
+198
+219
+226
+208
+9000
+5200
+5040
+5870
+5250
+241
+139
+135
+157
+141
+12,230
+5200
+5200
+5200
+5730
+328
+139
+139
+139
+154
+11,100
+5200
+5200
+5600
+297
+139
+139
+150
+12,750
+6400
+342
+172
+10,500 281
+2.75 to 6 psig /
+0.19 to 0.41 bar
+5 psig / 0.34 bar
+±1% psia / bar
+T13671T0012
+Orange
+10
+15
+20
+25
+0.69
+1.0
+1.4
+1.7
+1390
+1870
+2240
+2570
+37.2
+50.1
+60.0
+68.9
+2910
+4190
+5090
+5890
+78.0
+112
+136
+158
+5050
+7280
+8850
+10,250
+135
+195
+237
+275
+8470
+11,290
+12,590
+13,210
+227
+303
+337
+354
+12,010
+14,300
+13,820
+14,500
+322
+383
+370
+389
+12,190
+12,400
+13,260
+14,310
+327
+332
+355
+384
+30
+40
+50
+60
+80
+2.1
+2.8
+3.4
+4.1
+5.5
+2890
+3530
+4180
+4820
+6110
+77.4
+94.6
+112
+129
+164
+6640
+8120
+9600
+11,090
+14,050
+178
+218
+257
+297
+377
+11,540
+14,120
+16,700
+16,290
+14,000
+309
+378
+448
+437
+375
+13,820
+15,060
+15,400
+15,750
+13,620
+370
+404
+413
+422
+365
+15,290
+15,650
+16,010
+16,370
+14,000
+410
+419
+429
+439
+375
+15,370
+16,630
+14,000
+13,250
+14,000
+412
+446
+375
+355
+375
+100
+125
+150
+175
+6.9
+8.6
+10.3
+12.1
+7400
+9020
+10,630
+6800
+198
+242
+285
+182
+17,020
+7690
+6330
+6050
+456
+206
+170
+162
+9020
+7690
+6360
+8200
+242
+206
+170
+220
+9610
+7890
+5500
+258
+211
+147
+14,000 375
+5 to 16 psig /
+0.34 to 1.1 bar
+10 psig / 0.69 bar
+±1% psia / bar
+T13600T0012
+Red
+15
+20
+25
+30
+1.0
+1.4
+1.7
+2.1
+1580
+2130
+2540
+2890
+42.3
+57.1
+68.1
+77.4
+3280
+4720
+5740
+6580
+87.9
+126
+154
+176
+5690
+8210
+9940
+11,440
+152
+220
+266
+307
+9930
+11,990
+13,400
+14,810
+266
+321
+359
+397
+13,230
+14,130
+15,990
+17,850
+355
+379
+429
+478
+13,570
+14,100
+15,870
+17,640
+364
+378
+425
+473
+40
+50
+60
+80
+2.8
+3.4
+4.1
+5.5
+3530
+4180
+4820
+6110
+94.6
+112
+129
+164
+8120
+9600
+11,090
+14,050
+218
+257
+297
+377
+14,120
+16,700
+17,200
+16,950
+378
+448
+461
+454
+17,640
+18,110
+18,580
+17,810
+473
+485
+498
+477
+18,630
+19,400
+20,170
+15,750
+499
+520
+541
+422
+18,920
+16,400
+16,600
+17,600
+507
+440
+445
+472
+100
+125
+150
+175
+6.9
+8.6
+10.3
+12.1
+7400
+9020
+6790
+6200
+198
+242
+182
+166
+17,020
+20,730
+6790
+5600
+456
+556
+182
+150
+15,350
+16,740
+6830
+5700
+411
+449
+183
+153
+15,900
+16,270
+5800
+426
+436
+155
+15,950 427
+5 to 16 psig /
+0.34 to 1.1 bar
+15 psig / 1.0 bar
+±1% psia / bar
+T13600T0012
+Red
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+1750
+2360
+2820
+3540
+46.9
+63.2
+75.6
+94.9
+3620
+5220
+6290
+8070
+97.0
+140
+169
+216
+6290
+9070
+10,940
+14,020
+169
+243
+293
+376
+11,380
+13,590
+15,810
+20,230
+305
+364
+424
+542
+114,450
+17,440
+20,430
+21,610
+3067
+467
+548
+579
+14,980
+17,430
+19,910
+21,220
+401
+467
+534
+569
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4180
+4820
+6110
+7400
+112
+129
+164
+198
+9600
+11,090
+14,050
+17,020
+257
+297
+377
+456
+16,700
+18,110
+19,910
+21,710
+448
+485
+534
+582
+20,820
+21,410
+22,000
+22,600
+558
+574
+590
+606
+22,800
+23,890
+19,500
+22,200
+611
+640
+523
+595
+20,500
+21,600
+19,900
+549
+579
+533
+125
+150
+175
+8.6
+10.3
+12.1
+9020
+10,630
+7400
+242
+285
+198
+20,730
+24,440
+6750
+556
+655
+181
+23,960
+26,210
+7100
+642
+702
+190
+23,190
+21,200
+621
+568
+14 to 35 psig /
+0.97 to 2.4 bar
+20 psig / 1.4 bar
+±1% psia / bar
+19B0432X012
+Zinc
+25
+30
+40
+50
+1.7
+2.1
+2.8
+3.4
+1920
+2580
+3480
+4180
+51.4
+69.1
+93.3
+112
+3930
+5690
+7830
+9550
+105
+152
+210
+256
+6840
+9870
+13,610
+16,610
+183
+265
+365
+445
+12,840
+15,200
+22,820
+20,950
+344
+407
+612
+561
+15,670
+20,740
+24,600
+23,620
+420
+556
+659
+633
+16,320
+20,760
+23,510
+22,200
+437
+556
+630
+595
+60
+80
+100
+4.1
+5.5
+6.9
+4820
+6110
+7400
+129
+164
+198
+11,090
+14,050
+17,020
+297
+377
+456
+18,080
+20,980
+23,680
+485
+562
+635
+23,330
+25,120
+26,930
+625
+673
+722
+26,120
+24,500
+26,200
+700
+657
+702
+25,000
+24,900
+670
+667
+125
+150
+175
+8.6
+10.3
+12.1
+9020
+10,630
+7500
+242
+285
+201
+20,730
+24,440
+8200
+556
+655
+220
+26,980
+30,280
+8600
+723
+812
+230
+28,020
+21,600
+751
+579
+- Blank areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Downstream piping may affect actual capacity. It may be necessary to use enlarged downstream piping to obtain published capacities.
+- continued -
+19299H Series
+Table 6. Types 299H and 299HR Flow Capacities (1) for 1-1/2 NPT Internal Registration (continued)
+OUTLET PRESSURE
+RANGE SETTING,
+ACCURACY,
+SPRING PART NUMBER
+AND COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH / Nm3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 1 / 25 1-3/16 / 30
+psig bar SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h
+14 to 35 psig /
+0.97 to 2.4 bar
+25 psig / 1.7 bar
+±1% psia / bar
+19B0432X012
+Zinc
+30
+40
+50
+60
+2.1
+2.8
+3.4
+4.1
+2070
+3320
+4140
+4830
+55.5
+89.0
+111
+129
+4230
+7350
+9340
+11,030
+113
+197
+250
+296
+7360
+12,780
+16,250
+18,050
+197
+343
+436
+484
+14,300
+16,810
+21,090
+25,240
+383
+451
+565
+676
+16,880
+24,040
+24,430
+28,260
+452
+644
+655
+757
+17,700
+24,090
+23,500
+27,400
+474
+646
+630
+734
+80
+100
+125
+150
+175
+5.5
+6.9
+8.6
+10.3
+12.1
+6110
+7400
+9020
+10,630
+10,200
+164
+198
+242
+285
+273
+14,050
+17,020
+20,730
+24,440
+25,200
+377
+456
+556
+655
+675
+22,050
+25,650
+30,000
+34,360
+7900
+591
+687
+804
+921
+212
+28,250
+31,260
+32,840
+27,000
+757
+838
+880
+724
+30,200
+27,000
+809
+724
+28,500 764
+14 to 35 psig /
+0.97 to 2.4 bar
+30 psig / 2.1 bar
+±1% psia / bar
+19B0432X012
+Zinc
+40
+50
+60
+80
+2.8
+3.4
+4.1
+5.5
+2980
+4020
+4800
+6110
+79.9
+108
+129
+164
+6520
+8950
+10,850
+14,050
+175
+240
+291
+377
+11,330
+15,560
+18,020
+23,130
+304
+417
+483
+620
+15,750
+21,220
+27,150
+31,370
+422
+569
+728
+841
+18,100
+25,240
+30,390
+30,500
+485
+676
+814
+817
+19,080
+22,500
+28,000
+32,300
+511
+603
+750
+866
+100
+125
+150
+175
+6.9
+8.6
+10.3
+12.1
+7400
+9020
+10,630
+10,600
+198
+242
+285
+284
+17,020
+20,730
+24,440
+24,500
+456
+556
+655
+657
+27,630
+33,030
+38,430
+31,500
+740
+885
+1030
+844
+35,690
+37,670
+32,000
+956
+1010
+858
+32,500 871
+14 to 35 psig /
+0.97 to 2.4 bar
+35 psig / 2.4 bar
+±1% psia / bar
+19B0432X012
+Zinc
+40
+50
+60
+80
+2.8
+3.4
+4.1
+5.5
+2350
+3770
+4700
+6120
+63.0
+101
+126
+164
+4790
+8300
+10,510
+14,000
+128
+222
+282
+375
+8330
+14,430
+18,270
+24,350
+223
+387
+490
+653
+13,640
+21,350
+29,060
+34,490
+366
+572
+779
+924
+19,570
+26,060
+32,530
+34,500
+524
+698
+872
+925
+20,850
+22,000
+29,000
+33,600
+559
+590
+777
+900
+100
+125
+150
+175
+6.9
+8.6
+10.3
+12.1
+7400
+9020
+10,630
+10,900
+198
+242
+285
+292
+17,020
+20,730
+24,440
+24,800
+456
+556
+655
+665
+29,600
+36,050
+42,500
+37,000
+793
+966
+1139
+992
+39,920
+42,500
+32,100
+1070
+1139
+860
+38,200 1024
+30 to 60 psig /
+2.1 to 4.1 bar
+40 psig / 2.8 bar
+±1% psia / bar
+19B0432X022
+Green
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+2400
+3470
+5600
+6400
+64.3
+93.0
+150
+172
+6000
+8000
+12,000
+14,500
+161
+214
+322
+389
+10,000
+13,670
+21,000
+27,000
+268
+366
+563
+724
+14,000
+22,000
+38,000
+38,000
+375
+590
+1018
+1018
+20,000
+26,000
+30,000
+34,000
+536
+697
+804
+911
+20,000
+22,667
+28,000
+536
+607
+750
+125
+150
+175
+8.6
+10.3
+12.1
+7600
+9500
+11,400
+204
+255
+306
+19,500
+22,750
+26,000
+523
+610
+697
+33,000
+37,000
+41,000
+884
+992
+1099
+38,000
+42,000
+1018
+1126
+30 to 60 psig /
+2.1 to 4.1 bar
+50 psig / 3.4 bar
+±1% psia / bar
+19B0432X022
+Green
+60
+80
+100
+4.1
+5.5
+6.9
+3000
+5250
+6750
+80.4
+141
+181
+6500
+10,750
+15,000
+174
+288
+402
+9500
+17,750
+26,000
+255
+476
+697
+16,250
+28,750
+41,250
+436
+771
+1106
+22,500
+31,250
+40,000
+603
+838
+1072
+25,000
+32,500
+670
+871
+125
+150
+175
+8.6
+10.3
+12.1
+8250
+9500
+10,750
+221
+255
+288
+17,500
+21,750
+26,000
+469
+583
+697
+32,500
+37,750
+43,000
+871
+1012
+1152
+43,750
+46,250
+1173
+1240
+30 to 60 psig /
+2.1 to 4.1 bar
+60 psig / 4.1 bar
+±1% psia / bar
+19B0432X022
+Green
+80
+100
+125
+5.5
+6.9
+8.6
+2750
+2750
+3250
+73.7
+73.7
+87.1
+7200
+10,600
+3000
+193
+284
+80.4
+13,000
+15,500
+22,000
+348
+415
+590
+18,750
+25,000
+46,250
+503
+670
+1240
+27,500
+40,000
+737
+1072
+32,500 871
+150
+175
+10.3
+12.1
+3130
+3000
+83.9
+80.4
+2900
+2800
+77.7
+75.0
+18,000
+14,000
+482
+375
+11,250 302
+- Blank areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Downstream piping may affect actual capacity. It may be necessary to use enlarged downstream piping to obtain published capacities.
+- continued -
+20299H Series
+Table 7. Types 299H and 299HR Flow Capacities (1) for NPS 2 / DN 50 Internal Registration
+OUTLET PRESSURE
+RANGE SETTING,
+ACCURACY,
+SPRING PART NUMBER
+AND COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH / Nm 3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 1 / 25 1-3/16 / 30
+psig bar SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h
+3.5 to 6 in. w.c. /
+9 to 15 mbar
+3.5 in. w.c. / 9 mbar
+-1 to 2 in. w.c. /
+-2 to 5 mbar
+T13707T0012
+Black
+2
+5
+10
+15
+0.14
+0.34
+0.69
+1.0
+760
+1200
+1700
+2000
+20.4
+32.2
+45.6
+53.6
+1560
+2600
+3800
+4600
+41.8
+69.7
+102
+123
+2700
+4500
+6500
+8000
+72.4
+121
+174
+214
+4050
+8600
+9500
+10,600
+109
+230
+255
+284
+5740
+11,500
+14,750
+18,000
+154
+308
+395
+482
+6350
+12,000
+17,000
+15,500
+170
+322
+456
+415
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+2350
+2700
+3030
+3700
+63.0
+72.4
+81.2
+99.2
+5300
+6000
+6730
+8200
+142
+161
+180
+220
+9250
+10,500
+11,500
+13,500
+248
+281
+308
+362
+11,400
+12,200
+14,630
+19,500
+306
+327
+392
+523
+19,700
+20,400
+21,100
+20,400
+528
+547
+565
+547
+16,000
+17,300
+18,600
+21,800
+429
+464
+498
+584
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4400
+5100
+4700
+4300
+118
+137
+126
+115
+9700
+11,200
+7500
+3800
+260
+300
+201
+102
+17,000
+20,500
+12,750
+5000
+456
+549
+342
+134
+20,000
+20,500
+19,600
+18,700
+536
+549
+525
+501
+19,700
+14,833
+5100
+3500
+528
+398
+137
+93.8
+25,000
+12,500
+12,000
+670
+335
+322
+125
+150
+175
+8.6
+10.3
+12.1
+4300
+4300
+4300
+115
+115
+115
+4000
+4000
+4000
+107
+107
+107
+5500
+6000
+6500
+147
+161
+174
+11,150
+3600
+299
+96.5
+5 to 9 in. w.c. /
+12 to 22 mbar
+7 in. w.c. / 17 mbar
+-1 to 2 in. w.c. /
+-2 to 5 mbar
+T13589T0012
+Yellow
+2
+5
+10
+15
+0.14
+0.34
+0.69
+1.0
+750
+1300
+1600
+2000
+20.1
+34.8
+42.9
+53.6
+1520
+2600
+3800
+4400
+40.7
+69.7
+102
+118
+2650
+4250
+6500
+8000
+71.0
+114
+174
+214
+5380
+8500
+12,500
+10,500
+144
+228
+335
+281
+6260
+10,500
+14,350
+18,200
+168
+281
+385
+488
+6680
+10,000
+17,000
+16,000
+179
+268
+456
+429
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+2300
+2600
+2970
+3700
+61.6
+69.7
+79.6
+99.2
+5100
+5800
+6600
+8200
+137
+155
+177
+220
+9500
+11,000
+11,170
+11,500
+255
+295
+299
+308
+11,500
+12,500
+16,830
+25,500
+308
+335
+451
+683
+20,600
+20,500
+20,400
+20,200
+552
+549
+547
+541
+16,000
+17,750
+19,500
+20,200
+429
+476
+523
+541
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4400
+5100
+4850
+4600
+118
+137
+130
+123
+9700
+11,200
+7350
+3500
+260
+300
+197
+93.8
+15,750
+20,000
+12,380
+4750
+422
+536
+332
+127
+22,500
+19,500
+4500
+4500
+603
+523
+121
+121
+20,000
+14,800
+4400
+2800
+536
+397
+118
+75.0
+20,900
+12,500
+12,500
+560
+335
+335
+125
+150
+175
+8.6
+10.3
+12.1
+4600
+4600
+4600
+123
+123
+123
+4000
+4560
+5120
+107
+122
+137
+5250
+5750
+6500
+141
+154
+174
+4500
+4500
+121
+121
+7 to 20 in. w.c. /
+17 to 50 mbar
+14 in. w.c. / 35 mbar
+±2 in. w.c. / ±5 mbar
+1N3112X0012
+Unpainted
+2
+5
+10
+15
+0.14
+0.34
+0.69
+1.0
+700
+1100
+1700
+1900
+18.8
+29.5
+45.6
+50.9
+1430
+2200
+3600
+4600
+38.3
+59.0
+96.5
+123
+2480
+4000
+6500
+8000
+66.5
+107
+174
+214
+5040
+8500
+12,500
+11,500
+135
+228
+335
+308
+7440
+11,800
+15,850
+19,900
+199
+316
+425
+533
+8460
+12,400
+17,000
+17,000
+227
+332
+456
+456
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+2150
+2400
+2740
+3400
+57.6
+64.3
+73.4
+91.1
+5300
+6000
+6740
+8200
+142
+161
+181
+220
+8500
+9000
+10,000
+12,000
+228
+241
+268
+322
+12,500
+13,250
+14,000
+19,500
+335
+355
+375
+523
+21,000
+21,150
+21,300
+21,150
+563
+567
+571
+567
+19,100
+19,750
+20,400
+21,650
+512
+529
+547
+580
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4250
+5100
+5250
+5400
+114
+137
+141
+145
+9700
+11,200
+8200
+5200
+260
+300
+220
+139
+13,500
+15,000
+10,000
+5000
+362
+402
+268
+134
+25,000
+22,050
+5620
+6000
+670
+591
+151
+161
+21,000
+16,330
+7000
+8300
+563
+438
+188
+222
+22,900
+14,100
+12,400
+614
+378
+332
+125
+150
+175
+8.6
+10.3
+12.1
+5400
+5900
+6400
+145
+158
+172
+5000
+5700
+6400
+134
+153
+172
+6000
+7000
+7000
+161
+188
+188
+6000
+6000
+161
+161
+16 to 40 in. w.c. /
+40 to 99 mbar
+28 in. w.c. / 70 mbar
+±4 in. w.c. / ±10 mbar
+1B413727222
+Purple
+5
+10
+15
+20
+0.34
+0.69
+1.0
+1.4
+1200
+1600
+2000
+2300
+32.2
+42.9
+53.6
+61.6
+2400
+3700
+4400
+5100
+64.3
+99.2
+118
+137
+4000
+6500
+8000
+9250
+107
+174
+214
+248
+7500
+11,750
+16,000
+19,000
+201
+315
+429
+509
+9500
+14,850
+20,200
+24,500
+255
+398
+541
+657
+11,400
+16,850
+22,300
+21,800
+306
+452
+598
+584
+25
+30
+40
+50
+60
+1.7
+2.1
+2.8
+3.4
+4.1
+2600
+2800
+3200
+4100
+5000
+69.7
+75.0
+85.8
+110
+134
+5800
+6600
+8200
+9750
+11,300
+155
+177
+220
+261
+303
+10,500
+11,830
+14,500
+16,500
+18,500
+281
+317
+389
+442
+496
+21,750
+24,500
+26,750
+29,000
+24,170
+583
+657
+717
+777
+648
+25,600
+25,230
+24,500
+24,000
+23,500
+686
+676
+657
+643
+630
+23,900
+24,130
+24,600
+26,000
+27,200
+641
+647
+659
+697
+729
+80
+100
+125
+150
+175
+5.5
+6.9
+8.6
+10.3
+12.1
+6300
+7600
+9200
+10,700
+12,200
+169
+204
+247
+287
+327
+9150
+7000
+7000
+9300
+11,600
+245
+188
+188
+249
+311
+12,880
+7250
+7380
+7500
+15,250
+345
+194
+198
+201
+409
+14,500
+14,500
+14,500
+15,500
+389
+389
+389
+415
+24,500
+22,400
+657
+600
+30,000 804
+- Blank areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Downstream piping may affect actual capacity. It may be necessary to use enlarged downstream piping to obtain published capacities.
+21299H Series
+Table 7. Types 299H and 299HR Flow Capacities (1) for NPS 2 / DN 50 Internal Registration (continued)
+OUTLET PRESSURE
+RANGE SETTING,
+ACCURACY,
+SPRING PART NUMBER
+AND COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH / Nm 3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 1 / 25 1-3/16 / 30
+psig bar SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h
+1 to 3.25 psig /
+69 bar to 0.22 bar
+2 psig / 0.14 bar
+± 1% psia / bar
+T13593T0012
+Light Blue
+5
+10
+15
+0.34
+0.69
+1.0
+1020
+1550
+1920
+27.3
+41.5
+51.4
+2100
+3340
+4360
+56.4
+89.5
+117
+3640
+5840
+7580
+97.5
+157
+203
+7440
+12,040
+15,990
+199
+323
+429
+10,980
+15,460
+20,900
+294
+414
+560
+13,800
+17,710
+20,670
+370
+475
+554
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+2240
+2670
+2890
+3530
+60.0
+71.5
+77.4
+94.6
+5150
+5890
+6640
+8120
+138
+158
+178
+218
+8960
+10,250
+11,540
+14,120
+240
+275
+309
+378
+19,250
+22,030
+27,800
+27,070
+516
+590
+745
+725
+22,470
+24,000
+24,860
+25,640
+602
+643
+666
+687
+21,620
+22,410
+24,170
+26,160
+579
+601
+648
+701
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4180
+4820
+6110
+7400
+112
+129
+164
+198
+9600
+11,090
+14,050
+17,020
+257
+297
+377
+456
+16,700
+19,280
+24,440
+29,840
+448
+517
+655
+800
+28,970
+25,770
+25,500
+14,260
+776
+691
+683
+382
+26,390
+26,000
+12,800
+28,300
+707
+697
+343
+758
+26,900
+29,000
+30,000
+721
+777
+804
+125
+150
+175
+8.6
+10.3
+12.1
+8170
+8450
+12,400
+219
+226
+332
+12,360
+13,750
+7100
+331
+369
+190
+17,520
+18,580
+20,000
+470
+498
+536
+13,260
+17,000
+355
+456
+2.75 to 6 psig /
+0.19 to 0.41 bar
+5 psig / 0.34 bar
+±1 % psig / bar
+T13671T0012
+Orange
+10
+15
+0.69
+1.0
+1390
+1870
+37.2
+50.1
+2910
+4190
+78.0
+112
+5050
+7280
+135
+195
+10,350
+15,150
+277
+406
+13,200
+21,850
+354
+586
+16,070
+21,370
+431
+573
+20
+25
+30
+40
+1.4
+1.7
+2.1
+2.8
+2240
+2570
+2890
+3530
+60.0
+68.9
+77.4
+94.6
+5090
+5890
+6640
+8120
+136
+158
+178
+218
+8850
+10,250
+11,540
+14,120
+237
+275
+309
+378
+18,640
+21,260
+24,340
+27,670
+500
+570
+652
+742
+21,350
+24,540
+26,500
+28,300
+572
+658
+710
+758
+21,390
+22,740
+25,870
+28,930
+573
+609
+693
+775
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4180
+4820
+6110
+7400
+112
+129
+164
+198
+9600
+11,090
+14,050
+17,020
+257
+297
+377
+456
+16,700
+19,280
+24,440
+29,600
+448
+517
+655
+793
+30,570
+29,390
+31,410
+22,150
+819
+788
+842
+594
+29,870
+30,390
+28,000
+32,000
+801
+814
+750
+858
+30,000
+31,000
+34,000
+804
+831
+911
+125
+150
+175
+8.6
+10.3
+12.1
+9020
+10,630
+11,800
+242
+285
+316
+20,730
+17,170
+15,400
+556
+460
+413
+36,050
+26,560
+21,500
+966
+712
+576
+21,590
+17,000
+579
+456
+5 to 16 psig /
+0.34 to 1.1 bar
+10 psig / 0.69 bar
+± 1% psia / bar
+T13600T0012
+Red
+15
+20
+25
+30
+40
+1.0
+1.4
+1.7
+2.1
+2.8
+1580
+2130
+2540
+2890
+3530
+42.3
+57.1
+68.1
+77.4
+94.6
+3280
+4720
+5740
+6580
+8120
+87.9
+126
+154
+176
+218
+5690
+8210
+9940
+11,440
+14,120
+152
+220
+266
+307
+378
+11,640
+17,000
+20,790
+24,150
+28,660
+312
+456
+557
+647
+768
+15,420
+19,500
+25,440
+29,250
+32,780
+413
+523
+682
+784
+879
+18,340
+21,000
+23,290
+28,700
+33,540
+492
+563
+624
+769
+899
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+4180
+4820
+6110
+7400
+112
+129
+164
+198
+9600
+11,090
+14,050
+17,020
+257
+297
+377
+456
+16,700
+19,280
+24,440
+29,600
+448
+517
+655
+793
+33,230
+35,410
+41,270
+35,310
+891
+949
+1106
+946
+35,680
+37,700
+38,000
+35,000
+956
+1010
+1018
+938
+33,100
+33,100
+37,000
+887
+887
+992
+125
+150
+175
+8.6
+10.3
+12.1
+9020
+10,630
+11,200
+242
+285
+300
+20,730
+20,590
+18,100
+556
+552
+485
+36,050
+34,530
+25,000
+966
+925
+670
+35,740
+22,000
+958
+590
+5 to 16 psig /
+0.34 to 1.1 bar
+15 psig / 10 bar
+± 1% psia / bar
+T13600T0012
+Red
+20
+25
+30
+40
+50
+60
+1.4
+1.7
+2.1
+2.8
+3.4
+4.1
+1750
+2360
+2820
+3540
+4180
+4820
+46.9
+63.2
+75.6
+94.9
+112
+129
+3620
+5220
+6290
+8070
+9600
+11,090
+97.0
+140
+169
+216
+257
+297
+6290
+9070
+10,940
+14,020
+16,700
+19,280
+169
+243
+293
+376
+448
+517
+12,830
+18,700
+22,790
+29,650
+35,890
+41,440
+344
+501
+611
+795
+962
+1111
+17,640
+26,350
+31,990
+37,270
+41,490
+45,020
+473
+706
+857
+999
+1112
+1207
+20,640
+23,850
+31,540
+38,150
+43,000
+39,000
+553
+639
+845
+1022
+1152
+1045
+80
+100
+125
+150
+175
+5.5
+6.9
+8.6
+10.3
+12.1
+6110
+7400
+9020
+10,630
+11,800
+164
+198
+242
+285
+316
+14,050
+17,020
+20,730
+24,440
+27,400
+377
+456
+556
+655
+734
+24,440
+29,600
+36,050
+42,500
+48,000
+655
+793
+966
+1139
+1286
+51,120
+48,470
+49,780
+60,000
+1370
+1299
+1334
+1608
+49,000
+46,000
+1313
+1233
+43,000 1152
+14 to 35 psig /
+0.97 to 2.4 bar
+20 psig / 14 bar
+± 1% psia / bar
+19B0432X012
+Zinc
+25
+30
+40
+50
+60
+1.7
+2.1
+2.8
+3.4
+4.1
+1920
+2580
+3480
+4180
+4820
+51.4
+69.1
+93.3
+112
+129
+3930
+5680
+7830
+9550
+11,090
+105
+152
+210
+256
+297
+6840
+9870
+13,610
+16,610
+19,280
+183
+265
+365
+445
+517
+13,930
+20,280
+28,440
+35,140
+41,440
+373
+544
+762
+942
+1111
+20,800
+30,630
+33,040
+41,800
+47,530
+557
+821
+885
+1120
+1274
+21,940
+32,630
+35,700
+40,520
+40,520
+588
+874
+957
+1086
+1086
+80
+100
+125
+150
+175
+5.5
+6.9
+8.6
+10.3
+12.1
+6110
+7400
+9020
+10,630
+11,600
+164
+198
+242
+285
+311
+14,050
+17,020
+20,730
+24,440
+26,300
+377
+456
+556
+655
+705
+24,440
+29,600
+36,050
+42,500
+47,000
+655
+793
+966
+1139
+1260
+51,240
+52,260
+56,710
+65,000
+1373
+1401
+1520
+1742
+41,800
+41,800
+1120
+1120
+41,000 1099
+- Blank areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Downstream piping may affect actual capacity. It may be necessary to use enlarged downstream piping to obtain published capacities.
+- continued -
+22299H Series
+Table 7. Types 299H and 299HR Flow Capacities (1) for NPS 2 / DN 50 Internal Registration (continued)
+OUTLET PRESSURE
+RANGE SETTING,
+ACCURACY,
+SPRING PART NUMBER
+AND COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH / Nm3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 1 / 25 1-3/16 / 30
+psig bar SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h
+14 to 35 psig /
+0.97 to 2.4 bar
+25 psig / 1.7 bar
+±1% psia / bar
+19B0432X012
+Zinc
+30
+40
+50
+60
+2.1
+2.8
+3.4
+4.1
+2070
+3320
+4140
+4830
+55.5
+89.0
+111
+129
+4230
+7350
+9340
+11,030
+113
+197
+250
+296
+7360
+12,780
+16,250
+19,190
+197
+343
+436
+514
+14,980
+23,420
+34,040
+40,630
+401
+628
+912
+1089
+22,310
+40,220
+42,110
+50,050
+598
+1078
+1129
+1341
+23,270
+33,260
+50,000
+54,000
+624
+891
+1340
+1447
+80
+100
+125
+150
+175
+5.5
+6.9
+8.6
+10.3
+12.1
+6110
+7400
+9020
+10,630
+11,000
+164
+198
+242
+285
+295
+14,050
+17,020
+20,730
+24,440
+26,500
+377
+456
+556
+655
+710
+24,440
+29,600
+36,050
+42,500
+46,000
+655
+793
+966
+1139
+1233
+51,360
+56,050
+63,640
+77,000
+1376
+1502
+1706
+2064
+62,000
+60,000
+1662
+1608
+60,000 1608
+14 to 35 psig /
+0.97 to 2.4 bar
+30 psig / 2.1 bar
+±1% psia / bar
+19B0432X012
+Zinc
+40
+50
+60
+80
+2.8
+3.4
+4.1
+5.5
+2980
+4020
+4800
+6110
+79.9
+108
+129
+164
+6520
+8950
+10,850
+14,050
+175
+240
+291
+377
+11,330
+15,560
+18,870
+24,440
+304
+417
+506
+655
+23,190
+32,300
+39,600
+51,480
+621
+866
+1061
+1380
+24,580
+42,430
+52,560
+72,000
+659
+1137
+1409
+1930
+30,810
+50,000
+54,000
+72,000
+826
+1340
+1447
+1930
+100
+125
+150
+175
+6.9
+8.6
+10.3
+12.1
+7400
+9020
+10,630
+10,200
+198
+242
+285
+273
+17,020
+20,730
+24,440
+25,000
+456
+556
+655
+670
+29,600
+36,050
+42,500
+48,000
+793
+966
+1139
+1286
+59,840
+70,570
+84,000
+1604
+1891
+2251
+76,000 2037
+14 to 35 psig /
+0.97 to 2.4 bar
+35 psig / 2.4 bar
+±1% psia / bar
+19B0432X012
+Zinc
+40
+50
+60
+80
+2.8
+3.4
+4.1
+5.5
+2350
+3770
+4700
+6120
+63.0
+101
+126
+164
+4790
+8300
+10,510
+14,000
+128
+222
+282
+375
+8330
+14,430
+18,270
+24,350
+223
+387
+490
+653
+16,920
+29,690
+38,050
+51,600
+453
+796
+1020
+1383
+20,350
+42,740
+55,080
+70,000
+545
+1145
+1476
+1876
+28,360
+48,000
+60,000
+74,000
+760
+1286
+1608
+1983
+100
+125
+150
+175
+6.9
+8.6
+10.3
+12.1
+7400
+9020
+10,630
+11,200
+198
+242
+285
+300
+17,020
+20,730
+24,440
+25,500
+456
+556
+655
+683
+29,600
+36,050
+42,500
+49,000
+793
+966
+1139
+1313
+63,630
+77,500
+87,000
+1705
+2077
+2332
+76,000 2037
+30 to 60 psig /
+2.1 to 4.1 bar
+40 psig / 2.8 bar
+±1% psia / bar
+19B0432X022
+Green
+50
+60
+80
+100
+3.4
+4.1
+5.5
+6.9
+1600
+2800
+5200
+7600
+42.9
+75.0
+139
+204
+6500
+8170
+11,500
+13,500
+174
+219
+308
+362
+9000
+17,000
+23,000
+29,000
+241
+456
+616
+777
+20,000
+33,000
+48,000
+31,000
+536
+884
+1286
+831
+28,000
+48,000
+66,000
+76,000
+750
+1286
+1769
+2037
+34,000
+52,000
+68,000
+911
+1394
+1822
+125
+150
+175
+8.6
+10.3
+12.1
+8200
+9800
+11,400
+220
+263
+306
+19,000
+22,750
+26,500
+509
+610
+710
+35,000
+42,000
+47,000
+938
+1126
+1260
+76,000
+91,000
+2037
+2439
+30 to 60 psig /
+2.1 to 4.1 bar
+50 psig / 3.4 bar
+±1% psia / bar
+19B0432X022
+Green
+60
+80
+100
+4.1
+5.5
+6.9
+3400
+5800
+6200
+91.1
+155
+166
+7000
+11,000
+15,000
+188
+295
+402
+10,000
+21,000
+26,000
+268
+563
+697
+21,000
+45,000
+59,000
+563
+1206
+1581
+32,000
+69,000
+88,000
+858
+1849
+2358
+45,000
+74,000
+1206
+1983
+125
+150
+175
+8.6
+10.3
+12.1
+8400
+9600
+10,800
+225
+257
+289
+19,500
+23,000
+26,500
+523
+616
+710
+35,000
+42,000
+49,000
+938
+1126
+1313
+77,000
+89,000
+2064
+2385
+30 to 60 psig /
+2.1 to 4.1 bar
+60 psig / 4.1 bar
+±1% psia / bar
+19B0432X022
+Green
+80
+100
+125
+5.5
+6.9
+8.6
+2800
+3600
+2800
+75.0
+96.5
+75.0
+3500
+9500
+15,000
+93.8
+255
+402
+17,000
+23,000
+22,000
+456
+616
+590
+36,000
+50,000
+69,000
+965
+1340
+1849
+52,000
+64,000
+90,000
+1394
+1715
+2412
+53,000 1420
+150
+175
+10.3
+12.1
+4600
+6400
+123
+172
+11,000
+7000
+295
+188
+18,000
+18,000
+482
+482
+89,000 2385
+- Blank areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Downstream piping may affect actual capacity. It may be necessary to use enlarged downstream piping to obtain published capacities.
+23299H Series
+Table 8. Types 299HV and 299HVR Flow Capacities(1)(2) for 1-1/2 NPT and NPS 2 / DN 50 External/Dual Registration
+OUTLET PRESSURE
+RANGE SETTING,
+CONTROL, SPRING
+PART NUMBER AND
+COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH/ Nm 3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 7/8 / 22 1 / 25 1-3/16 / 30
+psig bar SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm3 /h SCFH Nm 3 /h
+3.5 to 6 in. w.c. /
+9 to 15 mbar
+3.5 in. w.c. / 9 mbar
+-1 to 2 in. w.c. /
+-2 to 5 mbar
+T13707T0012
+Black
+2 0.14 750 20.1 1540 41.3 1960 52.5 4750 127
+5 0.34 1150 30.8 2440 65.4 3230 86.6 7760 208 10,540 282 11,394 305 11,663 313
+10 0.69 1580 42.3 3570 95.7 4970 133 11,660 312 15,614 418 18,162 487 18,972 508
+15 1.0 1910 51.2 4400 118 6890 185 15,890 426 20,165 540 23,540 631 24,661 661
+20 1.4 2230 59.8 5140 138 8050 216 18,570 498 23,993 643 28,127 754 31,438 843
+25 1.7 2560 68.6 5880 158 9210 247 21,250 570 27,706 743 32,707 877 35,350 947
+30 2.1 2880 77.2 6630 178 10,370 278 23,930 641 31,108 834 38,218 1024 37,940 1017
+40 2.8 3520 94.3 8110 217 12,700 340 29,280 785 39,427 1057 46,259 1240 45,493 1219
+50 3.4 4170 112 9590 257 15,020 403 34,630 928 45,661 1224 48,253 1293 50,019 1341
+60 4.1 4810 129 11,080 297 17,340 465 39,990 1072 53,494 1434 53,859 1443 54,666 1465
+80 5.5 6100 163 14,040 376 21,980 589 50,690 1358 67,139 1799
+100 6.9 7390 198 17,010 456 26,630 714 61,400 1646
+125 8.6 9010 241 20,720 555 32,430 869 74,780 2004
+150 10.3 10,620 285 24,430 655 38,240 1025 88,170 2363
+175 12.1 12,230 328 28,140 754 44,040 1180
+5 to 9 in. w.c. /
+12 to 22 mbar
+7 in. w.c. / 17 mbar
+-1 to 2 in. w.c. /
+-2 to 5 mbar
+T13589T0012
+Yellow
+2 0.14 730 19.6 1490 39.9 1900 50.9 4610 124
+5 0.34 1150 30.8 2420 64.9 3190 85.5 7690 206 10,393 279 11,742 315 11,620 311
+10 0.69 1580 42.3 3570 95.7 4950 133 11,620 311 15,259 409 17,369 465 18,967 508
+15 1.0 1910 51.2 4400 118 6890 185 15,890 426 20,561 551 23,554 631 25,175 675
+20 1.4 2230 59.8 5140 138 8050 216 18,570 498 23,562 631 28,285 758 31,321 839
+25 1.7 2560 68.6 5880 158 9210 247 21,250 570 27,267 731 31,977 857 37,818 1014
+30 2.1 2880 77.2 6630 178 10,370 278 23,930 641 30,848 827 37,113 995 38,935 1043
+40 2.8 3520 94.3 8110 217 12,700 340 29,280 785 38,318 1027 44,341 1188 47,918 1284
+50 3.4 4170 112 9590 257 15,020 403 34,630 928 47,466 1272 53,890 1444 56,081 1503
+60 4.1 4810 129 11,080 297 17,340 465 39,990 1072 53,039 1421 60,622 1625
+80 5.5 6100 163 14,040 376 21,980 589 50,690 1358 66,483 1782
+100 6.9 7390 198 17,010 456 26,630 714 61,400 1646
+125 8.6 9010 241 20,720 555 32,430 869 74,780 2004
+150 10.3 10,620 285 24,430 655 38,240 1025 88,170 2363
+175 12.1 12,230 328 28,140 754 44,040 1180
+7 to 20 in. w.c. /
+17 to 50 mbar
+14 in. w.c. /
+35 mbar
+±2 in. w.c. / ±5 mbar
+1N3112X0012
+Unpainted
+2 0.14 690 18.5 1410 37.8 1790 48 4340 116
+5 0.34 1130 30.3 2390 64.1 3130 83.9 7550 202 9764 262 11,452 307 12,284 329
+10 0.69 1570 42.1 3550 95.1 4920 132 11,540 309 15,138 406 18,218 488 20,569 551
+15 1.0 1910 51.2 4400 118 6890 185 15,890 426 19,519 523 23,109 619 27,205 729
+20 1.4 2230 59.8 5140 138 8050 216 18,570 498 23,646 634 27,901 748 33,170 889
+25 1.7 2560 68.6 5880 158 9210 244 21,250 570 27,241 730 33,164 889 40,850 1095
+30 2.1 2880 77.2 6630 178 10,370 278 23,930 641 30,997 831 36,623 981 44,658 1197
+40 2.8 3520 94.3 8110 217 12,700 340 29,280 785 39,939 1070 45,847 1229 56,561 1516
+50 3.4 4170 112 9590 257 15,020 403 34,630 928 47,469 1272 54,427 1459 66,341 1778
+60 4.1 4810 129 11,080 297 17,340 465 39,990 1072 52,312 1402 62,894 1686
+80 5.5 6100 163 14,040 376 21,980 589 50,690 1358 68,196 1828 80,319 2153
+100 6.9 7390 198 17,010 456 26,630 714 61,400 1646 81,232 2177
+125 8.6 9010 241 20,720 555 32,430 869 74,780 2004
+150 10.3 10,620 285 24,430 655 38,240 1025 88,170 2363
+175 12.1 12,230 328 28,140 754 44,040 1180
+16 to 40 in. w.c. /
+40 to 99 mbar
+28 in. w.c. /
+70 mbar
+±4 in. w.c. / ±10 mbar
+1B413727222
+Purple
+5 0.34 1100 29.5 2310 61.9 3010 80.7 7260 195
+10 0.69 1560 41.8 3420 91.7 4680 125 11,180 300 15,468 415 8194 220 17,680 474
+15 1.0 1910 51.2 4400 118 6890 185 14,680 393 20,472 549 17,151 460 24,885 667
+20 1.4 2230 59.8 5140 138 8050 216 18,570 498 23,136 620 24,103 646 32,028 858
+25 1.7 2560 68.6 5880 158 9210 247 21,250 570 27,228 730 27,654 741 36,731 984
+30 2.1 2880 77.2 6630 178 10,370 278 23,930 641 31,435 842 32,859 881 43,473 1165
+40 2.8 3520 94.3 8110 217 12,700 340 29,280 785 39,248 1052 38,539 1033 53,601 1437
+50 3.4 4170 112 9590 257 15,020 403 34,630 928 47,246 1266 46,734 1252 62,712 1681
+60 4.1 4810 129 11,080 297 17,340 465 39,990 1072 53,504 1434 56,788 1522
+80 5.5 6100 163 14,040 376 21,980 589 50,690 1358 68,415 1834 64,452 1727
+100 6.9 7390 198 17,010 456 26,630 714 61,400 1646 84,001 2251
+125 8.6 9010 241 20,720 555 32,430 869 74,780 2004 x
+150 10.3 10,620 285 24,430 655 38,240 1025 88,170 2363 x
+175 12.1 12,230 328 28,140 754 44,040 1180 x
+- Black areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Capacities are limited to 15,000 SCFH / 402 Nm³/h when the Type VSX8 is used without a control line.
+2. Due to slam-shut properties, capacities cannot be calculated with critical flow equation.
+- continued -
+24299H Series
+Table 8. Types 299HV and 299HVR Flow Capacities (1)(2) for 1-1/2 NPT and NPS 2 / DN 50 External/Dual Registration (continued)
+OUTLET PRESSURE
+RANGE SETTING,
+CONTROL, SPRING
+PART NUMBER AND
+COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH/ Nm 3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 7/8 / 22 1 / 25 1-3/16 / 30
+psig bar SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm3 /h SCFH Nm 3 /h
+1 to 3.25 psig /
+69 mbar to 0.22 bar
+2 psig / 0.14 bar
+±1% psia / bar
+T13593T0012
+Light blue
+5 0.34 1010 27.1 2090 56.0 2690 72.1 6500 174
+10 0.69 1540 41.3 3330 89.2 4500 121 10,780 289 14,222 381 15,686 420 15,919 427
+15 1.00 1910 51.2 4350 117 6160 165 14,420 386 19,116 512 23,603 633 24,528 657
+20 1.4 2230 59.8 5140 138 8050 216 18,570 498 23,217 622 27,076 726 30,146 808
+25 1.7 2560 68.6 5880 158 9210 247 21,250 570 27,178 728 32,736 877 34,548 926
+30 2.1 2880 77.2 6630 178 10,370 278 23,930 641 30,349 813 37,957 1017 40,482 1085
+40 2.8 3520 94.3 8110 217 12,700 340 29,280 785 38,690 1037 46,362 1243 51,296 1375
+50 3.4 4170 112 9590 257 15,020 403 34,630 928 46,334 1242 54,656 1465 60,987 1634
+60 4.1 4810 129 11,080 297 17,340 465 39,990 1072 53,323 1429 63,150 1692 70,797 1897
+80 5.5 6100 163 14,040 376 21,980 589 50,690 1358 67,640 1813 79,896 2141
+100 6.9 7390 198 17,010 456 26,630 714 61,400 1646 80,643 2161
+125 8.6 9010 241 20,720 555 32,430 869 74,780 2004
+150 10.3 10,620 285 24,430 655 38,240 1024 88,170 2363
+175 12.1 12,230 328 28,140 754 44,040 1180
+2.75 to 6 psig /
+0.19 to 0.41 bar
+5 psig / 0.34 bar
+±1% psia / bar
+T13671T0012
+Orange
+10 0.69 1380 37.0 2890 77.5 3780 101 9110 244
+15 1.0 1860 49.8 4180 112 5690 152 13,370 358 16,755 449 20,355 546 20,759 556
+20 1.4 2230 59.8 5080 136 7170 192 16,790 450 21,483 576 25,610 686 28,316 759
+25 1.7 2560 68.6 5880 158 9210 247 21,250 570 25,963 696 31,443 843 33,560 899
+30 2.1 2880 77.2 6630 178 10,370 278 23,930 641 29,934 802 35,739 958 39,000 1045
+40 2.8 3520 94.3 8110 217 12,700 340 29,280 785 38,424 1030 43,927 1177 50,866 1363
+50 3.4 4170 112 9590 257 15,020 403 34,630 928 44,529 1193 53,511 1434 58,608 1571
+60 4.1 4810 129 11,080 297 17,340 465 39,990 1072 52,347 1403 63,935 1713
+80 5.5 6100 163 14,040 376 21,980 589 50,690 1358 66,795 1790 79,794 2138
+100 6.9 7390 198 17,010 456 26,630 714 61,400 1646 79,208 2123
+125 8.6 9010 241 20,720 555 32,430 869 74,780 2004
+150 10.3 10,620 285 24,430 655 38,240 1024 88,170 2363
+175 12.1 12,230 328 28,140 754 44,040 1180
+5 to 16 psig /
+0.34 to 1.1 bar
+10 psig / 0.69 bar
+±1% psia / bar
+T13600T0012
+Red
+15 1.0 1570 42.1 3270 87.6 4220 113 10,200 273
+20 1.4 2120 56.8 4710 126 6310 169 14,850 398 16,629 446 22,183 595 22,421 601
+25 1.7 2530 67.8 5700 153 7890 211 18,510 496 27,996 750 27,255 730 28,275 758
+30 2.1 2880 77.2 6630 178 10,370 278 21,820 585 36,384 975 33,489 898 34,464 924
+40 2.8 3520 94.3 8110 217 12,700 340 29,280 785 44,427 1191 41,736 1119 44,446 1191
+50 3.4 4170 112 9590 257 15,020 403 34,630 928 51,078 1369 50,865 1363 58,369 1564
+60 4.1 4810 129 11,080 297 17,340 465 39,990 1072 66,891 1793 61,962 1661 68,137 1826
+80 5.5 6100 163 14,040 376 21,980 589 50,690 1358 81,404 2182 79,036 2118
+100 6.9 7390 198 17,010 456 26,630 714 61,400 1646 99,821 2675
+125 8.6 9010 241 20,720 555 32,430 869 74,780 2004
+150 10.3 10,620 285 24,430 655 38,240 1025 88,170 2363
+175 12.1 12,230 328 28,140 754 44,040 1180
+5 to 16 psig /
+0.34 to 1.1 bar
+15 psig / 1.0 bar
+±1% psia / bar
+T13600T0012
+Red
+20 1.4 1740 46.6 3610 96.7 4640 124 11,210 300 11,950 320 12,660 339 11,555 310
+25 1.7 2350 63.0 5210 139 6890 185 16,220 435 17,299 464 13,716 368 22,563 605
+30 2.1 2810 75.3 6280 168 8560 229 20,110 539 26,131 700 23,285 624 29,827 799
+40 2.8 3520 94.3 8110 217 12,700 340 26,850 720 34,479 924 29,875 801 45,150 1210
+50 3.4 4170 112 9590 257 15,020 403 34,630 928 43,353 1162 39,753 1065 56,272 1508
+60 4.1 4810 129 11,080 297 17,340 464 39,990 1072 51,751 1387 51,758 1387 65,725 1761
+80 5.5 6100 163 14,040 376 21,980 589 50,690 1358 65,973 1768 61,159 1639
+100 6.9 7390 198 17,010 456 26,630 714 61,400 1646 78,904 2115
+125 8.6 9010 241 20,720 555 32,430 869 74,780 2004
+150 10.3 10,620 285 24,430 655 38,240 1025 88,170 2363
+175 12.1 12,230 328 28,140 754 44,040 1180
+- Black areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Capacities are limited to 15,000 SCFH / 402 Nm³/h when the Type VSX8 is used without a control line.
+2. Due to slam-shut properties, capacities cannot be calculated with critical flow equation.
+25299H Series
+Table 9. Types 299HV and 299HVR Flow Capacities (1)(2) for 1-1/2 NPT and NPS 2 / DN 50 Internal Registration
+OUTLET PRESSURE
+RANGE SETTING,
+CONTROL, SPRING
+PART NUMBER AND
+COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH/ Nm3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 1 / 25 1-3/16 / 30
+psig bar SCFH Nm3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h
+3.5 to 6 in. w.c. /
+9 to 15 mbar
+3.5 in. w.c. / 9 mbar
+-1 to 2 in. w.c. /
+-2 to 5 mbar
+T13707T0012
+Black
+2 0.14 760 20.4 1780 47.7 2800 75 6460 173 6560 176 5783 155
+5 0.34 1160 31.1 2450 65.7 4000 107 7140 191 8126 218 11,983 321
+10 0.69 1590 42.6 3560 95.4 6000 161 7140 191 6448 173 16,515 443
+15 1.0 1920 51.5 4400 118 7500 201 8320 223 15,728 422 21,277 570
+20 1.4 2240 60.0 5100 137 9000 241 10,830 290 20,783 557 17,610 472
+25 1.7 2570 68.9 5450 146 7620 204 9870 265 30,763 824 16,968 455
+30 2.1 2890 77.5 5800 155 9880 265 9870 265 30,366 814 17,571 471
+40 2.8 3530 94.6 7550 202 12,070 323 6400 172 17,055 457 28,457 763
+50 3.4 3880 104 9300 249 11,300 303 6840 183 9825 263 12,505 335
+60 4.1 4090 110 7700 206 6660 178 7010 188 4041 108 10,672 286
+80 5.5 3110 83.3 2800 75 1230 33 9000 241 5199 139
+100 6.9 4790 128 3600 97.0 2990 80 4650 125 4374 117
+125 8.6 5210 140 3600 97.0 4090 110 3230 87
+150 10.3 5640 151 3600 97.0 5210 140 3230 87
+175 12.1 7310 196 5680 152 7300 196
+5 to 9 in. w.c. /
+12 to 22 mbar
+7 in. w.c. / 17 mbar
+-1 to 2 in. w.c. /
+-2 to 5 mbar
+T13589T0012
+Yellow
+2 0.14 750 20.1 1890 50.7 2800 75 5520 148
+5 0.34 1120 30.0 2460 65.9 4000 107 6020 161 8254 221 11,576 310
+10 0.69 1590 42.6 3400 91.1 6000 161 6520 175 11,345 304 13,793 370
+15 1.0 1920 51.5 4320 116 7000 188 8000 214 15,571 417 19,851 532
+20 1.4 2240 60.0 5060 136 9000 241 7930 213 20,425 547 16,104 432
+25 1.7 2570 68.9 5800 155 9690 260 7420 199 24,997 670 16,019 429
+30 2.1 2890 77.5 6500 174 10,480 281 7050 189 27,772 744 16,648 446
+40 2.8 3530 94.6 7900 212 11,490 308 4900 131 100 3 27,833 746
+50 3.4 4180 112 7800 209 10,280 276 5940 159 17,431 467 12,059 323
+60 4.1 4820 129 6560 176 7170 192 6310 169 10,160 272 10,193 273
+80 5.5 4020 108 2620 70.0 1200 32 8340 224 5,330 143
+100 6.9 4670 125 3420 92.0 2990 80 3900 105 4535 122
+125 8.6 5070 136 3600 97.0 5180 139 3360 90
+150 10.3 5480 147 3870 104 5180 139 2340 63
+175 12.1 6430 172 5120 137 7300 196
+7 to 20 in. w.c. /
+17 to 50 mbar
+14 in. w.c. / 35 mbar
+±2 in. w.c. / ±5 mbar
+1N3112X0012
+Unpainted
+2 0.14 700 18.8 1420 38.1 3440 92.2 4790 128 4762 128
+5 0.34 1110 29.7 2200 59.0 4000 107 6080 163 10,790 289 11,429 306
+10 0.69 1580 42.3 3500 93.8 6000 161 7440 199 11,629 312 13,361 358
+15 1.0 1920 51.5 4300 115 7600 204 9250 248 15,212 408 19,037 510
+20 1.4 2240 60.0 5000 134 9000 241 10,670 286 20,121 539 19,644 526
+25 1.7 2570 68.9 5700 153 10,000 268 8950 240 23,600 632 18,515 496
+30 2.1 2890 77.5 6500 174 11,200 300 8450 226 26,579 712 19,121 512
+40 2.8 3530 94.6 7900 212 11,620 311 6800 182 23,140 620 29,888 801
+50 3.4 4180 112 9300 249 12,400 332 7240 194 19,015 510 12,707 341
+60 4.1 4820 129 7490 201 12,090 324 7400 198 15,119 405 11,074 297
+80 5.5 4600 123 2730 73.0 2030 54 7420 199
+100 6.9 4970 133 3900 105 4410 118 4970 133
+125 8.6 5200 139 3900 105 5990 161 4330 116
+150 10.3 5430 146 3900 105 5990 161 3120 84
+175 12.1 4700 126 3900 105 6310 169
+16 to 40 in. w.c. /
+40 to 99 mbar
+28 in. w.c. / 70 mbar
+±4 in. w.c. / ±10 mbar
+1B413727222
+Purple
+5 0.34 1110 29.7 2600 69.7 3600 96.5 5200 139 9528 255 9677 259
+10 0.69 1570 42.1 3500 93.8 6000 161 6910 185 17,268 463 18,587 498
+15 1.0 1920 51.5 4400 118 7200 193 9370 251 18,027 483 24,955 669
+20 1.4 2240 60.0 5100 137 8800 236 11,030 296 21,638 580 28,078 752
+25 1.7 2570 68.9 5800 155 10,000 268 11,390 305 24,673 661 23,468 629
+30 2.1 2890 77.5 6500 174 11,600 311 11,980 321 27,545 738 23,110 619
+40 2.8 3530 94.6 7900 212 13,570 364 11,220 301 26,603 713 32,005 858
+50 3.4 4180 112 9300 249 13,920 373 10,020 269 21,460 575 34,089 914
+60 4.1 4820 129 8250 221 14,410 386 9170 246 18,221 488 13,112 351
+80 5.5 6110 164 4260 114 3090 83 11,320 303 13,875 372
+100 6.9 6360 170 5150 138 4850 130 3750 101 12,844 344
+125 8.6 6450 173 5930 159 5290 142 3960 106
+150 10.3 6540 175 6110 164 5570 149 2520 68
+175 12.1 2950 79 3560 95.0 3320 89.0
+- Black areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Capacities are limited to 15,000 SCFH / 402 Nm³/h when the Type VSX8 is used without a control line.
+2. Due to slam-shut properties, capacities cannot be calculated with critical flow equation.
+- continued -
+26299H Series
+Table 9. Types 299HV and 299HVR Flow Capacities(1)(2) for 1-1/2 NPT and NPS 2 / DN 50 Internal Registration (continued)
+OUTLET PRESSURE
+RANGE SETTING,
+CONTROL, SPRING
+PART NUMBER AND
+COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH/ Nm3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 1 / 25 1-3/16 / 30
+psig bar SCFH Nm3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h
+1 to 3.25 psig /
+69 mbar to 0.22 bar
+2 psig / 0.14 bar
+±1% psia / bar
+T13593T0012
+Light blue
+5 0.34 1020 27.3 2900 77.7 4000 107 5660 152 10,146 272 3 0
+10 0.69 1550 41.5 3600 96.5 5500 147 7,840 210 16,652 446 18,337 491
+15 1.0 1920 51.5 4300 115 7500 201 10,210 273 16,884 452 23,809 638
+20 1.4 2240 60.0 5000 134 8500 228 12,100 324 20,709 555 28,791 772
+25 1.7 2570 68.9 5550 149 10,000 268 11,880 318 24,308 651 31,522 845
+30 2.1 2890 77.5 6100 163 11,000 295 12,800 343 27,520 738 24,784 664
+40 2.8 3530 94.6 7750 208 14,000 375 13,960 374 33,891 908 26,046 698
+50 3.4 4180 112 9400 252 14,380 385 10,940 293 19,543 524 36,155 969
+60 4.1 4820 129 10,530 282 15,510 416 9810 263 21,023 563 20,026 537
+80 5.5 6110 164 8580 230 12,000 322 3700 99 14,926 400
+100 6.9 6850 184 3290 88 1130 30 2910 78
+125 8.6 7070 189 3050 82 2220 60 2910 78
+150 10.3 7300 196 3200 86 2090 56 2910 78
+175 12.1 4560 122 5540 148 2090 56
+2.75 to 6 psig /
+0.19 to 0.41 bar
+5 psig / 0.34 bar
+±1% psia / bar
+T13671T0012
+Orange
+10 0.69 1390 37.3 2800 75 5000 134 6540 175 13,850 371 11,743 315
+15 1.0 1870 50.1 3750 101 7000 188 9680 259 20,557 551 21,885 587
+20 1.4 2240 60.0 4700 126 8500 228 11,480 308 25,547 685 28,040 751
+25 1.7 2570 68.9 5700 153 9500 255 12,420 333 22,097 592 32,687 876
+30 2.1 2890 77.5 6430 172 11,000 295 13,050 350 27,576 739 37,211 997
+40 2.8 3530 94.6 7900 212 13,000 348 15,780 423 33,919 909 29,920 802
+50 3.4 4180 112 9300 249 16,000 429 15,110 405 35,931 963 30,031 805
+60 4.1 4790 128 10,700 287 15,200 407 10,710 287 31,207 836 41,617 1115
+80 5.5 5740 154 13,350 358 13,170 353 8670 232 21,999 590
+100 6.9 6680 179 16,000 429 2,430 65 8670 232 15,606 418
+125 8.6 7170 192 4740 127 1700 46 7300 196
+150 10.3 7650 205 3530 95 1910 51 6470 173
+175 12.1 4400 118 3530 95 3050 82
+5 to 16 psig /
+0.34 to 1.1 bar
+10 psig / 0.69 bar
+±1% psia / bar
+T13600T0012
+Red
+15 1.0 1800 48.2 3200 85.8 4000 107 7250 194 11,639 312 14,732 395
+20 1.4 2200 59 4300 115 12,000 322 9870 265 22,403 600 23,228 623
+25 1.7 2600 69.7 5400 145 9000 241 12,240 328 26,281 704 27,637 741
+30 2.1 3000 80.4 6600 177 10,000 268 13,490 362 28,080 753 35,678 956
+40 2.8 3650 97.8 7800 209 13,000 348 17,230 462 36,123 968 44,046 1180
+50 3.4 4300 115 9000 241 16,000 429 18,520 496 41,283 1106 49,610 1330
+60 4.1 4950 133 10,460 280 16,050 430 20,460 548 44,057 1181 35,915 963
+80 5.5 6250 168 13,400 359 15,950 427 10,780 289 37,078 994 54,401 1458
+100 6.9 7600 204 16,110 432 15,030 403 11,250 302 30,874 827
+125 8.6 9300 249 19,500 553 16,250 436 11,250 302
+150 10.3 6320 169 4960 133 1970 53 6590 177
+175 12.1 5810 156 3270 88 1970 53
+5 to 16 psig /
+0.34 to 1.1 bar
+15 psig / 1.0 bar
+±1% psia / bar
+T13600T0012
+Red
+20 1.4 1900 50.9 3400 91.1 6000 161 8,860 237 15,265 409 15,327 411
+25 1.7 2450 65.7 4550 122 8000 214 10,900 292 24,397 654 24,228 649
+30 2.1 3000 80.4 5700 153 10,000 268 13,870 372 30,686 822 31,796 852
+40 2.8 3700 99.2 7600 204 13,000 348 19,100 512 31,184 836 44,116 1182
+50 3.4 4320 116 8900 239 15,000 402 20,300 544 39,146 1049 53,217 1426
+60 4.1 4950 133 10,330 277 16,900 453 20,660 554 44,294 1187 58,091 1557
+80 5.5 6200 166 13,200 354 18,730 502 21,940 588 50,086 1342 46,125 1236
+100 6.9 7350 197 16,000 429 21,260 570 16,310 437 42,814 1147
+125 8.6 8800 236 19,500 523 23,920 641 13,970 374
+150 10.3 10,220 274 22,950 615 25,900 694 10,600 284
+175 12.1 7300 196 6500 174 5910 158
+- Black areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Capacities are limited to 15,000 SCFH / 402 Nm³/h when the Type VSX8 is used without a control line.
+2. Due to slam-shut properties, capacities cannot be calculated with critical flow equation.
+27299H Series
+Table 10. Types 299HV and 299HVR Flow Capacities (1)(2) for 2 NPT Internal Registration
+OUTLET PRESSURE
+RANGE SETTING,
+CONTROL, SPRING
+PART NUMBER AND
+COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH/ Nm3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 1 / 25 1-3/16 / 30
+psig bar SCFH Nm3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h
+3.5 to 6 in. w.c. /
+9 to 15 mbar
+3.5 in. w.c. / 9 mbar
+-1 to 2 in. w.c. /
+-2 to 5 mbar
+T13707T0012
+Black
+2 0.14 760 20.4 1780 47.7 2800 75 6460 173 5606 150 5922 159
+5 0.34 1160 31.1 2450 65.7 4000 107 7600 204 10,320 277 11,844 317
+10 0.69 1590 42.6 3560 95.4 6000 161 9500 255 8869 238 9910 266
+15 1.0 1920 51.5 4400 118 7500 201 12,400 332 10,603 284 11,972 321
+20 1.4 2240 60.0 5100 137 9000 241 17,500 469 11,396 305 14,038 376
+25 1.7 2570 68.9 5450 146 8000 214 17,000 456 11,940 320 16,853 452
+30 2.1 2890 77.5 5800 155 11,000 295 17,000 456 11,676 313 18,544 497
+40 2.8 3530 94.6 7550 202 14,000 375 13,000 348 9852 264 13,471 361
+50 3.4 3880 104 9300 249 16,500 442 13,000 348 15,049 403 10,859 291
+60 4.1 4090 110 7700 206 12,000 322 12,400 332 9677 259 9901 265
+80 5.5 3110 83.3 4500 121 3500 94 11,600 311 6486 174
+100 6.9 4790 128 4500 121 3750 101 6000 161 4000 107
+125 8.6 5210 140 4500 121 5120 137 4400 118
+150 10.3 5620 151 4500 121 6500 174 4400 118
+175 12.1 5620 151 4500 121 6500 174
+5 to 9 in. w.c. /
+12 to 22 mbar
+7 in. w.c. / 17 mbar
+-1 to 2 in. w.c. /
+-2 to 5 mbar
+T13589T0012
+Yellow
+2 0.14 750 20.1 1890 50.7 2800 75 5520 148 4569 122
+5 0.34 1120 30.0 2460 65.9 4000 107 7200 193 10,252 275 11,314 303
+10 0.69 1590 42.6 3400 91.1 6000 161 10,000 268 9,207 247 10,232 274
+15 1.0 1920 51.5 4320 116 7000 188 13,600 364 10,685 286 12,452 334
+20 1.4 2240 60.0 5060 136 9000 241 14,000 375 11,892 319 13,958 374
+25 1.7 2570 68.9 5800 155 10,000 268 15,000 402 11,949 320 16,366 439
+30 2.1 2890 77.5 6500 174 11,250 302 16,000 429 11,574 310 18,492 496
+40 2.8 3530 94.6 7900 212 13,000 348 10,400 279 11,780 316 13,165 353
+50 3.4 4180 112 7800 209 14,500 389 10,400 279 17,726 475 10,835 290
+60 4.1 4180 112 6560 176 12,250 328 10,400 279 9838 264 10,216 274
+80 5.5 4020 108 4100 110 3250 87 10,400 279 7808 209
+100 6.9 4670 125 4270 114 3750 101 5200 139
+125 8.6 5070 136 4500 121 6500 174 4400 118
+150 10.3 5480 147 4850 130 6500 174 4400 118
+175 12.1 5480 147 5200 139 6500 174
+7 to 20 in. w.c. /
+17 to 50 mbar
+14 in. w.c. /
+35 mbar
+±2 in. w.c. /
+±5 mbar
+1N3112X0012
+Unpainted
+2 0.14 700 18.8 1420 38.1 3440 92.2 4800 129 4411 118
+5 0.34 1110 29.7 2200 59 4000 107 7200 193 9773 262 11,480 308
+10 0.69 1580 42.3 3500 93.8 6000 161 11,200 300 9366 251 11,502 308
+15 1.0 1920 51.5 4300 115 7600 204 15,200 407 11,161 299 13,850 371
+20 1.4 2240 60.0 5000 134 9000 241 18,000 482 12,750 342 25,753 690
+25 1.7 2570 68.9 5700 153 10,000 268 17,200 461 13,890 372 26,576 712
+30 2.1 2890 77.5 6500 174 11,200 300 18,200 488 16,214 435 26,082 699
+40 2.8 3530 94.6 7900 212 12,800 343 14,400 386 22,043 591 24,392 654
+50 3.4 4180 112 9300 249 16,400 440 14,400 386 20,925 561 12,252 328
+60 4.1 4820 129 7630 204 18,800 504 14,000 375 17,782 477 10,689 286
+80 5.5 4600 123 4300 115 5000 134 8400 225 8924 239
+100 6.9 4970 133 4430 119 5000 134 6000 161
+125 8.6 5200 139 4600 123 6800 182 6000 161
+150 10.3 5430 146 4850 130 6800 182 6000 161
+175 12.1 5430 146 5100 137 6800 182
+16 to 4 in. w.c. /
+40 to 99 mbar
+28 in. w.c. /
+70 mbar
+±4 in. w.c. /
+±10 mbar
+1B413727222
+Purple
+5 0.34 1110 29.7 2600 69.7 3600 96.5 6500 174 10,863 291 10,774 289
+10 0.69 1570 42.1 3500 93.8 6000 161 10,000 268 17,444 467 17,697 474
+15 1.0 1920 51.5 4400 118 7200 193 14,500 389 14,348 385 22,216 595
+20 1.4 2240 60.0 5100 137 8800 236 17,500 469 15,587 418 27,214 729
+25 1.7 2570 68.9 5800 155 10,000 268 20,000 536 18,194 488 29,193 782
+30 2.1 2890 77.5 6500 174 11,600 311 23,500 630 21,824 585 29,364 787
+40 2.8 3530 94.6 7900 212 14,000 375 22,500 603 33,884 908 27,850 746
+50 3.4 4180 112 9300 249 16,400 440 20,000 536 36,019 965 28,517 764
+60 4.1 4820 129 8400 225 19,000 509 16,500 442 36,145 969 29,267 784
+80 5.5 6110 164 6600 177 6500 174 16,500 442 12,286 329
+100 6.9 6360 170 6910 185 6500 174 7000 188
+125 8.6 6450 173 7300 196 6500 174 7000 188
+150 10.3 6540 175 7700 206 7000 188 7000 188
+175 12.1 6540 175 8100 217 7000 188
+- Black areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Capacities are limited to 15,000 SCFH / 402 Nm³/h when the Type VSX8 is used without a control line.
+2. Due to slam-shut properties, capacities cannot be calculated with critical flow equation.
+- continued -
+28299H Series
+Table 10. Types 299HV and 299HVR Flow Capacities (1)(2) for 2 NPT Internal Registration (continued)
+OUTLET PRESSURE
+RANGE SETTING,
+CONTROL, SPRING
+PART NUMBER AND
+COLOR
+INLET
+PRESSURE
+CAPACITIES IN SCFH/ Nm3 /h OF 0.6 SPECIFIC GRAVITY NATURAL GAS
+Orifice Size, In. / mm
+1/4 x 3/8 / 6.4 x 9.5 3/8 / 9.5 1/2 / 13 3/4 / 19 1 / 25 1-3/16 / 30
+psig bar SCFH Nm3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h SCFH Nm 3 /h
+1 to 3.25 psig /
+69 mbar to 0.22 bar
+2 psig / 0.14 bar
+±1% psia / bar
+T13593T0012
+Light blue
+5 0.34 1020 27.3 2900 77.7 4000 107 6000 161
+10 0.69 1550 41.5 3600 96.5 5500 147 10,500 281
+15 1.0 1920 51.5 4300 115 7500 201 14,500 389
+20 1.4 2240 60.0 5000 134 8500 228 18,000 482
+25 1.7 2670 71.6 5550 149 10,000 268 20,000 536
+30 2.1 2890 77.5 6100 163 11,000 295 24,000 643
+40 2.8 3530 94.6 7750 208 14,000 375 28,000 750
+50 3.4 4180 112 9400 252 16,000 429 23,000 616
+60 4.1 4820 129 10,730 288 19,000 509 18,000 482
+80 5.5 6110 164 13,400 359 24,000 643 8000 214
+100 6.9 6850 184 10,770 289 6500 174 8000 214
+125 8.6 7070 189 7500 201 7500 201 8000 214
+150 10.3 7300 196 7500 201 7500 201 9500 255
+175 12.1 7300 196 7500 201 7500 201
+2.75 to 6 psig /
+0.19 to 0.41 bar
+5 psig / 0.34 bar
+±1% psia / bar
+T13671T0012
+Orange
+10 0.69 1390 37.3 2800 75 5000 134 8000 214
+15 1.0 1870 50.1 3750 101 7000 188 13,000 348
+20 1.4 2240 60.0 4700 126 8500 228 17,000 456
+25 1.7 2570 68.9 5700 153 9500 255 20,000 536
+30 2.1 2890 77.5 6430 172 11,000 295 23,000 616
+40 2.8 3530 94.6 7900 212 13,000 348 29,000 777
+50 3.4 4180 112 9300 249 16,000 429 30,000 804
+60 4.1 4790 128 10,700 287 18,000 482 20,000 536
+80 5.5 5740 154 13,350 358 23,000 616 20,000 536
+100 6.9 6680 179 16,000 429 8000 214 20,000 536
+125 8.6 7170 192 12,800 343 8000 214 20,000 536
+150 10.3 7650 205 9600 257 8000 214 20,000 536
+175 12.1 7650 205 9600 257 8000 214
+5 to 16 psig /
+0.34 to 1.1 bar
+10 psig / 0.69 bar
+±1% psia / bar
+T13600T0012
+Red
+15 1.0 1800 48.2 3200 85.8 4000 107 8500 228
+20 1.4 2200 59 4300 115 12,000 322 14,000 375 20,857 559 22,041 591
+25 1.7 2600 69.7 5400 145 9000 241 19,000 509 22,081 592 26,422 708
+30 2.1 3000 80.4 6600 177 10,000 268 22,000 590 22,228 596 34,273 919
+40 2.8 3650 97.8 7800 209 13,000 348 28,000 750 29,015 778 40,155 1076
+50 3.4 4300 115 9000 241 16,000 429 34,000 911 30,428 815 45,392 1217
+60 4.1 4950 133 10,460 280 18,000 482 39,000 1045 47,113 1263 46,916 1257
+80 5.5 6250 168 13,400 359 23,000 616 25,000 670 57,406 1538 46,983 1259
+100 6.9 7600 204 16,110 432 29,000 777 25,000 670 60,228 1614
+125 8.6 9300 249 19,500 523 35,000 938 25,000 670
+150 10.3 9,900 265 15,050 403 10,000 268 25,000 670
+175 12.1 10,500 281 10,600 284 10,000 268
+5 to 16 psig /
+0.34 to 1.1 bar
+15 psig / 1.0 bar
+±1% psia / bar
+T13600T0012
+Red
+20 1.4 1900 50.9 3400 91.1 6000 161 10,000 268
+25 1.7 2450 65.7 4550 122 8000 214 15,000 402 22,951 615 24,816 665
+30 2.1 3000 80.4 5700 153 10,000 268 20,000 536 27,742 743 29,280 785
+40 2.8 3700 99.2 7600 204 13,000 348 28,000 750 24,420 654 41,172 1103
+50 3.4 4320 116 8900 239 15,000 402 35,000 938 30,384 814 37,525 1006
+60 4.1 4950 133 10,330 277 18,000 482 40,000 1072 35,110 941 53,476 1433
+80 5.5 6200 166 13,200 354 23,000 616 51,000 1367 56,966 1527 53,793 1442
+100 6.9 7350 197 16,000 429 29,000 777 35,000 938 65,280 1750
+125 8.6 8800 236 19,500 523 36,000 965 30,000 804
+150 10.3 10,220 274 22,950 615 40,000 1072 30,000 804
+175 12.1 11,650 312 26,400 708 40,000 1072
+- Black areas indicate where maximum operating inlet pressure for a given orifice size is exceeded.
+1. Capacities are limited to 15,000 SCFH / 402 Nm³/h when the Type VSX8 is used without a control line.
+2. Due to slam-shut properties, capacities cannot be calculated with critical flow equation.
+4.9 /
+124
+3.1 / 79
+8.6 /
+218 12.1 /
+307
+13.7 /
+348
+5.8 /
+148
+4.4 /
+113
+A
+9.0 /
+230
+4.9 /
+124
+3.1 / 79
+8.6 /
+218 12.1 /
+307
+13.7 /
+348
+5.8 /
+148
+4.4 /
+113
+A
+7.9 /
+202
+9.0 /
+230
+13.7 /
+348
+12.1 /
+307
+1/4 NPT VENT
+3/4 NPT
+CONTROL
+LINE CONNECTION
+3/4 NPT ALTERNATE
+CONTROL LINE
+CONNECTION
+TYPE P590
+FILTER OPTION
+TYPE 67CF FILTERED
+PILOT SUPPLY
+REGULATOR OPTION
+A7274
+29299H Series
+Figure 9. Types 299H and 299HR Dimensions
+IN. /
+mm
+DIMENSION
+END CONNECTION STYLE AND FACE-TO-FACE DIMENSION
+NPT CL125 FF(1) CL125 FF CL150 RF CL250 RF (2) PN 10 or 16 (2)
+In. mm In. mm In. mm In. mm In. mm In. mm
+A 6.12 155 7.50 199 10.00 254 10.00 254 10.50 267 9.06 230
+1. Available in Cast iron only.
+2. Available in Ductile iron only.
+Table 11. Types 299H and 299HR Dimensions
+4.8 /
+123
+7.8 / 199
+8.8 / 224
+13.7 /
+348
+12.1 /
+307
+8.6 /
+218
+5.8 /
+148
+4.4 /
+113
+A
+9.0 /
+230
+7.9 /
+202
+4.8 /
+123
+7.8 / 199
+8.8 / 224
+13.7 /
+348
+12.1 /
+307
+8.6 /
+218
+5.8 /
+148
+4.4 /
+113
+A
+9.0 /
+230
+7.9 /
+202
+1/4 NPT VENT
+7.8 / 199
+8.8 / 224 (RESET)
+A
+(BODY LENGTH)
+3/4 NPT
+CONTROL
+LINE CONNECTION
+TYPE P590
+FILTER OPTION
+TYPE 67CF
+FILTERED PILOT SUPPLY
+REGULATOR OPTION
+3/4 NPT ALTERNATIVE
+CONTROL LINE
+CONNECTION
+ERAA23274_AB
+30299H Series
+DIMENSION
+BODY SIZE AND END CONNECTION
+1-1/2 NPT 2 NPT NPS 2 / DN 50
+CL125 RF CL250 RF PN 10/16 RF
+In. mm In. mm In. mm In. mm In. mm
+A 6.12 155 6.12 155 10.00 254 10.50 267 9.06 230
+Table 12. Types 299HV and 299HVR Dimensions
+Figure 10. Types 299HV and 299HVR Dimensions
+IN. /
+mm
+31299H Series
+POSITION 1
+Figure 11. Body and Vent Positions
+POSITION 2 POSITION 3 POSITION 4
+(STANDARD)
+POSITION F
+POSITION C
+POSITION D
+POSITION E
+(STANDARD)
+Ordering Information
+To order, complete the Ordering Guide on pages 31
+and 32. Carefully review the Specifications section on
+page 2 and specify the desired selection whenever
+there is a choice to be made.
+Ordering Guide
+Type (Select One)
+299H***
+299HR***
+299HV***
+299HVR***
+Body Size, Material and End Connection Style
+(Select One)
+1-1/4 NPT
+Grey cast iron (For Types 299H and 299HR only)***
+1-1/2 NPT
+Grey cast iron (For Types 299H and 299HR only)***
+Ductile iron***
+Steel (For Types 299H and 299HR only)***
+NPS 2 / DN 50
+Grey cast iron (For Types 299H and 299HR only)
+NPT***
+CL125 FF - 7.5 in. / 191 mm***
+CL125 FF - 10 in. / 254 mm***
+Ductile iron
+NPT***
+CL125 FF - 10 in. / 254 mm***
+CL250 RF***
+PN 10/16 Flanged*
+Steel (For Types 299H and 299HR only)
+NPT***
+CL150 RF***
+Orifice Size (Select One)
+1/4 x 3/8 in. / 6.4 x 9.5 mm***
+3/8 in. / 9.5 mm***
+1/2 in. / 13 mm***
+3/4 in. / 19 mm***
+7/8 in. / 22 mm (For Types 299H and 299HR only)***
+1 in. / 25 mm (For Types 299H and 299HR only)***
+1-3/16 in. / 30 mm (For Types 299H and
+299HR only)***
+Outlet Pressure Range (Select One)
+3.5 to 6 in. w.c. / 9 to 15 mbar, Black***
+5 to 9 in. w.c. / 12 to 22 mbar, Yellow***
+7 to 20 in. w.c. / 17 to 50 mbar, Unpainted***
+16 to 40 in. w.c. / 40 to 99 mbar, Purple***
+1 to 3.25 psig / 69 mbar to 0.22 bar, Light Blue***
+2.75 to 6 psig / 0.19 to 0.41 bar, Orange***
+5 to 16 psig / 0.34 to 1.1 bar, Red***
+14 to 35 psig / 0.97 to 2.4 bar (Type 299H), Zinc***
+30 to 60 psig / 2.1 to 4.1 bar (Type 299H), Green***
+Travel Indicator
+Travel Indicator
+Pressure Registration (Select One)
+Internal***
+External***
+Dual***
+Fixed Restriction (Select One)
+0.044 in. / 1.1 mm, Red (standard gain)***
+0.071 in. / 1.8 mm, Green (low gain)***
+0.082 in. / 2.1 mm, Blue (lower gain)***
+VSX Series Slam-Shut Trip Pressure Setting
+(Select one if applicable and specify setpoint/s, see
+Tables 4a, 4b, 4c and 4d.)
+- continued -
+299H SeriesFacebook.com/EmersonAutomationSolutions
+LinkedIn.com/company/emerson-automation-solutions
+Twitter.com/emr_automation
+Webadmin.Regulators@emerson.comThe distinctive swirl pattern cast into every actuator casing
+uniquely identifies the regulator as part of the Fisher™ brand
+Commercial Service Regulator family and assures you of the
+highest-quality engineering, performance, and support traditionally
+associated with Fisher™ and Tartarini™ regulators. Visit
+www.fishercommercialservice.com to access interactive applications.
+Fisher.comEmerson Automation Solutions
+Americas
+McKinney, Texas 75070 USA
+T +1 800 558 5853
++1 972 548 3574
+Europe
+Bologna 40013, Italy
+T +39 051 419 0611
+Asia Pacific
+Singapore 128461, Singapore
+T +65 6777 8211
+Middle East and Africa
+Dubai, United Arab Emirates
+T +971 4 811 8100
+D102683X012 © 1999, 2023 Emerson Process Management
+Regulator Technologies, Inc. All rights reserved. 01/23.
+The Emerson logo is a trademark and service mark of Emerson
+Electric Co. All other marks are the property of their prospective owners.
+Fisher™ is a mark owned by Fisher Controls International LLC, a
+business of Emerson Automation Solutions.
+The contents of this publication are presented for informational purposes
+only, and while every effort has been made to ensure their accuracy,
+they are not to be construed as warranties or guarantees, express or
+implied, regarding the products or services described herein or their use
+or applicability. All sales are governed by our terms and conditions, which
+are available upon request. We reserve the right to modify or improve the
+designs or specifications of such products at any time without notice.
+Emerson Process Management Regulator Technologies, Inc. does
+not assume responsibility for the selection, use or maintenance of any
+product. Responsibility for proper selection, use and maintenance of any
+Emerson Process Management Regulator Technologies, Inc. product
+remains solely with the purchaser.
+Ordering Guide (continued)
+Overpressure Protection Only (OPSO)
+Supply setpoint required ____________________
+Overpressure and Underpressure Protection
+(OPSO/UPSO)
+Supply overpressure setpoint required
+____________________
+Supply underpressure setpoint required
+____________________
+Type P590 Pilot Supply Filter (Optional)
+Type P593-1, Aluminum
+Type 594-1, Brass
+Type 67CF Filtered Pilot Supply Regulator (Optional)
+Yes, please add a Type 67CF regulator to this order.
+Main Valve Parts Kit (Optional)
+Yes, please send one parts kit to match this order.
+Pilot Parts Kit (Optional)
+Yes, please send one parts kit to match this order.
+Regulators Quick Order Guide
+* * * Standard - Readily Available for Shipment
+* * Non-Standard - Allow Additional Time for Shipment
+* Special Order, Constructed from Non-Stocked Parts.
+Consult your local Sales Office for Availability.
+Availability of the product being ordered is determined by the component with the
+longest shipping time for the requested construction.
+Specification Worksheet
+Application (Please designate units):
+Specific Use
+Line Size
+Gas Type and Specific Gravity
+Gas Temperature
+Does the Application Require Overpressure Protection?
+No Yes, if so, which is preferred:
+Relief Valve Monitor Regulator Shutoff Device
+Is overpressure protection equipment selection assistance
+desired?
+Pressure (Please designate units):
+Maximum Inlet Pressure (P 1max )
+Minimum Inlet Pressure (P 1min )
+Downstream Pressure Setting(s) (P 2 )
+Maximum Flow (Q max )
+Performance Required:
+Accuracy Requirements?
+Need for Extremely Fast Response?
+Other Requirements:

@@ -397,6 +397,40 @@ class RosemountManifold(AbstractFilter):
 
 
 
+
+class RousemountORingPackageFilter(AbstractFilter):
+    pattern =r"^(03151)-\d{4}-\d{4}"
+
+
+    def filter_passed(self, text: str):
+        words= text.split()
+
+        for word in words:
+            if re.match(self.pattern, word):
+                return True 
+
+        return False
+    
+    def __str__(self) -> str:
+        return 'rosemount_oring'    
+    
+
+
+class R249FisherSpareFilterr(AbstractFilter):
+
+    def filter_passed(self, text: str):
+        words= text.split()
+
+        for word in words:
+           if word=='r249x000012':
+                return True 
+
+        return False
+    
+    def __str__(self) -> str:
+        return 'rosemount_oring'    
+
+
 texts=['regulator pressure 316 stainless steel fisher body',
        'cover terminal block o ring rosemount', 
        'seal electric actauator biffi',
@@ -435,7 +469,9 @@ texts=['regulator pressure 316 stainless steel fisher body',
        "kit:rep,relay valve level controller,bal kit: relay valve,repair,level controller,consists of ball bearing assy,zinc ga glass gasket,relay base gasket,filter gasket,flappera                                                  ssy,f/ 2500 series high temp controller kit:relay valve,repair,level controller,consists of ball bearing assy,zinc ga glass gasket,relay base gasket,filter gasket,flapper assy,f/ 2500 series high temp controller fisher controls r2500x00h32", 
        "kit:replacement,rep,level controller,xmt kit: replacement,repair,level controller,transmitter,high temperature relay gasket,fisher kit:repair,replacement,level controller/transmitter,w/ relay gasket,high temp emerson rrelay-x0h22", 
        "rrelayx0h22",
-       "transmitter,diff pres:coplanar,scalable transmitter,differential pressure: coplanar,scalable,4-20ma output,-250 to 250in wc,stainless steel flange bracket mount,10.5-42.4dc                                                  v,28dcv,stainless steel,hastelloy c276,lcd,atex,iso 15156,nace mr0175,cable entryd e t a i l :  m 2 0  c o n d u i t , f l a n g e  m a t e r i a l :  3 1 6  s t a i n l e s s  steel,pressure rating: 373m bar,w/ 030 5r c5 3b 11 be l8 q 8 ma ni f ol d transmitter,differential pressure: 373mbar range,4 to 20ma output,12 to 45vdc input,ss housing,28vdc max supply output,m20 conduit,3                                                 16 ss mounting bracket/flg,0305rc53b11bel8q8 manifold emerson 3051s2cd2a3a11a1kd4i1y2m5p1q4q8q15a1043"
+       "transmitter,diff pres:coplanar,scalable transmitter,differential pressure: coplanar,scalable,4-20ma output,-250 to 250in wc,stainless steel flange bracket mount,10.5-42.4dc                                                  v,28dcv,stainless steel,hastelloy c276,lcd,atex,iso 15156,nace mr0175,cable entryd e t a i l :  m 2 0  c o n d u i t , f l a n g e  m a t e r i a l :  3 1 6  s t a i n l e s s  steel,pressure rating: 373m bar,w/ 030 5r c5 3b 11 be l8 q 8 ma ni f ol d transmitter,differential pressure: 373mbar range,4 to 20ma output,12 to 45vdc input,ss housing,28vdc max supply output,m20 conduit,3                                                 16 ss mounting bracket/flg,0305rc53b11bel8q8 manifold emerson 3051s2cd2a3a11a1kd4i1y2m5p1q4q8q15a1043", 
+       "cover:electronics,316l ss,74.8 id x 82.4 cover: electronics,74.8 id x 82.4mm od,316l ss,o-ring cover:electronics,74.8 id x 82.4mm od,316l ss,o-ring 0351-9030-0002", 
+       "kit:rep,level controller,arm gasket,2x c kit: repair,level controller,arm gasket,2x cotter spring,tube end gasket,torque tube assembly kit:repair,level controller,consists of torque tube assy,cotter spring,arm gasket,tube end gasket emerson r249x000012", 
        ]
 
 
@@ -478,7 +514,9 @@ results=['erkin',
              "erkin", 
              "erkin", 
              "erkin",
-             "talib"
+             "talib", 
+             "talib",
+             "erkin"
              ]
 
 
@@ -514,6 +552,8 @@ features = [
    RosemountManifoldSpare(),
    FisherSpare25002503(), 
    RosemountManifold(), 
+   RousemountORingPackageFilter(),
+   R249FisherSpareFilterr(),  
 ]
 
 

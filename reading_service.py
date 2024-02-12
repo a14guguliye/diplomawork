@@ -61,10 +61,10 @@ def count_words_in_doc(path):
 
     words = word_tokenize(content)
 # 
-    words=[word.lower() for word in words if word.isalpha() and len(str(word))>=3]
+    words=[word.lower() for word in words if word.isalpha()==False and  len(str(word))>=3]
 
     new_words = [
-    word for word in words if word.lower() not in stopwords.words('english')]
+    word for word in words if word.lower()]
 
     new_words=tokenize_and_lemmatize(new_words)
     word_counts = Counter(new_words)
