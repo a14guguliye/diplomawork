@@ -301,6 +301,8 @@ class Trex375FieldCommunicatorFilter(AbstractFilter):
 
 
 
+
+
 class GenericFisherSpareFilter(AbstractFilter):
 
     pattern =r"^(1[0-9]|2[0-9])(a|b)\d{4}(d|f|x)\d{3}$"
@@ -352,7 +354,7 @@ class RosemountManifoldSpare(AbstractFilter):
         return False
     
     def __str__(self) -> str:
-        return 'rosemount_manifold'
+        return 'rosemount_manifold_kit'
 
 
 
@@ -372,6 +374,26 @@ class FisherSpare25002503(AbstractFilter):
     def __str__(self) -> str:
         return 'fisher_spare_25032500'
     
+
+
+
+
+class RosemountManifold(AbstractFilter):
+
+    pattern =r"^(0304|0305|0306)|^(r304|r305|r306)"
+
+
+    def filter_passed(self, text: str):
+        words= text.split()
+
+        for word in words:
+            if re.match(self.pattern, word):
+                return True 
+
+        return False
+    
+    def __str__(self) -> str:
+        return 'rosemount_manifold'
 
 
 
@@ -412,8 +434,8 @@ texts=['regulator pressure 316 stainless steel fisher body',
        "kit:manifold to flange,20mm id x 25mm od kit: manifold to flange,20mm id x 25mm od x 3mm thk ptfe o-ring,12/set o-ring set:20 id x 25mm od,3mm thk,glass-filled teflon,12/set,304 manifold to flg emerson 03031-0019-0003", 
        "kit:rep,relay valve level controller,bal kit: relay valve,repair,level controller,consists of ball bearing assy,zinc ga glass gasket,relay base gasket,filter gasket,flappera                                                  ssy,f/ 2500 series high temp controller kit:relay valve,repair,level controller,consists of ball bearing assy,zinc ga glass gasket,relay base gasket,filter gasket,flapper assy,f/ 2500 series high temp controller fisher controls r2500x00h32", 
        "kit:replacement,rep,level controller,xmt kit: replacement,repair,level controller,transmitter,high temperature relay gasket,fisher kit:repair,replacement,level controller/transmitter,w/ relay gasket,high temp emerson rrelay-x0h22", 
-       "rrelayx0h22"
-
+       "rrelayx0h22",
+       "transmitter,diff pres:coplanar,scalable transmitter,differential pressure: coplanar,scalable,4-20ma output,-250 to 250in wc,stainless steel flange bracket mount,10.5-42.4dc                                                  v,28dcv,stainless steel,hastelloy c276,lcd,atex,iso 15156,nace mr0175,cable entryd e t a i l :  m 2 0  c o n d u i t , f l a n g e  m a t e r i a l :  3 1 6  s t a i n l e s s  steel,pressure rating: 373m bar,w/ 030 5r c5 3b 11 be l8 q 8 ma ni f ol d transmitter,differential pressure: 373mbar range,4 to 20ma output,12 to 45vdc input,ss housing,28vdc max supply output,m20 conduit,3                                                 16 ss mounting bracket/flg,0305rc53b11bel8q8 manifold emerson 3051s2cd2a3a11a1kd4i1y2m5p1q4q8q15a1043"
        ]
 
 
@@ -455,7 +477,8 @@ results=['erkin',
              "talib", 
              "erkin", 
              "erkin", 
-             "erkin"
+             "erkin",
+             "talib"
              ]
 
 
@@ -490,6 +513,7 @@ features = [
    Actuator3025SpareFilter(), 
    RosemountManifoldSpare(),
    FisherSpare25002503(), 
+   RosemountManifold(), 
 ]
 
 
@@ -522,7 +546,7 @@ dt=DecisionTreeClassifier(criterion='gini', random_state=10, max_features=len(df
 dt.fit(X_train, y_train)
 
 
-plt.figure(figsize=(50, 30))
+plt.figure(figsize=(150, 90))
 
 plot_tree(dt, filled=True, feature_names=df.columns, fontsize=20, class_names=dt.classes_)
 plt.savefig("decision_tree_plot.png")
