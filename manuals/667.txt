@@ -1,0 +1,1548 @@
+www.Fisher.com
+Fisher™ 667 Diaphragm Actuator
+Sizes 30/30i‐76/76i and 87
+Contents
+Introduction 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Scope of Manual 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Description 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Specifications 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Educational Services 3. . . . . . . . . . . . . . . . . . . . . . . . .
+Instructional Videos 3. . . . . . . . . . . . . . . . . . . . . . . . . .
+Maximum Pressure Limitations 4. . . . . . . . . . . . . . . .
+Installation 4. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Mounting the Actuator on the Valve 5. . . . . . . . . . . .
+Discussion of Bench Set 7. . . . . . . . . . . . . . . . . . . . . . .
+Spring Verification 7. . . . . . . . . . . . . . . . . . . . . . . . . . .
+Installing the Stem Connector Assembly 9. . . . . . . . .
+Friction Discussion 10. . . . . . . . . . . . . . . . . . . . . . . . . .
+Deadband Measurement 11. . . . . . . . . . . . . . . . . . . . .
+Loading Connection 12. . . . . . . . . . . . . . . . . . . . . . . . .
+Maintenance 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Actuator 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Top‐Mounted Handwheel Assembly
+(Adjustable Down Travel Stop) 15. . . . . . . . . . . . .
+Side‐Mounted Handwheel for Sizes 34/34i
+through 60/60i Actuators 19. . . . . . . . . . . . . . . . . .
+Side‐Mounted Handwheel Assembly for
+Size 70, 76, and 87 Actuators 21. . . . . . . . . . . . . . .
+Casing‐Mounted Travel Stops 23. . . . . . . . . . . . . . . . .
+Parts Kits 24. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Side‐Mounted Handwheels Retrofit Kits 25. . . . . . . .
+Top‐Mounted Handwheel Retrofit Kits 25. . . . . . . . .
+Actuator Repair Kits 24. . . . . . . . . . . . . . . . . . . . . . . . .
+Figure 1. Fisher 667 Actuator Mounted on
+easy‐e™ Valve
+X1182
+Parts List 25. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Actuator Assembly 25. . . . . . . . . . . . . . . . . . . . . . . . . .
+Top‐Mounted Handwheel 26. . . . . . . . . . . . . . . . . . .
+Side‐Mounted Handwheel (34/34i‐60/60i) 37. . . . .
+Side‐Mounted Handwheel (70, 76, and 87) 37. . . .
+Casing Mounted Travel Stops 39. . . . . . . . . . . . . . . . .
+Introduction
+Scope of Manual
+This instruction manual provides information on installation, adjustment, maintenance, and parts ordering for the
+Fisher 667 actuator in sizes 30/30i through 76/76i and size 87. The 667‐4 actuator in sizes 70/70i and 87 is also
+covered. Refer to separate instruction manuals for information about the valve positioner and other accessories used
+with these actuators.
+Do not install, operate, or maintain a 667 actuator (see figure 1) without being fully trained and qualified in valve,
+actuator, and accessory installation, operation, and maintenance. To avoid personal injury or property damage, it is
+important to carefully read, understand, and follow all the contents of this manual, including all safety cautions and
+warnings. If you have any questions about these instructions, contact your Emerson sales office or Local Business
+Partner before proceeding.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+2
+Table 1. Specifications
+SPECIFICATION(1) ACTUATOR SIZE
+30/30i 34/34i 40/40i 45/45i 46/46i 50/50i 60/60i 70/70i (1) 76/76i 87 (1)
+Nominal Effective Area Sq cm 297 445 445 667 1006 677 1006 1419 1006 1419
+Sq Inch 46 69 69 105 156 105 156 220 156 220
+Yoke Boss Diameter mm 54 54 71 71 71 90 90 90 90 125
+Inch 2‐1/8 2‐1/8 2‐13/16 2‐13/16 2‐13/16 3‐9/16 3‐9/16 3‐9/16 3‐9/16 5
+Acceptable Valve Stem Diameter mm 9.5 9.5 12.7 12.7 12.7 19.1 19.1 19.1 19.1 25.4
+Inch 3/8 3/8 1/2 1/2 1/2 3/4 3/4 3/4 3/4 1
+Maximum Allowable Output Thrust(4) N 10230 10230 12010 25131 33582 25131 30246 39142 30246 39142
+LB 2300 2300 2700 5650 7550 5650 6800 8800 6800 8800
+Maximum Travel(2) mm 19 29 38 51 51 51 51 76 (3) 51 76 (3)
+Inch 0.75 1.125 1.5 2 2 2 2 3 (3) 2 3 (3)
+Maximum Casing Pressure for Actuator
+Sizing(4,6)
+Bar 3.8 4.8 4.8 4.5 3.8 4.5 3.8 3.4 3.4 3.4
+Psig 55 70 70 65 55 65 55 50 50 50
+Maximum Excess Diaphragm Pressure(4,5) Bar 3.8 1.4 1.4 0.7 0.7 0.7 0.7 0.7 0.7 0.7
+Psig 55 20 20 10 10 10 10 10 10 10
+Maximum Diaphragm Casing
+Pressure(4,6,7)
+Bar 7.6 6.2 6.2 5.2 4.5 5.2 4.5 4.1 4.1 4.1
+Psig 110 90 90 75 65 75 65 60 60 60
+Approximate Weight Kg 15/17 22/26 23/26 41/44 55/59 43/48 55/60 115/118 86/89 118
+Pounds 34/37 48/58 50/56 90/98 121/129 94/105 122/133 254/260 190/196 260
+Material
+Temperature
+Capabilities
+Nitrile Elastomers -40 to 82C (-40 to 180F)
+Silicone Elastomers -54 to 149C (-65 to 300F)
+1. These values also apply to the 667‐4 actuator construction.
+2. Actuator travel may be less than the value listed after connected to the valve.
+3. Maximum actuator travel for 667‐4 is 102 mm (4 inches).
+4. See also the Specifications portion of the introduction section.
+5. Additional pressure may be added when the actuator is at full travel. If the Maximum Excess Diaphragm Pressure is exceeded, damage to the diaphragm or diaphragm casing might result.
+See the Maximum Pressure Limitation section.
+6. Maximum diaphragm casing pressure must not be exceeded and must not produce a force on the actuator stem greater than the maximum allowable actuator output thrust or the maxi
+mum allowable stem load. See the Maximum Pressure Limitation section.
+7. This maximum casing pressure is not to be used for normal operating pressure. Its purpose is to allow for typical regulator supply settings and/or relief valve tolerances.
+Description
+The 667 actuator (figure 1) and the 667‐4 actuator are reverse‐acting, spring‐opposed diaphragm actuators. They
+provide automatic operation of control valves. The 667 actuator provides 76 mm (3 inches) maximum actuator travel.
+The 667‐4 actuator provides 102 mm (4 inches) maximum actuator travel. Both actuators position the valve plug in
+response to varying pneumatic loading pressure on the diaphragm. Figure 2 shows the operation of these actuators.
+A 667 or 667‐4 actuator can be furnished with either a top‐mounted or a side‐mounted handwheel assembly. A
+top‐mounted handwheel assembly is normally used as an adjustable down travel stop. (A down travel stop limits
+actuator travel in the down direction [when the stem is traveling out of the actuator]. Travel in the up direction is when
+the stem is traveling into the actuator.) A side‐mounted handwheel assembly is normally used as an auxiliary manual
+actuator. The side‐mounted handwheel can also be used as an adjustable up or down travel stop. Casing‐Mounted
+adjustable up or down travel stops are also available on this actuator.
+Note
+If repeated or daily manual operation is expected, the actuator should be equipped with a side‐mounted handwheel rather than a
+casing‐mounted travel stop or top‐mounted handwheel. The side‐mounted handwheel is designed for more frequent use as a
+manual operator.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+3
+Figure 2. Schematic of Fisher 667 and 667‐4 Actuators
+STEM
+SEAL
+STEM
+AIR LIFTS
+STEM UP
+SPRING PUSHES
+STEM DOWN
+A6759
+Specifications
+Refer to table 1 for Specifications of the 667 and 667‐4 actuators. See the actuator nameplate for specific information
+for your actuator.
+Educational Services
+For information on available courses for Fisher 667 diaphragm actuators, as well as a variety of other products,
+contact:
+Emerson Automation Solutions
+Educational Services - Registration
+Phone: 1-641-754-3771 or 1-800-338-8158
+E-mail: education@emerson.com
+emerson.com/fishervalvetraining
+Instructional Videos
+Click here or access the following QR code for a video on mounting a DVC6200 Digital Valve
+Controller on a 667 actuator.
+Click here or access the following QR code for a video on installing a side-mounted handwheel
+on a 667 actuator.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+4
+WARNING
+To avoid personal injury or damage to equipment that may result in the malfunction of the control valve or loss of control
+of the process caused by excessive pressure, do not exceed the Maximum Pressures listed in table 1. Refer to the Maximum
+Pressure Limitations section.
+Maximum Pressure Limitations
+The casing and diaphragm of 667 actuators are pressure operated. This air pressure provides energy to compress the
+spring, to stroke the actuator, and to seat the valve. The following explanations describe the maximum pressure limits
+for an actuator. Refer to the nameplate or table 1 for maximum values for your actuator.
+ Maximum Casing Pressure for Actuator Sizing: This is the maximum pressure that can be applied at less than full
+travel of the actuator. If this stroking pressure is exceeded before the upper diaphragm plate contacts the travel
+stop, damage to the stem or other parts might result.
+ Maximum Excess Diaphragm Pressure: Additional pressure may be added when the actuator is at full travel. If the
+Maximum Excess Diaphragm Pressure is exceeded, damage to the diaphragm or diaphragm casing might result.
+Because the actuator has traveled its specified travel, and the diaphragm head is physically stopped from movement,
+the energy from any additional air pressure is transmitted to the diaphragm and diaphragm casings. The amount of air
+pressure that can be added once the actuator has traveled to the stops is limited by the resultant adverse effects that
+may occur. Exceeding this limiting factor could result in leakage or casing fatigue due to the deformation of the upper
+diaphragm casing.
+ Maximum Diaphragm Casing Pressure: If the Maximum Diaphragm Casing Pressure is exceeded, damage to the
+diaphragm, diaphragm casing, or actuator might result.
+Installation
+WARNING
+Always wear protective gloves, clothing, and eyewear when performing any installation operations.
+Check with your process or safety engineer for any other hazards that may be present from exposure to process media.
+If installing into an existing application, also refer to the WARNING at the beginning of the Maintenance section in this
+instruction manual.
+Key number locations are shown in figures 6, 7, 8, 9, and 10, unless otherwise noted. Also, refer to figure 3 for location
+of parts.
+CAUTION
+To avoid parts damage, do not use an operating pressure that exceeds the Maximum Diaphragm Casing Pressure (table 1)
+or produces a force on the actuator stem greater than the Maximum Allowable Output Thrust (table 1) or the Maximum
+Allowable Valve Stem Load.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+5
+ Valve/Actuator Assembly: If the actuator and valve are shipped together as a control valve assembly, it has been
+adjusted at the factory, and may be installed in the pipeline. After installing the valve in the pipeline, refer to the
+Loading Connection procedures.
+ Actuator Mounting: If the actuator is shipped separately or the actuator has been removed from the valve, it is
+necessary to mount the actuator on the valve before placing the valve in the pipeline. Refer to the following
+actuator mounting procedures before placing the valve in service. It is recommended that you perform the Bench
+Set Spring Adjustment procedures in this section to confirm that the actuator is adjusted correctly for the valve
+travel.
+ Positioner: If a positioner is installed, or is to be installed on the actuator, refer to the positioner instruction manual
+for installation. During the adjustment procedures, it will be necessary to provide a temporary loading pressure to
+the actuator diaphragm.
+ Handwheel Cap: If the handwheel cap (key 247, figures 11, 13, or 21) is not in place, install the cap by pushing it on
+by hand until it snaps into place.
+Mounting the Actuator on the Valve
+CAUTION
+The 667 actuator spring load pushes the stem down out of the actuator yoke (see figure 2), and it can come in contact with
+the valve stem during actuator mounting.
+If the valve stem is allowed to remain in the up position (towards the actuator) during actuator mounting, it can interfere
+with the actuator stem during mounting. It is possible to damage valve stem threads or bend the valve stem. Be sure the
+valve stem is pushed down (into the valve body), away from the actuator while mounting.
+It may be necessary to apply a temporary loading pressure to the actuator to move the actuator stem away from the
+valve during installation.
+If it is not possible to provide a temporary loading pressure, be very careful when lowering the actuator over the valve
+stem to prevent damage to valve stem and threads.
+WARNING
+When moving the actuator stem with loading pressure applied, exercise caution to keep hands and tools out of the
+actuator stem travel path. If the loading pressure is accidently disconnected, personal injury and property damage may
+result if something is caught between the actuator stem and other control valve parts.
+1. Provide a vise or some other method of supporting the valve and the weight of the actuator during assembly. For
+direct or reverse acting valves, push the valve stem down away from the actuator while mounting the actuator.
+2. Screw the stem locknuts all the way onto the valve stem. With the concave side of the travel indicator disk (key 34)
+facing the valve, install the travel indicator disk on the valve stem. (Note: The travel indicator disk is not used with
+size 87 actuators.)
+3. Lift or hoist the actuator onto the valve bonnet:
+a. For size 87 actuators: Slowly lower the actuator down onto the valve while guiding the valve stem into the
+opening in the end of the actuator stem (see figure 4). Once the actuator is in place, insert the cap screws and
+tighten the hex nuts, securing the actuator to the bonnet.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+6
+b. For all other size actuators:
+ Slowly lower the actuator down onto the valve. As the yoke passes over the end of the valve stem, place the yoke
+locknut over the valve stem. (Note: On small size actuators, it may be necessary to remove the indicator disk and
+re‐install it while lowering the actuator onto the valve because the disk will not go through the actuator yoke
+opening).
+ Continue to lower the actuator while guiding the valve stem into the opening in the end of the actuator stem until
+the actuator is in place (see figure 4).
+ Screw the yoke locknut onto the valve bonnet and tighten the locknut.
+4. Do not connect the actuator stem to the valve stem at this time. Whenever the actuator is installed on the valve, it
+is recommended that you perform the Bench Set Spring Adjustment procedures below, to verify that the actuator is
+still adjusted correctly.
+Figure 3. Actuator‐Mounting Components for Size 30/30i through 70/70i Actuators
+VALVE STEM
+YOKE LOCK NUT
+YOKE BOSS
+DIAMETER
+BONNET
+TYPICAL VALVE
+(REFER TO
+VALVE MANUAL)
+W6199-1
+MATCH
+LINE FOR
+ACTUATOR
+VENT ASSEMBLY
+DIAPHRAGM CASINGS
+DIAPHRAGM AND STEM
+SHOWN IN DOWN POSITION
+DIAPHRAGM
+PLATE
+LOADING AIR
+PRESSURE CONNECTION
+ACTUATOR SPRING
+ACTUATOR STEM
+SPRING SEAT
+SPRING ADJUSTOR
+STEM CONNECTOR
+YOKE
+TRAVEL INDICATOR DISK
+INDICATOR SCALE
+X1184 X1185
+SIZE 30 THROUGH 76 SIZE 30i THROUGH 76i
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+7
+Discussion of Bench Set
+The bench set pressure values are used to adjust the initial compression of the actuator spring with the valve‐actuator
+assembly “on the bench.” The correct initial compression ensures that the valve‐actuator assembly will function
+properly when it is put into service and the proper actuator diaphragm operating pressure is applied.
+The bench set values are established with the assumption that there is no packing friction. When attempting to adjust
+the spring in the field, it is very difficult to ensure that there is no friction being applied by “loose” packing.
+Accurate adjustment to the bench set range can be made during the actuator mounting process by making the
+adjustment before the actuator is connected to the valve (see the Spring Verification Procedure).
+Figure 4. Bench Set Adjustment
+SPRING
+ADJUSTER
+ACTUATOR STEM
+UPPER BENCH
+SET LOADING
+PRESSURE
+LOWER BENCH
+SET PRESSURE
+MARK
+VALVE STEM
+RATED VALVE
+TRAVEL MEASURE
+MARK VALVE
+STEM HERE LOWER BENCH SET
+LOADING PRESSURE
+3
+1
+NOTES:
+THE LOWER PSIG LOADING PRESSURE (MARKED
+ON NAMEPLATE) WHERE THE FIRST MOVEMENT OF
+ACTUATOR STEM IS DETECTED.
+MARK THIS POINT WITH TAPE OR A MARKER.
+THE UPPER PSIG LOADING PRESSURE RETRACTS
+ACTUATOR STEM.
+MEASURE DISTANCE OF TRAVEL. IT SHOULD EQUAL
+THE TRAVEL SHOWN ON THE NAMEPLATE.
+1
+2
+3
+4
+2
+4
+4
+50A8379‐C
+B2429‐1
+Spring Verification
+Ensure that the actuator diaphragm is at the bottom of its travel as shown in figure 4 and not connected to the valve.
+(Note: Some spring compression is required to move the diaphragm to the bottom of its travel.)
+Also, provide a certified pressure gauge that will accurately read the diaphragm pressure from 0 through 0.3 bar (5
+psig) above the upper operating range pressure marked on the nameplate. Apply loading pressure to the diaphragm.
+Stroke the actuator a few times to ensure that the pressure gauge is working correctly, and that the actuator is
+functioning properly.
+CAUTION
+To prevent actuator damage, it is important to ensure that the actuator stem is stroking smoothly and not exhibiting
+binding or excessive friction between the actuator stem and the bushing (key 7). Binding or excessive friction could be an
+indicator of incorrect assembly or damaged parts.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+8
+Key numbers are shown in figures 6, 7, 8, 9, and 10.
+Note
+For 667 actuators installed on push-down-to-close (direct acting) valves with fail-close action, the valve plug seat is the limit for
+downward travel and the actuator is the limit for upward (away from the valve) movement.
+For 667 actuators installed on push-down-to-open (reverse acting) valves with fail-open action, the actuator down stop is the limit
+for downward movement, and the valve seat is the limit for upward (away from the valve) movement.
+Ensure the correct Spring Verification procedure is followed for the type of valve on which the 667 actuator is installed.
+For Push Down to Close (Direct Acting) Valves
+1. If not already accomplished, push the valve stem down away from the actuator to the closed position.
+2. Set the diaphragm loading pressure to 0.3 bar (5 psig) over the upper operating range pressure. The travel stop cap
+screw (key 12) should be contacting the upper diaphragm casing.
+3. Slowly decrease the pressure towards the upper bench set pressure, as indicated on the nameplate, while checking
+for the first linear movement of the actuator stem.
+Note
+Before turning the spring adjuster on size 70/70i, 76/76i, or 87 actuators, assemble the stem connector around the actuator stem
+and the anti‐rotating lug on the yoke. Mark the actuator stem as a visual reference to verify that stem rotation does not occur.
+Remove the stem connector before rechecking the bench set.
+4. If movement occurs before or after the upper bench set pressure is reached, adjust the spring adjuster (see figure
+4). Thread the adjuster up or down on the actuator stem until the actuator stem movement is first detected at the
+upper bench set pressure. (Note: You may need to lower the loading pressure to reduce spring compression,
+allowing the spring adjuster to turn.)
+5. Be sure the spring adjuster is adjusted to meet the requirements of step 4 above.
+6. Slowly decrease diaphragm loading pressure to the lower bench set pressure, as indicated on the nameplate. This
+will extend the actuator stem toward the valve. Mark the end of the actuator stem on a nearby surface using tape or
+some other method.
+7. Slowly increase the diaphragm loading pressure until the upper bench set pressure is reached. Again, the travel stop
+cap screw (key 12) should be against the upper diaphragm casing.
+8. Measure the distance between the mark or tape to the end of the actuator stem. This distance should match the
+rated travel indicated on the nameplate.
+9. If the measured travel matches the nameplate travel, bench set is complete. Proceed to the Installing the Stem
+Connector Assembly subsection.
+10. If the measured travel is not exact, consider the spring free‐length and spring rate tolerances may produce a
+slightly different bench set than specified. Contact your Emerson Automation Solutions sales office for assistance.
+For Push Down to Open (Reverse Acting) Valves
+1. If not already accomplished, push the valve stem down away from the actuator to the open position. Later, when
+installing the connector, pull up the valve stem to the closed position.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+9
+2. Set the diaphragm loading pressure to a value less than the lower bench set pressure, as indicated on the
+nameplate, or near zero. The down travel stops (key 77) should be contacting the yoke.
+3. Slowly increase the pressure towards the lower bench set pressure while checking for the first linear movement of
+the actuator stem.
+Note
+Before turning the spring adjuster on size 70/70i, 76/76i, or 87 actuators, assemble the stem connector around the actuator stem
+and the anti‐rotating lug on the yoke. Mark the actuator stem as a visual reference to verify that stem rotation does not occur.
+Remove the stem connector before rechecking the bench set.
+4. If movement occurs before or after the lower pressure is reached, adjust the spring adjuster (see figure 4). Thread
+the adjuster up or down on the actuator stem until the actuator stem movement is first detected at the lower bench
+set pressure.
+5. Apply the upper bench set pressure indicated on the nameplate to the diaphragm. This will retract the actuator
+stem away from the valve. Mark the end of the actuator stem on a nearby surface using tape or some other method.
+6. Slowly decrease the diaphragm pressure until the lower bench set pressure is applied. Again, the down travel stops
+(key 77) should be against the yoke.
+7. Measure the distance between the mark or tape to the end of the actuator stem. This distance should match the
+rated travel indicated on the nameplate.
+8. If the measured travel matches the nameplate travel, bench set is complete. Proceed to the Installing the Stem
+Connector Assembly subsection.
+9. If the measured travel is not exact, consider the spring free‐length and spring rate tolerances may produce a slightly
+different bench set than specified. Contact your Emerson Automation Solutions sales office for assistance.
+Installing the Stem Connector Assembly
+When installing the stem connector assembly (key 31), the actuator and valve stem threads should engage the
+threads of the stem connector by a distance equal to the diameter of the stem.
+WARNING
+Install the stem connector securely before a positioner is mounted to the actuator and pressurized, using only a
+regulator-controlled air supply, not the positioner, to move the actuator stem.
+To avoid personal injury or property damage, keep hands and tools out of the actuator stem travel path while applying
+loading pressure to move the actuator stem in the following steps.
+CAUTION
+To avoid damaging the seating surfaces, do not rotate the valve plug while it is seated. Exercise care while installing the
+stem connector assembly to avoid damage to the valve plug stem and valve stem threads.
+Note
+Replacement stem connectors are an assembly of two stem connector halves, cap screws, and a spacer between the connector
+halves. Remove the spacer and discard it, if present, before clamping the actuator and valve stems together. Use only a mated pair
+of stem connectors.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+10
+1. If necessary, push the valve stem down so that the valve plug is touching the seat ring on direct‐acting valves. For
+reverse‐acting valves, pull the stem up to the closed position. Always start with the valve plug on the seat.
+2. If necessary, screw the valve stem locknuts down, away from the connector location. For all actuators except size
+87, ensure that the travel indicator disk (key 34) is on top of the locknuts.
+3. Adjust the diaphragm pressure to the lower bench set pressure (or, the upper bench set pressure for reverse‐acting
+valves.) This should be the same pressure used in the Spring Verification steps, and it is marked on the nameplate.
+4. Place the stem connector half with the threaded holes approximately half way between the actuator and valve
+stems, and align the actuator stem and valve stem with threads from both stems mated root-to-crest with the stem
+connector. If the threads from one of the stems do not fully align with the stem connector, a slight change to
+loading pressure may be necessary to align the threads. Refer to figures 6, 7, 8, 9, and 10 to help locate the
+connector position.
+CAUTION
+Incomplete engagement of either the valve stem or actuator stem in the stem connector can result in stripped threads or
+improper operation. Be sure that the length of each stem clamped in the stem connector is equal to or greater than one
+diameter of that stem. Damage to threads on either stem or in the stem connector can cause the parts to be replaced
+prematurely. Do not loosen the cap screws when the stem connector has spring or loading pressure force applied.
+5. Install the other half of the stem connector and insert the cap screws and tighten them while ensuring even spacing
+between the stem connector halves on all sides. If installing a positioner, also attach the feedback bracket at the
+same time.
+CAUTION
+Over‐tightening the valve stem locknuts can make disassembly difficult.
+6. Screw the valve stem locknuts up against the stem connector for the size 87 actuator. For all other actuator sizes,
+screw the valve stem locknuts up until the indicator disk contacts the bottom of the stem connector. Do not
+overtighten the locknuts.
+7. Slowly stroke the valve from fully open to fully closed and verify full rated travel is achieved.
+Be sure that the valve is in the closed position. Loosen the screws on the travel indicator scale (key 32), and align it with
+the travel indicator disk (key 34). Stroke the valve full travel to ensure that the travel matches the rated valve travel on
+the nameplate. If valve travel is not correct, repeat the stem connector procedure.
+Friction Discussion
+If you are attempting to adjust the bench set after the actuator is connected to the valve and the packing tightened,
+you must take friction into account. Make the spring adjustment so full actuator travel occurs at the bench set values
+(a) plus the friction force divided by the effective diaphragm area with increasing diaphragm pressure or (b) minus the
+friction force divided by the effective diaphragm area with decreasing diaphragm pressure.
+If the stem connector assembly has been installed, the valve friction may be determined by the following procedure:
+1. Install a pressure gauge in the actuator loading pressure line that connects to the actuator diaphragm casing.
+Note
+Steps 2 and 4 require that you read and record the pressure shown on the pressure gauge.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+11
+2. Increase the actuator diaphragm pressure and read the diaphragm pressure as the actuator reaches a travel
+position in the rated travel of the valve that does not contact a travel stop. Make a reference mark on the travel
+indicator scale using tape or some other method at this point.
+3. Increase the actuator diaphragm pressure until the actuator is at a travel position greater than the position
+referenced in step 2 using the reference point to identify first movement.
+4. Decrease the actuator diaphragm pressure and read the diaphragm pressure as the actuator returns to the position
+referenced in step 2.
+The difference between the two diaphragm pressure readings is the change in the diaphragm pressure required to
+overcome the friction forces in the two directions of travel.
+5. Calculate the actual friction force:
+Friction
+Force, = 0.5
+pounds
+Difference
+in pressure
+readings, psig
+
+Effective
+diaphragm area,
+inches2
+Refer to table 1 for the effective diaphragm area.
+It is difficult to rotate the spring adjustor (key 74, figures 6, 7, 8, 9, and 10) when the full actuator loading pressure is
+applied to the actuator. Release the actuator loading pressure before adjusting. Then re-apply loading pressure to
+check the adjustment.
+Figure 5. Typical Valve Response to Deadband
+UPPER
+BENCH SET
+PRESSURE
+LOWER
+BENCH SET
+PRESSURE
+9
+3
+0
+CLOSING
+VALVE
+15 1.0
+0.6
+0.2
+OPENING
+VALVE
+OPENCLOSED MID RANGE
+VALVE TRAVEL
+DIAPHRAGM PRESSURE, PSIG
+DIAPHRAGM PRESSURE, BAR
+RANGE OF
+DEADBAND 1
+UPPER
+BENCH SET
+PRESSURE
+LOWER
+BENCH SET
+PRESSURE
+9
+3
+0
+CLOSING
+VALVE
+15 1.0
+0.6
+0.2OPENING
+VALVE
+OPEN CLOSEDMID RANGE
+VALVE TRAVEL
+DIAPHRAGM PRESSURE, PSIG
+DIAPHRAGM PRESSURE, BAR
+1
+NOTE:
+DEADBAND IS CAUSED BY FRICTION.
+A6763‐2
+RANGE OF
+DEADBAND 1
+DIRECT ACTING VALVE REVERSE ACTING VALVE
+BENCH SET BENCH SET
+Deadband Measurement
+Deadband is caused by packing friction, unbalanced forces, and other factors in the control valve assembly. Deadband
+is the range a measured signal can vary without initiating a response from the actuator (see figure 5). Each actuator
+spring has a fixed spring rate (force divided by compression). You have verified that the right spring was installed in the
+actuator by completing the Spring Verification steps.
+Deadband is one factor that affects the control valve assembly operation during automatic loop control. The control
+loop tolerance for deadband varies widely depending on the loop response. Some common symptoms of the
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+12
+deadband being too wide are no movement, a “jump” movement, or oscillating movements of the actuator during
+automatic loop control. The following steps are provided to determine the span of deadband. The percent of
+deadband is helpful in troubleshooting problems with the process control loop.
+1. Start at a pressure near the lower bench set pressure, slowly increase pressure until the valve is approximately at
+mid‐travel. Note this pressure reading.
+2. Slowly decrease pressure until movement of the valve stem is detected, and note this pressure.
+3. The difference between these two pressures is deadband, in psi.
+4. Calculate the percent of deadband by:
+Deadband, psi
+Deadband = Deadband, psi = nn %
+Bench Set Span, psi
+Loading Connection
+Key number locations are shown in figures 6, 7, 8, 9, and 10, unless otherwise noted.
+The loading pressure connections are made at the factory if the valve, actuator, and positioner come as a unit. Keep
+the length of tubing or piping as short as possible to avoid transmission lag in the control signal. If a volume booster,
+valve positioner, or other accessory is used, be sure that it is properly connected to the actuator. Refer to the
+positioner instruction manual or other manuals as necessary. For actuators shipped separately or whenever the
+actuator pressure connections are installed, use the following steps:
+1. Connect the loading pressure piping to the NPT internal connection in the side of the yoke (key 73).
+2. For size 70/70i and 87 actuators, if necessary, remove the 1/4 NPT bushing if a 1/2 NPT internal connection is
+needed to increase connection size. The connection can be made with either piping or tubing.
+3. Cycle the actuator several times to be sure that the valve stem travel is correct when the correct pressure ranges are
+applied to the diaphragm.
+4. If valve stem travel appears to be incorrect, refer to the Bench Set Spring Adjustment procedures at the beginning
+of this section. Do not place the valve in service if it is not reacting correctly to diaphragm loading pressure changes.
+Maintenance
+Actuator parts are subject to normal wear and must be inspected regularly and replaced when necessary. The
+frequency of inspection and replacement depends on the severity of service conditions.
+WARNING
+Avoid personal injury or property damage from sudden release of process pressure or uncontrolled movement of parts.
+Before performing any maintenance operations:
+ Do not remove the actuator from the valve while the valve is still pressurized.
+ Always wear protective gloves, clothing, and eyewear when performing any maintenance operations to avoid personal
+injury.
+ Disconnect any operating lines providing air pressure, electric power, or a control signal to the actuator. Be sure the
+actuator cannot suddenly open or close the valve.
+ Use bypass valves or completely shut off the process to isolate the valve from process pressure. Relieve process pressure
+from both sides of the valve. Drain the process media from both sides of the valve.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+13
+ Vent the power actuator loading pressure and relieve any actuator spring pre‐compression.
+ Use lock‐out procedures to be sure that the above measures stay in effect while you work on the equipment.
+ The valve packing box may contain process fluids that are pressurized, even when the valve has been removed from the
+pipeline. Process fluids may spray out under pressure when removing the packing hardware or packing rings, or when
+loosening the packing box pipe plug.
+ Check with your process or safety engineer for any additional measures that must be taken to protect against process
+media.
+The maintenance instructions are divided into several sections: Actuator, Top‐Mounted Handwheel Assembly
+(Adjustable Down Travel Stop), Side‐Mounted Handwheel Assembly for Size 34/34i through 60/60i Actuators (Manual
+Actuator), Side‐Mounted Handwheel Assembly for Size 70, 76 and 87 Actuators (Manual Actuator), and
+Casing‐Mounted Travel Stops.
+Actuator
+This procedure describes how the actuator can be completely disassembled and assembled. When inspection or
+repairs are required, disassemble only those parts necessary to accomplish the job; then, start the assembly at the
+appropriate step.
+Key numbers are shown in figures 6, 7, 8, 9, or 10, unless otherwise noted. Figure 6 shows the size 30 through 60
+actuators, figure 7 shows the size 30i through 60i actuators, figure 8 shows the size 70 actuator, figure 9 shows the
+size 70i actuator, and figure 10 shows the size 87 actuator.
+Actuator Disassembly
+Isolate the control valve from the line pressure, release pressure from both sides of the valve body, and drain the
+process media from both sides of the valve. Also shut off all pressure lines to the power actuator, release all pressure
+from the actuator. Use lock‐out procedures to be sure that the above measures stay in effect while you work on the
+equipment.
+1. If equipped, remove the tubing or piping from the connection in the top of the yoke (key 73).
+2. Turn the spring adjuster (key 74) counterclockwise (toward the valve body) until all spring compression is relieved.
+WARNING
+To avoid personal injury due to the sudden uncontrolled movement of parts, do not loosen the stem connector cap screws
+when the stem connector has spring force applied to it.
+3. If necessary, remove the actuator from the valve body by separating the stem connector (key 31). Loosen the stem
+locknuts for the size 87 actuator, and remove the stem connector nuts. For all other sizes, separate the stem
+connector by loosening the stem locknuts (keys 69 and 75) and unscrewing the two stem connector cap screws.
+4. Unscrew the spring adjuster (key 74) from the actuator stem (key 144). Also lift the spring seat and spring (key 19
+and 18) out of the yoke.
+5. Remove the diaphragm casing cap screws and nuts (keys 13 and 14), and lift off the upper diaphragm casing (key
+1).
+CAUTION
+Be careful during disassembly to avoid damaging the O‐rings (key 8).
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+14
+6. Remove the following connected parts: the diaphragm (key 3), upper diaphragm plate (key 4), spacer (key 2), cap
+screw (key 12), lower diaphragm plate (key 71), and actuator stem (key 144). Be careful when pulling the threads of
+the actuator stem through the seal bushing (key 7) to avoid damaging the O‐rings (key 8).
+7. Remove the cap screw (key 12) to separate the parts of this assembly.
+8. To remove the seal bushing, remove the snap ring (key 72), and lift out the bushing. Inspect, and if necessary,
+replace O‐rings (keys 8 and 9).
+9. Remove cap screws (key 30), and take off the lower diaphragm casing (key 64) and the gasket (key 70, size 30/30i
+through 60/60i and 76/76i) or O‐ring (key 70, size 70/70i or 87). If necessary, the down travel stops (key 77) can be
+removed.
+Table 2. Actuator Assembly Recommended Torque Values
+DESCRIPTION, KEY
+NUMBER ACTUATOR SIZE THREAD SIZE, INCH TORQUE
+N•m Lbf•ft
+Casing to yoke, key 30(1) 30/30i to 60/60i and 76/76i 3/8-16 41 30
+70/70i and 87 1/2-13 95 70
+Travel stop, key 12
+30/30i 3/8-24 41 30
+34/34i and 40/40i 1/2-20 68 50
+45/45i to 76/76i and 87 3/4-16 183 135
+MO U-bolt nut, key 170 34 and 40 1/2-13 81 60
+45 to 60 5/8-11 163 120
+MO U-bolt nut, key 147 34 and 40 3/8-16 41 30
+MO U-bolt nut, key 144 45 to 60 3/8-16 41 30
+Diaphragm casing, key 14 (1) 30/30i to 76/76i and 87 3/8-24 27 20
+Hex cap screw,key 256 34i to 40i 1/2-13 92 68
+45i to 60i 5/8-11 163 120
+Hex cap screw,key 257 34i to 60i 3/8-16 39 29
+Stem connector, key 26(2)
+30/30i through 40/40i 5/16-18 23 17
+45/45i through 70/70i 3/8-16 39 29
+87 1/2-13 91 67
+1. Observe tightening pattern and procedure described in the appropriate Actuator Assembly section.
+2. Torque values when lithium grease is used on the threads.
+Actuator Assembly
+Refer to table 2 as appropriate.
+1. Coat the O‐rings (key 70/70i, sizes 70 and 87) with lithium grease (key 237), or, coat the gasket with lithium grease
+(key 237). Place a new gasket or O‐ring (key 70) on the yoke (key 73). Position the lower diaphragm casing (key 64)
+on the yoke and align the holes. Insert the cap screws (key 30) and tighten evenly in a crisscross pattern to 41 Nm
+(30 lbfft) for size 30/30i‐60/60i and 76/76i actuators or 95 Nm (70 lbfft) for size 70/70i and 87 actuators. If down
+travel stops (key 77) were removed, insert and tighten them.
+2. Coat the O‐rings (keys 8 and 9) with lithium grease (key 237) and place the O‐rings in the seal bushing (key 7).
+3. Fill the seal bushing with lithium grease (key 237), slide the bushing into the yoke (key 73), and install the snap ring
+(key 72).
+CAUTION
+Be careful during assembly to avoid damaging the O‐rings (key 8).
+4. Assemble the actuator stem (key 144), lower diaphragm plate (key 71), diaphragm (key 3), upper diaphragm plate
+(key 4), and the travel stop cap screw and spacer (keys 12 and 2). Coat the cap screw threads with lithium grease
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+15
+(key 237). Tighten the cap screw (key 12) to the appropriate torque as shown in table 2. Place this assembly in the
+actuator. Take care when pushing the actuator stem through the seal bushing so that the threads do not damage
+the O‐rings.
+Note
+When you replace actuator diaphragms in the field, take care to ensure the diaphragm casing bolts are tightened to the proper
+load to prevent leakage, but not crush the material. Perform the following tightening sequence with a manual torque wrench for
+size 30/30i‐76/76i and 87 actuators.
+CAUTION
+Over‐tightening the diaphragm cap screws and nuts (keys 13 and 14) can damage the diaphragm. Do not exceed 27 Nm
+(20 lbfft) torque.
+Note
+Do not use lubricant on these bolts and nuts. Fasteners must be clean and dry.
+5. Install the upper diaphragm casing (key 1), and install the cap screws and nuts (keys 13 and 14). Tighten the
+diaphragm cap screws and nuts in the following manner.
+6. The first four bolts tightened should be diametrically opposed and 90 degrees apart. Tighten these four bolts to 13
+Nm (10 lbfft).
+7. Tighten the remaining bolts in a clockwise, criss‐cross pattern to 13 Nm (10 lbfft).
+8. Repeat this procedure by tightening four bolts, diametrically opposed and 90 degrees apart, to a torque of 27 Nm
+(20 lbfft).
+9. Tighten the remaining bolts in a clockwise, criss‐cross pattern to 27 Nm (20 lbfft).
+10. After the last bolt is tightened to 27 Nm (20 lbfft), all of the bolts should be tightened again to 27 Nm (20 lbfft)
+in a circular pattern around the bolt circle.
+11. Once completed, no more tightening is recommended.
+12. Install the actuator spring (key 18) and spring seat (key 19). Apply anti‐seize lubricant (key 239) to the threads of
+the actuator stem and to the surface of the spring adjuster (key 74) that contacts the spring seat. Thread the spring
+adjuster onto the actuator stem.
+13. Mount the actuator onto the valve in accordance with the procedures in the Installation section.
+Top‐Mounted Handwheel Assembly (Adjustable Down Travel Stop)
+Actuator key numbers are shown in figures 6, 7, 8, 9, and 10. And, top‐mounted handwheels are shown in figures 11,
+12, 13, 14, and 15.
+Note
+If repeated or daily manual operation is expected, the actuator should be equipped with a side‐mounted handwheel rather than a
+casing‐mounted travel stop or top‐mounted handwheel. The side‐mounted handwheel is designed for more frequent use as a
+manual operator.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+16
+A top‐mounted handwheel assembly (figures 11, 12, 13, 14, and 15) is usually used as an adjustable down travel stop
+to limit full extension of the actuator stem. Turning the handwheel counterclockwise pulls the extension rod (key 150,
+figures 11, 13, and 14) up, retracting the actuator stem.
+Instructions are given below for complete disassembly and assembly. Perform the disassembly only as far as necessary
+to accomplish the required maintenance; then, begin the assembly at the appropriate step.
+Note
+For size 70/70i and 87 actuators with handjack bars (figure 15) it is recommended that the handjack bar (key 58) be removed
+when not in use and the handwheel cap (key 247) be installed for weather protection of the internal components.
+Disassembly for Top‐Mounted Handwheel
+1. Bypass the control valve, reduce loading pressure to atmospheric, and if equipped, remove the tubing or piping
+from the connection in the top of the yoke (key 73, figures 6, 8, 9, and 10).
+2. Turn the handwheel (key 58) clockwise so that the handwheel assembly is not causing any spring compression.
+3. Turn the actuator spring adjuster (key 74) to relieve all the compression from the spring (key 18).
+4. If servicing just the thrust bearing, races, and handwheel screw (keys 180, 181, and 160), use the following steps:
+ Remove the cap and take out the cotter pin. Remove the castle nut, bearing retainer, thrust bearing, and races (keys
+247, 167, 166, 180, and 181).
+ Use the handwheel to remove the handwheel screw (key 160) from the handwheel body (key 148).
+ If necessary, remove the extension rod (key 150) at this time. Most maintenance procedures do not require the rod
+to be removed.
+ Clean and inspect all parts or replace parts as necessary. Upon re‐assembly, lubricate handwheel threads, bearings,
+and races with anti‐seize lubricant (key 239).
+ Lubricate and re‐install the handwheel screw into handwheel body (key 148). Lubricate and replace the races,
+bearing, and retainer (keys 181, 180, and 182). Replace the castle nut (key 166), tighten it, and insert the cotter pin
+(key 167). Replace the handwheel cap (key 247).
+5. For size 30/30i through 60/60i and 76/76i actuator handwheels (figures 11 and 13):
+ Remove the cap screws (key 161). Make sure that the guide plate can turn between the handwheel body and the
+mounting plate (keys 157, 148 and 158).
+ Remove the cap (key 247) and cotter pin (key 167). Remove the castle nut (key 166) and, if necessary, unscrew the
+extension rod (key 150). Remove the rod, the handwheel body (key 148), and the attached parts.
+ Remove the hex nuts and cap screws (keys 14 and 13, figures 6, 7, 8, 9, and 10) from the diaphragm casings. Lift off
+the upper diaphragm casing (key 1) and the mounting plate (key 158).
+ Turn the handwheel (key 58) to remove the handwheel screw (key 160) from the handwheel body (key 148).
+Remove the retaining ring (key 60) if the handwheel (key 58) must be separated from the handwheel screw.
+ If necessary, perform other actuator maintenance before returning to the following assembly steps.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+17
+6. For size 70/70i and 87 actuator handwheels (figures 14 and 15):
+ Remove the cap (key 247). Take out the cotter pin (key 167) and remove the castle nut, the bearing retainer, and
+thrust bearing (keys 166, 182, 181, and 180). It is not necessary to remove the extension rod (key 150) at this time.
+ Remove the hex nuts and cap screws (keys 14 and 13, figures 6, 7, 8, 9, and 10) from the diaphragm casings. Lift off
+the upper diaphragm casing (key 1), handwheel body (key 148) and attached parts.
+ If travel stops (key 152) are used, note and record their position relative to the cap screws (key 154) for use in
+assembly. Remove the travel stops and cap screws, and remove either the mounting plate (key 158, figure 14) or
+the handwheel body (key 148, figure 14) and attached parts.
+ Turn the handwheel (key 58) to remove the handwheel screw (key 160) from the handwheel body (key 148).
+Remove the retaining ring (key 60) if the handwheel (key 58) must be separated from the handwheel screw.
+ If necessary, perform other actuator maintenance before returning to the following assembly steps.
+Assembly for Top‐Mounted Handwheel
+For size 30/30i through 60/60i and 76/76i actuator handwheels:
+Refer to figures 11, 12, and 13 for top‐mounted handwheel assemblies.
+1. If it was removed, slide the handwheel (key 58) onto the end of the handwheel screw (key 160), and snap the
+retaining ring (key 60) into place. Also, install the guide post (key 150) if it was removed.
+2. Generously coat the threads of the handwheel screw (key 160) with anti‐seize lubricant (key 239). Turn the screw
+into the handwheel body (key 148).
+3. Install the mounting plate (key 158) to the diaphragm casing (key 1, figures 6, 8, 9, and 10) with the cap screws (key
+154). Finger tighten the screws.
+4. If travel stops were used, install the travel stops to their original positions as recorded in the proceeding
+Disassembly steps. Tighten the screws and travel stops.
+Note
+When you replace actuator diaphragms in the field, take care to ensure the diaphragm casing bolts are tightened to the proper
+load to prevent leakage, but not crush the material. Perform the following tightening sequence with a manual torque wrench for
+size 30/30i‐76/76i and 87 actuators.
+CAUTION
+Over‐tightening the diaphragm cap screws and nuts (keys 13 and 14) can damage the diaphragm. Do not exceed 27 Nm
+(20 lbfft) torque.
+Note
+Do not use lubricant on these bolts and nuts. Fasteners must be clean and dry.
+5. Position the diaphragm casing (key 1, figures 6, 7, 8, 9, and 10), mounting plate (key 158), travel stops (key 152), if
+used, and cap screws (key 154) on the diaphragm. Install the cap screws and hex nuts (keys 13 and 14, figures 6, 7,
+8, 9, and 10) and tighten in the following manner.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+18
+6. The first four bolts tightened should be diametrically opposed and 90 degrees apart. Tighten these four bolts to 13
+Nm (10 lbfft).
+7. Tighten the remaining bolts in a clockwise, criss‐cross pattern to 13 Nm (10 lbfft).
+8. Repeat this procedure by tightening four bolts, diametrically opposed and 90 degrees apart, to a torque of 27 Nm
+(20 lbfft).
+9. Tighten the remaining bolts in a clockwise, criss‐cross pattern to 27 Nm (20 lbfft).
+10. After the last bolt is tightened to 27 Nm (20 lbfft), all of the bolts should be tightened again to 27 Nm (20 lbfft)
+in a circular pattern around the bolt circle.
+11. Once completed, no more tightening is recommended.
+12. If necessary, screw the extension rod (key 150 into the connector (key 27). Slide the guide plate (key 157) onto the
+extension rod (key 150). For size 45/45i through 76/76i, place the spacer (key 253) on top of the guide plate (key
+157). If necessary, replace the extension rod (key 150). Slide the handwheel body (key 148) over the extension rod,
+position the handwheel body on the spacer (key 253), align the holes, and insert and tighten the cap screws (key
+161).
+13. Lubricate and install the thrust bearings (keys 181 and 180), install the bearing retainer (key 182), install the castle
+nut (key 166) on the extension rod. Do not overtighten the castle nut on the bearing. Install the cotter pin (key
+167). Replace the cap (key 247).
+14. Refer to the Assembly portion of the Actuator maintenance section.
+For size 70/70i and 87 actuators handwheels (figures 14 and 15):
+Refer to figure 14 for top‐mounted handwheel assemblies and figure 15 for handjack bar assemblies.
+1. If removed, slide the handwheel (key 58) onto the end of the handwheel screw (key 160), and snap the retaining
+ring (key 60) into place.
+2. Generously coat the threads of the handwheel screw (key 160) with anti‐seize lubricant (key 239). Turn the screw
+into the handwheel body (key 148).
+3. If necessary, install the extension rod (key 150) into the connector (key 27) and tighten it. Position the handwheel
+body (key 148) on the diaphragm casing (key 1, figures 6, 7, 8, 9, and 10), and align the holes. Insert the cap screws
+(key 154). Finger tighten the screws.
+4. If travel stops were used, return the travel stops to their original positions as recorded in the proceeding
+Disassembly steps. Tighten the screws and travel stops.
+Note
+When you replace actuator diaphragms in the field, take care to ensure the diaphragm casing bolts are tightened to the proper
+load to prevent leakage, but not crush the material. Perform the following tightening sequence with a manual torque wrench for
+size 30/30i‐76/76i and 87 actuators.
+CAUTION
+Over‐tightening the diaphragm cap screws and nuts (keys 13 and 14) can damage the diaphragm. Do not exceed 27 Nm
+(20 lbfft) torque.
+Note
+Do not use lubricant on these bolts and nuts. Fasteners must be clean and dry.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+19
+5. Slide the extension rod (key 150) into the handwheel screw (key 160), and position the diaphragm casing (key 1,
+figures 6, 7, 8, 9, and 10) with the attached parts on the diaphragm. Install the cap screws and hex nuts (keys 13 and
+14, figures 6, 7, 8, 9, and 10) and tighten in the following manner.
+6. The first four bolts tightened should be diametrically opposed and 90 degrees apart. Tighten these four bolts to 13
+Nm (10 lbfft).
+7. Tighten the remaining bolts in a clockwise, criss‐cross pattern to 13 Nm (10 lbfft).
+8. Repeat this procedure by tightening four bolts, diametrically opposed and 90 degrees apart, to a torque of 27 Nm
+(20 lbfft).
+9. Tighten the remaining bolts in a clockwise, criss‐cross pattern to 27 Nm (20 lbfft).
+10. After the last bolt is tightened to 27 Nm (20 lbfft), all of the bolts should be tightened again to 27 Nm (20 lbfft)
+in a circular pattern around the bolt circle.
+11. Once completed, no more tightening is recommended.
+12. Lubricate and install the thrust bearings (keys 180 and 181), install the bearing retainer (key 182), install the castle
+nut (keys 166) on the extension rod. Do not overtighten the castle nut on the bearing. Install the cotter pin (key
+167). Replace the cap (key 247).
+13. Refer to the Assembly portion of the Actuator maintenance section.
+Side‐Mounted Handwheel for Sizes 34 through 60 and 34i through 60i
+Actuators
+A side-mounted handwheel assembly is normally used as a manual actuator for sizes 34 through 60 (figures 16 and 18)
+and 34i through 60i actuators (figures 17 and 19). Turning the handwheel counter-clockwise past the neutral position
+opens the valve. Two levers (key 146, figures 16, 17, 18, and 19) on a handwheel assembly operate the valve by
+moving the valve stem.
+Instructions are given below for complete disassembly and assembly. Perform the disassembly only as far as necessary
+to accomplish the required maintenance; then begin the assembly at the appropriate step.
+Disassembly for Side-Mounted Handwheel (Sizes 34-60 and 34i-60i)
+1. Use step a. for size 34 through size 60 actuators, and use step b. for sizes 34i through 60i.
+a. For Size 34 through 60: If desired, the handwheel assembly can be removed from the actuator yoke. To do this,
+remove the hex nuts (keys 147 and 170) from the U-bolts (key 166 and 143) that hold the assembly to the yoke
+for the size 30 and size 40. Remove the hex nuts (key 144 and 170) from the U-bolts (key 166 and 143) that hold
+the assembly to the yoke for the size 45 through size 60.
+b. For Size 34i through 60i: If desired, the handwheel assembly can be removed from the actuator yoke. To do this,
+remove the cap screws (key 256 and 257) and spacers (key 258) that hold the assembly to the yoke for the size
+30i through size 60i.
+2. Remove the retaining ring (key 154) and drive out the lever pivot pin (key 153).
+3. Two screws (key 156) hold the right- and left-hand levers (key 146) together. Remove the screw from the top of the
+levers so that the levers will drop down out of the assembly. Disassemble further, if necessary, by removing the
+other screw.
+4. Remove the screw (key 161) and pointer mounting bolt (key 159, not shown) located behind the pointer (key 160).
+5. Remove the stop nut (key 54), lockwasher (key 150), and washer (key 149). Then remove the handwheel (key 51),
+being careful not to lose the small ball (key 55) and spring (key 56).
+6. Loosen the locking set screw (key 168, figure 19). Then, using a suitable tool, unscrew the bearing retainer (key
+136).
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+20
+7. Pull the handwheel screw assembly (key 145) out of the handwheel body. The operating nut (key 132) will come
+out with the screw. Also remove the bushing (key 151, figure 16 or 17) on size 34 and 40.
+8. If required, remove the two ball bearings (key 152), one from the bearing retainer and the other from the
+handwheel body.
+Assembly for Side-Mounted Handwheel (Sizes 34-60 and 34i-60i)
+Click here or access the following QR code for a video on installing a side-mounted handwheel
+on a 667 actuator.
+1. Pack the ball bearings (key 152) with anti-seize lubricant (key 244). Insert one bearing and the bushing (key 151,
+figure 16 or 17) into the handwheel body (key 142). The bushing is not used in a handwheel assembly for sizes
+45/45i through 60/60i actuators.
+2. Coat the handwheel screw assembly (key 145) threads with anti-seize lubricant (key244), and thread the operating
+nut (key 132) onto the screw. Slide the second ball bearing (key 152) onto the screw, and insert the end of the
+screw into either the bushing (key 151, figure 16 or 17) for sizes 34/34i and 40/40i, or into the bearing for sizes
+45/45i through 60/60i.
+3. Thread the bearing retainer (key 136) into the body (key 142). Completely tighten the bearing retainer, and then
+loosen it one-quarter turn. Tighten the set screw (key 168, figure 16 or 17) to hold the bearing retainer in place.
+4. Coat the groove in the handwheel body (key 142) with lithium grease (key 241). Insert the spring (key 56) and ball
+(key 55) into the handwheel (key 51). Holding the ball and spring in the handwheel, put the handwheel, the washer
+(key 149), the lockwasher (key 150), and the stop nut (key 54) onto the end of the end of the handwheel screw (key
+145). Tighten the stop nut.
+5. Position the pointer mounting bolt (key 159, not shown) and pointer (key 160). Insert and tighten the screw (key
+161).
+6. Assemble the two levers (key 146) with the cap screws (key 156) for handwheel assemblies for sizes 45/45i, 50/50i,
+and 60/60i actuators, or with the machine screws (key 156) for handwheel assemblies on sizes 34/34i and 40/40i
+actuators.
+7. Use step a. for size 34 through size 60 actuators, and use step b. for sizes 34i through 60i.
+a. For Size 34 through 60: If the handwheel assembly was removed from the yoke (key 9, figures 6, 8, or 10),
+remount the handjack assembly to the yoke using the dowel pins for alignment. For the size 34 and size 40,
+position the U-bolts and J-bolts (keys 166 and 143) on the yoke, and hand-tighten the hex nuts (keys 170 and
+147) to hold the handwheel assembly in position. For the size 45 through size 60, position the U-bolts (keys 166
+and 143) on the yoke, and hand-tighten the hex nuts (keys 170 and 144) to hold the handwheel assembly in
+position. Cap screws (key 163) should be tight against the yoke legs to provide stability. Tighten the nuts (key
+144 for size 30 and size 40, key 158 for the size 45 through size 60). For the size 34 and size 40 finish tightening
+the U-bolt nuts to 81 N•m [60lbf•ft] (key170) and 41 N•m [30 lbf•ft] (key 147). For the sizes 45 through 60
+finish tightening the U-bolt nuts to 163 N•m [120lbf•ft] (key170) and 41 N•m [30 lbf•ft] (key 144). Be sure the
+handwheel assembly remains flat against the mounting pad and perpendicular to the yoke.
+b. For Size 34i through 60i: If the handwheel assembly was removed from the yoke (key 9, figures 7, 9, or 10),
+remount the handjack assembly to the yoke using the dowel pins for alignment. Position the upper cap screws
+(key 256) on the assembly and hand-tighten to hold the handwheel assembly in position. Place the spacers (key
+258) between the yoke and handjack assembly, position cap screws (key 257), and hand-tighten. For the size
+34i and size 40i finish tightening the cap screws (key 256) to 92 N•m [68 lbf•ft] and (key 257) to 39 N•m [29
+lbf•ft]. For the sizes 45i through 60i finish tightening the cap screws (key 256) to 163 N•m [120 lbf•ft] and (key
+257)to 39 N•m [29 lbf•ft].
+8. Position the levers (key 146) as shown in figures 11 or 12. Insert the lever pivot pin (key 153), and snap the retaining
+ring (key 154) onto the lever pivot pin.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+21
+Side‐Mounted Handwheel Assembly for Size 70, 76, and 87 Actuators
+A side‐mounted handwheel assembly (figure 20) is usually used as a manual actuator. Turning the handwheel
+clockwise past the neutral position always closes the valve body. A sleeve (key 123, figure 20) on a handwheel
+assembly for a size 70, 76 or 87 actuator opens the valve body by moving the valve stem.
+Instructions are given below for complete disassembly and assembly. Perform the disassembly only as far as necessary
+to accomplish the required maintenance; and then begin the assembly at the appropriate step.
+Disassembly for Side‐Mounted Handwheel (Sizes 70, 76, and 87)
+1. Bypass the control valve. Reduce the loading pressure to atmospheric. Disconnect the loading pressure tubing or
+piping at the yoke.
+2. Remove the cover band (key 87), and relieve spring compression by turning the spring adjuster (key 74)
+counterclockwise.
+3. Remove the cap screws and nuts (keys 13 and 14) and lift off the upper diaphragm casing (key 1).
+4. Remove the travel stop screw (key 12) and spacer (key 2), and take off the diaphragm plate (key 4), the diaphragm
+(key 3), and the lower diaphragm plate (key 71).
+5. Unscrew the cap screws (key 90) and remove the following connected parts: the lower diaphragm casing (key 64),
+the O‐ring (key 70), spring case adaptor (key 89), the seal bushing, O‐rings, and snap ring (keys 7, 8, 9, and 72).
+6. Remove the snap ring (key 72), and slide the seal bushing and O‐rings (keys 7, 8, and 9) out of the spring case
+adaptor (key 89).
+7. Take out the actuator spring (key 18).
+8. Remove the stem connector (key 31) and stem connector cap screws.
+9. Pull the actuator stem (key 144) up and out of the yoke. The spring seat (key 19), spring adjuster (key 74), thrust
+bearing (key 128), and the pinned adjusting screw (key 131) will come out with the actuator stem.
+10. Turn the handwheel so that the lower sleeve (key 123) extends out of the bottom of the yoke. DO NOT move the
+neutral indicator scale (key 125).
+11. Loosen two set screws (key 121), and unscrew the bearing retainer flange (key 45). Take out the worm gear and
+two thrust bearings (key 132), one on each side of the gear.
+12. The worm shaft (key 51) and associated parts can be disassembled, if desired, by first removing the handwheel nut
+(key 127) and the handwheel (key 58). Do not lose the small ball (key 141) and spring (key 142).
+13. Loosen the set screw (key 52) for each worm shaft retainer (keys 48 and 49). Unscrew the two worm retainers
+(keys 48 and 49). The ball bearings (key 50) will come out with the retainers.
+Assembly for Side‐Mounted Handwheel (Sizes 70, 76, and 87)
+1. The front and back worm retainers (keys 48 and 49) each have a slot in their threads for a set screw (key 52). Pack
+the ball bearings (key 50) with anti‐seize lubricant (key 239), and insert one ball bearing in the back worm retainer
+(key 49) as shown in figure 20.
+2. Thread the back bearing retainer and ball bearing (keys 49 and 50) into the yoke. Align the slot in the bearing
+retainer with the set screw hole in the yoke, insert the set screw (key 52), and tighten it.
+3. Coat the worm shaft (key 51) threads with anti‐seize lubricant (key 239), and slide the shaft into the yoke so that
+the end of the shaft fits snugly into the back bearing retainer.
+4. Insert the bearing in the front bearing retainer (key 49), and thread the retainer and ball bearing into the yoke. Align
+the slot in the retainer with the hole in the yoke, insert the set screw (key 52), and tighten it.
+5. Put the spring and ball (keys 141 and 142) in the handwheel (key 58). Slide the handwheel onto the worm shaft (key
+51). Thread the hex nut (key 127) onto the worm shaft.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+22
+6. Pack the two needle bearings (key 132) and coat the worm gear (key 44) threads with anti‐seize lubricant (key 239).
+Insert the key (key 122), the bearings, and the worm gear in the yoke (key 73) as shown in figure 20.
+7. Slots are cut in the threads of the bearing retainer flange (key 45). Thread the flange into the yoke so that the slots
+and the holes for the set screws (key 121) align. Insert the screws, and tighten them.
+8. The lower sleeve (key 123) has a milled groove in one end. Coat the sleeve threads with anti‐seize lubricant (key
+239), slide the end of the lower sleeve with the groove into the bearing retainer flange, turn the handwheel, and
+feed the sleeve through the worm gear so that the slot in the lower sleeve engages the key (key 122) in the yoke.
+Continue turning the handwheel until the lower sleeve protrudes 81 mm (3.19 inches) below the surface of the
+yoke. The bottom of the lower sleeve should be even with the bottom of the extension on the neutral indicator.
+9. Pack the thrust bearing (key 128) with anti‐seize lubricant (key 239). Slide the actuator stem (key 144) and the
+attached adjusting screw (key 131), pin (key 130), thrust bearing (key 128), spring seat (key 19), and spring adjuster
+(key 74) into the yoke. The lower end of the stem slides through the lower sleeve (key 123) and the lower sleeve
+slides into the adjusting screw (key 131), as shown in figure 20.
+10. Position the actuator stem (key 144) against the valve stem. Clamp both stems between the two halves of the
+stem connector (key 31), and be sure the threads are engaged properly on both stems. The stem connector should
+not be closer than 3.2 mm (1/8 inches) to the lower sleeve when the actuator stem is in the retracted position. This
+adjustment will provide approximately 3.2 mm (1/8 inches) of free travel of the lower sleeve in either direction for
+manual operation. Fasten the halves together with the cap screws.
+11. Put the actuator spring (key 18) in the yoke on the spring seat (key 19).
+12. Coat the O‐rings (keys 8 and 9) with lithium grease (key 237), and insert them in the seal bushing (key 7). Slide the
+seal bushing and O‐rings into the spring case adaptor (key 89).
+13. Install the snap ring (key 72).
+14. Slide the seal bushing and O‐rings (keys 7, 8, and 9) over the actuator stem (key 144), and position the spring case
+adaptor (key 89), lower diaphragm casing (key 64), and O‐ring (key 70) on the yoke.
+15. Insert and tighten the cap screws (key 90).
+16. Slide the lower diaphragm plate (key 71), the diaphragm (key 3) with the patterned side up, the diaphragm plate
+(key 4), the spacer (key 2), and the cap screw (key 12) on the actuator stem (key 144). Tighten the cap screw.
+17. Put the diaphragm casing (key 1) on the diaphragm. Align the holes in the diaphragm (key 3) and the diaphragm
+casings (keys 1 and 64).
+Note
+When you replace actuator diaphragms in the field, take care to ensure the diaphragm casing bolts are tightened to the proper
+load to prevent leakage, but not crush the material. Perform the following tightening sequence with a manual torque wrench for
+size 30/30i‐76/76i and 87 actuators.
+CAUTION
+Over‐tightening the diaphragm cap screws and nuts (keys 13 and 14) can damage the diaphragm. Do not exceed 27 Nm
+(20 lbfft) torque.
+Note
+Do not use lubricant on these bolts and nuts. Fasteners must be clean and dry.
+18. Install the cap screws and hex nuts (keys 13 and 14) and tighten in the following manner.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+23
+19. The first four bolts tightened should be diametrically opposed and 90 degrees apart. Tighten these four bolts to 13
+Nm (10 lbfft).
+20. Tighten the remaining bolts in a clockwise, criss‐cross pattern to 13 Nm (10 lbfft).
+21. Repeat this procedure by tightening four bolts, diametrically opposed and 90 degrees apart, to a torque of 27 Nm
+(20 lbfft).
+22. Tighten the remaining bolts in a clockwise, criss‐cross pattern to 27 Nm (20 lbfft).
+23. After the last bolt is tightened to 27 Nm (20 lbfft), all of the bolts should be tightened again to 27 Nm (20 lbfft)
+in a circular pattern around the bolt circle.
+24. Once completed, no more tightening is recommended.
+25. Return the actuator to service after completing the Loading Connection procedure in the Installation section and
+the procedures in the Adjustments section.
+Casing‐Mounted Travel Stops
+Note
+If repeated or daily manual operation is expected, the actuator should be equipped with a side‐mounted handwheel rather than a
+casing‐mounted travel stop or top‐mounted handwheel. The side‐mounted handwheel is designed for more frequent use as
+manual operator.
+Casing‐mounted adjustable travel stops (shown in figures 21 through 25) are available to limit travel in the down
+direction (extending the actuator stem) or in the up direction (retracting the actuator stem). The travel stop in figure
+21 is a down travel stop, the travel stop in figure 22 is an up and down travel stop, and the travel stops in figures 23, 24,
+and 25 are up travel stops.
+Use the locknuts (key 151, figures 21 and 22), stem (key 150, figure 23), handwheel (key 58, figure 24) or cap screw
+(key 177, figure 25) to set the point at which the travel stop limits travel. Be sure to tighten the locknuts and replace
+the cap (key 149, figures 21 and 23; key 247, figure 22) after setting the travel stop.
+Instructions are given below for disassembly and assembly. Perform the disassembly only as far as necessary to
+accomplish the required maintenance; then, begin the assembly at the appropriate step.
+Key numbers are shown in figures 21 through 25.
+1. Remove the cap (key 149 or 247) if the travel stop uses one. For down travel stops, loosen the locknuts (key 151,
+figures 21 and 22) so that the stop is not causing any spring compression.
+2. Bypass the control valve, reduce loading pressure to atmospheric, and remove the tubing or piping from the
+connection on top of the yoke (key 73, figures 6, 8, and 10).
+3. For down travel stops, turn the spring adjuster (key 74, figures 6, 8, and 10) out of the yoke toward the stem
+connector (key 31) to relieve all the compression in the spring (key 18).
+4. For style 11 travel stops (figure 22), unscrew the cap screws (key 161), and make sure that the guide plate (key 157)
+can turn between the handwheel body (key 148) and the mounting plate (key 158).
+5. Use a wrench on the nuts (key 151) to unscrew the extension rod (key 150). Remove the rod, the handwheel body
+(key 148), and the attached parts.
+6. Unscrew the hex nuts and cap screws (keys 14 and 13, figures 6, 8, and 10) from the diaphragm casings. Lift off the
+upper diaphragm casing (key 1, figures 6, 8, and 10) and, for the style 11 travel stop, the mounting plate (key 158).
+For styles 10, 12 and 13, the travel stop assembly will be removed with the casing.
+7. Note and record the position of travel stops (key 152) relative to the cap screws (key 154) for use in assembly.
+Unscrew the travel stops and cap screws, and remove either the mounting plate (key 158) or the handwheel body
+(key 148) and attached parts.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+24
+8. Separate the stem (key 150) and screw (key 160, figure 22) from the handwheel body.
+9. Before reassembling, lubricate parts indicated by key 239 in figures 21 through 25. Use anti‐seize lubricant (key
+239).
+10. Reassemble parts in the reverse order of removal.
+11. When replacing the cap screws (key 154) and, if used, the travel stops (key 152), be sure to return them to their
+original position as recorded in step 7.
+CAUTION
+Over‐tightening the diaphragm cap screws and nuts (keys 13 and 14), figures 6, 7, 8, 9, and 10 can damage the diaphragm.
+Do not exceed 27 Nm (20 lbfft) torque.
+12. Install the cap screws and nuts (keys 13 and 14, figures 6, 7, 8, 9, and 10) and finger tighten. Tighten the
+diaphragm cap screws and nuts to 27 Nm (20 lbfft) torque in a crisscross pattern.
+13. Return the spring adjuster (key 74, figure 6, 7, 8, 9, and 10) to its original position. Re‐adjust the travel stop.
+Parts Ordering
+Each actuator has a serial number stamped on the nameplate. Always mention this number when corresponding with
+your Emerson sales office or Local Business Partner regarding technical information or replacement parts. Also,
+reference the complete 11‐character part number of each needed part as found in the following Parts Kits and Parts
+List sections.
+WARNING
+Use only genuine Fisher replacement parts. Components that are not supplied by Emerson Automation Solutions should
+not, under any circumstances, be used in any Fisher valve, because they may void your warranty, might adversely affect the
+performance of the valve, and could cause personal injury and property damage.
+Parts Kits
+Actuator Repair — Soft Parts Kits
+Parts kit includes keys 8, 9, and 70. O‐ring material is nitrile, and
+gasket material is composition.
+Description Part Number
+Size 30/30i R667X000302
+Sizes 34/34i & 40/40i R667X000402
+Sizes 45/45i through 60/60i R667X000502
+Sizes 70/70i & 87 R667X000702
+Size 76/76i R667X000762
+Actuator Repair — Hardware Kits
+Hardware kit includes casing bolts (key 13), casing nuts (key 14),
+actuator stem (key 144), and seal bushing (key 7) in standard
+materials.
+Description Part Number
+Size 30/30i R667X000312
+Size 34/34i R667X000412
+Size 40/40i R667X000422
+Size 45/45i R667X000512
+Size 46/46i R667X000522
+Size 50/50i R667X000532
+Size 60/60i R667X000542
+Size 70/70i R667X000722
+Size 76/76i R667X000772
+Size 87 R667X000732
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+25
+Side‐Mounted Handwheels
+Retrofit Kits
+Retrofit Kit includes parts to add a Side‐Mounted Handwheel.
+Description Part Number
+Size 34 Push‐Down‐To‐Close 30A8778X0E2
+Size 34 Push‐Down‐To‐Open 30A8778X0F2
+Size 40 Push‐Down‐To‐Close 30A8778X0G2
+Size 40 Push‐Down‐To‐Open 30A8778X0H2
+Size 45 & 46 Push‐Down‐To‐Close 40A8779X0A2
+Size 45 & 46 Push‐Down‐To‐Open 40A8779X0B2
+Size 50 & 60 Push‐Down‐To‐Close 40A8779X0C2
+Size 50 & 60 Push‐Down‐To‐Open 40A8779X0D2
+Size 34i push down to close GE71635X0E2
+Size 34i push down to open GE71635X0F2
+Size 40i push down to close GE71635X0G2
+Size 40i push down to open GE71635X0H2
+Size 45i & 46i push down to close GE71636X0A2
+Size 40i & 60i push down to open GE71636X0B2
+Size 50i & 60i push down to close GE71636X0C2
+Size 50i & 60i push down to open GE71636X0D2
+Transition Kits for Side‐Mounted
+Handwheels
+Transition kits include fasteners necessary to remount an existing
+side-mounted handwheel to an actuator where the yoke has been
+changed to a size i yoke.
+Contains key numbers 256, 257, and 258.
+Description Part Number
+Size 34i/40i push-down-to-close or
+push-down-to-open GE71635X0J2
+Size 45i - 60i push-down-to-close or
+push-down-to-open GE71636X0E2
+Top‐Mounted Handwheels
+Retrofit Kits
+Retrofit Kit includes parts to add a Top‐Mounted Handwheel.
+Kit number 1 includes the handwheel assembly only.
+Kit number 2 includes Kit number 1 and a new diaphragm case
+that is required to mount the handwheel assembly.
+Description Part Number
+Kit 1
+Size 30/30i 30B3940X102
+Sizes 34/34i 30B3940X022
+Size 40/40i 30B3940X042
+Sizes 45/45i & 50/50i 33B9224X012
+Sizes 46/46i, 60/60i, & 76/76i 33B9224X012
+Sizes 70/70i & 87 CV8060X0012
+Kit 2
+Size 30/30i 30B3940X052
+Size 34/34i 30B3940X062
+Size 40/40i 30B3940X092
+Sizes 45/45i & 50/50i 33B9224X022
+Sizes 46/46i, 60/60i, & 76/76i 33B9224X032
+Sizes 70/70i & 87 CV8060X0022
+Parts List
+Note
+Contact your Emerson sales office or Local Business Partner for Part
+Ordering information.
+Actuator Assembly
+Key Description
+1 Upper Diaphragm Casing
+2 Travel Stop Spacer
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+26
+Key Description
+3* Diaphragm
+Molded Nitrile/Nylon
+Molded Silicone/Polyester
+4 Upper Diaphragm Plate
+7* Bushing, Seal
+Brass
+PTFE w/25% Glass (sizes 70 and 87)
+8* O‐Ring
+Nitrile
+Fluorocarbon
+9* O‐Ring
+Nitrile
+Fluorocarbon
+12 Screw, Cap, hex hd
+13 Hex hd Cap Screw
+14 Hex Nut
+17 Vent Assembly
+18 Spring
+19 Seat, Lower Spring
+27 Extension Rod Conn
+30 Hex hd Cap Screw
+31 Stem Connector Assembly
+32 Travel Indicator Scale
+33 Screw, Self Tapping
+33 Screw, Mach, Fill hd
+34 Disk, Travel Indicator
+39 Nameplate
+40 Screw, Drive
+64 Lower Diaphragm Casing
+69 Nut, Hex, Jam
+70* Gasket
+Composition [up to 232°C (450°F)]
+70* O‐Ring
+Nitrile
+71 Lower Diaphragm Plate
+72 Ring, Snap
+73 Yoke
+74 Spring Adjuster
+75 Nut, Hex
+76 Nut, Speed, Twin
+77 Stop, Travel
+78 Bushing, Pipe, Hex
+79 Screw, Mach, Flat Hd
+81 Screw, Mach, Rd Hd
+82 Indicator, Travel, Adaptor
+83 Washer, Plain
+89 Spring Case Adaptor
+90 Screw, Cap
+102 Plug, Pipe, Hex Hd
+144 Actuator Stem
+227 Washer, Plain
+228 Stem Disk Spacer
+237 Lubricant, lithium grease
+not furnished with actuator
+239 Lubricant, anti‐seize
+not furnished with actuator
+254 Caution Nameplate
+Top‐Mounted Handwheel
+(figures 11, 12, 13, 14, and 15)
+Key Description
+58 Handwheel / Handjack Bar
+60 Retainer Ring
+148 Handwheel Body
+150 Extension Rod
+152 Up Travel Stop
+154 Cap Screw
+156 Vent Assembly
+157 Guide Plate
+158 Mounting Plate
+159 Lock Nut
+160 Handwheel Screw
+161 Cap Screw
+166 Castle Nut
+167 Cotter Pin
+178 Machine Screw
+179 Lockwasher
+180 Thrust Bearing
+181 Thrust Race
+182 Bearing Retainer
+183 Pipe Nipple
+239 Lubricant, anti‐seize
+not furnished with handwheel
+247 Handwheel Cap
+253 Spacer, Handjack
+*Recommended spare parts
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+27
+Figure 6. Fisher 667 Actuator Sizes 30 through 60
+50A8379-C
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+28
+Figure 7. Fisher 667 Actuator Sizes 30i through 60i
+GE71547-A
+APPLY LUB
+PARTS NOT SHOWN: KEY 76 AND 254
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+29
+Figure 8. Fisher 667 Size 70 and 76 Actuator
+APPLY LUBRICANT
+50A8598‐E
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+30
+Figure 9. Fisher 667 Size 70i and 76i Actuator
+GE71630-A
+APPLY LUB
+PARTS NOT SHOWN: KEY 76 AND 254
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+31
+Figure 10. Fisher 667 Size 87 Actuator
+APPLY LUBRICANT
+50A8600‐E
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+32
+APPLY LUBRICANT
+NOTE:
+THE TOP MOUNTED HANDWHEEL IS NOT DESIGNED FOR USE UNDER HEAVY LOAD OR FREQUENT USE.
+30B3940 C
+Figure 11. Top‐Mounted Handwheel Assembly for Size 30/30i through 40/40i Actuators
+APPLY LUBRICANT
+239
+30B3942‐A
+Figure 12. Top‐Mounted Handwheel Assembly, Style P2 for Size 45/45i, 50/50i, 60/60i, and 76/76i Actuators
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+33
+Figure 13. Top‐Mounted Handwheel Assembly for Size 45/45i‐76/76i Actuators
+APPLY LUBRICANT
+33B9224‐B
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+34
+Figure 14. Top‐Mounted Handwheel Assembly for Size 70/70i and 87 Actuators
+APPLY LUBRICANT
+CV8060‐J
+Figure 15. Top-Mounted Handjack Bar Assembly for Size 70/70i and 87 Actuators
+GE61626-A
+APPLY LUBRICANT
+NOTE:
+THE TOP MOUNTED HANDJACK BAR SHOULD BE REMOVED WHEN NOT IN USE AND THE HANDWHEEL CAP INSTALLED FOR WEATHER PROTECTION OF INTERNAL COMPONENTS.
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+35
+Figure 16. Side Mounted Handwheel Assembly for Size 34 and 40 Actuators
+APPLY LUBRICANT
+30A8778‐D
+Figure 17. Side Mounted Handwheel Assembly for Size 34i and 40i Actuators
+APPLY LUBRICANT
+GE71635-A
+PARTS NOT SHOWN: KEY 157, 158, 159, and 168
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+36
+Figure 18. Side‐Mounted Handwheel Assembly for Size 45 through 60 Actuators
+APPLY LUBRICANT
+40A8779‐D
+Figure 19. Side Mounted Handwheel Assembly for Size 45i through 60i Actuators
+APPLY LUBRICANT
+GE71636-A PARTS NOT SHOWN: KEY 158, 159, and 168
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+37
+Side‐Mounted Handwheel,
+Size 34‐60 and 34i-60i
+(figures 16 and 18)
+Key Description
+51 Handwheel
+54 Hex Jam Nut
+55 Ball
+56 Spring
+132 Operating Nut
+136 Bearing Retainer
+142 Handwheel Body
+143 Mounting Bolts
+144 Hex Nut
+145 Handwheel Screw
+146 Lever & Pin Assembly
+147 Hex Jam Nut
+148 Dowel Pin
+149 Washer
+150 Lockwasher
+151 Bushing
+152 Ball Bearing
+153 Lever Pivot Pin
+154 Retaining Ring
+155 Spacer
+156 Screw
+157 Lockwasher
+158 Hex Nut
+159 Pointer Mounting Bolt
+160 Pointer
+161 Machine Screw
+162 Indicator Plate (Aluminum)
+163 Cap Screw
+166 U‐Bolt
+167 Guide Bolt
+168 Set Screw
+169 Grease Fitting
+170 Hex Nut
+177 Spring Cap
+178 Machine Screw
+241 Lubricant, lithium grease
+Not furnished with handwheel
+244 Lubricant, anti‐seize
+Not furnished with handwheel
+256 Cap Screw
+257 Cap Screw
+258 Spacer
+Side‐Mounted Handwheel,
+Size 70, 76 and 87 (figure 20)
+Key Description
+29 Handgrip
+38 Handgrip Bolt
+44 Worm Gear
+45 Bearing Retainer Flange
+48 Back Worm Retainer
+49 Front Worm Retainer
+50 Ball Bearing
+51 Worm Shaft
+52 Set Screw
+57 Grease Fitting
+58 Handwheel
+87 Cover Band Ass'y
+89 Spring Case Adaptor
+90 Cap Screw
+121 Set Screw
+122 Key
+123 Lower Sleeve
+125 Handwheel Indicator
+127 Handwheel Cap
+128 Needle Bearing
+129 Needle Bearing Race
+130 Roll Pin
+131 Spring Adjusting Screw
+132 Needle Bearing
+133 Needle Bearing Race
+141 Ball
+142 Spring
+237 Lubricant, lithium grease
+Not Furnished with Handwheel
+239 Lubricant, anti‐seize
+Not Furnished with Handwheel
+245 Yoke Extension
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+38
+Figure 20. Size 70, 76, and 87 Actuator with Side Mounted Handwheel Assembly
+E0871
+APPLY LUBRICANT
+PART NOT SHOWN: 57
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+39
+Casing‐Mounted Travel Stops
+(figures 21 through 25)
+Key Description
+58 Handwheel
+102 Plug, Pipe
+127 Hex Nut
+148 Travel Stop Body
+149 Travel Stop Cap
+150 Extension Rod
+150 Travel Stop Stem
+151 Hex Jam Nut
+152 Up Travel Stop
+153 Nut, Hex
+Figure 21. Style 10 Down Travel Stop - For All Sizes
+(Casing Mounted)
+BV8094‐B
+APPLY LUBRICANT
+Key Description
+154 Screw, Cap, Hex Hd
+155 Washer
+156 Vent
+157 Guide Plate
+158 Mounting Plate
+159 Nut, Travel Stop
+160 Screw, Handwheel
+161 Screw, Cap, Hex Hd
+162 Washer
+177 Travel Stop Screw
+184 Nipple, Pipe, NPT
+237 Lubricant, lithium grease
+239 Lubricant, anti‐seize
+247 Travel Stop Cap
+248 Mounting Plate
+Figure 22. Style 11 Up Or Down Travel Stop - For
+Sizes 30/30i to 60/60i and 76/76i (Casing Mounted)
+APPLY LUBRICANT
+38A1212‐B
+Instruction Manual
+D100310X012
+667 Actuator (Size 30/30i - 76/76i and 87)
+May 2018
+40
+Figure 23. Style 12 Up Travel Stop (Casing Mounted)
+APPLY LUBRICANT
+28A1208‐B
+Figure 24. Style 13 Up Travel Stop - For Sizes 30/30i
+to 60/60i and 76/76i, Size 30/30i Shown (Casing
+Mounted)
+APPLY LUBRICANT
+28A1204‐B
+Figure 25. Style 14 Up Travel Stop (Casing Mounted)
+AV8096‐B
+Emerson Automation Solutions
+Marshalltown, Iowa 50158 USA
+Sorocaba, 18087 Brazil
+Cernay, 68700 France
+Dubai, United Arab Emirates
+Singapore 128461 Singapore
+www.Fisher.com
+The contents of this publication are presented for informational purposes only, and while every effort has been made to ensure their accuracy, they are not
+to be construed as warranties or guarantees, express or implied, regarding the products or services described herein or their use or applicability. All sales are
+governed by our terms and conditions, which are available upon request. We reserve the right to modify or improve the designs or specifications of such
+products at any time without notice.
+ 1980, 2018 Fisher Controls International LLC. All rights reserved.
+Fisher and easy-e are marks owned by one of the companies in the Emerson Automation Solutions business unit of Emerson Electric Co. Emerson
+Automation Solutions, Emerson, and the Emerson logo are trademarks and service marks of Emerson Electric Co. All other marks are the property of their
+respective owners.
+Neither Emerson, Emerson Automation Solutions, nor any of their affiliated entities assumes responsibility for the selection, use or maintenance
+of any product. Responsibility for proper selection, use, and maintenance of any product remains solely with the purchaser and end user.

@@ -1,0 +1,3261 @@
+W4793
+627 Series Pressure Reducing Regulators
+▲ WARNING
+Failure to follow these instructions or to
+properly install and maintain this equipment
+could result in an explosion and/or fire
+causing property damage and personal injury
+or death.
+Fisher™ regulators must be installed,
+operated and maintained in accordance
+with federal, state and local codes, rules
+and regulations, and Emerson Process
+Management Regulator Technologies,
+Inc. instructions.
+If the regulator vents gas or a leak develops
+in the system, service to the unit may be
+required. Failure to correct trouble could
+result in a hazardous condition.
+Call a gas service person to service the
+unit. Only a qualified person must install or
+service the regulator.
+Introduction
+Scope of the Manual
+This manual provides instructions for the installation,
+adjustment, maintenance and parts ordering information
+for the 627 Series regulators. These regulators are usually
+shipped separate for line installation, although sometimes
+they are shipped installed on other equipment. Refer to the
+Instruction Manual of the other equipment for installation and
+operating instructions.
+Description
+The 627 Series direct-operated pressure reducing regulators
+(Figure 1) are for high and low pressure systems. These
+regulators can be used with natural gas, air or a variety of
+other gases. Performance characteristics vary according
+to construction.
+▲ WARNING
+Personal injury, property damage, equipment
+damage or leakage due to escaping gas or
+bursting of pressure-containing parts may
+result if this regulator is overpressured or
+is installed where service conditions could
+exceed the limits given in the Specifications
+section, Tables 1, 2, 3 and 4 or where
+conditions exceed any ratings of the adjacent
+piping or piping connections.
+To avoid such injury or damage, provide
+pressure-relieving or pressure-limiting
+devices (as required by the appropriate code,
+regulation or standard) to prevent service
+conditions from exceeding those limits.
+The Types 627R, 627LR or 627MR regulator
+with internal relief will provide downstream
+overpressure protection within the limits
+given in the Specifications section, Tables 1,
+2, 3 and 4. If these limits are exceeded,
+additional downstream overpressure
+protection must be provided by the user.
+Additionally, physical damage to the regulator
+could cause personal injury or property
+damage due to escaping gas. To avoid such
+injury or damage, install the regulator in a
+safe location.
+Figure 1. Typical 627 Direct-Operated
+Pressure Reducing Regulator
+627 SeriesInstruction Manual
+D101328X012
+May 2023
+Specifications
+The Specifications section gives some general specifications for the 627 Series regulators. The nameplates give detailed
+information for a particular regulator as it comes from the factory.
+Available Constructions
+Type 627: Direct-operated pressure reducing regulator
+equipped with a pitot tube for greater regulated
+capacities (Figure 7).
+Type 627R: Type 627 with internal relief and with an
+open throat (Figure 8).
+Type 627LR: Type 627R with light rate relief spring
+(Figure 9).
+Type 627M: Type 627 with a stem seal between the
+body outlet pressure and diaphragm case. Pressure is
+measured under the diaphragm through the 1/4 NPT
+downstream control line connection (Figure 10).
+Type 627MR: Type 627M with internal relief (Figure 11).
+Type 627H: Type 627 with a diaphragm limiter to deliver
+a higher outlet pressure (Figure 12).
+Type 627HM: Type 627H with a stem seal between the
+body outlet pressure and diaphragm case. Pressure is
+measured under the diaphragm through the 1/4 NPT
+downstream control line connection (Figure 13).
+Type 627OSX: Type 627 with Type OS2 slam shut
+device for overpressure protection. Available with Over
+and Under Pressure Trip points. (Figure 14)
+Body Sizes and End Connection Styles
+Maximum Inlet Pressure(1) (Body Rating)
+Flanged Stainless Steel: 1440 psig / 99.3 bar
+NPT Stainless Steel: 2000 psig / 138 bar
+Flanged Steel: 1500 psig / 103 bar
+NPT Steel: 2000 psig / 138 bar
+NPT Steel (Type 627OSX):
+1500 psig / 138 bar
+Ductile Iron: 1000 psig / 69.0 bar
+Maximum Valve Disk Inlet Pressure Rating(1)
+Nylon (PA) Disk: 2000 psig / 138 bar
+Nitrile (NBR) Disk: 1000 psig / 69.0 bar
+Fluorocarbon (FKM) Disk: 300 psig / 20.7 bar
+Maximum Operating Inlet Pressure, Pressure Differential
+and Outlet Pressure Ranges(1)
+See Table 1 for pressures by orifice size and
+spring range
+Maximum Spring and Diaphragm Casing Pressure(1)
+See Table 2
+Maximum Body Outlet Pressure(1)(2)
+Types 627M, 627MR and 627HM only
+NPT Steel: 2000 psig / 138 bar
+Flanged Steel: 1500 psig / 103 bar
+Ductile Iron: 1000 psig / 69.0 bar
+Type 627OSX
+NPT Steel: 1500 psig / 103 bar
+Orifice Sizes
+See Table 1
+Options
+• Up to 25% Hydrogen Blend (By Volume) Construction
+• 100% Hydrogen Construction
+Internal Relief Performance
+Type 627R: See Table 3
+Type 627LR: See Table 4
+Type 627MR: Limited by field-installed control
+line piping
+Elastomer Temperature Capabilities(1)(3)
+Flow Coefficients
+See Table 5
+IEC Sizing Coefficients
+See Table 6
+Pressure Registration
+Types 627, 627H, 627R, 627LR, 627OSX or 627HOSX:
+Internal
+Types 627M, 627HM, 627MR, 627MOSX or
+627HMOSX: External through 1/4 NPT control line
+connection in the diaphragm casing
+BODY SIZE END CONNECTION STYLE CONSTRUCTION
+AVAILABLENPS DN
+3/4 - - - - NPT
+All
+1 25 NPT, CL150 RF, CL300 RF,
+CL600 RF and Long Body
+1-1/4 32 NPT
+2 50 NPT, CL150 RF, CL300 RF,
+CL600 RF and Long Body
+MATERIAL DISK/
+DIAPHRAGM
+TEMPERATURE
+°F °C
+Nitrile (NBR) Disk -40 to 180 -40 to 82
+Diaphragm
+Fluorocarbon (FKM) Disk 0 to 180 -18 to 82
+Diaphragm
+Nylon (PA) Disk -40 to 180 -40 to 82
+Neoprene (CR) for
+Types 627H and 627HM only Diaphragm -40 to 180 -40 to 82
+Nitrile (NBR) for Types 627OSX
+and 627MOSX only
+Disk -20 to 180 -29 to 82
+Diaphragm
+Neoprene (CR) for
+Types 627HOSX and
+627HMOSX only
+Diaphragm -20 to 180 -29 to 82
+1. The pressure/temperature limits in this Instruction Manual or any applicable standard limitation should not be exceeded.
+2. Types 627, 627H, 627R,627LR and 627OSX are limited by maximum diaphragm casing pressure.
+3. Stainless steel body is rated to -40°F / -40°C. Steel and Ductile Iron bodies are rated to -20°F / -29°C.
+2
+627 Series
+Specifications (continued)
+De-Icer System
+See Figure 3 and Type 627M Regulator De-Icer
+System Application section
+Relief Indicator
+For Types 627R, 627LR and 627MR
+(see Figures 8, 9 and 11)
+Spring Case Vent Connection
+3/4 NPT with removable screened vent assembly
+Approximate Weights
+627 Series
+Ductile iron, Steel or Stainless steel Casings:
+10 lbs / 5 kg
+Aluminum Casing: 6.3 lbs / 3 kg
+Type 627OSX
+NPS 1 / DN 25: 40 lbs / 18 kg
+NPS 2 / DN 50: 42 lbs / 19 kg
+Principle of Operation
+Refer to Figure 2. When downstream demand decreases,
+the pressure under the diaphragm increases. This pressure
+overcomes the regulator setting (which is set by a spring).
+Through the action of the pusher post assembly, lever
+and valve stem the valve disk moves closer to the orifice
+and reduces gas flow. If demand downstream increases,
+pressure under the diaphragm decreases. Spring force
+pushes the pusher post assembly downward and the valve
+disk moves away from the orifice.
+Product Description
+Types 627 and 627H Direct-Operated Pressure Reducing
+Regulators—The Types 627 and 627H regulators provide
+economical pressure reducing control for a variety of
+residential, commercial and industrial applications. The
+regulator pitot tube located in a high velocity stream provides
+dynamic boost that compensates for outlet pressure drop.
+Type 627 Long Body—The Type 627 Long Body regulator
+can be used as a drop-in replacement for existing Type 630
+installations without the need to modify piping.
+Internal Relief for Type 627R, 627LR or 627MR
+Regulator—The Type 627R internal relief performance
+values were obtained by removing the disk assembly
+from the regulator. For the Type 627R, 627LR or 627MR
+regulator, the internal relief across the diaphragm provides
+overpressure protection in many applications. As outlet
+pressures build up above the start-to-discharge point, the
+diaphragm moves off the relief valve seat allowing the
+excess pressure to bleed out through the screened vent.
+For extra protection, should failure conditions exist which
+would prevent normal operation of the regulator (for
+example, disk broken off or disk erosion), the pusher
+post contacts the lever retainer causing the relief valve
+assembly to open. Since the diaphragm continues to rise
+as downstream pressure builds, it opens the relief valve;
+thereby, opening the valve. This internal relief may be
+adequate for the application.
+Downstream Control Line for Type 627M, 627HM, 627MR,
+627MOSX or 627HMOSX Regulator—A Type 627M,
+627HM, 627MR, 627MOSX or 627HMOSX regulator has a
+blocking throat stem seal with O-rings and a 1/4 NPT control
+line connection in the diaphragm case. A regulator with a
+downstream control line is used for monitoring applications
+or other applications where other equipment is installed
+between the regulator and the pressure control point. The
+stem seal separates the body outlet pressure from the
+diaphragm case.
+Type 627OSX— The Type 627OSX regulator with integral
+slam-shut device can provide either overpressure (OPSO)
+or overpressure (OPSO) and underpressure (UPSO)
+protection by completely shutting off the flow of gas to the
+downstream system.
+Installation
+Regulator operation within ratings does not preclude
+the possibility of damage from debris in the lines or from
+external sources. A regulator should be inspected for
+damage periodically and after any overpressure condition.
+Key numbers referenced in this section are shown in
+Figures 7 through 13. Ensure that the operating temperature
+capabilities listed in Specifications section are not exceeded.
+Note
+If the regulator is shipped mounted on
+another unit, install that unit according to the
+appropriate Instruction Manual.
+Perform steps 1 through 6 for all types of regulators:
+1. Only personnel qualified through training and
+experience should install, operate or maintain
+this regulator.
+2. For a regulator that is shipped separately, make
+sure that there is no damage to or foreign material in
+the regulator.
+3. Ensure that all tubing and piping have been blown free
+of foreign debris.
+4. The regulator may be installed in any position as long as
+the flow through the body is in the direction indicated by
+the arrow cast on the body.
+3
+627 Series
+INLET PRESSURE
+OUTLET PRESSURE
+ATMOSPHERIC PRESSURE
+INLET PRESSURE
+OUTLET PRESSURE
+ATMOSPHERIC PRESSURE
+A6557
+Type 627OSX must be installed in a horizontal position
+and the mechanism box must be above or below the
+body. It is recommended to install vents upstream and
+downstream of the regulator between the shutoff valves.
+Pipe supports should be used for flanged Type 627OSX
+units due to weight.
+See Type OS2 Instruction Manual (D102778X012) for
+additional information.
+5. If continuous operation is required during inspection
+or maintenance, install a three-valve bypass around
+the regulator.
+▲ WARNING
+A regulator may vent some gas to the
+atmosphere. In hazardous or flammable gas
+service, vented gas may accumulate and
+cause personal injury, death or property
+damage due to fire or explosion. Vent a
+regulator in hazardous gas service to a
+remote, safe location away from air intakes
+or any hazardous area. The vent line or
+stack opening must be protected against
+condensation or clogging.
+6. Position the body (key 1) and/or diaphragm spring case
+(key 29) so it will not collect moisture or debris into the
+screened vent. If the regulator requires repositioning,
+refer to the Body Area Maintenance Procedures and/or
+the Diaphragm and Spring Case Area Maintenance
+Procedures in the Maintenance section to reposition the
+screened vent for the application.
+Perform steps 7 through 9 for Types 627M, 627HM,
+627MR, 627MOSX and 627HMOSX regulators only:
+7. A Type 627M, 627HM, 627MR, 627MOSX or
+627HMOSX regulator requires a downstream control
+line. Install the control line before putting the regulator
+into operation.
+8. Ensure that the downstream control line piping is at
+least 3/8 in. / 9.5 mm or larger outside diameter tubing
+and connected to a straight section of outlet piping 10
+diameters downstream of the regulator.
+9. A hand valve should be installed in the control line. This
+hand valve can be used to throttle down and dampen
+outlet pulsations in control pressure which may cause
+instability or cycling of the regulator.
+Remote Vent Line Installation
+All 627 Series regulators have a vent assembly installed in the
+3/4 NPT spring case vent opening. The vent assembly can be
+removed to install a remote vent line if necessary. Remote vent
+lines must have the largest practical diameter. It should be as
+short as possible with minimum number of bends or elbows.
+Protect the remote vent opening against entrance of rain,
+snow or any other foreign material that may plug the vent
+or vent line and prevent proper operation of the regulator.
+Periodically check the vent opening to be sure it is not
+plugged with foreign debris.
+Figure 2. Type 627 Operational Schematic
+ADJUSTING SCREW
+DIAPHRAGM
+PUSHER POST
+LEVER ORIFICE
+VALVE DISK
+STEM
+CONTROL SPRING
+INLET PRESSURE
+OUTLET PRESSURE
+ATMOSPHERIC PRESSURE
+4
+627 Series
+Table 1. Maximum Inlet Pressures and Outlet Pressure Ranges
+TYPE
+OUTLET PRESSURE
+RANGE, SPRING
+PART NUMBER AND
+COLOR CODE
+ORIFICE SIZE MAXIMUM INLET PRESSURE(1)
+Nylon (PA) Disk(2) Nitrile (NBR) Disk Fluorocarbon (FKM) Disk
+In. mm psig bar psig bar psig bar
+627,
+627M
+and
+627OSX(4)
+5(3) to 20 psig /
+0.34 to 1.4 bar
+10B3076X012
+Yellow
+3/32
+1/8
+3/16
+1/4
+3/8
+1/2
+2.4
+3.2
+4.8
+6.4
+9.5
+13
+2000
+1000
+750
+500
+300
+250
+138
+69.0
+51.7
+34.5
+20.7
+17.2
+1000
+1000
+750
+500
+300
+250
+69.0
+69.0
+51.7
+34.5
+20.7
+17.2
+300
+300
+300
+300
+300
+250
+20.7
+20.7
+20.7
+20.7
+20.7
+17.2
+15 to 40 psig /
+1.0 to 2.8 bar
+10B3077X012
+Green
+3/32
+1/8
+3/16
+1/4
+3/8
+1/2
+2.4
+3.2
+4.8
+6.4
+9.5
+13
+2000
+1500
+1000
+750
+500
+300
+138
+103
+69.0
+51.7
+34.5
+20.7
+1000
+1000
+1000
+750
+500
+300
+69.0
+69.0
+69.0
+51.7
+34.5
+20.7
+300
+300
+300
+300
+300
+300
+20.7
+20.7
+20.7
+20.7
+20.7
+20.7
+35 to 80 psig /
+2.4 to 5.5 bar
+10B3078X012
+Blue
+3/32
+1/8
+3/16
+1/4
+3/8
+1/2
+2.4
+3.2
+4.8
+6.4
+9.5
+13
+2000
+2000
+1750
+1500
+1000
+750
+138
+138
+121
+103
+69.0
+51.7
+1000
+1000
+1000
+1000
+1000
+750
+69.0
+69.0
+69.0
+69.0
+69.0
+51.7
+300
+300
+300
+300
+300
+300
+20.7
+20.7
+20.7
+20.7
+20.7
+20.7
+70 to 150 psig /
+4.8 to 10.3 bar
+10B3079X012
+Red
+3/32
+1/8
+3/16
+1/4
+3/8
+1/2
+2.4
+3.2
+4.8
+6.4
+9.5
+13
+2000
+2000
+2000
+1750
+1250
+750
+138
+138
+138
+121
+86.2
+51.7
+1000
+1000
+1000
+1000
+1000
+750
+69.0
+69.0
+69.0
+69.0
+69.0
+51.7
+300
+300
+300
+300
+300
+300
+20.7
+20.7
+20.7
+20.7
+20.7
+20.7
+627R
+and
+627MR
+5(2) to 20 psig /
+0.34 to 1.4 bar
+10B3076X012
+Yellow
+3/32
+1/8
+3/16
+1/4
+3/8
+1/2
+2.4
+3.2
+4.8
+6.4
+9.5
+13
+2000
+1000
+750
+500
+300
+200
+138
+69.0
+51.7
+34.5
+20.7
+13.8
+1000
+1000
+750
+500
+300
+200
+69.0
+69.0
+51.7
+34.5
+20.7
+13.8
+300
+300
+300
+300
+300
+200
+20.7
+20.7
+20.7
+20.7
+20.7
+13.8
+15 to 40 psig /
+1.0 to 2.8 bar
+10B3077X012
+Green
+3/32
+1/8
+3/16
+1/4
+3/8
+1/2
+2.4
+3.2
+4.8
+6.4
+9.5
+13
+2000
+1500
+1000
+750
+300
+200
+138
+103
+69.0
+51.7
+20.7
+13.8
+1000
+1000
+1000
+750
+300
+200
+69.0
+69.0
+69.0
+51.7
+20.7
+13.8
+300
+300
+300
+300
+300
+200
+20.7
+20.7
+20.7
+20.7
+20.7
+13.8
+35 to 80 psig /
+2.4 to 5.5 bar
+10B3078X012
+Blue
+3/32
+1/8
+3/16
+1/4
+3/8
+1/2
+2.4
+3.2
+4.8
+6.4
+9.5
+13
+2000
+1750
+1000
+750
+300
+200
+138
+121
+69.0
+51.7
+20.7
+13.8
+1000
+1000
+1000
+750
+300
+200
+69.0
+69.0
+69.0
+51.7
+20.7
+13.8
+300
+300
+300
+300
+300
+200
+20.7
+20.7
+20.7
+20.7
+20.7
+13.8
+70 to 150 psig /
+4.8 to 10.3 bar
+10B3079X012
+Red
+3/32
+1/8
+3/16
+1/4
+3/8
+1/2
+2.4
+3.2
+4.8
+6.4
+9.5
+13
+2000
+1000
+500
+300
+200
+200
+138
+69.0
+34.5
+20.7
+13.8
+13.8
+1000
+1000
+500
+300
+200
+200
+69.0
+69.0
+34.5
+20.7
+13.8
+13.8
+300
+300
+300
+300
+200
+200
+20.7
+20.7
+20.7
+20.7
+13.8
+13.8
+627LR
+15 to 40 psig /
+1.0 to 2.8 bar
+10B3077X012
+Green
+3/32
+1/8
+3/16
+1/4
+2.4
+3.2
+4.8
+6.4
+1000
+1000
+750
+500
+69.0
+69.0
+51.7
+34.5
+300
+300
+300
+300
+20.7
+20.7
+20.7
+20.7
+627H,
+627HM
+and
+627HOSX(4)
+140 to 250 psig /
+9.7 to 17.2 bar
+10B3078X012
+Blue
+3/32
+1/8
+3/16
+1/4
+3/8
+1/2
+2.4
+3.2
+4.8
+6.4
+9.5
+13
+2000
+2000
+1750
+1500
+1000
+750
+138
+138
+121
+103
+69.0
+51.7
+1000
+1000
+1000
+1000
+750
+500
+69.0
+69.0
+69.0
+69.0
+51.7
+34.5
+240 to 500 psig /
+16.5 to 34.5 bar
+10B3079X012
+Red
+3/32
+1/8
+3/16
+1/4
+3/8
+1/2
+2.4
+3.2
+4.8
+6.4
+9.5
+13
+2000
+2000
+1750
+1500
+1000
+750
+138
+138
+121
+103
+69.0
+51.7
+1000
+1000
+1000
+1000
+1000
+750
+69.0
+69.0
+69.0
+69.0
+69.0
+51.7
+- Shaded areas indicate that Fluorocarbon (FKM) and Nylon (PA) disk material are not available.
+1. For inlet pressure in excess of 1000 psig / 69.0 bar, refer to the maximum body and disk pressure ratings in the Specifications section.
+2. Maximum inlet pressure for Type 627OSX is limited to 1500 psi / 103 bar.
+3. For pressure settings under 10 psig / 0.69 bar, inlet pressure should be limited to approximately 100 psig / 6.9 bar so the setpoint adjustment can be obtained.
+4. The unbalance forces change from the wide-open monitor mode to an active regulator mode such that the Type 627M or 627HM should have a 3/8 in. / 9.5 mm or larger orifice.
+5
+627 Series
+Table 2. Maximum Spring and Diaphragm Casing Pressure(1)
+MAXIMUM PRESSURE DESCRIPTION DIAPHRAGM
+CASING MATERIAL
+TYPES 627
+AND 627OSX
+TYPES 627R
+AND 627LR
+TYPES 627M
+AND
+627MOSX
+TYPE 627MR
+TYPES 627H,
+627HM,
+627HOSX
+AND
+627HMOSX
+psig bar psig bar psig bar psig bar psig bar
+Maximum pressure to spring and diaphragm
+casings to prevent leak to atmosphere other than
+relief action (internal parts damage may occur)
+Die cast aluminum
+250 17.2 250 17.2
+Not Available Not Available Not Available
+Ductile iron 250 17.2
+Steel or Stainless steel 250 17.2 800 55.2
+Maximum pressure to spring and diaphragm
+casings to prevent burst of casings during
+abnormal operation (leak to atmosphere and
+internal parts damage may occur)
+Die cast aluminum 375 25.9 375 25.9 Not Available Not Available Not Available
+Ductile iron 465 32.1 465 32.1 465 32.1 465 32.1
+Steel or Stainless steel 1500 103 1500 103 1500 103 1500 103 1500 103
+Maximum diaphragm casing overpressure (above
+setpoint) to prevent damage to internal parts All materials 60 4.1 120 8.3 60 4.1 120 8.3 120 8.3
+1. If the spring case is pressurized, a metal adjusting screw cap is required. Contact your local Sales Office for details.
+Type 627M or 627HM Regulator
+De-Icer System Application
+For the Type 627M or 627HM regulator de-icer system,
+refer to the application shown in Figure 3. With a large
+pressure drop across the working regulator, ice can form
+within this regulator. The formation of ice decreases the
+size of the orifice, so the regulator is unable to supply
+enough flow to satisfy the downstream demand. When the
+downstream pressure falls below the outlet pressure setting
+of the Type 627M or 627HM regulator, the disk assembly
+of the Type 627M or 627HM regulator moves off its orifice,
+permitting alcohol to flow into the main gas line. The alcohol
+carried to the main regulator by the flowstream prevents
+additional ice from forming on the orifice. When normal
+flow resumes and as pressure in the downstream system is
+restored, the Type 627M or 627HM regulator shuts off.
+Overpressure Protection
+The 627 Series regulators have outlet pressure ratings
+that are lower than their inlet pressure ratings. A pressure-
+relieving or pressure-limiting device must be provided by the
+user for the Types 627, 627H, 627M and 627HM regulators
+if the inlet pressure can exceed the outlet pressure rating,
+since these regulators do not have internal relief.
+Types 627R and 627LR regulators provide internal relief
+which limits the total outlet pressure buildup over setpoint.
+Use Tables 3 and 4 to determine the total outlet pressure.
+This internal relief may be adequate for the application, if
+not, provide additional pressure relief or a pressure-limiting
+device downstream.
+Types 627OSX utilizes integral slam-shut device to provide
+overpressure and underpressure protection by completely
+shutting off the flow of gas to the downstream system.
+Pressure is registered on one side of the diaphragm, piston
+or bellows and is opposed by the setpoint control spring of
+the manometric sensing device. The Type OS2 slam-shut
+valve tripping pressure is determined by the setting of the
+control spring.
+Overpressure–When the downstream pressure increases
+above the setpoint, the pressure on top of the diaphragm
+overcomes the spring setting and moves the manometric
+device stem.
+Underpressure–When the downstream pressure decreases
+below the setpoint, the control spring pressure below the
+diaphragm overcomes the downstream pressure and pushes
+the diaphragm which moves the manometric device stem.
+See Type OS2 Instruction Manual (D102778X012) for
+additional information.
+Startup and Adjustment
+Startup
+▲ WARNING
+To avoid personal injury or property damage
+due to explosion or damage to regulator or
+downstream components during startup,
+release downstream pressure to prevent an
+overpressure condition on the diaphragm of
+the regulator.
+In order to avoid an overpressure condition
+and possible equipment damage, pressure
+gauges should always be used to monitor
+pressures during startup.
+1. Slowly open the upstream shut-off valve.
+2. Slowly open the downstream shut-off valve.
+3. Check all connections for leaks.
+4. Make final control spring adjustments according to the
+adjustment procedures.
+6
+627 Series
+A3725
+NEEDLE
+VALVE
+WORKING REGULATOR
+CONTROL LINE
+TYPE 627M SET LOWER
+THAN WORKING REGULATOR
+GRAVITY FEED
+ALCOHOL DRIP POT
+VENT VALVE
+INLET
+EQUALIZING LINE
+HAND
+VALVE
+Figure 3. De-Icer System Operational Schematic
+Adjustment
+The range of allowable pressure settings is marked on
+the nameplate. If a pressure setting beyond this range
+is necessary, substitute the appropriate regulator control
+spring. Change the nameplate to indicate the new
+pressure range.
+Before increasing the setting, refer to Table 1, 2, 3 or 4.
+Review the pressure limits for the control spring range being
+used and be certain that the new pressure setting will not
+result in an overpressure condition.
+Note
+Always use a pressure gauge to monitor
+pressure when making adjustments.
+Refer to Figures 7 through 13 for key number locations.
+1. Remove the adjusting screw cap (key 36).
+2. Loosen the locknut (key 34).
+3. Increase the outlet pressure setting by turning the
+adjusting screw (key 35) clockwise. Decrease the
+outlet pressure setting by turning the adjusting
+screw counterclockwise.
+4. When the desired pressure is obtained, hold the
+adjusting screw (key 35) in place and tighten the locknut
+(key 34).
+Refer to Type OS2 Instruction Manual (D102778X012) for
+instructions on adjusting the slam-shut.
+Shutdown
+▲ WARNING
+To avoid personal injury or property damage
+due to explosion or damage to regulator or
+downstream components during shutdown,
+release downstream pressure to prevent an
+overpressure condition on the diaphragm of
+the regulator.
+1. Close the nearest upstream shut-off valve.
+2. Close the nearest downstream shut-off valve.
+3. Open the vent valve between the regulator and the
+downstream shut-off valve nearest to it.
+4. For a Type 627, 627H, 627R or 627LR regulator, the
+regulator will open to release pressure between the
+upstream shut-off valve and the regulator.
+5. A Type 627M, 627HM or 627MR regulator requires
+venting the control line and downstream pressure
+from the regulator before maintenance. The pressure
+between these shut-off valves is released through
+the open regulator because the disk assembly
+remains open in response to the decrease in control
+line pressure.
+6. Type 627OSX with underpressure protection may
+trip and trap gas upstream of the regulator. It is
+recommended to also open an upstream vent to allow
+gas to escape.
+7
+627 Series
+Table 3. Type 627R Internal Relief Performance(1)
+OUTLET PRESSURE
+RANGE, SPRING
+PART NUMBER AND
+COLOR CODE
+OUTLET
+PRESSURE
+SETTING
+MAXIMUM
+ALLOWABLE
+DOWNSTREAM
+SYSTEM
+PRESSURE
+MAXIMUM INLET PRESSURE TO KEEP MAXIMUM ALLOWABLE DOWNSTREAM
+SYSTEM PRESSURE FROM BEING EXCEEDED(2)
+Orifice Size, In. / mm
+3/32 / 2.4 1/8 / 3.2 3/16 / 4.8 1/4 / 6.4 3/8 / 9.5 1/2 / 13
+psig bar psig bar psig bar psig bar psig bar psig bar psig bar psig bar
+5(3) to 20 psig /
+0.34 to 1.4 bar
+10B3076X012
+Yellow
+10 0.69
+60
+100
+125
+175
+200
+250
+4.1
+6.9
+8.6
+12.1
+13.8
+17.2
+1250
+2000
+2000
+2000
+2000
+2000
+86.2
+138
+138
+138
+138
+138
+740
+1500
+1900
+2000
+2000
+2000
+51.0
+103
+131
+138
+138
+138
+320
+620
+830
+1100
+1300
+1600
+22.1
+42.7
+57.2
+75.8
+89.6
+110
+190
+390
+480
+670
+770
+960
+13.1
+26.9
+33.1
+46.2
+53.1
+66.2
+95
+180
+220
+320
+360
+450
+6.6
+12.4
+15.2
+22.1
+24.8
+31.0
+75 130
+160
+220
+260
+320
+5.2
+9.0
+11.0
+15.2
+17.9
+22.1
+15 1.0
+60
+100
+125
+175
+200
+250
+4.1
+6.9
+8.6
+12.1
+13.8
+17.2
+1000
+2000
+2000
+2000
+2000
+2000
+69.0
+138
+138
+138
+138
+138
+620
+1400
+1900
+2000
+2000
+2000
+42.7
+96.5
+131
+138
+138
+138
+260
+610
+810
+1100
+1300
+1600
+17.9
+42.1
+55.8
+75.8
+89.6
+110
+170
+370
+480
+670
+770
+960
+11.7
+25.5
+33.1
+46.2
+53.1
+66.2
+90
+170
+220
+320
+360
+450
+6.2
+11.7
+15.2
+22.1
+24.8
+31.0
+70 130
+160
+220
+260
+320
+4.8
+9.0
+11.0
+15.2
+17.9
+22.1
+20 1.4
+60
+100
+125
+175
+200
+250
+4.1
+6.9
+8.6
+12.1
+13.8
+17.2
+850
+2000
+2000
+2000
+2000
+2000
+58.6
+138
+138
+138
+138
+138
+490
+1300
+1800
+2000
+2000
+2000
+33.8
+89.6
+124
+138
+138
+138
+210
+600
+800
+1100
+1300
+1600
+14.5
+41.4
+55.2
+75.8
+89.6
+110
+130
+360
+480
+670
+770
+960
+9.0
+24.8
+33.1
+46.2
+53.1
+66.2
+80
+170
+220
+320
+360
+450
+5.5
+11.7
+15.2
+22.1
+24.8
+31.0
+65
+120
+160
+220
+260
+320
+4.5
+8.3
+11.0
+15.2
+17.9
+22.1
+15 to 40 psig /
+1.0 to 2.8 bar
+10B3077X012
+Green
+15 1.0
+60
+100
+125
+175
+200
+250
+4.1
+6.9
+8.6
+12.1
+13.8
+17.2
+1000
+2000
+2000
+2000
+2000
+2000
+69.0
+138
+138
+138
+138
+138
+380
+1300
+1800
+2000
+2000
+2000
+26.2
+89.6
+124
+138
+138
+138
+210
+590
+800
+1100
+1300
+1600
+14.5
+40.7
+55.2
+75.8
+89.6
+66.2
+130
+350
+470
+640
+780
+960
+9.0
+24.1
+32.4
+44.1
+53.8
+66.2
+80
+170
+220
+320
+370
+450
+5.5
+11.7
+15.2
+22.1
+25.5
+31.0
+65
+120
+160
+220
+260
+320
+4.5
+8.3
+11.0
+15.2
+17.9
+22.1
+20 1.4
+60
+100
+125
+175
+200
+250
+4.1
+6.9
+8.6
+12.1
+13.8
+17.2
+630
+2000
+2000
+2000
+2000
+2000
+43.4
+138
+138
+138
+138
+138
+200
+1200
+1700
+2000
+2000
+2000
+13.8
+82.7
+117
+138
+138
+138
+150
+550
+760
+1100
+1300
+1600
+10.3
+37.9
+52.4
+75.8
+89.6
+66.2
+100
+330
+450
+630
+770
+960
+6.9
+22.8
+31.1
+43.4
+53.1
+66.2
+70
+160
+210
+320
+360
+460
+4.8
+11.0
+14.5
+22.1
+24.8
+31.7
+65
+120
+160
+220
+260
+320
+4.5
+8.3
+11.0
+15.2
+17.9
+22.1
+30 2.1
+100
+125
+175
+200
+250
+6.9
+8.6
+12.1
+13.8
+17.2
+2000
+2000
+2000
+2000
+2000
+138
+138
+138
+138
+138
+950
+1500
+2000
+2000
+2000
+65.5
+103
+138
+138
+138
+450
+670
+1000
+1200
+1600
+31.1
+46.2
+69.0
+82.7
+110
+260
+400
+610
+760
+970
+17.9
+27.6
+42.1
+52.4
+66.9
+140
+190
+300
+360
+460
+9.7
+13.1
+20.7
+24.8
+31.7
+110
+150
+220
+260
+320
+7.6
+10.3
+15.2
+17.9
+22.1
+40 2.8
+100
+125
+175
+200
+250
+6.9
+8.6
+12.1
+13.8
+17.2
+1500
+2000
+2000
+2000
+2000
+103
+138
+138
+138
+138
+700
+1300
+1800
+2000
+2000
+48.3
+89.6
+124
+138
+138
+330
+560
+1000
+1200
+1600
+22.8
+38.6
+69.0
+82.7
+110
+200
+340
+550
+730
+970
+13.8
+23.4
+37.9
+50.3
+66.9
+120
+180
+290
+350
+460
+8.3
+12.4
+20.0
+24.1
+31.7
+108
+140
+220
+250
+320
+7.4
+9.7
+15.2
+17.2
+22.1
+- Shaded areas indicate maximum inlet pressures allowed during system malfunction only. Table 1 gives the maximum inlet pressure for normal regulator operation.
+1. The internal relief performance values are obtained by removing the disk assembly.
+2. For inlet pressures in excess of 1000 psig / 69.0 bar, refer to the maximum body and disk pressure ratings in the Specifications section.
+3. For pressure settings under 10 psig / 0.69 bar, inlet pressure should be limited to approximately 100 psig / 6.9 bar so the setpoint adjustment can be obtained.
+- continued -
+Maintenance
+Unless otherwise specified, the following maintenance
+procedures apply to all types of regulators. For a summary of
+maximum torque values required for all types of regulators,
+refer to Table 7.
+Due to normal wear, damage from external sources or
+debris in the air or gas line, regulator parts such as the
+disk assembly orifice and diaphragm must be inspected
+periodically and replaced as necessary to ensure correct
+performance. The frequency of inspection and replacement
+depends upon the severity of conditions and the
+requirements of state and federal laws. Normal wear of the
+orifice and disk assembly is accelerated with high pressure
+drops and with large amounts of impurities in the flowstream.
+Instructions are given below for replacing the disk assembly
+orifice, diaphragm and O-rings. These procedures may
+also be used for disassembly required for inspection and
+replacement of other parts.
+Note
+Special tool required for Type 627OSX
+Orifice Maintenance. 14 mm Hex with a 4 in. /
+102 mm extension required to reach orifice.
+Refer to Type OS2 Instruction Manual (D102778X012) for
+instructions on maintaining the slam-shut.
+Problem Indication for Types 627R, 627LR
+and 627MR Regulators
+▲ WARNING
+Isolate the regulator from all pressure
+to avoid personal injury and equipment
+damage due to explosion or sudden
+release of process pressure. Cautiously
+release pressure from the regulator before
+attempting disassembly.
+8
+627 Series
+Table 3. Type 627R Internal Relief Performance(1) (continued)
+OUTLET PRESSURE
+RANGE, SPRING PART
+NUMBER AND
+COLOR CODE
+OUTLET
+PRESSURE
+SETTING
+MAXIMUM
+ALLOWABLE
+DOWNSTREAM
+SYSTEM
+PRESSURE
+MAXIMUM INLET PRESSURE TO KEEP MAXIMUM ALLOWABLE DOWNSTREAM
+SYSTEM PRESSURE FROM BEING EXCEEDED(2)(3)
+Orifice Size, In. / mm
+3/32 / 2.4 1/8 / 3.2 3/16 / 4.8 1/4 / 6.4 3/8 / 9.5 1/2 / 13
+psig bar psig bar psig bar psig bar psig bar psig bar psig bar psig bar
+35 to 80 psig /
+2.4 to 5.5 bar
+10B3078X012
+Blue
+40 2.8
+125
+150
+175
+200
+250
+8.6
+10.3
+12.1
+13.8
+17.2
+2000
+2000
+2000
+2000
+2000
+138
+138
+138
+138
+138
+1100
+1600
+2000
+2000
+2000
+75.8
+110
+138
+138
+138
+500
+750
+980
+1200
+1600
+34.5
+51.7
+67.6
+82.7
+110
+300
+440
+580
+720
+940
+20.7
+30.3
+40.0
+49.6
+64.8
+170
+230
+290
+340
+450
+11.7
+15.9
+20.0
+23.4
+31.0
+140
+180
+220
+250
+320
+9.7
+12.4
+15.2
+17.2
+22.1
+50 3.4
+125
+150
+175
+200
+250
+8.6
+10.3
+12.1
+13.8
+17.2
+1400
+2000
+2000
+2000
+2000
+96.5
+138
+138
+138
+138
+820
+1400
+1900
+2000
+2000
+56.5
+96.5
+131
+138
+138
+400
+650
+700
+1100
+1500
+27.6
+44.8
+48.3
+75.8
+103
+230
+370
+530
+670
+920
+15.9
+25.5
+36.5
+46.2
+63.4
+150
+210
+270
+330
+430
+10.3
+14.5
+18.6
+22.8
+29.6
+140
+170
+210
+240
+320
+9.7
+11.7
+14.5
+16.5
+22.1
+60 4.1
+125
+150
+175
+200
+250
+8.6
+10.3
+12.1
+13.8
+17.2
+900
+1700
+2000
+2000
+2000
+62.1
+117
+138
+138
+138
+450
+1100
+1700
+2000
+2000
+31.0
+75.8
+117
+138
+138
+270
+540
+780
+1000
+1400
+18.6
+37.2
+53.8
+69.0
+96.5
+190
+300
+470
+610
+880
+13.1
+20.7
+32.4
+42.1
+60.7
+140
+190
+250
+310
+420
+9.7
+13.1
+17.2
+21.4
+29.0
+130
+160
+200
+230
+310
+9.0
+11.0
+13.8
+15.9
+21.4
+70 4.8
+150
+175
+200
+250
+10.3
+12.1
+13.8
+17.2
+1200
+2000
+2000
+2000
+82.7
+138
+138
+138
+850
+1400
+2000
+2000
+58.6
+96.5
+138
+138
+430
+670
+920
+1300
+29.6
+46.2
+63.4
+89.6
+250
+400
+550
+830
+17.2
+27.6
+37.9
+57.2
+170
+230
+280
+400
+11.7
+15.9
+19.3
+27.6
+160
+190
+230
+310
+11.0
+13.1
+15.9
+21.4
+80 5.5
+150
+175
+200
+250
+10.3
+12.1
+13.8
+17.2
+800
+1500
+2000
+2000
+55.2
+103
+138
+138
+500
+1200
+1700
+2000
+34.5
+82.7
+117
+138
+300
+550
+800
+1200
+20.7
+37.9
+55.2
+82.7
+200
+330
+480
+770
+13.8
+22.8
+33.1
+53.1
+160
+210
+270
+390
+11.0
+14.5
+18.6
+26.9
+150
+190
+220
+300
+10.3
+13.1
+15.2
+20.7
+70 to 150 psig /
+4.8 to 10.3 bar
+10B3079X012
+Red
+70 4.8
+175
+200
+250
+12.1
+13.8
+17.2
+1900
+2000
+2000
+131
+138
+138
+600
+1200
+2000
+41.4
+82.7
+138
+400
+630
+1100
+27.6
+43.4
+75.8
+260
+380
+680
+17.9
+26.2
+46.9
+200
+250
+360
+13.8
+17.2
+24.8
+175
+210
+290
+12.1
+14.5
+20.0
+80 5.5
+175
+200
+250
+12.1
+13.8
+17.2
+1400
+2000
+2000
+96.5
+138
+138
+250
+960
+2000
+17.2
+66.2
+138
+240
+520
+1000
+16.5
+35.9
+69.0
+200
+330
+620
+13.8
+22.8
+42.7
+190
+240
+350
+13.1
+16.5
+24.1
+175
+210
+280
+12.1
+14.5
+19.3
+100 6.9 200
+250
+13.8
+17.2
+1500
+2000
+103
+138
+250
+1600
+17.2
+110
+240
+770
+16.5
+53.1
+230
+520
+15.9
+35.9
+210
+320
+14.5
+22.1
+210
+270
+14.5
+18.6
+125 8.6 250 17.2 2000 138 1000 69.0 500 34.5 390 26.9 290 20.0 260 17.9
+150 10.3 250 17.2 1200 82.7 260 17.9 260 17.9 260 17.9 260 17.9 260 17.9
+- Shaded areas indicate maximum inlet pressures allowed during system malfunction only. Table 1 gives the maximum inlet pressure for normal regulator operation.
+1. The internal relief performance values are obtained by removing the disk assembly.
+2. For inlet pressures in excess of 1000 psig / 69.0 bar, refer to the maximum body and disk pressure ratings in the Specifications section.
+3. For pressure settings under 10 psig / 0.69 bar, inlet pressure should be limited to approximately 100 psig / 6.9 bar so the setpoint adjustment can be obtained.
+Table 4. Type 627LR Internal Relief Performance(1)
+OUTLET PRESSURE
+RANGE, SPRING
+PART NUMBER AND
+COLOR CODE
+OUTLET
+PRESSURE
+SETTING
+MAXIMUM ALLOWABLE
+DOWNSTREAM
+SYSTEM PRESSURE
+MAXIMUM INLET PRESSURE TO KEEP MAXIMUM ALLOWABLE
+DOWNSTREAM SYSTEM PRESSURE FROM BEING EXCEEDED(2)
+Orifice Size, In. / mm
+3/32 / 2.4 1/8 / 3.2 3/16 / 4.8 1/4 / 6.4
+psig bar psig bar psig bar psig bar psig bar psig bar
+15 to 40 psig /
+1.03 to 2.8 bar
+10B3077X012
+Green
+30 2.1
+55 3.8 500 34.5 270 18.6 110 7.6 80 5.5
+60 4.1 850 58.6 480 33.1 200 13.8 120 8.3
+66 4.5 1000 69.0 660 45.5 290 20.0 175 12.1
+40 2.8
+66 4.5 380 26.2 190 13.1 85 5.9 80 5.5
+70 4.8 700 48.3 370 25.5 150 10.3 115 7.9
+75 5.2 1000 69.0 560 38.6 240 16.5 160 11.0
+1. The internal relief performance values are obtained by removing the disk assembly.
+2. For inlet pressures in excess of 1000 psig / 69.0 bar, refer to the maximum body and disk pressure ratings in the Specifications section.
+9
+627 Series
+The vent assembly is equipped with a relief indicator (key 49,
+Figure 4). The cap for the relief indicator snaps over the vent
+assembly opening. If the relief valve opens wide, exhaust
+gas pops the cap off the screen vent assembly opening
+indicating a problem with the regulator. If the cap pops off,
+refer to the shutdown and to the Body Area Maintenance
+Procedures to inspect the disk assembly and orifice.
+If the disk assembly and orifice are not damaged, refer to the
+Diaphragm and Spring Case Area Maintenance Procedures
+in this section.
+The disk assembly and orifice can be inspected,
+removed and replaced without removing the regulator
+body from the line connections. Refer to the Body Area
+Maintenance Procedures.
+Body Area Maintenance Procedures
+These procedures are for gaining access to the disk
+assembly orifice, diaphragm casing O-ring and stem
+assembly. All pressure must be released from the diaphragm
+casing before performing these steps.
+While using the following procedures, refer to
+Figures 7 through 13 for key number locations.
+Replacing the Disk Assembly or Orifice
+1. To inspect and replace the disk assembly (key 9) or
+orifice (key 2), remove the cap screws (key 3, Figure 5)
+and separate the diaphragm casing (key 5) from the
+body (key 1).
+2. Inspect and, if necessary, remove the orifice (key 2). If
+removed, coat the threads of the replacement orifice
+with lubricant and torque to 25 ft-lbs / 34 N•m.
+3. Inspect the disk assembly (key 9) and, if necessary,
+remove the hair pin clip (key 13) that holds the disk
+assembly (key 9) in place. If replacing the disk assembly
+is the only maintenance required, skip to step 16.
+Replacing the Stem Assembly
+If it is necessary to perform maintenance on the stem
+assembly, continue with steps 4 through 8 and 15 through 19
+for Types 627, 627H, 627R and 627LR regulators or steps 9
+through 19 for Types 627M, 627HM and 627MR regulators.
+Table 5. Flow Coefficients
+ORIFICE 3/4 NPT NPS 1 / DN 25 BODY NPS 1-1/4 / DN 32 BODY NPS 2 / DN 50 BODY
+In. mm
+Wide-Open
+Cg for
+External
+Relief
+Sizing
+Wide-Open
+Cv for
+External
+Relief
+Sizing
+C1
+Wide-Open
+Cg for
+External
+Relief
+Sizing
+Wide-Open Cg
+for External
+Relief
+Sizing for
+Type 627OSX
+only
+Wide-Open
+Cv for
+External
+Relief
+Sizing
+C1
+Wide-Open
+Cg for
+External
+Relief
+Sizing
+Wide-Open
+Cv for
+External
+Relief
+Sizing
+C1
+Wide-Open
+Cg for
+External
+Relief
+Sizing
+Wide-Open Cg
+for External
+Relief
+Sizing for
+Type 627OSX
+only
+Wide-Open
+Cv for
+External
+Relief
+Sizing
+C1
+3/32 2.4 6.9 0.24 29.2 6.9 6.8 0.24 28.5 7.0 0.23 30.7 6.9 6.7 0.23 29.7
+1/8 3.2 12.5 0.43 29.1 12.5 11.4 0.43 29.4 12.1 0.43 28.0 12.5 11.2 0.42 29.5
+3/16 4.8 29 1.01 28.6 29 27 0.93 31.2 26 0.92 28.7 29 28.4 1.02 28.5
+1/4 6.4 50 1.63 30.6 50 47.6 1.71 29.3 43 1.45 30.0 52 47.5 1.66 31.3
+3/8 9.5 108 2.99 36.1 108 107 3.42 31.6 96 3.33 28.9 115 107.4 3.39 33.9
+1/2 13 190 4.87 39.0 190 166.4 5.29 35.9 168 5.18 32.4 200 169.1 5.01 39.9
+Table 6. IEC Sizing Coefficients
+ORIFICE SIZE X T
+FD FL
+In. mm 3/4 NPT Body NPS 1 / DN 25 Body NPS 2 / DN 50 Body
+3/32 2.4 0.539 0.514 0.558
+0.50
+0.85
+1/8 3.2 0.536 0.547 0.539 0.79
+3/16 4.8 0.517 0.616 0.514 0.85
+1/4 6.4 0.592 0.543 0.620 0.87
+3/8 9.5 0.824 0.632 0.727 0.89
+1/2 13 0.962 0.815 1.01 0.86
+Table 7. Maximum Torque Values
+KEY NUMBER(1) DESCRIPTION MAXIMUM TORQUE
+Ft-lbs N•m
+2 Orifice 25 34
+3 Cap screw (with aluminum diaphragm casing) 16 22
+Cap screw (with ductile iron or steel/stainless steel diaphragm casing) 25 34
+18 Lever cap screw 7 9.5
+22 Diaphragm connector nut 17 23
+26 Guide retainer (for Types 627R, 627LR and 627MR only) 3 4.1
+37 Spring case cap screw (with aluminum or ductile iron diaphragm casing) 7 9.5
+Spring case cap screw (with steel/stainless steel diaphragm casing) 35 47
+46 Diaphragm cap screw (with Type 627 or 627M) 7 9.5
+Diaphragm cap screw (with Type 627H or 627HM) 14 19
+75 Slam-Shut Valve orifice 25 34
+1. Refer to Figures 7 through 13 for key number locations.
+10
+627 Series
+W4665
+Perform steps 4 through 8 for Types 627, 627H, 627R,
+627LR, 627OSX and 627HOSX Regulators only:
+4. Use steps 5 through 8 to remove and replace the
+stem assembly.
+5. Remove the boost body (key 6), stabilizer (key 7)
+and stem guide (key 8) from the diaphragm casing
+(key 5). Unhook and remove the stem (key 10) from the
+diaphragm casing (key 5).
+6. Remove and inspect the diaphragm casing O-ring
+(key 4, Figure 7, 8, 9 or 12) and replace it if necessary.
+7. Apply lubricant to a replacement diaphragm casing
+O-ring (key 4, Figure 7, 8, 9 or 12) and install it onto the
+boost body (key 6). Skip to step 14.
+8. For the Type 627 or 627H regulators, be sure to insert
+the pitot tube (tab) into the outlet side of the body (see
+Figure 7 or 12). Skip to step 14.
+Perform steps 9 through 19 for Types 627M, 627HM,
+627MR, 627MOSX and 627HMOSX Regulators only:
+9. Use steps 10 through 14 to remove and replace the
+stem assembly.
+10. To remove the blocked throat (key 43), insert a screw
+driver blade into the groove provided in the throat and
+pry it out of the diaphragm casing (key 5). Inspect and
+replace parts as necessary.
+11. Inspect and, if necessary, replace the blocked throat
+O-rings (key 44, Figure 5) and back-up rings (key 45,
+Figure 5).
+12. Apply lubricant to replacement blocked throat O-rings
+(key 44) and back-up rings (key 45).
+13. Apply lubricant to the replacement stem O-ring (key 11)
+and stem back-up rings (key 12) and install them on the
+stem (key 10).
+14. For assembly, lubricate the stem (key 10) and insert
+the diaphragm casing (key 5) and hook it on the lever
+(key 15).
+15. Lubricate the contact points of the lever (key 15).
+16. Insert parts into the diaphragm casing (key 5) that were
+removed in steps 5 and 6 or step 10 (see Figure 5).
+17. Install the disk assembly (key 9), line up the hole in the
+disk assembly and stem (key 10) and insert the hair pin
+clip (key 13).
+18. Position the diaphragm casing (key 5) plus attached
+parts in relation to the body (key 1) so that they are
+correct for the application.
+19. Secure the diaphragm casing (key 5) to the body with
+the cap screws (key 3, Figure 5). For an aluminum
+diaphragm casing, torque the cap screws (key 3) to
+16 ft-lbs / 22 N•m. For ductile iron or steel diaphragm
+casings, torque the cap screws (key 3) to 25 ft-lbs /
+34 N•m.
+20. It may be necessary to reposition the diaphragm
+spring case to prevent rain, ice and foreign debris from
+entering the spring case. Refer to the Diaphragm and
+Spring Case Area Maintenance Procedures, steps 1, 2
+and 21 through 25.
+Diaphragm and Spring Case Area
+Maintenance Procedures
+These procedures are for gaining access to the control
+spring, diaphragm assembly and lever assembly. All spring
+pressure must be released from the diaphragm casing
+before these steps can be performed.
+While using the following procedures, refer to
+Figures 7 through 13 for key number locations.
+1. Remove the adjusting screw cap (key 36), loosen the
+lock nut (key 34) and turn the adjusting screw (key 35)
+counterclockwise until all compression is removed from
+the control spring (key 32).
+2. Remove the spring case cap screws (key 37), the
+nameplates and lift off the spring case (key 29). If
+changing the control spring (key 32) or repositioning the
+spring case (key 29) is the only maintenance required,
+install the replacement control spring or rotate the spring
+case so it is correct for the application. Skip to step 21.
+For diaphragm area maintenance, continue with step 3.
+3. Remove the diaphragm limiter O-ring and diaphragm
+limiter (keys 51 and 50, on the Type 627H or 627HM
+only). Remove the diaphragm assembly by tilting it so
+that the pusher post (key 19) slips off the lever (key 15).
+4. If it is necessary to replace the lever assembly, remove
+the lever cap screws (key 18).
+Figure 4. Relief Indicator
+RELIEF
+INDICATOR
+CAP (KEY 49)
+11
+627 Series
+W4791
+W4792
+Figure 5. Stem Assemblies
+DIAPHRAGM
+CASING
+(KEY 5)
+LEVER
+(KEY 15) STEM (KEY 10)
+STEM BACK-UP
+RINGS
+(KEY 12)
+STEM O-RING
+(KEY 11)
+STEM GUIDE
+(KEY 8)
+DIAPHRAGM CASING
+O-RING (KEY 4)
+STABILIZER
+(KEY 7)
+BOOST
+BODY (KEY 6)
+PITOT TUBE
+AND TAB FOR
+TYPE 627 ONLY
+DISK
+ASSEMBLY
+(KEY 9)
+HAIR PIN
+CLIP (KEY 13)
+BODY
+(KEY 1)
+CAP
+SCREW
+(KEY 3)
+TYPES 627, 627H, 627R AND 627LR
+BLOCKED THROAT
+BACK-UP RINGS (KEY 45)
+BLOCKED
+THROAT
+(KEY 43)
+TYPES 627M, 627HM AND 627MR
+BLOCKED THROAT
+O-RINGS (KEY 44)
+5. Install the replacement lever (key 15) into the lever
+retainer (key 16) by inserting the lever pin (key 17).
+Secure the lever assembly into the diaphragm casing
+with the cap screws (key 18) and torque the cap screws
+to 7 ft-lbs / 9.5 N•m.
+If it is necessary to perform maintenance on the
+diaphragm assembly, continue with steps 6 through 11
+and step 20 for Types 627, 627H, 627M, 627HM and all
+627OSX variations regulators or steps 12 through 19 for
+Types 627R, 627LR and 627MR regulators.
+Perform steps 6 through 11 for Types 627, 627H, 627M,
+627HM and all 627OSX variations Regulators only:
+6. For Types 627, 627H, 627M and 627HM regulators
+(Figures 5 and 6), use steps 7 through 11 to
+disassemble and reassemble the diaphragm assembly.
+7. Remove the diaphragm head cap screw (key 46),
+lower spring seat (key 31, Type 627 or 627M only) and
+diaphragm head (key 24). On the Type 627H or 627HM,
+remove the pusher post O-rings (key 52). Separate the
+diaphragm (key 23) from the pusher post (key 19).
+8. Install the diaphragm (key 23), in reverse order in
+step 7, on the pusher post (key 19), insert and finger
+tighten the diaphragm head cap screw (key 46).
+9. Hook the pusher post on the lever (key 15), then turn
+the diaphragm (key 23) to match the holes in the
+diaphragm with the holes in the spring casing.
+10. Unhook the pusher post from the lever (key 15) and
+torque the diaphragm head cap screw (key 46) to
+7 ft-lbs / 9.5 N•m for the Type 627 or 627M. On the
+Type 627H or 627HM, torque the diaphragm head cap
+screw to 14 ft-lbs / 19 N•m.
+11. Hook the pusher post on the lever (key 15) and check
+the hole alignment. If necessary, loosen the cap screw
+(key 46) and reposition the diaphragm (key 23) on the
+pusher post (key 19). Retorque the screw (see step 10).
+Skip to step 20.
+Perform steps 12 through 19 for Types 627R, 627LR and
+627MR Regulators only:
+12. For Types 627R, 627LR and 627MR regulators
+(Figure 6), use steps 13 through 19 to disassemble and
+reassemble the diaphragm assembly.
+13. Remove the guide retainer (key 26) and separate the
+diaphragm parts. Refer to Figure 6 for the sequence
+of parts.
+ORIFICE
+(KEY 2)
+12
+627 Series
+14. To remove the diaphragm (key 23), remove the
+diaphragm connector nut (key 22) and lift off the
+diaphragm head (key 24) and diaphragm (key 23) from
+the connector assembly (key 21). Do not attempt to
+disassemble the connector assembly (key 21).
+15. Position the replacement diaphragm (key 23)on the
+connector assembly (key 21), install the diaphragm
+head (key 24) and connector nut (key 22), then torque
+to 17 ft-lbs / 23 N•m.
+16. If necessary, replace the guide retainer O-ring (key 48)
+and, set the guide retainer (key 26) aside, ready
+for assembly.
+17. On the pusher post (key 19) install the relief seal O-ring
+(key 28) and apply lubricant. Also, install the relief
+seal retainer (key 47), diaphragm connector assembly
+(key 21, with attached parts) relief spring (key 27), upper
+relief spring seat (key 33) and guide retainer (key 26).
+Torque the guide retainer (key 26) to 3 ft-lbs / 4.1 N•m.
+18. Hook the pusher post (key 19) (with attached parts) on
+the lever (key 15) to check the alignment of the holes in
+the diaphragm with the holes in the spring casing. If the
+holes do not line up, unhook the pusher post from the
+lever, hold the pusher post and rotate the diaphragm to
+the correct position.
+19. Install the lower spring seat (key 31) over the relief
+spring so it rests flat on the connector nut (key 22).
+20. Insert the diaphragm assembly into the diaphragm
+casing (key 5) and hook the pusher post on the lever
+(key 15).
+21. Install the control spring (key 32) and upper spring seat
+(key 33) and apply lubricant to the upper spring seat
+(key 33).
+22. Install the spring case (key 29) so that the screened
+vent assembly (key 30) is in the correct position for
+the application. Place the nameplates over the screw
+holes, insert the spring case cap screws (key 37) and
+finger tighten.
+23. Screw in the adjusting screw (key 35) to put slack into
+the diaphragm (key 23).
+RELIEF VALVE
+O-RING (KEY 28)
+PUSHER POST
+(KEY 19)
+DIAPHRAGM
+HEAD (KEY 24)
+DIAPHRAGM
+(KEY 23)
+DIAPHRAGM CONNECTOR
+NUT (KEY 22)
+RELIEF VALVE
+SPRING (KEY 27) GUIDE RETAINER
+O-RING (KEY 48)
+RELIEF SEAL
+RETAINER (KEY 47) DIAPHRAGM CONNECTOR
+ASSEMBLY (KEY 21)
+LOWER SPRING
+SEAT (KEY 31)
+RELIEF SPRING
+SEAT (KEY 25)
+GUIDE RETAINER
+(KEY 26)
+W4668
+PUSHER POST
+(KEY 19)
+DIAPHRAGM
+(KEY 23)
+PUSHER POST
+O-RING (KEY 52)
+DIAPHRAGM
+HEAD (KEY 24) DIAPHRAGM LIMITER
+O-RING (KEY 51)
+DIAPHRAGM
+LIMITER (KEY 50)
+DIAPHRAGM
+HEAD CAP
+SCREW (KEY 46)
+W5433-1
+TYPE 627, 627R, 627LR, 627M OR 627MR
+TYPES 627H AND 627HM
+Figure 6. Diaphragm Assemblies
+13
+627 Series
+24. Using a crisscross pattern, finish tightening the spring
+case cap screws (key 37) to 7 ft-lbs / 9.5 N•m of torque.
+25. If necessary, refer to the installation and/or the Startup
+and Adjustment procedures.
+26. Install the adjusting locknut (key 34) after
+regulator adjustment.
+Parts Ordering
+When corresponding with your local Sales Office about this
+equipment, always reference the equipment serial number or
+FS number that can be found on the nameplate.
+When ordering replacement parts, reference the key number
+of each needed part as found in the following parts list.
+Separate kits containing all recommended spare parts
+are available.
+See Type OS2 Instruction Manual (D102778X012) for
+slam-shut parts.
+Parts List
+Note
+In this parts list, parts marked NACE are
+intended for corrosion-resistant service
+as detailed in the NACE International
+Standard MR0175.
+Key Description Part Number
+Type 627 Parts Kit with Aluminum/Nitrile (NBR) trim
+(include keys 4, 9, 11, 12 and 23) R627X000A12
+Type 627 Parts Kit with Stainless steel/
+Nitrile (NBR) trim
+(include keys 4, 9, 11, 12 and 23) R627X000S12
+Type 627H Parts Kit with SST/Nylon (PA) trim R627HX00S12
+Type 627R Parts Kit with Aluminum/
+Nitrile (NBR) trim
+(include keys 4, 9, 11, 12, 23, 28 and 48) R627RX00A12
+Type 627R Parts Kit with Stainless steel/
+Nitrile (NBR) trim
+(include keys 4, 9, 11, 12, 23, 28 and 48) R627RX00S12
+1 Body(1)
+Ductile iron
+1000 psig / 69.0 bar maximum inlet pressure
+3/4 NPT 30B3046X012
+1 NPT 30B3048X012
+1-1/4 NPT ERAA42554A0
+2 NPT 30B3096X012
+Ductile iron (Long Body)
+1000 psig / 69.0 bar maximum inlet pressure
+1 NPT 39B2451X012
+2 NPT 39B0414X012
+Steel
+2000 psig / 138 bar maximum inlet pressure
+3/4 NPT 30B3050X012
+1 NPT 30B3051X012
+2 NPT 30B7452X012
+Steel (Long Body)
+2000 psig / 138 bar maximum inlet pressure
+1 NPT 39B0412X012
+2 NPT 39B0415X012
+1 Body(1) (continued)
+Steel, CL600 RF flanged
+1500 psig / 103 bar maximum inlet pressure
+NPS 1 / DN 25 40B6754X012
+NPS 2 / DN 50 40B6756X012
+Steel, CL300 RF flanged
+750 psig / 51.7 bar maximum inlet pressure
+NPS 1 / DN 25 41B8978X012
+NPS 2 / DN 50 41B8080X012
+Steel, CL150 RF flanged
+290 psig / 20.0 bar maximum inlet pressure
+NPS 1 / DN 25 43B8656X022
+NPS 2 / DN 50 44B0666X012
+Steel, BWE
+1000 psig / 69.0 bar maximum inlet pressure
+NPS 1 / DN 25 33B6723X012
+NPS 2 / DN 50 38B1688X012
+Steel, PN 16/25/40 RF
+580 psig / 40.0 bar maximum inlet pressure
+NPS 1 / DN 25 44B0386X012
+NPS 2 / DN 50 44B3342X012
+Stainless Steel(2), NPT
+2000 psig / 138 bar maximum inlet pressure
+3/4 NPT 30B3050X062
+1 NPT 30B3051X092
+2 NPT 30B7452X052
+Stainless Steel(2), CL150 RF flanged
+275 psig / 18.9 bar maximum inlet pressure
+NPS 1 / DN 25 43B8656X052
+NPS 2 / DN 50 44B0666X022
+Stainless Steel(2), CL300 RF flanged
+720 psig / 49.6 bar maximum inlet pressure
+NPS 1 / DN 25 41B8978X072
+NPS 2 / DN 50 41B8080X072
+Stainless Steel(2), CL600 RF flanged
+1440 psig / 99.2 bar maximum inlet pressure
+NPS 1 / DN 25 40B6754X102
+NPS 2 / DN 50 40B6756X062
+Stainless Steel(2), PN 16/25/40 RF
+580 psig / 40.0 bar maximum inlet pressure
+NPS 1 / DN 25 44B0386X032
+NPS 2 / DN 50 44B3342X032
+Type 627OSX Bodies, Steel
+Without Tap
+NPS 1 / DN 25
+NPT ERAA33145A0
+SWE ERAA31302A0
+CL150 RF ERAA44998A0
+CL300 RF ERAA45039A0
+CL600 RF ERAA45040A0
+NPS 2 / DN 50
+NPT ERAA33146A0
+SWE ERAA32902A0
+CL150 RF ERAA45027A0
+CL300 RF ERAA45029A0
+CL600 RF ERAA45031A0
+With Tap
+NPS 1 / DN 25
+NPT ERAA34615A0
+SWE ERAA34616A0
+CL150 RF ERAA45033A0
+CL300 RF ERAA45038A0
+CL600 RF ERAA45041A0
+NPS 2 / DN 50
+NPT ERAA34618A0
+SWE ERAA34619A0
+CL150 RF ERAA45028A0
+CL300 RF ERAA45030A0
+CL600 RF ERAA45032A0
+Key Description Part Number
+*Recommended spare part.
+1. Bodies can be used for both standard and NACE constructions.
+2. Stainless steel body material can be used for applications in temperature ranges down to -40°F / -40°C and are only available for Types 627, 627R and 627H.
+14
+627 Series
+2* Orifice
+Aluminum
+3/32 in. / 2.4 mm 0R044109022
+1/8 in. / 3.2 mm 1A936709012
+3/16 in. / 4.8 mm 00991209012
+1/4 in. / 6.4 mm 0B042009012
+3/8 in. / 9.5 mm 0B042209012
+1/2 in. / 13 mm 1A928809012
+303 Stainless steel
+3/32 in. / 2.4 mm 0R044135032
+1/8 in. / 3.2 mm 1A936735032
+3/16 in. / 4.8 mm 00991235032
+1/4 in. / 6.4 mm 0B042035032
+3/8 in. / 9.5 mm 0B042235032
+1/2 in. / 13 mm 1A928835032
+316 Stainless steel, NACE construction only
+3/32 in. / 2.4 mm 0R0441X0012
+1/8 in. / 3.2 mm 1A9367X0022
+3/16 in. / 4.8 mm 009912X0012
+1/4 in. / 6.4 mm 0B0420X0012
+3/8 in. / 9.5 mm 0B0422X0012
+1/2 in. / 13 mm 1A9288X0012
+3 Cap Screw (not shown), (2 required)
+627 Series
+For Ductile iron/Steel diaphragm case 1A560724052
+For Aluminum diaphragm case
+(not applicable for Types 627H and 627HM) 1A352524052
+Type 627 Only
+For Ductile iron/Steel diaphragm case 1A5607X0052
+For Aluminum case with Steel diaphragm case 10A3869X012
+For SST Case and body 1A5607X0052
+For Aluminum Case and SST body 10A3869X022
+Type 627OSX Only
+For Steel Casings 1A560724052
+For Ductile Iron Casings GF05446X572
+4* Diaphragm Case O-ring
+Nitrile (NBR)
+For Type 627, 627H or 627R only 17A2325X022
+Fluorocarbon (FKM)
+For Types 627, 627R and 627LR only 10A0037X012
+5 Diaphragm Case
+For Type 627, 627R or 627LR
+Aluminum without 1/8 in. / 3.2 mm gauge tap 40B3084X012
+Aluminum with 1/8 in. / 3.2 mm gauge tap
+for 627 Series (except Types 627H and 627HM) 11B5380X012
+Ductile iron without 1/8 in. / 3.2 mm gauge tap 30B3053X012
+Ductile iron with 1/8 in. / 3.2 mm gauge tap
+for 627 Series (except Types 627H and 627HM) 31B0641X012
+For Type 627, 627R or 627LR
+Steel 30B3104X012
+Ductile iron with 1/4 NPT gauge tap for
+627 Series (except Types 627H and 627HM) 39A5987X012
+Steel with 1/4 NPT gauge tap for 627 Series
+(except Type 627H) 30B8734X012
+For Type 627M or 627MR
+Ductile iron 39A5987X012
+Steel 30B8734X012
+For Type 627H, Steel 30B3104X012
+For Type 627, Stainless steel 30B3104X082
+For Type 627HM, Steel 30B8734X012
+6 Boost Body (not for Type 627M, 627HM
+or 627MR), Delrin®
+For Type 627 or 627H 30B3056X012
+For Type 627R or 627LR 30B3057X012
+7 Stabilizer
+Nitrile (NBR)
+For Types 627, 627H, 627R and 627LR only 10B3060X012
+Fluorocarbon (FKM)
+For Types 627, 627R and 627LR only 10B3060X022
+8 Stem Guide (for Types 627, 627H, 627R and
+627LR only), Powdered metal 20B3061X012
+9* Disk Assembly (for all Orifice Size)
+Aluminum holder and Nitrile (NBR) disk 1C4248X0212
+303 Stainless steel holder and Nitrile (NBR) disk 1C4248X0202
+Aluminum holder and Nylon (PA) disk 1C4248X00A2
+303 Stainless steel holder and Nylon (PA) disk 1C4248X0062
+316 Stainless steel holder and Nylon (PA) disk 1C4248X0262
+316 Stainless steel holder and Nitrile (NBR) disk 1C4248X0252
+303 Stainless steel holder and
+Fluorocarbon (FKM) disk 1C4248X0052
+Aluminum holder and Fluorocarbon (FKM) disk 1C4248X0182
+316 Stainless steel holder and
+Fluorocarbon (FKM) disk 1C4248X0192
+10 Stem
+303 Stainless steel 10B3059X012
+316 Stainless steel (NACE) 10B3059X022
+11* Stem O-ring
+Nitrile (NBR) 1D687506992
+Fluorocarbon (FKM) For Types 627, 627R,
+627LR, 627M and 627MR only 1N430406382
+12* Stem Back-up Ring,
+Polytetrafluoroethylene (PTFE) (2 required) 1K786806992
+13 Hair Pin Clip, Stainless steel 10B3058X012
+14 Drive Pin, Plated steel 1H3671X0012
+15 Lever, Plated steel 20B3063X012
+16 Lever Retainer, Plated steel 30B3097X012
+17 Lever Pin
+Stainless steel 10B3083X012
+316 Stainless steel (NACE) 10B3083X022
+18 Lever Cap Screw (2 required)
+Plated steel 10B7454X012
+316 Stainless steel (NACE) 1B2905X0012
+19 Pusher Post, Aluminum
+For Type 627, 627-OSX, 627M or 627M-OSX 10B3089X012
+For Type 627R, 627LR or 627MR ERAA51240A0
+For Type 627C, Stainless steel ERAA51241A0
+For Type 627H, 627H-OSX, 627HM or 627HM-OSX
+Stainless steel ERAA51241A1
+Stainless steel (NACE) ERAA51241A0
+21 Diaphragm Connector (for Type 627R, 627LR
+or 627MR only), Stainless steel 28B8832X012
+22 Diaphragm Connector Nut (for Type 627R, 627LR
+or 627MR only), Stainless steel 10B7449X012
+23* Diaphragm
+Nitrile (NBR)
+For Types 627 or 627M with Aluminum or
+Ductile iron diaphragm case 10B3069X012
+For Types 627 or 627M with
+Steel diaphragm case 10B8735X012
+For Types 627R, 627LR or 627MR with
+Aluminum or Ductile iron diaphragm case 10B3068X012
+For Types 627R, 627LR or 627MR with
+Steel diaphragm case 10B8736X012
+For Types 627H or 627HM with Steel
+diaphragm case (diaphragm is Neoprene (CR)
+with Nylon (PA) fabric) 12B0178X012
+Fluorocarbon (FKM)
+For Types 627R, 627LR and 627MR
+with Steel case 10B8736X022
+For Types 627 and 627M with Steel case 10B8735X042
+For Types 627R, 627LR and 627MR
+with Ductile iron and Aluminum Casing 10B3068X022
+For Types 627 and 627M
+with Ductile iron and Aluminum Casing 10B3069X032
+24 Diaphragm Head, Plated steel
+For Type 627 or 627M, Plated steel 1D666428982
+For Type 627R, 627LR or 627MR, Plated steel 10B3071X012
+For Type 627H or 627HM, 416 Stainless steel 12B0175X012
+Key Description Part Number Key Description Part Number
+*Recommended spare part.
+Delrin® is a mark owned by E.I. du Pont de Nemours and Co.
+15
+627 Series
+25 Relief Spring Seat (For Type 627R or
+627MR only), Steel 10B7446X012
+26 Guide Retainer (For Type 627R, 627LR or
+627MR only), Stainless steel 10B7450X012
+27 Relief Spring (For Type 627R or 627MR only),
+Plated steel 10B6757X012
+For Type 627LR 1B541327022
+28* Relief Seal O-ring
+Nitrile (NBR)
+For Type 627R, 627LR or 627MR only 1J108506992
+Fluorocarbon (FKM)
+For Types 627R, 627LR and 627MR only 1J1085X0042
+29 Spring Case
+For Type 627, 627R or 627LR
+Aluminum 40B3086X012
+Ductile iron 30B3055X012
+Steel 30B3102X012
+Stainless steel (Types 627 and 627R only) 30B3102X092
+29 Spring Case (continued)
+For Type 627M or 627MR
+Ductile iron 30B3055X012
+Steel 30B3102X012
+For Type 627H or 627HM
+Steel 30B3102X012
+Stainless steel (Type 627H only) 30B3102X092
+30 Screened Vent Assembly, Plastic 10B3093X012
+31 Lower Spring Seat, Plated steel
+For Type 627 or 627M 1D666625072
+For Type 627R, 627LR or 627MR 20B3073X012
+32 Control Spring, Plated steel
+5 to 20 psig / 0.34 to 1.4 bar, Yellow 10B3076X012
+15 to 40 psig / 1.0 to 2.8 bar, Green 10B3077X012
+35 to 80 psig / 2.4 to 5.5 bar, Blue 10B3078X012
+70 to 150 psig / 4.8 to 10.3 bar, Red 10B3079X012
+140 to 250 psig range / 9.7 to 17.2 bar, Blue,
+used for Type 627H or 627HM 10B3078X012
+240 to 500 psig range / 16.5 to 34.5 bar, Red,
+used for Type 627H or 627HM 10B3079X012
+33 Upper Spring Seat, Plated steel 1D667125072
+34 Locknut, Plated steel 1D667728982
+35 Adjusting Screw, Plated steel
+For Type 627, 627M, 627H or 627HM 10B3081X012
+For Type 627R, 627LR or 627MR 10B3080X012
+36 Adjusting Screw Cap, Plastic 20B3082X012
+37 Spring Case Cap Screw, Plated steel
+(8 required)
+For Aluminum or Ductile iron diaphragm case 1A391724052
+For Steel diaphragm case 1A368324052
+For Stainless steel case and body 1A3683X0062
+For Aluminum case and SST body 1A3917X0062
+For Type 627H/HM, Steel diaphragm case 1A346424052
+For Type 627H, Stainless steel case and body 1A3464X0022
+43 Blocked Throat (For Type 627M, 627HM or
+627MR only), Stainless steel 10B3085X012
+44* Blocked Throat O-ring
+Nitrile (NBR) For Type 627M, 627HM or
+627MR only (2 required) 1E264306992
+Fluorocarbon (FKM)
+For Types 627M and 627MR only 1E2643X0022
+45* Blocked Throat Back-up Ring (For Type 627M,
+627HM or 627MR only), PTFE (2 required) 10B3106X012
+46 Diaphragm Head Cap Screw, Steel
+For Type 627 or 627M 1B290524052
+For Type 627H or 627HM 1C379124052
+47 Relief Seal Retainer (For Type 627R, 627LR or
+627MR only), Stainless steel 10B7445X012
+48* Guide Retainer O-ring
+Nitrile (NBR)
+For Type 627R, 627LR or 627MR only 1D682506992
+Fluorocarbon (FKM)
+For Types 627R, 627LR and 627MR only 1N423906382
+49 Relief Indicator (For Type 627R, 627LR or
+627MR only), Rubber (not shown) 30B3100X012
+50 Diaphragm Limiter
+(For Types 627H and 627HM only) 22B0176X012
+51* Diaphragm Limiter O-ring
+For Types 627H and 627HM only 1K877606992
+52* Pusher Post O-ring (2 required)
+For Types 627H and 627HM only 1C853806992
+58 Pipe Plug, Zinc 1D8293T0022
+67 Drive Screw, 18-8 Stainless steel 1A368228982
+72 Pipe Plug, Zinc-plated steel 1A767524662
+75* Slam-shut seat ERAA32884A0
+76* O-ring GE29958X012
+Key Description Part Number Key Description Part Number
+*Recommended spare part.
+16
+627 Series
+18
+37
+5
+8
+4
+7
+6
+1
+2
+L2
+1310
+L2
+L1
+9
+L1
+12161714
+15
+19
+46
+23
+24
+31
+30
+33
+36 35 34 32 29
+11
+L2L2
+L1
+L2
+30B3092_G
+APPLY LUBRICANT(1)
+L1 = MULTI-PURPOSE LITHIUM POLYMER TYPE GREASE
+L2 = EXTREME LOW-TEMPERATURE BEARING GREASE
+PARTS NOT SHOWN: 3
+1. Lubricants must be selected such that they meet the temperature requirements.
+Figure 7. Type 627 Regulator Assembly
+17
+627 Series
+L1
+L2
+L1
+L2 L2 L2 L2
+L1
+L2
+29 34 36 35 33 26 32 18
+5
+8
+4
+7
+6
+1
+2
+9
+13101211161714
+19
+15
+28
+47
+21
+23
+24
+22
+31
+48
+30
+27
+25
+49 37
+30B3089_G
+APPLY LUBRICANT(1)
+L1 = MULTI-PURPOSE LITHIUM POLYMER TYPE GREASE
+L2 = EXTREME LOW-TEMPERATURE BEARING GREASE
+PARTS NOT SHOWN: 3
+1. Lubricants must be selected such that they meet the temperature requirements.
+Figure 8. Type 627R Regulator Assembly
+18
+627 Series
+L2
+L2L2L2
+L2
+L1
+L1
+L2
+29 34 36 35 33 26 32 18
+37
+5
+8
+4
+7
+6
+1
+2
+9
+1310161714
+15
+19
+47
+21
+28
+23
+24
+22
+27
+31
+48
+30
+49
+38B4843_C
+APPLY LUBRICANT(1)
+L1 = MULTI-PURPOSE LITHIUM POLYMER TYPE GREASE
+L2 = EXTREME LOW-TEMPERATURE BEARING GREASE
+PARTS NOT SHOWN: 3
+1. Lubricants must be selected such that they meet the temperature requirements.
+Figure 9. Type 627LR Regulator Assembly
+19
+627 Series
+L2
+L1
+L2
+L2 L2
+L1
+L2
+L1
+36
+33
+30
+31
+24
+23
+46
+49
+15
+14 17 16 1211 10 13
+9
+2
+1
+43
+45
+44
+5
+37
+18
+29323435
+30B6433_E
+APPLY LUBRICANT(1)
+L1 = MULTI-PURPOSE LITHIUM POLYMER TYPE GREASE
+L2 = EXTREME LOW-TEMPERATURE BEARING GREASE
+PARTS NOT SHOWN: 3
+1. Lubricants must be selected such that they meet the temperature requirements.
+Figure 10. Type 627M Regulator Assembly
+20
+627 Series
+29 34 36 35 33 26 32 18
+37
+5
+44
+45
+43
+1
+2
+9
+13101211161714
+15
+19
+47
+28
+21
+23
+24
+22
+31
+27
+48
+30
+L1
+L2
+L2
+25
+49
+L2L2
+L1
+L1
+L2
+30B6434_E
+APPLY LUBRICANT(1)
+L1 = MULTI-PURPOSE LITHIUM POLYMER TYPE GREASE
+L2 = EXTREME LOW-TEMPERATURE BEARING GREASE
+PARTS NOT SHOWN: 3
+1. Lubricants must be selected such that they meet the temperature requirements.
+Figure 11. Type 627MR Regulator Assembly
+21
+627 Series
+36
+L1
+L1
+L1
+L2 L2 L2 L2
+L2
+33
+30
+24
+37
+23
+46
+19
+15
+14 17 16 11 12 10 13
+9
+2
+1
+6
+7
+4
+8
+5
+50
+18
+51
+5229323435
+31B5374_D
+APPLY LUBRICANT(1)
+L1 = MULTI-PURPOSE LITHIUM POLYMER TYPE GREASE
+L2 = EXTREME LOW-TEMPERATURE BEARING GREASE
+PARTS NOT SHOWN: 3
+1. Lubricants must be selected such that they meet the temperature requirements.
+Figure 12. Type 627H Regulator Assembly
+22
+627 Series
+36
+L1
+L1
+L1
+L2 L2 L2 L2
+L2
+33
+30
+24
+37
+23
+46
+19
+15
+14 17 16 1211 1310
+9
+2
+43
+1
+45
+44
+18
+51
+52
+29323435
+5
+50
+31B9872_D
+APPLY LUBRICANT(1)
+L1 = MULTI-PURPOSE LITHIUM POLYMER TYPE GREASE
+L2 = EXTREME LOW-TEMPERATURE BEARING GREASE
+PARTS NOT SHOWN: 3
+1. Lubricants must be selected such that they meet the temperature requirements.
+Figure 13. Type 627HM Regulator Assembly
+23
+627 Series
+1 76 75
+D101328X012 © 1986, 2023 Emerson Process Management Regulator
+Technologies, Inc. All rights reserved. 05/23.
+The Emerson logo is a trademark and service mark of Emerson
+Electric Co. All other marks are the property of their prospective owners.
+Fisher™ is a mark owned by Fisher Controls International LLC, a
+business of Emerson Automation Solutions.
+The contents of this publication are presented for informational purposes
+only, and while every effort has been made to ensure their accuracy, they
+are not to be construed as warranties or guarantees, express or implied,
+regarding the products or services described herein or their use or
+applicability. All sales are governed by our terms and conditions, which
+are available upon request. We reserve the right to modify or improve the
+designs or specifications of such products at any time without notice.
+Emerson Process Management Regulator Technologies, Inc does not
+assume responsibility for the selection, use or maintenance of any
+product. Responsibility for proper selection, use and maintenance of any
+Emerson Process Management Regulator Technologies, Inc. product
+remains solely with the purchaser.
+TYPE 627
+TYPE 627H
+TYPE 627M
+TYPE 627HM
+TYPE 1 IN. OS2
+Figure 14. Type 627OSX Regulator Assembly
+627 Series
+Facebook.com/EmersonAutomationSolutions
+LinkedIn.com/company/emerson-automation-solutions
+Twitter.com/emr_automation
+Webadmin.Regulators@emerson.com
+Fisher.comEmerson Automation Solutions
+Americas
+McKinney, Texas 75070 USA
+T +1 800 558 5853
++1 972 548 3574
+Europe
+Bologna 40013, Italy
+T +39 051 419 0611
+Asia Pacific
+Singapore 128461, Singapore
+T +65 6777 8211
+Middle East and Africa
+Dubai, United Arab Emirates
+T +971 4 811 8100

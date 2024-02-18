@@ -1,0 +1,1670 @@
+www.Fisher.com
+D102624X012
+Design 1018S Sliding-Stem Control Valve
+Contents
+Introduction 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Scope of Manual 1. . . . . . . . . . . . . . . . . . . . . . . . . . .
+Description 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Specifications 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Installation 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Maintenance 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Packing Lubrication 4. . . . . . . . . . . . . . . . . . . . . . .
+Packing Maintenance 4. . . . . . . . . . . . . . . . . . . . .
+Replacing Packing 4. . . . . . . . . . . . . . . . . . . . . . . .
+Trim Maintenance 10. . . . . . . . . . . . . . . . . . . . . . .
+Lapping Metal Seats 11. . . . . . . . . . . . . . . . . . . . . .
+Noise Attenuation Trim 11. . . . . . . . . . . . . . . . . . . .
+Bonnet Constructions 12. . . . . . . . . . . . . . . . . . . . .
+Parts Ordering 14. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Parts Kits 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Parts List 15. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Introduction
+Scope of Manual
+This instruction manual includes installation,
+maintenance and parts information for the Design
+1018S control valve. The standard bonnet allows a
+range of Fisher actuators to be fitted and reference
+should be made to the relevant instruction manuals
+for details of these and any other Fisher accessories
+which may be fitted.
+No person may install, operate or maintain a Design
+1018S valve without first (1) being fully trained and
+qualified in valve, actuator and accessory
+installation, operation and maintenance, and (2)
+carefully reading and understanding the contents of
+this manual. If you have any questions about these
+instructions contact your Fisher sales office before
+proceeding.
+W8488
+Figure 1. Design 1018S Valve with Type 3024C Actuator
+Description
+The globe-style Design 1018S valve (figure 1) is a
+metric designed valve with stem guiding and
+push-down-to-close action in sizes DN15, 25, 40, 50,
+80 and 100 (1/2, 1, 1-1/2, 2, 3 and 4 inches). It has a
+threaded seat ring and metal-to-metal seating for all
+general applications over a wide variety of pressure
+drops and temperatures, or metal-to-PTFE seating
+for positive shutoff at temperatures up to 232C
+(450F).
+Specifications
+Specifications for the Design 1018S valve are shown
+in tables 1 and 2. Some information about your valve
+will appear on the valve nameplate. Where an
+actuator is fitted the nameplate will be attached to
+the actuator. If the valve has been supplied without
+an actuator the nameplate will be wired to the valve.
+Instruction Manual
+Form 5420
+March 2003 1018S Valve
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+2
+Table 1. Specifications
+Valve Size DN 15 25 40 50 80 100
+Valve Size inch ½ 1 1½ 2 3 4
+Flow Direction Flow up standard
+Flow Characteristics Linear and equal percentage
+Plug Styles Full capacity metal seat trim or PTFE seat
+Yoke Boss Size mm 54 71
+Yoke Boss Size inch 2 1/8 2 13/16
+Valve Stem Diameter mm 12 16
+Valve Stem Diameter inch 0.472 0.630
+Valve Stem Thread mm M12 x 1.75 M16 x 2.0
+Approximate Weights (PN & Class) kg 9 10 16 19 37 58
+Approximate Weights (PN & Class) lb 20 22 35 42 82 128
+Table 2. End Connections, Shutoff Classifications and Pressure-Temperature Class Designations
+Specification Class PN
+End Connections (Flanged)
+Steel and stainless steel valves:
+Raised face (RF) Class 150 and 300 per
+ASME B16.5 (and prEN1759-1)
+Steel and stainless steel valves:
+PN10, 16, 25, 40 per EN1092-1
+Raised Face Type B (formally DIN 2526
+Form C)
+Groove Type D (formally DIN 2512)
+Shutoff Classification
+Per IEC 60534-4 and ANSI/FCI 70-2
+Metal Seat - Class IV (standard)
+Metal Seat - Class V (optional)
+PTFE Seat - Class VI (optional)
+Maximum Inlet Pressure
+and Temperatures(1)
+Steel and stainless steel valves
+Class 150 or 300 per prEN1759-1 and
+ASME B16.34
+Steel and stainless steel valves
+PN10, 16, 25, 40 per EN1092-1
+1. The pressure/temperature limits in this manual and any applicable standard or code limitation for valve should not be exceeded.
+Installation
+WARNING
+Always wear protective gloves,
+clothing, and eyewear when
+performing any installation operations
+to avoid personal injury.
+Personal injury or equipment damage
+caused by sudden release of pressure
+or bursting of pressure relating parts
+might result if service conditions
+exceed those for which the product
+was intended. To avoid injury or
+damage, provide a relief valve for over
+pressure protection as required by
+government or accepted industry
+codes and good engineering practices.
+Check with your process or safety
+engineer for any additional measures
+that must be taken to protect against
+process media.
+CAUTION
+This valve is intended for a specific
+range of pressures, temperatures and
+other application specifications.
+Applying different pressure and
+temperatures to the valve could result
+in parts damage, malfunction of the
+control valve or loss of control of the
+process. Some body/trim material
+combinations are limited in their
+pressure drop and temperature
+ranges. Do not expose this product to
+service conditions or variables other
+than those for which the product was
+intended. If you are not sure what
+these conditions are you should
+contact Fisher for more complete
+specifications. Provide the product
+serial number (shown on the
+nameplate) and all other pertinent
+information.
+Fisher does not assume final
+responsibility for the selection, use, or
+maintenance of any product. Final
+responsibility for the selection, use,
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+3
+and maintenance of any Fisher
+product remains with the purchaser
+and end-user.
+WARNING
+If you move or work on an actuator
+fitted to the valve with loading
+pressure applied, keep your hands and
+tools away from the stem travel path to
+avoid personal injury. Be especially
+careful when removing the stem
+connector to release all loading on the
+actuator stem whether it be from air
+pressure on the diaphragm or
+compression in the actuator springs.
+Likewise take similar care when
+adjusting or removing any optional
+travel stop. Refer to the relevant
+actuator Maintenance Instructions.
+If hoisting the valve take care to
+prevent people from being injured in
+case the hoist or rigging slips. Be sure
+to use adequately sized hoists and
+chains or slings to handle the valve.
+1. Before installing the valve, inspect it to be certain
+that the valve body cavity is free of all foreign
+material. Clean out all pipelines to remove scale,
+welding slag and other foreign material.
+2. The control valve assembly may be installed in
+any orientation unless limited by seismic criteria.
+However, the normal method is with the actuator
+vertical above the valve. Flow through the valve
+must be in the direction indicated by the arrow cast
+on the valve.
+3. Use accepted piping practices when installing the
+valve in the pipeline. Use a suitable gasket between
+the valve and the pipeline flanges.
+4. With a leak-off bonnet construction, remove the
+pipe plug to hook up the leak-off piping.
+5. If continuous operation is required during
+inspection or maintenance, install isolating valves
+either side of the control valve with a bypass valve to
+control the flow while the control valve is being
+worked on.
+6. If the actuator and valve are shipped separately,
+refer to the appropriate instruction manual for the
+actuator mounting procedure.
+WARNING
+Personal injury could result from
+packing leakage. Valve packing is
+tightened before shipment; however
+the packing might require some
+readjustment to meet specific service
+conditions.
+Maintenance
+WARNING
+Avoid personal injury or property
+damage from sudden release of
+process pressure or bursting of parts.
+Before performing any maintenance
+operations:
+ Always wear protective gloves,
+clothing, and eyewear when
+performing any maintenance
+operations to avoid personal injury.
+ Disconnect any operating lines
+providing air pressure, electric power
+or a control signal to the actuator. Be
+sure the actuator cannot suddenly
+open or close the valve.
+ Use bypass valves or completely
+shut off the process to isolate the
+valve from the process pressure.
+Relieve the process pressure from
+both sides of the valve.
+ Depending on the actuator
+construction, it will be necessary to
+manage the pneumatic actuator
+loading pressure and any actuator
+spring pre-compression. It is essential
+to refer to the relevant actuator
+instruction manual to ensure safe
+removal of the actuator from the valve.
+ Use lock-out procedures to be
+sure that the above measures stay in
+effect while you work on the
+equipment.
+ The valve packing box may
+contain process fluids that are
+pressurized, even when the valve has
+been removed from the pipeline.
+Process fluids may spray out under
+pressure when removing the packing
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+4
+Figure 2. Lubricator and Lubricator/Isolating Valve (optional)
+LUBRICATOR
+LUBRICATOR/ISOLATING VALVE
+10A9421-A
+AJ5428-D
+A0832-2/IL
+hardware or packing rings, or when
+loosening the packing box pipe plug.
+ Check with your process or safety
+engineer for any additional measures
+that must be taken to protect against
+process media.
+Note
+Whenever a gasket seal is disturbed
+by removing or shifting gasketed
+parts, install a new gasket during
+reassembly. This ensures a good
+gasket seal because the used gasket
+may not seal properly.
+Packing Lubrication
+If a lubricator, or lubricator and isolating valve (figure
+2) is provided for PTFE/composition or other
+packings that require lubrication, it is installed in a
+tapped bonnet. Use a silicon based lubricant.
+Packing used in oxygen service or in processes with
+temperatures over 260C (500F) should not be
+lubricated. To operate the lubricator, turn the screw
+clockwise to force the lubricant into the packing box.
+The lubricator/isolating valve operates the same way
+except the isolating valve must first be opened and
+then closed after the lubrication has been
+completed.
+Packing Maintenance
+Key numbers refer to figures 3, 4, 5, and 8.
+For spring-loaded single PTFE V-ring packing, the
+packing spring (key 8.10) maintains a sealing force
+on the packing. If leakage is noted around the top
+bushing (key 8.2) check to be sure that the packing
+flange (key 8.1) is touching the bonnet (key 2). If the
+packing flange is not touching the bonnet, tighten the
+packing flange cap screws (key 8.3) until the packing
+flange is against the bonnet. If leakage cannot be
+stopped in this manner proceed to the replacing
+packing procedure.
+If there is unacceptable packing leakage with other
+than spring-loaded packing, first try to limit the
+leakage and establish a stem seal by tightening the
+packing flange cap screws (key 8.3) to at least the
+minimum recommended torque in table 3. However
+do not exceed the maximum recommended torque in
+table 3 or excessive friction may result. If the
+packing (key 8) is relatively new and tight on the
+stem and tightening the packing flange nuts does not
+stop the leakage, it is possible that the stem is worn
+or nicked so that a seal cannot be made. The
+surface finish of a valve stem is critical for making a
+good packing seal. If the leakage comes from the
+outside diameter of the packing it is possible that the
+leakage comes from nicks or scratches around the
+packing box wall. While replacing the packing, as in
+the numbered steps below, inspect the valve stem
+and packing box wall for nicks and scratches.
+Note
+If the valve has ENVIRO-SEAL
+packing installed, refer to the
+instruction manual entitled
+ENVIRO-SEAL Packing System for
+Sliding Stem Valves, Form 5306, for
+packing instructions. Figure 5 in this
+manual shows typical ENVIRO-SEAL
+packing systems.
+Replacing Packing
+These instructions refer primarily to valves fitted with
+plain bonnets. When replacing packing in an
+extension or bellows bonnet you should refer to the
+relevant section under Bonnet Constructions later in
+this manual for details on disassembly and
+reassembly of valves with extension and bellows
+bonnets.
+1. Isolate the control valve from the line pressure,
+release pressure from both sides of the valve body
+and drain the process media from both sides of the
+valve. If using a power actuator, also shut off all
+pressure lines to the power actuator and release all
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+5
+pressure from the actuator. Use lock-out procedures
+to be sure that the above measures stay in effect
+while you work on the equipment.
+2. Disconnect the operating lines from the actuator
+and any leak-off piping from the bonnet. Disconnect
+the stem connector and then remove the actuator
+from the valve by unscrewing the yoke lock nut (key
+11, figure 8). Refer to the appropriate actuator
+instruction manual for details.
+WARNING
+To avoid personal injury or property
+damage by uncontrolled movement of
+the bonnet, loosen the bonnet bolting
+by following the instructions in the
+next step. Do not remove a stuck
+bonnet by pulling on it with equipment
+that can stretch or store energy in any
+other manner. The sudden release of
+stored energy can cause uncontrolled
+movement of the bonnet.
+Note
+The following step also provides
+additional assurance that the valve
+body fluid pressure has been relieved.
+3. Hex nuts (key 9.3) attach the bonnet (key 2) to
+the valve body (key 1). Loosen these nuts
+approximately 3mm (1/8 inch). Then loosen the
+body-to-bonnet gasketed joint by either rocking the
+bonnet or prying between the body and bonnet.
+Work the prying tool around the bonnet until the
+bonnet loosens.
+CAUTION
+Avoid damaging the seating surface
+caused by the valve plug and stem
+assembly dropping from the bonnet
+after being lifted part way out. When
+lifting the bonnet temporarily install a
+valve stem locknut on the valve stem.
+This locknut will prevent the valve
+plug and stem assembly from
+dropping out of the bonnet.
+4. If no fluid leaks from the joint, remove the bonnet
+nuts (key 9.3) completely and carefully lift off the
+bonnet complete with plug and stem assembly.
+5. Loosen the packing flange cap screws (key 8.3)
+so that the packing is not tight on the valve stem.
+Remove any travel indicator parts and stem locknuts
+from the valve stem threads.
+6. Set the bonnet and stem assembly on a
+protective surface to prevent damage to the bonnet
+gasket surface and plug seat. Separate the plug and
+stem assembly from the bonnet.
+7. Remove the bonnet gasket (key 9.1) and cover
+the opening of the valve to protect the gasket
+surface and prevent foreign matter from getting into
+the valve cavity.
+8. Remove the packing flange cap screws, packing
+flange and top bushing (keys 8.3, 8.1 and 8.2).
+Carefully push out all the remaining packing box
+parts from the bonnet using a rounded rod or other
+tool which will not scratch the packing box wall or
+bottom guide bushing. Clean the packing box and
+the metal packing box parts.
+9. Inspect the valve stem threads and packing box
+surfaces for any sharp edges that might cut the
+packing. Scratches or burrs could cause packing box
+leakage or damage the new packing. If the surface
+condition cannot be improved by light sanding,
+replace the damaged parts.
+10. Remove the covering protecting the valve cavity
+and install a new bonnet gasket (key 9.1) making
+sure that the gasket seating surfaces are clean and
+smooth.
+Note
+The bolting procedures in step 11
+include, but are not limited to,
+ensuring that the bolting threads are
+clean and that the nuts are evenly
+tightened on the studs in a crisscross
+pattern. Tightening one nut may
+loosen an adjacent nut. Repeat the
+crisscross tightening pattern several
+times until each nut is tight and the
+body-to-bonnet seal is made. When
+the operating temperature has been
+reached perform the torque procedure
+again.
+11. Lubricate the bonnet studs (key 9.2), nuts (key
+9.3) and the surface between the nuts and bonnet
+with a suitable lubricant. Carefully slide the valve
+plug into the bonnet, slide the bonnet onto the bolts
+(key 9.2) and secure with the stud bolt nuts (key
+9.3). Using accepted bolting procedures, tighten the
+body-to-bonnet joint to withstand test pressures and
+application service conditions. Use the bolt torques
+in table 4 as guidelines unless accepted bolting
+procedures dictate otherwise.
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+6
+Table 3. Recommended Torque for Packing Flange Cap Screws
+Valve Size Valve Stem
+Diameter
+Graphite Packing (square) PTFE-Graphite Packing (square)
+Valve Size Valve Stem
+Diameter Class PN Min Torque Max Torque Min Torque Max Torque
+DN inch mm inch
+Class PN
+Nm lbfin Nm lbfin Nm lbfin Nm lbfin
+- - - 1/2, 1,
+1-1/2, 2
+150 - - - 2.5 22 3.8 34 1.9 16 2.8 25
+- - - 1/2, 1,
+1-1/2, 2 12 0.472 300 - - - 3.4 30 5.1 45 2.5 22 3.7 33
+15, 25, 40 & 50 - - -
+12 0.472
+- - - 10 - 40 3.1 27 4.6 41 2.3 20 3.4 30
+- - - 3 & 4 150 - - - 3.7 31 5.5 46 2.3 21 3.5 31
+- - - 3 & 4 300 - - - 4.9 41 7.3 62 3.1 27 4.7 41
+80 - - - 16 0.630 - - - 10 - 40 4.5 38 6.7 57 2.8 25 4.2 38
+100 - - -
+16 0.630
+- - - 10 - 16 3.5 31 5.3 47 2.2 20 3.4 30
+100 - - - - - - 25 - 40 4.5 38 6.7 57 2.8 25 4.2 38
+Table 4. Body-to-Bonnet Torque Values for Plain, Extension, and Bellows Bonnets
+Valve Size
+Body-to-Bonnet (Plain Bonnet)
+Body-to-Extension (Extension & Bellows)
+Extension-to-Bonnet
+(Extension and Bellows Bonnets)Valve Size
+Body Studs (Key 9.2) Bonnet Cap-Screws (Key 9.7)
+Bolt Material B7 and B8M
+CL2 1.1181 1.7709 A2-70 B7 and B8M
+CL2 1.1181 1.7709 A2-70
+DN Inch Nm lbfin Nm lbfin Nm lbfin Nm lbfin Nm lbfin Nm lbfin Nm lbfin Nm lbfin
+15 1/2 82 60 39 29 77 57 63 46 82 60 39 29 77 57 63 46
+25 1 82 60 39 29 77 57 63 46 82 60 39 29 77 57 63 46
+40 1-1/2 171 126 94 69 185 136 151 111 82 60 39 29 136 100 63 46
+50 2 171 126 94 69 185 136 151 111 82 60 39 29 136 100 63 46
+80 3 171 126 94 69 185 136 151 111 171 126 94 69 185 136 151 111
+100 4 171 126 94 69 185 136 151 111 171 126 94 69 185 136 151 111
+12. Install the new packing and the metal packing
+box parts according to the appropriate arrangement
+in figure 3, 4, or 5. Place a smooth-edged pipe over
+the valve stem and gently tap each soft packing part
+into the packing box.
+13. Slide the top bushing and packing flange (keys
+8.2 and 8.1) into position. Lubricate the packing
+flange cap screws (key 8.3), including the underside
+of the head of the cap screws. Fit the cap screws.
+Note
+The torque values discussed in step
+14 and shown in table 3 are
+recommended guidelines only and are
+presented as a starting point for this
+procedure. Tightening the packing
+flange nuts to a torque value that
+exceeds the table guidelines, in order
+to obtain a seal, may indicate other
+problems.
+14. For spring-loaded PTFE V-ring packing tighten
+the packing flange cap screws until the flange (key
+8.1) contacts the bonnet.
+15. For graphite packing tighten the packing flange
+cap screws to the maximum recommended torque
+shown in table 3. Then loosen the packing flange
+cap screws and retighten to the minimum
+recommended torque shown in table 3.
+For ENVIRO-SEAL packing refer to the instruction
+manual entitled ENVIRO-SEAL Packing System for
+Sliding Stem Valves, Form 5306, for packing
+instructions.
+For other packing types tighten the packing flange
+cap screws alternately in small equal increments
+until one of the cap screws reaches the minimum
+recommended torque shown in table 3. Then, tighten
+the remaining flange cap screw until the packing
+flange is level and at a 90 degree angle to the valve
+stem.
+16. Mount the actuator on the bonnet (key 2) and
+reconnect the actuator and valve plug stem
+according to the procedure in the appropriate
+actuator instruction manual. Check for leakage
+around the top bushing when the control valve
+assembly is first put in to service. Retighten the
+packing flange cap screws as required.
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+7
+SINGLE V-RING PACKINGSINGLE PTFE-GRAPHITE PACKING
+SINGLE GRAPHITE PACKING
+gf00180 gf00181
+gf00182
+Figure 3. Typical Single Packing Arrangements
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+8
+DOUBLE PTFE-GRAPHITE PACKING
+DOUBLE PTFE V-RING PACKING
+DOUBLE GRAPHITE PACKING
+gf00183
+gf00185
+gf00184
+Figure 4. Typical Double Packing Arrangements
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+9
+ENVIRO-SEAL PTFE PACKING
+PSA PACKING (VPC-61)
+ENVIRO-SEAL GRAPHITE ULF PACKING
+gf00186 gf00187
+gf00192
+Figure 5. Typical ENVIRO-SEAL and PSA Packing Arrangements
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+10
+Table 5. Seat Ring Torque Guidelines
+Valve Size Seat Ring Torque
+DN inch Nm Lbfft
+15 1/2 150 111
+25 1 150 111
+40 1-1/2 150 111
+50 2 200 148
+80 3 300 222
+100 4 300 222
+Trim Maintenance
+Key numbers in this section refer to figure 8.
+Disassembly
+1. Remove the actuator and bonnet as described in
+steps 1 to 7 of the section Replacing the Packing.
+CAUTION
+Use care to avoid damaging the gasket
+sealing surfaces.
+The surface finish of the valve stem
+(key 6, 7 or 7.1) is critical for making a
+good packing seal. The seating
+surfaces of the seat ring (key 4) and
+the valve plug (key 6) are critical for
+tight shutoff and should therefore also
+be treated with care and properly
+protected.
+2. Packing parts can be removed from the bonnet if
+desired. Replace these parts as described in the
+section on Packing Maintenance.
+3. Use a seat ring tool made according to the
+dimensions in figure 6 to remove the seat ring (key
+4) as follows:
+a. Insert the tool into the valve body. Be certain
+the tool lugs are engaged in the corresponding
+recesses in the seat ring.
+b. Use a torque gun or driver having torque
+capabilities equal to or greater than those shown
+in table 5. Connect the gun to a socket that
+snugly fits the hex head on the seat ring tool.
+c. Insert the socket onto the hex head of the seat
+ring tool.
+Table 6. Seat Ring Removal Tool
+Valve Size A B C D
+DN mm
+15-25 150 7.0 16.0 50.0
+40 160 7.0 20.0 70.0
+50 160 7.0 20.0 70.0
+80 205 7.0 24.5 104.5
+100 217 12.0 24.5 124.5
+Size inch
+1/2-1 5.906 0.276 0.630 1.949
+1-1/2 6.299 0.276 0.787 2.736
+2 6.299 0.276 0.787 2.736
+3 8.071 0.276 0.965 4.114
+4 8.543 0.472 0.965 4.902
+CAUTION
+Be careful to hold the torque gun and
+attached socket at right angles to the
+seat ring when applying torque. Tilting
+the gun and socket while applying
+torque may cause the lugs on the seat
+ring tool to suddenly disengage from
+the recesses in the seat ring thus
+causing possible damage to the seat
+ring.
+4. Remove the seat ring (key 4) from the valve
+body.
+5. Inspect parts for wear or damage that would
+prevent proper operation of the valve body.
+6. Replace trim parts as necessary.
+Assembly
+1. Before installing the new seat ring, thoroughly
+clean the threads in the valve body port. Apply
+suitable lubricant to the threads and to the 60
+surface of the new seat ring (see key 4, figures 8
+and 9). Screw the seat ring into the valve body.
+Using the seat ring tool, a lathe or boring mill, tighten
+the seat ring to the torque value in table 5. Remove
+all excess lubricant after tightening.
+2. Remove any protective tape or covering from the
+valve plug and stem assembly and carefully install it
+into the valve body.
+3. Clean the bonnet gasket seating surfaces and
+install a new bonnet gasket.
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+11
+70662.4
+Figure 6. Removal and Installation Tool
+Note
+If the packing is to be reused and was
+not removed from the bonnet, perform
+the following step carefully to avoid
+damaging the packing with the stem
+threads.
+4. Mount the bonnet on the valve body and
+complete assembly according to steps 9 to 13 of the
+section Replacing the Packing, omitting steps 12
+and 13 if new packing is not being installed.
+Lapping Metal Seats
+CAUTION
+To avoid damaging the bellows
+assembly in a bellows bonnet
+construction, do not attempt to lap the
+metal seating surfaces on valves of
+this type. The design of the bonnet
+assembly prevents rotation of the stem
+and any forced lapping rotation will
+damage the bellows.
+With metal-seat constructions, seating surfaces of
+the valve plug and seat ring can be lapped for
+improved shutoff. Deep nicks and scratches should
+be machined out rather than ground out. Use a good
+quality lapping compound of a mixture of 280 to
+600-grit. Apply the compound to the bottom of the
+valve plug.
+Assemble the valve to the extent that the seat ring
+(key 4) and plug and stem assembly (key 6) are
+fitted and the bonnet (key 2), complete with guide
+bushing (key 8.2), is bolted to the valve body. A
+simple handle can be made from a piece of strap
+iron locked to the valve stem with nuts. After lapping,
+remove the bonnet and clean the seat surfaces.
+Completely assemble as described in the assembly
+portion of the Trim Maintenance procedure and test
+the valve for shutoff. Repeat the lapping procedure if
+leakage is still excessive.
+Noise Attenuation Trim
+Key numbers refer to figure 10.
+The 1018S multi-hole noise trim provides
+aerodynamic noise control that is effective for vapor,
+gas and steam flow applications and can be used
+with the standard metal-to-metal seat, the soft
+seated Teflon insert and the hard faced seats.
+Disassembly
+1. Remove the actuator and bonnet as described in
+steps 1 to 4 of the section Replacing the Packing.
+2. When lifting the bonnet and stem assembly off
+the valve body, the cage retaining ring, and possibly
+the multi-hole cage itself, will also lift with the rest of
+the assembly.
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+12
+3. Loosen the packing flange cap screws (key 8.4)
+so that the packing is not tight on the valve stem.
+Remove any travel indicator parts and stem locknuts
+from the valve stem threads
+CAUTION
+Use care to avoid damaging the gasket
+sealing surfaces.
+The surface finish of the valve stem
+(key 6, 7 or 7.1) is critical for making a
+good packing seal. The seating
+surfaces of the seat ring (key 4) and
+the valve plug (key 6) are critical for
+tight shutoff and should therefore also
+be treated with care and properly
+protected.
+4. Set the bonnet and stem assembly on a
+protective surface to prevent damage to the bonnet
+gasket surface and plug seat. Separate the plug and
+stem assembly from the bonnet. Separate the cage
+retaining ring and the multi-hole cage.
+5. Remove the seat ring in the normal way as
+described above.
+Assembly
+Follow the assembly instructions above in the Trim
+Maintenance section but with the following
+exceptions.
+1. Having screwed in the seat ring (key 4), slot the
+multi-hole cage (key 5.1) into the groove on the top
+of the seat ring. Ensure that the end with the vertical
+slots is uppermost.
+2. Place the plug and stem assembly (key 6) inside
+the cage on the seat ring and pass the cage
+retaining ring (key 5.2) with the tapered side down
+over the stem and place on the top of the cage.
+3. Carefully slide the bonnet (key 2) over the stem
+and locate its base in the center of the cage
+retaining ring (key 5.2) and, at the same time, over
+the bonnet studs (key 9.2).
+4. The process of tightening the bonnet nuts (key
+9.3) will pull the cage retaining ring into the top of the
+multi-hole cage splaying out the top circumference of
+the cage to provide a firm interference fit (see
+figure 10).
+Bonnet Constructions
+Three bonnet constructions are available. The
+standard plain bonnet (fig 8) incorporates a welded
+plug and stem assembly. Note, these parts are only
+available as an assembly. For extreme temperatures
+or difficult to handle fluids either an extension bonnet
+(fig 11) or a bellows bonnet (fig 12) may be fitted.
+These incorporate a bonnet extension (key 12.1)
+which fits between the bonnet and the valve body.
+Extension Bonnets
+Refer to figure 11.
+For the extension bonnet arrangement the plug and
+stem are supplied as separate parts. When replacing
+the plug and stem follow the instructions below.
+Disassembly
+1. Follow steps 1 - 7 shown in the section Replacing
+Packing.
+2. Carefully slide the plug and stem assembly out of
+the bonnet taking care not to damage the packing
+with the stem thread.
+Assembly
+1. Screw the new valve stem (key 7) firmly into the
+new plug (key 6). Refer to figure 7 for the correct
+torque.
+2. Using the dimensions given in figure 7 select the
+proper drill size and drill through the plug and stem
+using the pilot hole provided in the plug.
+3. Remove any chips or burrs and drive in a new pin
+(key 9.4). Ensure that the pin extends evenly either
+side of the plug. The extended pin prevents rotation
+of the plug and stem once the valve is assembled.
+CAUTION
+To avoid weakening the stem that may
+cause failure in service, never reuse an
+old stem with a new valve plug. Using
+an old stem with a new plug requires
+drilling a new pin hole in the stem
+which will weaken it. However a used
+valve plug may be used with a new
+stem.
+4. Carefully insert the plug and stem assembly in to
+the bonnet taking care not to damage the valve
+packing.
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+13
+Table 7. Valve Stem Connection Torque and Pin
+Replacement
+Stem Diameter Stem/Plug Torque Drill Size D
+mm Nm lbfft mm mm
+12 21 15 4 7
+16 50 37 6 8
+GF00191
+Figure 7. Plug Stem Connection and Pin Replacement
+5. Slide the plug and stem assembly to the full up
+position such that the extending ends of the
+plug/stem pin are located in the vertical groove in the
+bore of the guide bush.
+6. Remove the covering protecting the valve cavity
+and install a new bonnet gasket (key 9.1) making
+sure that the gasket seating surfaces are clean and
+smooth.
+7. Lift the whole assembly, taking care that the plug
+and stem assembly does not slide out, on to the
+valve body and over the bonnet studs (key 9.2).
+8. Lubricate the bonnet studs (key 9.2), nuts (key
+9.3) and the surface between the nuts and bonnet
+with a suitable lubricant. Tighten the nuts (key 9.3) in
+a crisscross pattern until the metallic stop at the
+bottom side of the bonnet flange contacts the body
+surface. This will guarantee that the body to bonnet
+joint will withstand test pressures and application
+service conditions (see table 4 for details).
+Bellows Bonnet
+Refer to figure 12.
+Disassembly
+1. Follow steps 1 - 2 shown in the section Replacing
+the Packing.
+WARNING
+To avoid personal injury or property
+damage by uncontrolled movement of
+the bonnet, loosen the bonnet bolting
+by following the instructions in the
+next step. Do not remove a stuck
+bonnet by pulling on it with equipment
+that can stretch or store energy in any
+other manner. The sudden release of
+stored energy can cause uncontrolled
+movement of the bonnet.
+Note
+The following step also provides
+additional assurance that the valve
+body fluid pressure has been relieved.
+2. Cap screws (key 9.7) and hex nuts (key 9.8)
+attach the valve bonnet (key 2) to the bonnet
+extension (key 12.1). Loosen these nuts
+approximately 3mm (1/8 inch). Then loosen the
+bonnet-to-extension joint by either rocking the
+bonnet or prying between the bonnet and bonnet
+extension. Work the prying tool around the bonnet
+until the bonnet loosens. If no fluid leaks from the
+joint, remove the nuts and cap screws completely
+and carefully lift the bonnet off the valve stem.
+3. Hex nuts (key 9.3) attach the bonnet extension
+(key 12.1) to the valve body (key 1). Remove these
+nuts and loosen the extension-to-body gasketed joint
+by either rocking the bonnet or prying the extension
+of the body.
+4. Lift the extension (key 12.1) , complete with the
+bellows, stem and plug assembly, clear of the body
+and place on a protective surface.
+5. Extend the plug (key 6) and stem (key 7.1) from
+the base of the bonnet extension to expose the
+plug/stem pin (key 9.4). Drive out the plug/stem pin
+and unscrew the plug from the stem.
+6. Slide the stem and bellows assembly (key 7.3)
+through the top of the bonnet extension (key 12.1)
+removing the two bonnet gaskets.
+7. Inspect all parts for signs of wear and damage
+and replace as necessary.
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+14
+Assembly
+1. Inspect all gasket seating surfaces on the bonnet
+(key 2), bonnet extension (key 12.1) and valve body
+(key 1) to ensure they are clean and smooth.
+2. Taking the stem and bellows assembly screw on
+the plug (key 6) to give a firm fit. Take care not to
+rotate the bellows or otherwise damage the bellows
+in the process.
+3. Using the pilot hole in the plug, drill through the
+plug and stem using the appropriate drill shown in
+figure 7. Then unscrew the plug from the stem.
+4. Place a bellows gasket (key 9.6) on the top of
+bonnet extension (key 12.1) and slide the stem and
+bellows assembly from the top through the bonnet
+extension.
+5. Place the second bellows gasket (key 9.6) on the
+top surface of the bellows assembly and then
+carefully place the bonnet over the stem taking care
+not to damage the packing if fitted.
+6. Bolt the bonnet to the bonnet extension using the
+cap screws (key 9.7) and hex nuts (key 9.8) but only
+partially tighten the nuts. Refer to table 4.
+7. Re-screw the plug (key 6) on to the base of the
+stem (key 7.1) until the holes in the plug and stem,
+made in step 3 above, align. Extend the stem as far
+as possible from the base of the bellows and drive in
+a new pin (key 9.4) ensuring that the pin extends
+equally either side of the plug.
+8. Slacken the cap screws (key 9.7) and hex nuts
+(key 9.8) of the bonnet and then rotate the complete
+stem, plug and bellows assembly until the ends of
+the pin extending from the plug align with the vertical
+grooves in the bore of the guide bush (key 12.2).
+This construction prevents the plug and stem
+assembly rotating when the valve is in service.
+9. Retighten the cap screws (key 9.7) and hex nuts
+(key 9.8) to the correct torque shown in table 4.
+10. Place a new bonnet extension-to-body gasket
+(key 9.1) on the gasket surface of the valve body
+(key 1) and carefully lift the complete bonnet
+assembly on to the bonnet studs in the body.
+11. Tighten the hex nuts (key 9.3) as shown in
+table 3.
+Parts Ordering
+Each valve is assigned a serial number which can
+be found on the valve or on the nameplate (key 18,
+not shown). The nameplate will normally be fitted to
+the actuator but if the valve is supplied without an
+actuator the nameplate will be wired to the valve.
+Refer to this serial number when contacting your
+Fisher sales office for technical assistance. When
+ordering replacement parts refer to this serial
+number and give the part description and part
+number from the following parts list.
+Use only genuine Fisher replacement parts.
+Components that are not supplied by Fisher should
+not, under any circumstances, be used in any Fisher
+valve, because they will void your warranty, might
+adversely affect the performance of the valve, and
+might jeopardize worker and workplace safety.
+Note
+Fisher does not assume responsibility
+for the selection, use, or maintenance
+of any product. Responsibility for
+proper selection, use, and
+maintenance of any Fisher product
+remains solely with the purchaser and
+end-user.
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+15
+Parts Kits
+Stem Diameter mm 12 16
+Yoke Boss Diameter,
+mm (Inch) 54 (2-1/8) 71 (2-13/16)
+Repair Kits
+Single PTFE/Graphite
+(contains keys - - -)
+R1018SY0072
+(8.2, 8.5, 8.7, 8.12)
+R1018SY0082
+(8.2, 8.5, 8.6, 8.7, 8.17)
+Single Graphite
+(contains keys - - -)
+R1018SY0092
+(8.2, 8.5.1, 8.5.2, 8.6, 8.12, 8.13
+R1018SY0102
+(8.2, 8.5.1, 8.5.2, 8.6, 8.7, 8.13, 8.17)
+Single PTFE V-Ring
+(contains keys - - -)
+R1018SY0112
+(8.2, 8.8, 8.9, 8.10, 8.12)
+R1018SY0122
+(8.2, 8.8, 8.9, 8.10, 8.17)
+ENVIRO-SEAL Double PTFE
+(contains keys - - - ) RPACKY00012 RPACKY00022
+ENVIRO-SEAL Single Graphite
+(contains keys - - -) RPACKY00032 RPACKY00042
+Retrofit Kits
+ENVIRO-SEAL Double PTFE
+(contains keys - - - )
+RPACKYRT052
+(8.1, 8.3, 8.6, 8.7, 8.8, 8.9, 8.11, 8.13, 8.15)
+RPACKYRT062
+(8.1, 8.3, 8.6, 8.7, 8.8, 8.9, 8.11, 8.13, 8.15)
+ENVIRO-SEAL Single Graphite
+(contains keys - - -)
+RPACKYRT072
+(8.1, 8.3, 8.5.1, 8.5.2, 8.5.3, 8.5.4, 8.6, 8.7, 8.8, 8.11, 8.13)
+RPACKYRT082
+(8.1, 8.3, 8.5.1, 8.5.2, 8.5.3, 8.5.4, 8.6, 8.7, 8.11, 8.13)
+Parts List
+Note
+(Note, except where indicated, sizes shown are
+valve sizes)
+Note
+Part numbers are shown for recommended spares
+only. For part numbers not shown, contact your
+Fisher sales office.
+Key Description Part Number
+1 Valve Body
+If you need a valve body as a replacement
+part, order by valve size, serial number,
+and desired material.
+2 Bonnet
+If you need a bonnet as a replacement
+part, order by valve size and stem
+diameter, serial number, and desired
+material.
+4* Seat Ring See table
+5.1* Multi-hole noise attenuation cage
+5.2 Noise attenuation cage retaining ring
+6* Plug and Stem Assembly See table
+6* Plug (Extension and Bellows Bonnet Only) See table
+7* Stem (Extension Bonnets Only)
+DN15 - 50 (1/2 to 2-Inch) 2474042
+DN80 - 100 (3 to 4-Inch) 2222477
+7.3* Bellows Assembly (Includes Stem)
+DN15 - 50 (1/2 to 2-Inch) 2217171
+DN80 - 100 (3 to 4-Inch) 2227272
+8.1 Packing Flange
+8.2* Bushing See table
+Key Description Part Number
+8.3 Packing Flange Capscrew
+8.5* Packing Ring See table
+8.6* Base Ring See table
+8.7* Spacer See table
+8.8* Washer See table
+8.9* V-Ring Packing Set See table
+8.10* Packing Spring See table
+8.11* Spring Pack Assembly See table
+8.12* Lantern Ring or Spacer See table
+8.13* Bushing See table
+8.17* Spacer See table
+8.20 Plug or Lubricator and Isolating Valve
+8.21* Support Ring See table
+8.22* O-ring See table
+8.23* O-ring See table
+9.1* Bonnet Gasket (Graphite Laminate/SST) See table
+9.2 Bonnet Stud
+9.3 Bonnet Nut
+9.4* Stem/plug Pin (Extension and Bellows Bonnets Only)
+DN15 - 50 (1/2 to 2-Inch) 1992163
+DN80 - 100 (3 to 4-Inch) 2526905
+9.5* Bonnet Extension Gasket See table
+9.6 Bellows Gasket See table
+9.7 Bonnet Extension Cap Screw
+9.8 Bonnet Extension
+11 Yoke Locknut
+12.1 Bonnet Extension
+12.2* Bushing
+15 - 50 mm (1/2 to 2-Inch) 2217198
+80 - 100 mm (3 to 4-Inch) 2218534
+30 Packing Warning Tag (not shown)
+- - - Seat Ring Removal / Installation Tool
+DN 15 - 25 (1/2 to 1-Inch) 0471267
+DN 40 - 50 (1-1/2 to 2-Inch) 0471275
+DN 80 (3-Inch) 0471291
+DN 100 (4-Inch) 1097458
+*Recommended spare parts
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+16
+GF00190
+Figure 8. Design 1018S Valve with Plain Bonnet
+GF00190
+Figure 9. Valve Plug with Soft Seat Insert
+GF00195
+Figure 10. Multi-Hole Cage Noise Trim Attenuator
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+17
+GF00191
+Figure 11. Extension Bonnet
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+18
+GF00193
+Figure 12. Bellows Bonnet
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+19
+Key 4* Seat Rings for Stainless Steel (metal and soft seat) and Alloy 6 Trim
+VALVE SIZE SEAT PORT DIAMETER
+STAINLESS STEEL
+TRIM ALLOY 6 TRIM
+VALVE SIZE SEAT PORT DIAMETER
+Seat Ring Material
+DN inches mm inches SST SST hard faced
+w/CoCr-A
+6 0.236 0483478 0483516
+15 1/2 10 0.394 0483486 048352415 1/2
+15 0.591 0483494 0483532
+6 0.236 0483575 0483630
+10 0.394 0483583 0483648
+25 1 15 0.591 0483591 048365625 1
+20 0.787 0483605 0483664
+25 0.984 1856251 1936484
+20 0.787 0483729 0483788
+40 1-1/2 25 0.984 1936387 1975218
+40 1-1/2 30 1.181 0483737 0483796
+40 1.575 0483745 0483800
+20 0.787 0483729 0483788
+25 0.984 1936387 1975218
+50 2 30 1.181 0483737 048379650 2
+40 1.575 0483745 0483800
+50 1.969 0483753 0483818
+40 1.575 0483982 0484032
+80 3 50 1.969 0483990 0484040
+80 3 65 2.559 0484008 0484059
+80 3.150 0484016 0483265
+100 4 80 3.150 0483346 0483400
+100 4 95 3.740 0483354 0483419
+Key 4 and 5 Noise Attenuation Trim for Plain Bonnet Only
+VALVE SIZE PORT DIAMETER CAGE
+(KEY 5.1)
+RETAINING
+RING (KEY 5.2) SEAT RING (KEY 4)
+DN Inch mm Inch SST SST SST SST hard faced
+w/CoCr-A
+25 1 20 0.787 1029681 1029703 1029665 1181556
+40 1-1/2 40 1.575 1073435 1Q57227E012 1073591 1073605
+50 2 40 1.575 1073435 1Q57227E012 1073591 1073605
+80 3 80 3.150 0566470 1Q57014E012 2527898 1222589
+100 4 95 3.740 0591238 1Q57226E012 2527871 1262777
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+20
+Key 6* Valve Plug and Stem Assembly for Plain Bonnet (Equal Percentage)(1)
+VALVE SIZE STEM
+DIAMETER
+SEAT PORT
+DIAMETER
+MAXIMUM
+COEFFICIENT VALVE PLUG MATERIAL(2)
+DN Inch mm mm Inch Kv Cv SST SST hard faced
+w/CoCr-A (3)
+SST with Teflon
+insert (4)
+6 0.236 1.1 1.3 2424347 2424355(5) 2424363
+15 1/2 12 10 0.394 2.3 2.7 2424428 2424436(5) 242444415 1/2 12
+15 0.591 3.5 4.0 2424495 2424509(5) 2424517
+6 0.236 0.2 0.3 2469235 2469243(5) 2469251
+6 0.236 0.4 0.5 2469278 2469286(5) 2469294
+6 0.236 0.6 0.7 2471566 2469308(5) 2471612
+6 0.236 0.9 1.0 2424266 2424274(5) 2424282
+25 1 12 6 0.236 1.3 1.5 2424347 2424355(5) 242436325 1 12
+10 0.394 2.7 3.1 2424428 2424436(5) 2424444
+15 0.591 4.0 4.6 2424495 2424509 2424517
+20 0.787 6.5 7.5 2465825 2424576 2424584
+25 0.984 10.0 11.6 2424622 2424649 2424657
+20 0.878 6.5 7.5 2465825 2424576 2424584
+40 1-1/2 12 25 0.984 11.0 12.7 2424622 2424649 2424657
+40 1-1/2 12 30 1.181 17.0 19.6 2470101 2469944 2470497
+40 1.575 25.0 28.9 2464144 2464152 2464179
+20 0.787 6.5 7.5 2465825 2424576 2424584
+25 0.984 12.0 13.9 2424622 2424649 2424657
+50 2 12 30 1.181 18.0 20.8 2470101 2469944 247049750 2 12
+40 1.575 25.0 28.9 2464144 2464152 2464179
+50 1.969 34.0 39.3 2464438 2464446 2464454
+40 1.575 34.0 39.3 2470179 2470403 2471426
+80 3 16 50 1.969 46.0 53.1 2470187 2470411 2471434
+80 3 16 65 2.559 70.0 80.9 2469634 2469642 2469677
+80 3.150 90.0 104.0 2464586 2464594 2464608
+100 4 16 80 3.150 90.0 104.0 2464586 2464594 2462608
+100 4 16 95 3.740 140.0 161.7 2464713 2464721 2464748
+1. The plug, stem and insert, if fitted, are always supplied as an assembly and are not available as separate parts with a plain bonnet.
+2. Stem material in all cases is SST.
+3. Seating surface zone is Alloy 6.
+4. PTFE plus 25 percent glass.
+5. Plug tip is solid Alloy 6.
+Key 6* Valve Plug and Stem Assembly for Plain Bonnet (Linear)(1)
+VALVE SIZE STEM
+DIAMETER
+SEAT PORT
+DIAMETER
+MAXIMUM
+COEFFICIENT VALVE PLUG MATERIAL(2)
+DN Inch mm mm Inch Kv Cv SST SST hard faced
+w/CoCr-A (3)
+SST with Teflon
+insert (4)
+15 1/2 12 15 0.591 3.7 4.3 2470217 2469456(5) 2470543
+6 0.236 1.3 1.5 2470195 2469421(5) 2470527
+10 0.394 3.0 3.5 2470209 2469448(5) 2470535
+25 1 12 15 0.591 5.0 5.8 2470217 2469456(5) 247054325 1 12
+20 0.787 7.5 8.7 2470225 2469979 2470551
+25 0.984 11.0 12.7 2424703 2424711 2424738
+40 1-1/2 12 40 1.575 33.0 38.1 2464217 2464225 2464233
+50 2 12 40 1.575 36.0 41.6 2464217 2464225 2464233
+50 2 12 50 1.969 45.0 52.0 2464519 2464527 2464535
+80 3 16 80 3.150 110.0 127.0 2464659 2464667 2464675
+100 4 16 100 3.740 160.0 184.8 2464799 2464802 2464829
+1. The plug, stem and insert, if fitted, are always supplied as an assembly and are not available as separate parts with a plain bonnet.
+2. Stem material in all cases is SST.
+3. Seating surface zone is Alloy 6.
+4. PTFE plus 25 percent glass.
+5. Plug tip is solid Alloy 6.
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+21
+Key 6* Valve Plug for Extension and Bellows Bonnets (Equal Percentage)
+VALVE SIZE SEAT PORT DIAMETER MAXIMUM COEFFICIENT VALVE PLUG MATERIAL
+DN Inch mm Inch Kv Cv SST SST hard faced
+w/CoCr-A (1)
+SST with Teflon
+insert (2)
+6 0.236 1.1 1.3 2424371 2424398(3) 2424401
+15 1/2 10 0.394 2.3 2.7 2424452 2424479(3) 242448715 1/2
+15 0.591 3.5 4.0 2424169 2424177(3) 2424185
+6 0.236 0.25 0.3 2221756 2465035(3) 2465124
+6 0.236 0.4 0.5 2466414 2466422(3) 2466457
+6 0.236 0.6 0.7 2465221 2465213(3) 2465256
+6 0.236 0.9 1.0 2424304 2424312(3) 2424339
+25 1 6 0.236 1.3 1.5 2424371 2424398(3) 242440125 1
+10 0.394 2.7 3.1 2424452 2424479(3) 2424487
+15 0.591 4.0 4.6 2424169 2424177 2424185
+20 0.787 6.5 7.5 2465876 2424606 2424614
+25 0.984 10.0 11.6 2424665 2424673 2424681
+20 0.878 6.5 7.5 2465876 2424606 2424614
+40 1-1/2 25 0.984 11.0 12.7 2424665 2424673 2424681
+40 1-1/2 30 1.181 17.0 19.6 2466465 2466473 2466503
+40 1.575 25.0 28.9 2316064 2464195 2464209
+20 0.787 6.5 7.5 2465876 2424606 2424614
+25 0.984 12.0 13.9 2424665 2424673 2424681
+50 2 30 1.181 18.0 20.8 2466465 2466473 246650350 2
+40 1.575 25.0 28.9 2316064 2464195 2464209
+50 1.969 34.0 39.3 2464462 2464489 2464497
+40 1.575 34.0 39.3 2466341 2466368 2466449
+80 3 50 1.969 46.0 53.1 2466481 2464969 2465019
+80 3 65 2.559 70.0 80.9 2465264 2465272 2465329
+80 3.150 90.0 104.0 2464616 2464624 2464632
+100 4 80 3.150 90.0 104.0 2464616 2464624 2464632
+100 4 95 3.740 140.0 161.7 2464756 2464764 2464772
+1. Seating surface zone is Alloy 6.
+2. PTFE plus 25 percent glass.
+3. Plug tip is solid Alloy 6.
+Key 6* Valve Plug for Extension and Bellows Bonnets (Linear)
+VALVE SIZE SEAT PORT DIAMETER MAXIMUM COEFFICIENT VALVE PLUG MATERIAL
+DN Inch mm Inch Kv Cv SST SST hard faced
+w/CoCr-A (1)
+SST with Teflon
+insert (2)
+15 1/2 15 0.591 3.7 4.3 2424223 2424231(3) 2424258
+25 1
+6 0.236 1.3 1.5 2465841 2465906(3) 2466007
+10 0.394 3.0 3.5 2466031 2466317(3) 2466325
+15 0.591 5.0 5.8 2424223 2424231(3) 2424258
+20 0.787 7.5 8.7 2466023 2466058 2466066
+25 0.984 11.0 12.7 2424746 2424754 2424762
+40 1-1/2 40 1.575 33.0 38.1 2464241 2464268 2464276
+50 2 40 1.575 36.0 41.6 2464241 2464268 2464276
+50 1.969 45.0 52.0 2316056 2464551 2464578
+80 3 80 3.150 110.0 127.0 2464683 2464691 2464705
+100 4 100 3.740 160.0 184.8 2464837 2464853 2464861
+1. Seating surface zone is Alloy 6.
+2. PTFE plus 25 percent glass.
+3. Plug tip is solid Alloy 6.
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+22
+Key 8* Packing Box Parts for 12mm Diameter Stem (DN15 to 50 or 1/2 to 2-Inch Valve)
+Packing Type Description of Part Key Part Number
+PTFE/graphite, single
+Bushing (2 required)
+Packing ring, PTFE/graphite composition (4 required)
+Spacer
+Spacer
+8.2
+8.5
+8.7
+8.12
+19A3273X012
+1278231
+0869236
+19A3275X012
+PTFE/graphite, double
+Bushing (2 required)
+Packing ring, PTFE/graphite composition (8 required)
+Base ring
+Spacer
+Lantern ring
+8.2
+8.5
+8.6
+8.7
+8.12
+19A3273X012
+1278231
+0225924
+2472678
+19A3275X012
+PTFE V-ring, single
+Bushing (2 required)
+Washer (2 required)
+Packing ring set, PTFE
+Spring
+Spacer (2 required)
+8.2
+8.8
+8.9
+8.10
+8.12
+19A3273X012
+19A4913X012
+19A4908X012
+2061333
+19A3275X012
+PTFE V-ring, double
+Bushing (2 required)
+Base ring
+Spacer
+Washer (2 required)
+Packing ring set, PTFE (2 required)
+Lantern ring
+8.2
+8.6
+8.7
+8.8
+8.9
+8.12
+19A3273X012
+0225924
+2472678
+19A4913X012
+19A4908X012
+19A3275X012
+Graphite, single
+Bushing
+Packing ring (2 required)
+Packing ring (2 required)
+Spacer
+Spacer
+Bushing
+8.2
+8.5.1
+8.5.2
+8.7
+8.12
+8.13
+2472562
+1898272
+1898299
+0869236
+19A3275X012
+2472244
+Graphite, double
+Bushing
+Packing ring (4 required)
+Packing ring (4 required)
+Base ring
+Spacer
+Lantern ring
+Bushing
+8.2
+8.5.1
+8.5.2
+8.6
+8.7
+8.12
+8.13
+2472562
+1898272
+1898299
+0225924
+2472678
+19A3275X012
+2472244
+ENVIRO-SEAL, PTFE V-rings, double
+Base ring
+Spacer
+Washer
+Packing ring set (2 required)
+Spring pack assembly
+Bushing
+Anti-extrusion washer (4 required)
+8.6
+8.7
+8.8
+8.9
+8.11
+8.13
+8.15
+0225924
+2535432
+19A4913X012
+12B8283X012
+13B6564X012
+2472244
+12B8281X012
+ENVIRO-SEAL, Graphite ULF, single
+Bushing
+Packing ring (2 required)
+Packing ring (2 required)
+Washer (3 required)
+Spacer
+Spring pack assembly
+Bushing
+8.5.1
+8.5.2
+8.5.3
+8.5.4
+8.7
+8.11
+8.13
+13B6089X012
+13B6074X012
+19B4146X012
+13B6076X012
+19B4147X012
+13B6078X012
+2472244
+PTFE/Carbon PSA, single
+Bushing (2 required)
+Packing ring set
+Spacer
+Washer (3 required)
+Wiper ring
+Support ring
+O-ring
+O-ring
+8.2
+8.5
+8.7
+8.8
+8.11
+8.21
+8.22
+8.23
+1Q57143F012
+2073676
+0869236
+0280607
+0819573
+1Q57147F012
+0802808
+0802786
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+23
+Key 8* Packing Box Parts for 16mm Diameter Stem (DN80 to 100 or 3- and 4-Inch Valve)
+Packing Type Description of Part Key Part Number
+PTFE/graphite, single
+Bushing (2 required)
+Packing ring, PTFE/graphite composition (4 required)
+Base ring
+Spacer
+Spacer
+8.2
+8.5
+8.6
+8.7
+8.17
+2473852
+1278258
+0225932
+2473933
+1Q57018E012
+PTFE/graphite, double
+Bushing (2 required)
+Packing ring, PTFE/graphite composition (8 required)
+Spacer (2 required)
+Washer (3 required)
+8.2
+8.5
+8.7
+8.8
+2473852
+1278258
+2473933
+0319686
+PTFE V-ring, single
+Bushing (2 required)
+Washer (3 required)
+Packing ring set, PTFE
+Spring
+Spacer (1 required)
+8.2
+8.8
+8.9
+8.10
+8.17
+2473852
+031986
+2473984
+2061341
+1Q57018E012
+PTFE V-ring, double
+Bushing (2 required)
+Spacer (2 required)
+Washer (4 required)
+Packing ring set, PTFE (2 required)
+8.2
+8.7
+8.8
+8.9
+2473852
+2473933
+0319686
+2473984
+Graphite, single
+Bushing
+Packing ring (2 required)
+Packing ring (2 required)
+Base ring
+Spacer
+Bushing
+Spacer
+8.2
+8.5.1
+8.5.2
+8.6
+8.7
+8.13
+8.17
+2473887
+1867105
+1898221
+0225932
+2473933
+2473879
+1Q57018E012
+Graphite, double
+Bushing
+Packing ring (4 required)
+Packing ring (4 required)
+Spacer (2 required)
+Washer ( 3 required)
+Bushing
+8.2
+8.5.1
+8.5.2
+8.7
+8.8
+8.13
+2473887
+1867105
+1898221
+2473933
+0319686
+2473879
+ENVIRO-SEAL PTFE V-ring, double
+Base ring
+Spacer (2 required)
+Washer (2 required)
+Packing set (2 required)
+Spring pack assembly
+Bushing
+Anti-extrusion washer (4 required)
+8.6
+8.7
+8..8
+8.9
+8.11
+8.13
+8.15
+0225932
+2473933
+0319686
+2218585
+13B6564E012
+2473879
+2218593
+ENVIRO-SEAL Graphite ULF, single
+Bushing
+Packing ring (2 required)
+Packing ring ( 2 required)
+Washer (3 required)
+Spacer
+Spring pack assembly
+Bushing
+8.5.1
+8.5.2
+8.5.3
+8.5.4
+8.7
+8.11
+8.13
+2218666
+2218631
+19B4152X012
+2218658
+19B4151X012
+13B6078E012
+2473879
+PTFE/Carbon PSA, single
+Bushing (2 required)
+Packing ring set
+Spacer
+Washer (3 required)
+Wiper ring
+Support ring
+O-ring
+O-ring
+8.2
+8.5
+8.7
+8.8
+8.11
+8.21
+8.22
+8.23
+1Q57156F012
+2073684
+1Q57488F012
+0319686
+0819581
+1Q57159F012
+0802794
+0802778
+1018S Valve
+Instruction Manual
+Form 5420
+March 2003
+24
+Key 9* Bonnet Gasket - Graphite Laminate/SST
+VALVE SIZE PART KEY PLAIN BONNET EXTENSION
+BONNET
+BELLOWS
+BONNETDN Inch PART KEY PLAIN BONNET EXTENSION
+BONNET
+BELLOWS
+BONNET
+Bonnet gasket 9.1 1882945 1882945 1882945
+15 - 25 1/2 - 1 Bonnet gasket 9.5 - - - 1882945 - - -15 - 25 1/2 - 1
+Bellows gasket (2 req’d) 9.6 - - - - - - 2148218
+Bonnet gasket 9.1 1882953 1882945 1882953
+40 - 50 1-1/2 - 2 Bonnet gasket 9.5 - - - 1882953 - - -40 - 50 1-1/2 - 2
+Bellows gasket (2 req’d) 9.6 - - - - - - 2148218
+Bonnet gasket 9.1 1882988 1882961 1882988
+80 3 Bonnet gasket 9.5 - - - 1882988 - - -80 3
+Bellows gasket (2 req’d) 9.6 - - - - - - 2148218
+Bonnet gasket 9.1 1882996 1882961 1882996
+100 4 Bonnet gasket 9.5 - - - 1882996 - - -100 4
+Bellows gasket (2 req’d) 9.6 - - - - - - 2148218
+Fisher
+Marshalltown, Iowa 50158 USA
+Cernay 68700 France
+Sao Paulo 05424 Brazil
+Singapore 128461
+The contents of this publication are presented for informational purposes only, and while every effort has been made to ensure their accuracy,
+they are not to be construed as warranties or guarantees, express or implied, regarding the products or services described herein or their use
+or applicability. We reserve the right to modify or improve the designs or specifications of such products at any time without notice.
+Fisher does not assume responsibility for the selection, use or maintenance of any product. Responsibility for proper selection, use and
+maintenance of any Fisher product remains solely with the purchaser and end-user.
+Fisher Controls International LLC 1996, 2003; All Rights Reserved Printed in USA
+ENVIRO-SEAL and Fisher are marks owned by Fisher Controls International LLC, a business of Emerson Process Management. The
+Emerson logo is a trademark and service mark of Emerson Electric Co. All other marks are the property of their respective owners. This
+product is covered by one or more of the following patents: 5,129,625; 5,131,666; 5,056,757; 5,230,498; and 5,299,812 or under pending
+patents.
+Emerson Process Management
+www.Fisher.com

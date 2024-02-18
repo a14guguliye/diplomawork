@@ -1,0 +1,1496 @@
+D200108X012
+Type 546, 546S, and 546NS Electro-Pneumatic
+Transducers
+Contents
+Introduction 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Scope of Manual 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Description 1. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Specifications 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Installation 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Mounting 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pressure Connections 4. . . . . . . . . . . . . . . . . . . . . . . .
+Diagnostic Connections 4. . . . . . . . . . . . . . . . . . . . . . .
+Electrical Connections 4. . . . . . . . . . . . . . . . . . . . . . . .
+Operating Information 5. . . . . . . . . . . . . . . . . . .
+Adjustments 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Calibration 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Equipment Required 6. . . . . . . . . . . . . . . . . . . . . . . .
+Calibration Procedure 6. . . . . . . . . . . . . . . . . . . . . . .
+Recalibration 7. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Changing Output Pressure Range 7. . . . . . . . . . . . . .
+Reversing the Action 7. . . . . . . . . . . . . . . . . . . . . . . . .
+Split Range Operation 7. . . . . . . . . . . . . . . . . . . . . . . .
+Principle of Operation 8. . . . . . . . . . . . . . . . . . .
+Maintenance 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Troubleshooting 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Electrical 9. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Pneumatic 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Alignment 10. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Span Adjustment 10. . . . . . . . . . . . . . . . . . . . . . . . .
+Torque Motor Frame 11. . . . . . . . . . . . . . . . . . . . . .
+Armature Travel Stop 11. . . . . . . . . . . . . . . . . . . . .
+Coil 11. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Type 82 Relay Removal and Replacement 11. . . .
+Type 82 Relay Maintenance 11. . . . . . . . . . . . . . . . .
+Replacing the Feedback Bellows Assembly 12. . . .
+Parts Ordering 12. . . . . . . . . . . . . . . . . . . . . . . . . . .
+Parts List 12. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Repair Kits for Type 546, 546S,
+and 546NS Transducers 12. . . . . . . . . . . . . . . . . .
+Type 546, 546S, & 546NS Transducers 13. . . . . . .
+Torque Motor 13. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Type 82 Relay 14. . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Diagnostic Connections 15. . . . . . . . . . . . . . . . . . . . .
+Mounting Parts 15. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Loop Schematics 17. . . . . . . . . . . . . . . . . . . . . . .
+CSA Schematics 17. . . . . . . . . . . . . . . . . . . . . . . . . . .
+FM Schematics 19. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+Introduction
+Scope of Manual
+This instruction manual provides installation, opera-
+tion, maintenance, and parts ordering information for
+the Type 546, 546S, and 546NS transducers and
+Type 82 relay. Refer to separate manuals for instruc-
+tions covering equipment used with the transducer.
+Only personnel qualified through training or experience
+should install, operate, and maintain this transducer. If
+there are any questions concerning these instructions,
+contact your Fisher Controls sales office or sales rep-
+resentative before proceeding.
+Description
+The Type 546 or 546NS transducer (figure 1) receives
+either a voltage (Vdc) or a current (mAdc) input signal
+and transmits a proportional pneumatic output pres-
+sure to a final control element. The Type 546S trans-
+ducer receives a current (mAdc) input signal and
+transmits a proportional pneumatic output pressure. A
+typical application is in electronic control loops where
+the final control element, generally a control valve, is
+pneumatically operated. The input signal, output pres-
+sure range, and electrical classification, if approved, of
+each transducer is indicated on the nameplate at-
+tached to the cover (figure 2).
+Instruction Manual
+Form 1783
+December 1997 Type 546, 546S, and 546NSDownloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+2
+Figure 1. T
+ype 546 Mounted on a Type 657 Pneumatic
+Diaphragm Actuator
+W2115/IL
+TYPE 546
+FILTER
+REGULATOR
+INFORMATION IN THIS PORTION OF THE
+NAMEPLATE IDENTIFIES THE HAZARDOUS
+AREA CLASSIFICATION AND APPROVALS
+FOR THE PRODUCT SPECIFIED ON THE
+EQUIPMENT ORDER.
+11A0050-G SHT B
+A3102-2 / IL
+Figure 2. Typical Nameplate
+The Type 546S transducer is approved as being intrin-
+sically safe when used with certain barrier systems.
+Refer to the Loop Schematics section of this manual.
+The Type 546NS transducer meets typical require-
+ments of the nuclear power industry. The Type 546NS
+construction includes materials that provide superior
+performance in elevated temperature and radiation
+environments.
+The O-rings are EPDM (ethylene propylene) and the
+diaphragms are EPDM/Nomex. EPDM (1) demon-
+strates superior temperature capability and shelf life
+over nitrile. The Nomex diaphragm fabric demon-
+strates improved strength retention at elevated tem-
+perature and radiation conditions.
+In addition, the Type 546NS transducer is qualified
+“commercial grade dedicated” under Fisher’s
+10CFR50, Appendix B, quality assurance program.
+These can be supplied as 10CFR, Part 21 items.
+Specifications
+Specifications for the Type 546, 546S, and 546NS are
+listed in table 1.
+Installation
+WARNING
+If a flammable or hazardous gas is being
+used as the supply pressure medium
+and the transducer is in an enclosed
+area, personal injury or property dam-
+age might result from fire or explosion
+of accumulated gas. To avoid such inju-
+ry or damage, provide adequate ventila-
+tion.
+Mounting
+When a Type 546, 546S, or 546NS transducer is or-
+dered as part of a control valve assembly, the factory
+mounts the transducer on the actuator and connects
+the necessary tubing, then adjusts the transducer as
+specified on the order.
+Transducers also can be ordered separately for
+mounting on a control valve assembly already in ser-
+vice. The transducer may be ordered with or without
+mounting parts. Mounting parts include the appropriate
+bracket and bolts for attaching the unit to an actuator
+boss (with tapped holes) or for attaching it to the dia-
+phragm casing. If preferred, mounting parts are avail-
+able for mounting the transducer on a 2-inch (51 mm)
+diameter pipestand, a flat surface, or a bulkhead.
+Tubing is not included if the transducer is not factory
+mounted. Use 3/8-inch (9.5 mm) outside diameter tub-
+ing for all supply and output connections. Tubing
+length between the transducer output and the final
+control element should be as short as possible to mini-
+mize its effect on control loop stability.
+1. Use a clean, dry, oil-free air supply with instruments containing EPDM compo-
+nents. EPDM is subject to degradation when exposed to petroleum-based lubri-
+cants.Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+3
+Table 1. Specifications
+Available Configurations
+Type 546: Electro-pneumatic signal transducer with
+explosion-proof case and cover
+Type 546S: Similar to Type 546 except designed
+for intrinsically safe, non-incendive, or dust-ignition
+applications
+Type 546NS: Similar to Type 546 except provided
+with EPDM elastomers for use in elevated tempera-
+ture and radiation environments
+All transducer types can be ordered with or without
+a 67 Series filter regulator. A 2 inch (51 mm) circu-
+lar supply pressure gauge may be mounted on the
+regulator
+Input Signals (1)
+Type 546 and 546NS: 1 to 5 mAdc, 4 to 20 mAdc,
+10 to 50 mAdc, 1 to 9 Vdc, or two-way split range
+using any half of one of the standard input signal
+spans
+Type 546S:  4 to 20 mAdc, or  For Factory
+Mutual only, a two-way split range using either half
+of the 16 mAdc span. Signal must not exceed 30
+Vdc, 20 mAdc
+Internal Resistance of Torque Motor
+1 to 5 mAdc Input Signal: 2500 ±120 ohms (stan-
+dard) or 12,000 ±50 ohms (temperature-compen-
+sated circuit)
+4 to 20 mAdc Input Signal: 176 ±10 ohms
+10 to 50 mAdc Input Signal: 90 ±10 ohms
+1 to 9 Vdc Input Signal: 1300 ±50 ohms (tempera-
+ture-compensated circuit)
+Output Signals (1)
+Ranges:(1)For 546 and 546NS: 3 to 15 psig (0.2 to 1.0 bar), 6
+to 30 psig (0.4 to 2.0 bar), 3 to 27 psig (0.2 to 1.9
+bar), 0 to 18 psig (0 to 1.2 bar), or 0 to 33 psig (0 to
+2.3 bar)For 546S: 3 to 15 psig (0.2 to 1.0 bar), 6 to 30 psig
+(0.4 to 2.0 bar), 3 to 27 psig (0.2 to 1.9 bar), or 0 to
+33 psig (0 to 2.3 bar)
+Action: Type 546 and 546NS are field-reversible
+between direct and reverse action. The Type 546S
+is available with either direct or reverse action but
+cannot be reversed in the field.
+Supply Pressure (1)
+Recommended: 5 psig (0.3 bar) higher than upper
+range limit of output signal
+Maximum: 50 psig (3.5 bar)
+Maximum Steady-State Air Consumption (1,2)
+At 20 psig (1.4 bar) Supply Pressure: 0.35 scfm
+(0.6 normal m 3/hr)
+At 35 psig (2.4 bar) Supply Pressure: 0.50 scfm
+(0.8 normal m 3/hr)
+Maximum Output Air Capacity (2)
+At 20 psig (1.4 bar) Supply Pressure: 8.0 scfm
+(13.4 normal m 3/hr)
+At 35 psig (2.4 bar) Supply Pressure: 11.5 scfm
+(19.3 normal m 3/hr)
+Performance (3)
+Actuator Loading Time: See figure 7
+Reference Accuracy: ±0.75% of output signal
+span
+Independent Linearity:(1) ±0.50% of output signal
+span
+Open Loop Gain:(1) 26
+Frequency Response:(1) Gain is attenuated 3 dB
+at 20 Hz with transducer output signal piped to a
+typical instrument bellows with 12 inches (305 mm)
+of 1/4 inch tubing
+Operative Ambient Temperature Limits (1)
+–40 to +150F (–40 to 66C)
+Electrical and Enclosure Classification
+Refer to the Hazardous Area Classification bulletins
+and the transducer nameplate (see figure 2)
+Housing: NEMA 3R and CSA ENC 3 rating (NEMA
+3R mounting orientation requires vent location to be
+below horizontal. Vent is shown in figure 10, key 69)
+Adjustments
+Zero and Span Adjustments: Screwdriver adjust-
+ments located inside case (see figure 5)
+Connections
+Supply Pressure: 1/4-inch NPT female located on
+side of case, (or located on the Type 67 AFR filter-
+regulator if mounted)
+Output Pressure: 1/4-inch NPT female located on
+side of case
+Vent: 1/4-inch NPT female with screen located on
+relay
+Electrical: 1/2-inch NPT female located on bottom
+of case
+Approximate Weight (Transducer Only)
+9 pounds (4.1 kg)
+1. These terms are defined in ISA Standard S51.1-1979.
+2. Scfm—Standard cubic feet per minute (60F and 14.7 psia). Normal m3 /hr—Normal cubic meters per hour (0C and 1.01325 bar absolute).
+3. Performance values are obtained using a Type 546 or Type 546S transducer with a 4 to 20 mAdc input signal and a 3 to 15 psig (0.2 to 1 bar) or a 6 to 30 psig (0.4 to 2 bar) output signal.
+Ambient temperature is 73F (24C). A transducer with other input or output signals might exceed these values. Reference accuracies of ±3.5% can be expected with output ranges starting
+near zero psig.Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+4
+Figure 3. Diagnostic Connections
+PIPE NIPPLE (OUTPUT CONN)
+12B8041-B
+A6072-1 / IL
+PIPE TEE
+PIPE
+BUSHING
+BODY
+BODY
+PROTECTOR
+SUPPLY GAUGE
+STEM PROVIDED
+WHEN GAUGE
+IS SPECIFIED
+Pressure Connections
+Note
+The supply source must be clean, dry,
+oil-free, (1) non-corrosive air or gas at an
+unfailing pressure at least 5 psig (0.3
+bar) higher than the upper limit of the
+transducer output pressure range. This
+means that for an output pressure range
+of 3 to 15 psig (0.2 to 1.0 bar) the supply
+pressure should be at least 20 psig (1.4
+bar); for a 6 to 30 psig (0.4 to 2.0 bar)
+range, the supply pressure should be at
+least 35 psig (2.4 bar). The supply pres-
+sure to the filter regulator should not be
+more than 250 psig (17.3 bar) at a maxi-
+mum temperature of 150F (66C).
+If specified, the filter regulator is mounted on the trans-
+ducer case. A pressure gauge on the regulator shows
+the supply pressure to the transducer.
+1. Connect a supply pressure source to the 1/4-inch
+NPT IN connection on the filter regulator (if furnished)
+or to the 1/4-inch NPT SUPPLY connection on the
+transducer case (if a regulator is not furnished).
+2. Run 3/8-inch (9.5 mm) outside diameter tubing
+from the 1/4-inch NPT OUTPUT connection on the
+transducer case to the input connection on the pneu-
+matic actuator or valve positioner. This connection is
+made at the factory if the unit is shipped mounted on
+an actuator as shown in figure 1.
+Diagnostic Connections
+To support diagnostic testing of valve/actuator/posi-
+tioner packages, special connectors and hardware are
+available. Typical connector installations are shown in
+figure 3. The hardware used includes a 1/4-inch NPT
+pipe nipple and pipe tee with a 1/8-inch NPT pipe
+bushing for the connector. The connector consists of
+1/8-inch NPT body and body protector.
+Note
+If the transducer is used in a valve as-
+sembly with a positioner, no connec-
+tions for diagnostic testing are required
+for the transducer. Install the connec-
+tions for diagnostic testing at the posi-
+tioner.
+Install the connectors and hardware between the
+transducer and the actuator.
+1. Before assembling the pipe nipple, pipe tee, pipe
+bushings, actuator piping, and connector body, apply
+sealant to all threads.
+2. Turn the pipe tee to position the connector body
+and body protector for easy access when doing diag-
+nostic testing.
+Electrical Connections
+WARNING
+For explosion-proof applications, dis-
+connect power before removing the
+transducer cover.
+For explosion-proof applications, install
+rigid metal conduit and a conduit seal
+no more than 18 inches (457 mm) from
+the transducer. Personal injury or prop-
+erty damage may result from explosion
+if the seal is not installed.
+For intrinsically safe installations, refer
+to factory drawings or to instructions
+provided by the barrier manufacturer for
+proper wiring and installation.Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+5
+Figure 4. Typical Circuit Drawings
+DC SIGNAL: 1 TO 9 VOLTS
+ADJUST RESISTANCE ACROSS INPUT
+TERMINALS TO 1300 OHMS 1
+1
++
+–
+   
+2500 OHMS
+DC SIGNAL: 1 TO 5 MILLIAMPS
+INPUT
+1
++
+–
+   
+176 OHMS
+DC SIGNAL: 4 TO 20 MILLIAMPS
+INPUT
+1
++
+–
+   
+90 OHMS
+DC SIGNAL: 10 TO 50 MILLIAMPS
+INPUT
+1
++
+–
+ 
+176 OHMS
+INTRINSICALLY SAFE
+DC SIGNAL: 4 TO 20 MILLIAMPS
+INPUT
+NOTE:
+DC RESISTANCE
+OF COILS
+1
++
+–
+   
+1010 OHMSINPUT
+500 OHMS
+THERMISTOR
+450 OHMS
+500 OHMS
+CP8401-B
+B1766-2/IL
+The electrical connections are made in the transducer
+case. A 1/2-inch NPT conduit connection is provided in
+the bottom of the case. Use a suitable conduit seal for
+hazardous locations. The wires that carry the input
+signal from the control device are connected to the
+terminal mounting bracket assembly (key 53, figure 9).
+WARNING
+To avoid personal injury or equipment
+damage, do not reverse the action of a
+Type 546S transducer in the field.
+Diodes in the input circuit (see figure 4)
+will short if a reversed input signal is
+applied. If the diodes are shorted, they
+are capable of producing a spark which
+might ignite a hazardous atmosphere
+causing a fire or explosion. A Type
+546S transducer must be ordered from
+the factory as either direct or reverse
+acting.
+For a direct-acting unit (i.e., increasing current pro-
+duces an increasing output pressure), connect the
+positive wire from the control device to the positive
+terminal of the transducer and the negative wire to the
+negative terminal. For a reverse-acting unit (i.e., in-
+creasing current produces a decreasing output pres-
+sure), connect the positive wire from the control device
+to the negative terminal and the negative wire to the
+positive terminal. Typical circuits are shown in figure 4.
+Note
+Use a lubricant (key 95, figure 8) on the
+case-cover threads to prevent thread
+damage.
+Operating Information
+WARNING
+Personal injury or property damage may
+result from fire or explosion if power is
+applied to the transducer with the cover
+removed in a hazardous area.
+If the transducer is installed in an ap-
+plication where explosion-proof classifi-
+cation is required, perform the following
+steps when any procedure in this sec-
+tion requires removal of the cover:
+ Disconnect the electrical signal
+from the transducer.
+ Remove the transducer to a non-
+hazardous area.
+ Perform procedures as described
+in this section.
+ Reinstall the transducer, and en-
+sure the cover is secured before turning
+on the electrical signal.
+For intrinsically safe areas, current mon-
+itoring during operation must be with a
+meter approved for use in hazardous
+areas.Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+6
+Figure
+5. Zero and Span Adjustments (Cover Removed)
+W5391/IL
+ZERO ADJUSTMENT
+SPAN ADJUSTMENT
+Adjustments
+Adjust the filter regulator to provide the proper supply
+pressure to the transducer, then adjust the transducer
+span and zero (see figures 5 and 6) to match the ap-
+plication requirements and be within specifications.
+The zero adjustment is used to set the output pressure
+so that it corresponds to the proper value of the input
+signal. For example, if the output range is 3 to 15 psig
+(0.2 to 1.0 bar) and the input range is 1 to 5 mAdc and
+the unit is direct-acting, use the zero adjustment to set
+the output pressure at 3 psig (0.2 bar) when the input
+signal is 1 mAdc. Use the span adjustment to set the
+output pressure span so that full output pressure
+change results for a full change in the input signal. In
+this example, the output pressure change would be 12
+psi (0.8 bar). Thus, the output pressure should start at
+3 psig and increase to 15 psig (1.0 bar) as the input
+signal is changed from 1 to 5 mAdc.
+A span adjustment will affect the zero. Therefore, fol-
+low any span adjustment with a zero adjustment. Pro-
+vide a suitable gauge to measure the pressure.
+Calibration
+Equipment Required
+Choose a current or voltage source that is capable,
+without switching ranges, of driving the transducer
+through its entire input range. Switching ranges on a
+current or voltage source will produce spikes or mid-
+scale reverses in the input signal presented to the
+transducer, causing errors.
+Calibration Procedure
+Note
+The following calibration procedure is
+for a Type 546, 546S, or 546NS transduc-
+er with a 4 to 20 mAdc input signal
+range and a 3 to 15 psig (0.2 to 1.0 bar)
+output range. Calibrate transducers with
+other inputs and outputs in a similar
+manner.
+1. Check the supply pressure to ensure it agrees with
+the minimum pressure on the transducer nameplate.
+2. Adjust the input current to 4.00 mAdc.
+3. Turn the zero screw until the output pressure is
+3.00 ±0.09 psig (0.2 ±0.006 bar).
+4. Adjust the input to 20.00 mAdc.
+5. If the output pressure is less than 14.91 psig (1.028
+bar), turn the span screw clockwise to increase the
+span. If the output pressure is greater than 15.09 psig
+(1.040 bar), turn the span screw counterclockwise to
+decrease the span.
+Note
+Do not watch the output gauge while
+turning the span screw because the
+change in output is not a good indica-
+tion of the change in span. While turn-
+ing the span adjustment screw, the out-
+put pressure may move in the opposite
+direction than expected. For example,
+while turning the span screw in the IN-
+CREASING SPAN direction, the output
+pressure might decrease. This should
+be disregarded since even though the
+output pressure decreases, the output
+span is increasing.
+6. Repeat steps 2 through 5 until the output pressure
+is within one-third of the accuracy limits at 4 and 20
+mAdc. One-third of the accuracy limits for a 3 to 15
+psig (0.2 to 1.0 bar) output range is 1/3  (±0.0075)
+ (15.00 – 3.00) = ±0.03 psig (±2 mbar). Calibrate for
+maximum accuracy at the target end points [3.00 and
+15.00 psig (0.20 and 1.00 bar)]. This allows for error at
+other calibration points in between.
+7. Run the transducer through three calibration cycles
+before recording data. The cycles should be run from
+exactly 4.00 to 20.00 mAdc in a slow ramping fashion
+(no large step inputs).
+8. After returning from 20.00 mAdc during the last
+exercise cycle, move back upscale to the midpoint
+(12.00 mAdc) and record the first data point. Table 2 is
+an example of recorded data.
+9. Record at the other calibration points desired by
+moving upscale to 20.00 mAdc then down scale to
+4.00 mAdc, then back upscale to 12.00 mAdc. Refer
+to table 2 for common calibration points.Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+7
+Table 2. Typical Calibration Data
+TRANSDUCER INPUT ACTUAL OUTPUT PRESSURE TARGET OUTPUT PRESSURE
+mA dc Psig Bar Psig Bar
+12.00
+16.00
+20.00
+16.00
+12.00
+8.00
+4.00
+8.00
+12.00
+8.89
+11.95
+15.02
+12.02
+8.96
+6.00
+3.01
+5.95
+8.97
+0.612
+0.823
+1.035
+0.828
+0.617
+0.413
+0.207
+0.409
+0.618
+9.00
+12.00
+15.00
+12.00
+9.00
+6.00
+3.00
+6.00
+9.00
+0.620
+0.826
+1.033
+0.826
+0.620
+0.413
+0.206
+0.413
+0.620
+Note
+During the calibration cycle, use care to
+avoid overshoot. In other words, if data
+is to be recorded at an 8.00 mAdc input
+while moving upscale and you accident-
+ly pass 8.00 to some higher value, run
+the test again starting at step 7 with the
+three exercise cycles.
+Do not reverse
+direction and move down scale to 8.00
+mAdc.
+10. After completing the calibration cycle and record-
+ing data, verify that all data is within ±0.75% accuracy
+limits. If not, the transducer may need to be recali-
+brated to move the end points slightly to bring the en-
+tire calibration curve within the accuracy limits.
+Recalibration
+Table 2 shows typical recorded data where recalibra-
+tion is necessary.
+The 8.89 psig (0.612 bar) value at 12.00 mAdc is out-
+side the accuracy limit of ±0.09 from the target value.
+This data point can be raised by recalibrating the
+transducer and raising the end points enough to bring
+this low value within –0.09 psig (–0.6 mbar) of 9.00
+psig (0.62 bar). A reasonable recalibration would be
+3.05 and 15.05 psig (0.21 and 1.04 bar) at 4.00 mAdc
+and 20.00 mAdc, respectively. Recalibrate the instru-
+ment and recheck the calibration data as described in
+steps 7 through 10.
+If the transducer remains outside of accuracy specifi-
+cations after altering the calibration end points as
+much as possible, return the transducer to the factory
+or consult your Fisher Controls sales office or sales
+representative.
+For transducers inaccurate to less than 5 percent of
+output span, relay repair or replacement may correct
+the problem. Refer to the alignment procedures in the
+Troubleshooting section to correct the operation of a
+faulty transducer. Also check for air leaks at the tub-
+ing, nozzle, relay, and bellows.
+If the accuracy error is greater than 5 percent of out-
+put span, check the clearance between the armature
+and the coils. These parts are referenced as key 40
+and key 42, respectively, in the Parts List section. The
+armature and the white plastic coil bobbin should be
+approximately 1/64 inch (0.4 mm) apart. If the parts
+are in contact, loosen the machine screws that hold
+the bobbin and reposition the bobbin.
+Changing Output Pressure Range
+Changing the output pressure range from 3 to 15 psig
+(0.2 to 1.0 bar) to 6 to 30 psig (0.4 to 2.0 bar) or vice
+versa requires changing the feedback bellows (key 57,
+figure 9). To do this, refer to the replacing the feed-
+back bellows assembly procedures in the Maintenance
+section.
+Reversing the Action
+Reversing the action of a Type 546 or 546NS trans-
+ducer requires no special parts. The direction of arma-
+ture rotation is dependent upon the direction of the
+current flow. Therefore, simply reverse the input cur-
+rent leads to the transducer to obtain the opposite ac-
+tion. Whenever the action is changed, readjust the
+zero of the transducer as outlined in the adjustments
+procedures.
+WARNING
+To avoid personal injury or equipment
+damage, do not reverse the action of a
+Type 546S transducer in the field.
+Diodes in the input circuit (see figure 4)
+will short if a reversed input signal is
+applied. If the diodes are shorted, they
+are capable of producing a spark which
+might ignite a hazardous atmosphere
+causing a fire or explosion. A Type
+546S transducer must be ordered from
+the factory as either direct or reverse
+acting.
+Split Range Operation
+Type 546, 546S, and 546NS transducers are suitable
+for two-way split range operation. In a two-way splitDownloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+8
+Table
+3. Feedback Bellows Output Pressure Range
+OPERATION INPUT SIGNAL, DC BELLOWS SIZE,
+Full Half Quarter
+Psig Bar Psig Bar Psig Bar
+Full Range 1 to 9 V (1)
+1 to 5 mA(2)
+4 to 20 mA
+10 to 50 mA
+3 to 15 0.2 to 1.0 6 to 30 0.4 to 2.0 – – – – – –
+Split Range 4 to 12 mA or 12 to 20 mA
+10 to 30 mA or 30 to 50 mA
+1 to 5 Vdc or 5 to 9 Vdc
+– – – – – – 3 to 15 0.2 to 1.0 6 to 30 0.4 to 2.0
+1. Temperature compensated circuit.
+2. Not appropriate for split range applications because of the high resistance of 1 to 5 mA dc coils. If split range operation is desired, consult your Fisher Controls sales office or sales
+representative.
+the milliampere (mA) or voltage output signal of a
+single control device is split between two transducers
+electrically connected in series. Although each trans-
+ducer receives the full signal, it is calibrated to provide
+a full output pressure range of 3 to 15 psig (0.2 to 1.0
+bar) or 6 to 30 psig (0.4 to 2.0 bar) to the control valve
+with one-half the input signal. Since the transducer
+operates on only one-half of the normal input span, the
+feedback bellows must be changed to compensate for
+the shorter span. Change the bellows as described in
+the replacing feedback bellows assembly procedure in
+the Maintenance section. Table 3 indicates which bel-
+lows is required for your conditions. Reset the span
+and zero adjustments to the split range values. Note
+that these transducers cannot provide a three-way
+split range.
+Principle of Operation
+Refer to the schematic drawing in figure 6. Assume
+that the transducer is direct-acting. An increase in the
+dc signal to the coils increases the magnetic field
+around the coils. This field increases the magnetic
+strength in the armature and the magnetic attraction
+across the air gap between the armature and the pole
+pieces.
+The pole pieces are already polarized by the perma-
+nent magnet. The armature polarity is as shown in the
+schematic. The magnetic attraction will therefore be
+downward at the nozzle end and upward at the feed-
+back bellows end, resulting in a torque that rotates the
+armature about the fixed torsion rod to cover the
+nozzle. The resulting restriction produces an increased
+pressure in the nozzle, in the upper chamber of the
+relay, and in the feedback bellows. The relay responds
+to the increase in nozzle pressure to increase the out-
+put pressure to the actuator and control valve. The
+increased pressure in the feedback bellows creates a
+force that acts on the armature to move it back to an
+equilibrium position. In this way, the new nozzle pres-
+sure is compared to the input current by the force-bal-
+ance principle.
+FEEDBACK
+BELLOWS
+POLE
+PIECES
+COIL
+ARMATURE
+TORSION ROD
+EXHAUST
+OUTPUT
+RELAY
+VALVE PLUG
+SUPPLY
+FIXED
+RESTRICTION
+CENTER SPACER
+ASSEMBLY
+EXHAUST PRESSURE
+SUPPLY PRESSURE
+NOZZLE PRESSURE
+OUTPUT PRESSURE
+NOZZLE
+ARMATURE
+PERMANENT
+MAGNET
+ZERO ADJUSTMENT
+SPAN ADJUSTMENT
+(MAGNETIC SHUNT)
+CP4285–A
+A1505–3 / IL
+Figure 6. Transducer Schematic
+The relay operates in the following manner. The
+nozzle pressure acts on the large top diaphragm to
+force the center spacer assembly (mounted between
+the two diaphragms) downward against the valve plug,
+closing the exhaust port and opening the supply port.
+Supply air then flows through the open port to the out-
+put load. The output pressure continues to increase
+until the relay diaphragm assembly is pushed back to
+its original position by the force of the pressure acting
+on the small diaphragm. When this occurs, the valve
+plug is closed again.
+When a decreasing dc signal is received, the magnetic
+attraction across the air gap is reduced. The armature
+rotates to uncover the nozzle and decrease the pres-
+sure in the nozzle, relay, and feedback bellows. The
+relay diaphragm assembly moves upward, and the
+exhaust port opens to bleed the output pressure to
+atmosphere.Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+9
+Figure
+7. Output-Time Relationship for Type 546, 546S, and
+546NS T
+ransducers
+LOADING
+EXHAUSTING
+TIME (%)
+0 10 20 30 40 50 60 70 80 90 100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+OUTPUT
+(% OF TYPE 546 OUTPUT SPAN)
+19A1361-A
+A3103 / IL
+The output decreases until the diaphragm assembly is
+forced back to its original position and the exhaust port
+is closed again. The reduced pressure in the feedback
+bellows diminishes the force to return the armature to
+the equilibrium position.
+Figure 7 shows output-time relationship curves for
+loading and exhausting an actuator. Exhausting times
+are nominally 25 percent of the loading times.
+Reverse-acting transducers operate in a similar man-
+ner except that when the dc input signal increases, the
+output pressure from the relay decreases. Conversely,
+a decreasing input signal increases the output pres-
+sure.
+Maintenance
+WARNING
+For explosion proof applications, dis-
+connect power before opening the
+transducer cover. Personal injury or
+property damage may result if power is
+not disconnected.
+CAUTION
+The presence of Fisher Controls person-
+nel and also approval agency personnel
+may be required if you service (other
+than normal, routine maintenance, such
+as calibration) or replace components
+on a transducer that carries a third-party
+approval. When you replace compo-
+nents, use only components specified
+by the factory. Substitution with other
+components may void the third-party
+approval. Also, always use proper com-
+ponent replacement techniques, as
+presented in this manual. Improper
+techniques can cause poor quality re-
+pairs and impair the safety features of
+the device.
+Maintenance of the transducer consists of relay repair
+or replacement, and replacement of the feedback bel-
+lows. These procedures are described at the end of
+this section. Due to the care Fisher Controls takes in
+meeting all manufacturing requirements (heat treating,
+dimensional tolerance, etc.), use only replacement
+parts manufactured or furnished by Fisher Controls
+International.
+Figure 9 shows the torque motor and associated parts.
+Shaded key numbers indicate parts that should not be
+disassembled from the torque motor because the
+magnetism in the torque motor magnets will decrease
+permanently.
+Certain troubleshooting and alignment procedures are
+described in the following steps. These may serve as
+a guide to correct some problems. Improper supply
+pressure and mechanical defects in pneumatic and
+electrical connections should be apparent upon in-
+spection and repaired as appropriate.
+CAUTION
+Never disassemble the torque motor as-
+sembly because the magnetism in the
+torque motor magnets will decrease per-
+manently. Shaded key numbers indicate
+parts that should not be disassembled
+from the torque motor (see figure 9). If
+troubleshooting or alignment attempts
+indicate either a faulty torque motor or
+the necessity of disassembling the
+torque motor, return the entire transduc-
+er to the factory, or consult your Fisher
+Controls sales office or sales represen-
+tative.
+Troubleshooting
+This section contains some checks for operational dif-
+ficulties that may be encountered. If correcting the dif-
+ficulties is not possible, contact your Fisher Controls
+sales office, service center, or sales representative.
+Electrical
+1. Check the output of the control device. Make sure
+that it is reaching the transducer.
+2. Check the dc input signal. It should be the same as
+the range stamped on the transducer nameplate.Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+10
+3. Check the resistance of the transducer circuit to
+see that it coincides with the value listed on the circuit
+identification tag located on the torque motor.
+4. Check the terminal lugs for proper connections. If
+reverse action of the transducer is observed, simply
+reverse the input leads as indicated in the Reversing
+the Action procedures in the Operating Information
+section.
+Pneumatic
+CAUTION
+Do not attempt to remove the nozzle
+(key 19, figure 9) for any reason. Nozzle
+removal requires disassembling the
+torque motor. Disassembling the torque
+motor will permanently reduce the
+strength of the magnets, causing im-
+proper operation. Also, do not adjust
+the baffle (key 18, figure 9). The spacing
+between the baffle and nozzle is preset
+and locked at the factory to obtain opti-
+mum performance of the transducer.
+1. Connect supply pressure and a pressure gauge to
+monitor the output. Check the operation of the trans-
+ducer as follows:
+a. Force the baffle (key 18, figure 9) against the
+nozzle. The output pressure should build up to
+approximately the supply pressure. If it does not,
+check for a leak in the pneumatic system or a burr
+on the nozzle.
+b. Force the baffle away from the nozzle. The out-
+put pressure should drop to less than 1 psig (0.07
+bar). If it does not, check the flame arrestors in the
+transducer case (see figure 8). If the flame arres-
+tors require cleaning, first remove the torque motor
+assembly from the case by removing four machine
+screws (key 9, figure 8). Then, clean the flame ar-
+restors by blowing them out with air pressure.
+2. Check zero and span adjustment for proper setting.
+Refer to the adjustments procedure.
+3. Check the supply pressure. It should be at least 5
+psig (0.3 bar) above the upper limit of the output pres-
+sure range.
+4. Check the filter regulator for moisture in the drip-
+well. Drain off any moisture, and clean the filter ele-
+ment if necessary.
+5. If the transducer cycles, be sure there are no sharp
+bends in the copper capillary feedback tubing (key 56,
+figure 9) and that the tubing is not plugged.
+6. Check the nozzle. If it is clogged, remove the entire
+torque motor assembly from the case by removing
+four machine screws (key 9, figure 8). Run a wire
+through the nozzle from the underside of the assem-
+bly.
+7. Erratic operation may be caused by metal chips in
+the air gap between the armature and the pole pieces.
+Blow any chips out of the torque motor assembly with
+low pressure air.
+8. If a problem persists, check the relay as described
+in the Type 82 Relay Maintenance procedures in this
+section.
+Alignment
+The following alignment procedures can be used in
+conjunction with troubleshooting procedures to correct
+the operation of a faulty transducer.
+Span Adjustment
+Refer to figure 9 for key number locations, unless
+otherwise directed.
+If setting the required span is not possible, additional
+span adjustment can be obtained by shifting the entire
+span adjustment assembly (key 55) at the flexure pivot
+end. The alignment procedure is as follows:
+1. Shut off the dc input signal and supply pressure to
+the transducer.
+2. Disconnect the external lead wires from the termi-
+nal mounting bracket assembly (key 53).
+3. Loosen the four machine screws (key 9, figure 8)
+that hold the torque motor assembly to the case. Re-
+move the entire torque motor assembly from the case.
+4. Loosen the two flexure pivot screws (key 25) that
+hold the flexure pivot to the torque motor assembly
+base.
+5. Slide the span adjustment assembly in or out as
+required. Sliding it in toward the base decreases the
+span; sliding it out away from the base increases the
+span.
+6. Tighten the flexure pivot screws. Replace the
+torque motor assembly, and tighten the screws (key 9,
+figure 8). Make sure that the O-ring (key 37) is in
+place. Connect the external lead wires, and turn on the
+air supply.
+7. Make final adjustment of the span with the span
+adjustment screw.Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+11
+Torque Motor Frame
+The top pole piece plate (key 50, figure 9) of the
+torque motor can become twisted with respect to the
+bottom pole piece plate (key 51, figure 9). If this hap-
+pens, return the transducer to the factory, service cen-
+ter, or contact your Fisher Controls sales office or
+sales representative.
+Armature Travel Stop
+The armature travel stop (key 52, figure 9) must be in
+place to prevent overstressing the armature and coil
+support (key 41, figure 9) due to over-travel. The
+clearance between the armature and travel stop
+should be 0.005 inches (0.13 mm).
+The two screws at the base of the travel stop can be
+loosened if an alignment is necessary.
+Coil
+The coil assembly (key 42, figure 9) consists of a ny-
+lon bobbin wound with wire. The coils are not attached
+to the armature itself, and therefore, they must not
+touch the armature, or armature movements will be
+restricted. If this problem exists, loosen the two
+screws that attach each coil assembly to the armature
+and coil support. Sight down the armature and realign
+the coil assemblies for clearance with the armature.
+Tighten the screws.
+WARNING
+The following maintenance procedures
+require that the transducer be taken out
+of service. This requires that certain pre-
+cautions be taken to avoid personal in-
+jury or equipment damage caused by
+sudden release of pressure or explosion
+of accumulated gas. Prior to mainte-
+nance:
+ Disconnect electrical power before
+removing the transducer cover (espe-
+cially in explosion proof or hazardous
+applications).
+ Shut off or disconnect pressure
+lines to the transducer.
+ Disconnect any operating lines pro-
+viding air pressure, electrical power, or
+a control signal to the actuator. Be sure
+the actuator cannot suddenly open or
+close the valve.
+ Use bypass valves or completely
+shut off the process to isolate the valve
+from process pressure. Relieve process
+pressure on both sides of the valve.
+Drain the process media from both
+sides of the valve.
+ Vent the power actuator loading
+pressure and relieve any actuator spring
+precompression.
+ Use lock-out procedures to be sure
+that the above measures stay in effect
+while you work on the equipment.
+Type 82 Relay Removal and
+Replacement
+Use the following procedure when removing and re-
+placing a relay assembly. Refer to figure 10 for key
+number locations, unless otherwise directed.
+1. Loosen the two mounting screws (key 68), and re-
+move the relay assembly from the transducer case
+(key 1, figure 8).
+2. To install the replacement relay assembly, install
+the two relay mounting screws (key 68) into the relay
+assembly. Apply lubricant (key 96) to the O-rings, and
+make sure the O-rings (keys 72, 73, and 74) are in
+place on the relay assembly.
+3. Install the relay assembly on the transducer case.
+Tighten the mounting screws.
+4. With the torque motor installed, apply supply pres-
+sure to the transducer case, and check the relay as-
+sembly for leaks with a soap solution.
+Type 82 Relay Maintenance
+Use the procedure below to repair the relay assembly.
+Refer to figure 10 for key number locations.
+Obtain the relay repair kit listed in the parts list. This
+kit provides the parts, alignment tool, and an instruc-
+tion sheet used when repairing the relay assembly.
+1. Remove the two screws (key 77), valve plug spring
+seat (key 64), valve plug spring (key 70) and valve
+plug (key 63).
+2. Remove the six screws (key 76, not shown) and
+separate the relay body (key 60), casing spacer (key
+61), and relay casing (key 62) by inserting a screwdriv-
+er between the external casting lugs. Twist the screw-
+driver to separate parts.
+3. Remove the upper diaphragm (key 66), lower dia-
+phragm assembly (key 65), and relay spring (key 71).
+Clean and inspect relay parts before replacing them.
+4. Remove the restriction assembly (key 67) and re-
+place the O-rings (keys 74 and 75). Apply lubricant
+(key 96) to the O-rings before installing the restriction
+assembly into the relay body.Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+12
+5. The restriction hole (see figure 10) in the restriction
+assembly is 0.016 inches (0.41 mm) in diameter.
+Clean the hole with solvent and blow dry with com-
+pressed air. If the hole is plugged, insert a wire in the
+hole. Then, clean with solvent and blow dry with com-
+pressed air. Do not enlarge the hole. Reinstall the re-
+striction assembly in the relay body. Do not overtigh-
+ten.
+6. The restriction hole in the relay body is 0.020 in-
+ches (0.51 mm) in diameter. If the hole is plugged,
+insert a wire into the hole and clean it out. Do not en-
+large the hole.
+7. Insert the new lower diaphragm assembly through
+the casing spacer, replace the relay spring, and posi-
+tion the parts on the relay body. Position the new up-
+per diaphragm on the relay casing and position the
+relay casing on the upper diaphragm. Ensure that the
+exterior casting lugs on the relay body, casing spacer,
+and relay casing are aligned.
+8. Invert the relay and install the six screws (key 76),
+but do not tighten.
+9. Insert the alignment tool through the brass supply
+seat in the relay body, and into the exhaust seat of the
+lower diaphragm assembly to align the parts.
+10. Ensure the diaphragms are flat between the relay
+body, casing spacer, and relay casing. Tighten the six
+screws (key 76).
+11. Remove the alignment tool, and reassemble the
+valve plug, valve plug spring, valve plug spring seat
+and the two screws (key 77).
+12. Install the two relay mounting screws (key 68) into
+the relay assembly. Apply lubricant (key 96) to the O-
+rings, and make sure the O-rings (keys 72, 73, and
+74) are in place on the relay assembly.
+13. Install the relay assembly on the transducer case.
+Tighten the mounting screws.
+14. With the torque motor installed, apply supply pres-
+sure to the transducer case, and check the relay as-
+sembly for leaks with a soap solution.
+Replacing the Feedback Bellows
+Assembly
+Refer to figure 9 for key number locations.
+1. Loosen the hex nut (key 31).
+2. Remove the bellows screw (key 56) and O-ring
+(key 36) under the head of the bellows screw.
+3. Pull the bellows assembly (key 57) out. The arma-
+ture is slotted to allow removal of the bellows assem-
+bly.
+4. Inspect and, if necessary, replace the two O-rings
+(key 36). Make sure the O-rings under the bellows as-
+sembly are in place.
+5. Choose the correct bellows assembly as outlined in
+table 3. Install the new bellows assembly. Make sure
+that the O-ring (key 36) is in place.
+6. Install the bellows screw and O-ring, and tighten
+the screw. Be sure the bellows assembly is not dis-
+torted in any direction. Tighten the hex nut (key 31).
+7. Refer to the adjusting zero and span procedures in
+the Adjustments section.
+Parts Ordering
+Whenever corresponding with the sales office or sales
+representative about this equipment, mention the seri-
+al number of the unit. This serial number can be found
+on the nameplate (figure 2). When ordering replace-
+ment parts, also state the complete 11-character part
+number of each part needed as found in the following
+parts list.
+Note
+In the torque motor assembly drawing
+(figure 9), there are many shaded key
+numbers. The shading indicates that
+these parts should not be disassembled
+and that they are not available as indi-
+vidual items. Consequently, no part
+numbers are shown for these parts in
+the list below.
+Parts List
+Repair Kits for Type 546, 546S, and
+546NS Transducers
+Description Part Number
+Type 546 and 546S Transducer Repair Kit
+Kit includes keys 6, 12, 36, 37, and 58 R546X000022
+Type 546NS Transducer Repair Kit
+Kit includes keys 6, 12, 36, 37, and 58 R546X000032
+Type 82 Relay Repair Kit
+(for Type 546 and 546S only)
+This kit includes keys 63, 65, 66, 69, 70, 72,
+73, 74, 75. Kit also includes instruction sheet
+and alignment tool R82X0000022
+Type 82 Relay Replacement Assembly
+(for Type 546 and 546S) Assembly includes
+two mounting screws (Key 68) 10A8593X082
+Type 82 Relay Replacement Assembly
+(for Type 546NS) Assembly includes
+two mounting screws (key 68) 10A8593X142Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+13
+Figure 8. T
+ype 546 T
+ransducer Assembly
+67 SERIES FILTER REGULATOR TORQUE MOTOR
+FLAME ARRESTOR
+TYPE 82 RELAY
+FLAME
+ARRESTOR
+APPLY LUBRICANT/SEALANT
+NOTE: KEY 4 NOT WHOWN
+30A8595-L
+B1768-3 / IL
+Key Description Part Number
+Type 546, 546S, & 546NS Transducers
+(figure 8)
+1 Transducer Case Ass’y, aluminum 1P4210000A2
+2 Case Cover, aluminum 3P4213000A2
+3 Protective Plug, plastic 1M3590X0012
+4 Tagging Plate (optional)
+Stainless steel (SST) 13B6776X012
+5 Nameplate, Standard, SST
+6* O-Ring
+For Type 546 and 546S, nitrile 1D444806992
+For Type 546NS, EPDM Duro 80A 14B7744X012
+8* Pressure Gauge
+Triple scale
+0–30 psig/0–.2 MPa/0–2 bar 11B8582X012
+0–60 psig/0–.4 MPa/0–4 bar 11B8582X022
+Dual scale
+0–30 psig/0–2 Kg/cm2 11B8582X042
+0–60 psig/0–4 Kg/cm2 11B8579X072
+9 Machine Screw, brass pl (4 req’d) 17B0404X012
+10 Screw, steel pl 1P426928982
+11 Cap Screw, steel pl (2 req’d) use with
+integrally mounted filter regulator only 1C197024052
+12* O-Ring, use with integrally mounted
+filter regulator only
+For Type 546 and 546S, nitrile 1E591406992
+For Type 546NS, EPDM Duro 80A 14B7748X012
+13 Pipe Nipple, steel pl,
+For filter regulator only (not shown) 1C678926232
+92 Wire Retainer, steel pl (2 req’d) 17B7757X012
+95 Lubricant,
+For 546 and 546S use Lubriplate Mag 1
+(not furnished with unit)
+For 546NS use Molykote 33
+(not furnished with unit)
+Key Description Part Number
+96 Lubricant, Molykote 33
+(not furnished with unit)
+106 Protective plug, polyethlene (2 req’d) 1E878406992
+107 Street Elbow, use with integrally mounted filter
+regulator w/0–60 dual scale gauge 1A913221992
+108 Pipe Plug, steel
+For regulator w/o gauge 1A767524662
+Torque Motor (figure 9)
+15(2) Adjusting Screw – – –
+16(2) Spring Seat – – –
+17(2) Spring-Zero Adjustment
+For Type 546 & 546S, – – –
+For Type 546NS, SST – – –
+18(2) Baffle – – –
+19(2) Nozzle – – –
+20(2) Hook-Up Wire Ass’y – – –
+21(2) Hook-Up Wire Ass’y – – –
+22(2) Hook-Up Wire (not shown) – – –
+25(2) Machine Screw – – –
+26(2) Cap Screw – – –
+27(2) Cap Screw – – –
+28(2) Machine Screw – – –
+29(2) O-Ring
+For Type 546 & 546S, nitrile – – –
+For Type 546NS, EPDM Duro 80A – – –
+31 Hex Nut, brass pl 1N107318992
+32(2) Washer – – –
+33 Washer, brass pl 1P425315052
+34(2) Washer – – –
+35(2) Washer – – –
+36* O-Ring (2 req’d)
+For Type 546 and 546S, nitrile 1D687506992
+For Type 546NS, EPDM Duro 80A 14B7743X012
+*Recommended spare parts
+2. Parts are not field repairable. The torque motor assembly should never be disas-
+sembled because the magnetism in the torque motor will decrease permanently.
+Shaded key numbers shown in figure 9 indicate parts that should not be disas-
+sembled.Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+14
+Figure 9. Torque Motor Assembly
+30A8594-K
+B1767-3
+Key Description Part Number
+37* O-Ring
+For Type 546 and 546S, nitrile 1C782206992
+For Type 546NS, EPDM Duro 80A 14B7747X012
+38(2) E-Ring – – –
+40(2) Armature – – –
+41(2) Coil Support – – –
+42(2) Coil Ass’y – – –
+48(2) Magnet – – –
+49(2) Pole Piece – – –
+50(2) Top Pole Piece Plate – – –
+51(2) Bottom Pole Piece Plate – – –
+52(2) Travel Stop – – –
+53(2) Terminal Mounting Bracket Ass’y – – –
+55(2) Span Adjustment Ass’y (3) – – –
+56 Bellows Screw, brass 12B2577X012
+57* Bellows Ass’y, brass
+Full Size, 27/32 inch (21 mm) O.D. 1U3958000A2
+Half Size, 1/2 inch (13 mm) O.D. 1U3975000A2
+Quarter Size, 3/8 inch (9.5 mm) O.D. 1R6521000A2
+58 Tubing Ass’y, brass/copper 1P4242000A2
+94 Sealant, Zink Plate 770
+(not furnished with unit)
+96 Lubricant, Molykote 33
+(not furnished with unit)
+103 Set Screw, SST/nylon (not shown) 11B2218X012
+105(2) Spacer – – –
+Key Description Part Number
+Type 82 Relay (figure 10)
+Note
+The following parts are for repairing the Type
+546 and 546S relays only. The Type 546NS relay
+is not repairable. If the relay is defective, order a
+Type 82 Relay Replacement Assembly for a Type
+546NS transducer.
+60 Relay Body, aluminum/brass 3P4192X0022
+61 Casing Spacer, aluminum 2P419347052
+62 Relay Casing, aluminum 2P419447052
+63* Valve Plug, brass 1P419514012
+64 Spring Seat, brass 1P419615102
+65* Lower Diaphragm Ass’y 1P4197X0032
+66* Upper Diaphragm, nitrile 26A5657X012
+67 Restriction Ass’y 1U8160X0012
+68 Relay Mounting Screw, steel pl (2 req’d) 1P420324102
+69* Screen, Monel 0L078343062
+70* Valve Plug Spring, SST 1P420437022
+71 Relay Spring, steel pl 15A3181X012
+72* O-Ring nitrile 1P420606992
+73* O-Ring, nitrile (2 req’d) 1P420706992
+74* O-Ring, nitrile (2 req’d) 1D687506992
+75* O-Ring, nitrile 1D134606992
+*Recommended spare parts
+3. The span adjustment assembly for the Type 546NS uses a bronze passive
+lock, rather than nylon, and a locking hex nut.Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+15
+Figure 10. Type 82 Relay
+.
+A1504-1 / IL
+Key Description Part Number
+76 Machine Screw, steel pl (6 req’d)
+(not shown) 10B6513X012
+77 Machine Screw, steel pl (2 req’d) 59061140X22
+96 Lubricant, Molykote 33
+(not furnished with unit)
+Diagnostic Connections
+FlowScanner diagnostic system hook-up
+Includes pipe tee, pipe nipple, pipe bushings,
+connector body, and body protector. See figure 3
+for part identification. Also, part number provides
+correct quantities of each item.
+Note
+If the transducer is used in a valve assembly
+with a positioner, no hook-up for diagnostic test-
+ing is required for the transducer. The hook-up
+for diagnostic testing should be installed at the
+positioner.
+For units with gauges
+SST fittings 12B8041X012
+Brass fittings 12B8041X022
+For units without gauges
+SST fittings 12B8041X032
+Brass fittings 12B8041X042
+Mounting Parts (figures 11 & 12)
+79 Elbow, brass
+Yoke mounting,
+Types 513, 657, 1051, 1052, 1061
+all sizes 15A6002X162
+Yoke mounting (2 req’d)
+Type 470, 480, 585, 585C, 667
+all sizes 15A6002X162
+Figure 11. T
+ypical Actuator Mounting
+48A9176-B
+A5425-1 / IL
+Key Description Part Number
+79 Elbow, brass (cont”d)
+Yoke mounting,
+Types 513, 657, 1051, 1052, 1061
+all sizes 15A6002X162
+Casing mounting
+Type 1250, 657, 667 1051, 1052
+all sizes 15A6002X162
+80 Connector, brass
+Yoke mounting
+Type 513, 657, 1051, 1052, 1061
+all sizes 15A6002X202
+Casing mounting
+1250, 657, 667, 1051, 1052 15A6002X202
+81 Mounting Plate, steel
+Yoke mounting
+Type 470, 480, 513, 585, 585C 656,
+657, 667, all sizes
+Type 1051 size 33 all positions,
+size 40 and 60 position 1,
+Type 1052 size 33 all positions,
+sizes 40 thru 70 position 1
+Type 1061 size 30 all positions,
+sizes 40 thru 100 position 1 3P426825022
+Type 1250 and 1250R 30B1265X022
+Type 1051 size 40 and 60 position 3
+Type 1052 sizes 40 thru 70 position 3
+Type 1061 sizes 40 thru 100 position 3 2R1552X0022
+Type 657, 657NS, 667, 667NS, all sizes
+for seismic mounting of 546NS 35A4153X012Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+16
+Figure
+12. Typical Casing Mounting
+42B0737-A
+A5426-1 / IL
+Key Description Part Number
+81 Mounting Plate, steel (cont’d)
+Casing mounting
+Type 657 & 667, all sizes except size 80
+Type 1051, 1052, all sizes, all positions 1F401225072
+Pipestand mounting 3P426825022
+Surface mounting 2R100125022
+Bulkhead mounting 22A7618X012
+82 Cap Screw, steel pl
+Yoke mounting (4 req’d)
+Type 470 size 23 thru 40, 63 & 64
+Type 480 all sizes
+Type 513 all sizes
+Type 656 size 40 thru 60
+Type 657 & 667 size 30 thru 80
+Type 1051 size 40 & 60 all positions
+Type 1052 sizes 40 thru 70 all positions
+Type 1061 all sizes all positions 1A381624052
+Yoke mounting (2 req’d)
+Type 470, size 60 thru 130, except 63 & 64
+Type 585, sizes 25 & 50
+Type 585C, all sizes
+Type 656, size 30
+Type 657NS & 667NS, sizes 70 & 80
+Type 1250 & 1250R
+Type 1051 size 33 all positions
+Type 1052 size 33 all positions 1A381624052
+Casing mounting (2 req’d)
+All types, all sizes 1A381624052
+Pipestand mounting (2 req’d) 1A381624052
+Surface mounting (2 req’d) 1N789132992
+Bulkhead mounting (2 req’d) 1A381624052
+Key Description Part Number
+83 Cap Screw
+Casing mounting (2 req’d)
+Type 1051, 1052, all sizes, all positions 1A582824052
+85 Washer, steel pl
+Yoke mounting (4 req’d)
+All types, all sizes, except Type 1250 & 1250R
+Casing mounting (2 req’d)
+Pipestand mounting (4 req’d) 1B865928982
+Yoke mounting Type 1250 & 1250R, none required
+86 Cap Screw, steel pl (2 req’d)
+Yoke mounting
+Type 470, Sizes 60 through 130
+Type 490, all sizes
+Type 657NS & 667NS, Sizes 70, 80
+Type 1051 & 1052, size 33, positions 1 & 3 1C870224052
+Type 480, all sizes 1C5958X0022
+Type 585 & 585C, Sizes 25 & 50 1A352624052
+Type 656, Size 30 1B989624052
+Type 1051 & 1052, size 33, positions 2 & 4 1K747624052
+Casing mounting
+Type 657 & 667, Sizes 30 through 60 1A582824052
+Type 657 & 667, Size 70 1A368324052
+87 Spacer, steel (2 req’d)
+Yoke mounting
+Type 470, Sizes 60 through 130
+Type 490, all sizes
+Type 657NS & 667NS, Sizes 70, 80 1K766824092
+Type 656, Sizes 30 1R801924092
+Type 585, Sizes 25 & 50 1F906724092
+Type 1051 & 1052, size 33, positions 1 & 3 1V102624052
+Type 1051 & 1052, size 33, positions 2 & 4 1L200624092
+Surface mounting 18A1696X012
+88 Mounting Bracket, steel
+Yoke mounting
+Type 480, all sizes 3L276725092
+89 Hex Nut, steel pl (2 req’d)
+Yoke mounting
+Type 480, all sizes 1A352724122
+90 Pipe Clamp, steel pl
+Pipestand mounting 1P427028982
+97 U-Bolt, steel pl (2 req’d)
+Type 1250 & 1250R, all sizes 19A7930X012
+98 Hex Nut, steel pl (4 req’d)
+Type 1250 & 1250R, all sizes 19A4838X022
+99 Lock washer, SST
+Yoke mounting (4 req’d)
+Type 585C, size 25 & 50 1C225728982
+Type 1250 & 1250R, all sizes 10B6610X012
+Yoke mounting (2 req’d)
+Type 1051 & 1052, size 33, all positions 1C225728982
+101 Washer (2 req’d)
+Casing mounting
+Type 1051, 1052, all sizes, all positions 1H723125072Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+17
+Loop Schematics
+This section includes loop schematics required for wir-
+ing of intrinsically safe installations. If you have any
+questions, contact your Fisher Controls sales repre-
+sentative or sales office.
+CSA Schematics
+29A1594-H Sheet 1 of 2Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+18
+CSA Schematics (Continued)
+29A1594-H Sheet 2 of 2Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+19
+FM Schematics
+26A5936-H Sheet 1 of 2Downloaded from www.Manualslib.com manuals search engine
+Type 546, 546S, and 546NS
+20
+26A5936-H Sheet 2 of 2
+For information, contact Fisher Controls:
+Marshalltown, Iowa 50158 USA
+Cernay 68700 France
+Sao Paulo 05424 Brazil
+Singapore 128461
+                                              
+                                                    
+Printed in U.S.A.
+Fisher Controls International, Inc. 1977, 1997; All Rights Reserved
+Fisher, Fisher-Rosemount, and Managing The Process Better are marks owned by Fisher Controls International, Inc. or Fisher-Rosemount Systems, Inc.
+All other marks are the property of their respective owners.
+Fisher-Rosemount satisfies all obligations coming from legislation
+to harmonise product requirements in the European Union.Downloaded from www.Manualslib.com manuals search engine
