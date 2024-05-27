@@ -98,6 +98,8 @@ for file_name in file_names:
 
 data=(generate_dict_input())
 
+print(data.head())
+
 # # print(data.items())
 # from sklearn.naive_bayes import MultinomialNB
 
